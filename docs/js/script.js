@@ -9,8 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	const telaErroConteudoElement = document.getElementById('telaerro-conteudo');
 	const telaErroElement = document.getElementById('telaerro');
    const map = L.map('map').setView([-14.235004, -51.925280], 5);
-   const telaLoad = document.getElementById('load');
-	const loadImg = document.getElementById('loadImg');
+   
    const getJsonPath = (verOperadora, filename) => verOperadora ? `./js/locations/${verOperadora}/${filename}` : `./js/locations/tim/${filename}`;
 
 	const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -83,11 +82,6 @@ document.addEventListener('DOMContentLoaded', function() {
 		`./img/loading2.gif`
 	];
 
-	const siglasUF = [
-		'AC', 'AL', 'AM', 'AP', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MG', 'MS', 'MT',
-		'PA', 'PB', 'PE', 'PI', 'PR', 'RJ', 'RN', 'RO', 'RR', 'RS', 'SC', 'SE', 'SP', 'TO'
-	 ];
-
 	const locations = {};
 	const overlayMaps = {};
 	const locationLayers = {};
@@ -101,23 +95,19 @@ document.addEventListener('DOMContentLoaded', function() {
 	 
 		locationLayers[`${sigla}-PF`] = locations[`locations-${sigla}pf`];
 		locationLayers[`${sigla}-PJ`] = locations[`locations-${sigla}pj`];
-	 }
+	}
 
-	 const primeiraLinha = verOperadora === "oi" || verOperadora === "pequenas" ? false : true;
-	 const carregarMarcacoesMapa = siglasUF.flatMap(sigla => [
+	const primeiraLinha = verOperadora === "oi" || verOperadora === "pequenas" ? false : true;
+	const carregarMarcacoesMapa = siglasUF.flatMap(sigla => [
 		[primeiraLinha, `${sigla}-PF`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PF.json`), `${sigla}-PF`, 'green')],
   		[false, `${sigla}-PJ`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PJ.json`), `${sigla}-PJ`, 'black')]
-	 ]);
+	]);
 
 
 	function deslocarMarcador(coordenada, maxOffset) {
 		return parseFloat(coordenada) + (Math.random() * maxOffset - maxOffset / 2);
 	}
 	
-	function ocultarTelaLoad(status = 'none') {
-		telaLoad.style.display = status;
-	}
-
 	function ocultarTelaErro(status = 'none') {
 		telaErroElement.style.display = status;
 		ocultarTelaLoad();
