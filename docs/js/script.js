@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		locationLayers[`${sigla}-PJ`] = locations[`locations-${sigla}pj`];
 	 }
 
-	 const primeiraLinha = verOperadora === "oi" || "pequenas"  ? false : true;
+	 const primeiraLinha = verOperadora === "oi" || verOperadora === "pequenas" ? false : true;
 	 const carregarMarcacoesMapa = siglasUF.flatMap(sigla => [
 		[primeiraLinha, `${sigla}-PF`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PF.json`), `${sigla}-PF`, 'green')],
   		[false, `${sigla}-PJ`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PJ.json`), `${sigla}-PJ`, 'black')]
