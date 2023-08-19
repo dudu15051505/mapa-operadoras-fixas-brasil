@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		locationLayers[`${sigla}-PJ`] = locations[`locations-${sigla}pj`];
 	 }
 
-	 const primeiraLinha = verOperadora === "oi"  ? false : true;
+	 const primeiraLinha = verOperadora === "oi" || "pequenas"  ? false : true;
 	 const carregarMarcacoesMapa = siglasUF.flatMap(sigla => [
 		[primeiraLinha, `${sigla}-PF`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PF.json`), `${sigla}-PF`, 'green')],
   		[false, `${sigla}-PJ`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PJ.json`), `${sigla}-PJ`, 'black')]
@@ -243,8 +243,8 @@ document.addEventListener('DOMContentLoaded', function() {
 					});
 
 					const marker = L.marker([
-						deslocarMarcador(dadosJson.latitude, 0.005), 
-						deslocarMarcador(dadosJson.longitude, 0.005)
+						verOperadora === 'pequenas' ? deslocarMarcador(dadosJson.latitude, 0.05) : deslocarMarcador(dadosJson.latitude, 0.005),
+    					verOperadora === 'pequenas' ? deslocarMarcador(dadosJson.longitude, 0.05) : deslocarMarcador(dadosJson.longitude, 0.005)
 					], {
 						icon: customIcon
 					});
@@ -256,7 +256,6 @@ document.addEventListener('DOMContentLoaded', function() {
 					Tipo de produto: ${dadosJson["tipo-de-Produto"]} <br>
 					Meio de acesso: ${dadosJson["meio-de-acesso"]} <br>
 					Tecnologia: ${dadosJson.tecnologia} <br>
-
 					`;
 
 					marker.bindPopup(markerTexto);	
