@@ -1,0 +1,24 @@
+[
+    {
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "CLARO",
+        "pf-ou-pj": "Pessoa Física",
+        "tecnologia": "FTTH",
+        "tipo-de-Produto": "INTERNET",
+        "meio-de-acesso": "Fibra"
+    },
+    {
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "CLARO",
+        "pf-ou-pj": "Pessoa Física",
+        "tecnologia": "HFC",
+        "tipo-de-Produto": "INTERNET",
+        "meio-de-acesso": "Cabo Coaxial"
+    }
+]

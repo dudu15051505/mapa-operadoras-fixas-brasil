@@ -1,0 +1,35 @@
+[
+    {
+        "cidade": "Arapiraca",
+        "uf": "AL",
+        "latitude": -9.754866,
+        "longitude": -36.661471,
+        "empresa": "CLARO",
+        "pf-ou-pj": "Pessoa Física",
+        "tecnologia": "FTTH",
+        "tipo-de-Produto": "INTERNET",
+        "meio-de-acesso": "Fibra"
+    },
+    {
+        "cidade": "Maceió",
+        "uf": "AL",
+        "latitude": -9.665985,
+        "longitude": -35.73496,
+        "empresa": "CLARO",
+        "pf-ou-pj": "Pessoa Física",
+        "tecnologia": "FTTH",
+        "tipo-de-Produto": "INTERNET",
+        "meio-de-acesso": "Fibra"
+    },
+    {
+        "cidade": "Maceió",
+        "uf": "AL",
+        "latitude": -9.665985,
+        "longitude": -35.73496,
+        "empresa": "CLARO",
+        "pf-ou-pj": "Pessoa Física",
+        "tecnologia": "HFC",
+        "tipo-de-Produto": "INTERNET",
+        "meio-de-acesso": "Cabo Coaxial"
+    }
+]

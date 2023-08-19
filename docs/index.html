@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<title>Mapa com dados de Tecnologia e tipo de Cliente fornecidos pela operada a base da ANATEL</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">		
+		<script type="text/javascript" defer>
+			const verOperadora = new URLSearchParams(window.location.search).get("operadora");
+			
+			document.addEventListener('DOMContentLoaded', function () {
+				document.getElementById('lista-data-dados').addEventListener('change', function () {
+					let value = this.value;
+					window.location.href = `./index.html?operadora=${value}`;
+				});
+
+				document.getElementById('aviso-fechar').addEventListener('click', function () {
+					document.getElementById('aviso').style.display = 'none';
+				});
+
+				document.getElementById('telaerro-fechar').addEventListener('click', function () {
+					document.getElementById('telaerro').style.display = 'none';
+				});
+
+				if (!verOperadora) {
+					const avisoElement = document.querySelector('#aviso');
+					avisoElement.style.display = 'block';
+				}
+			});
+		</script>
+		<link rel="preload" href="./js/locations/locations-data-lista.json" as="fetch" crossorigin="anonymous">
+		<link rel="preload" as="script" type="text/javascript" href="./js/leaflet/leaflet.js" />
+		<link rel="preload" as="script" type="text/javascript" href="./js/script-min.js" />
+		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-black.png" />
+		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-green.png" />
+		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-grey.png" />
+		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-orange.png" />
+		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-red.png" />
+		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-violet.png" />
+		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-yellow.png" />	
+		<link rel="preload" as="image" type="image/png" href="./js/leaflet/images/layers.png" />
+		<link rel="prefetch" as="image" type="image/png" href="./img/marker-icon-blue.png" />
+		<link rel="prefetch" as="image" type="image/png" href="./img/google_maps_icon.png" />	
+		<link rel="prefetch" as="image" type="image/svg+xml" href="./img/osm_icon.svg" />
+		<link rel="prefetch" as="image" type="image/gif" href="./img/loading0.gif" />
+		<link rel="prefetch" as="image" type="image/gif" href="./img/loading1.gif" />
+		<link rel="prefetch" as="image" type="image/gif" href="./img/loading2.gif" />
+		<link rel="stylesheet" href="./js/leaflet/leaflet-min.css" />
+		<link rel="stylesheet" href="./css/css-min.css" />
+		<script type="text/javascript" src="./js/leaflet/leaflet.js" defer></script>
+		<!--<script type="text/javascript" src="./js/script-min.js" defer></script>-->
+		<script type="text/javascript" src="./js/script.js" defer></script>
+		<link rel="icon" type="image/x-icon" href="./favicon.ico">
+	</head>
+	<body>
+		<div id="map">
+		</div>
+		<div id="legenda" class="leaflet-control">
+			<table class="tg">
+				<thead>
+					<tr>
+						<td>
+							<form id="busca">
+								<input placeholder="Buscar(Cidade - Rua - ETC)" type="text" id="busca-valor" />
+								<input type="submit" value="Buscar" />
+							</form>
+						</td>
+					</tr>
+					<tr>
+						<td style="width: 176px;">
+							<label>
+								Selecione a operadora para <br> ver dados  <select name="lista-data-dados" id="lista-data-dados" style="width: 84px;"></select> <br>
+							</label>
+							<span id="dados-info"></span>
+						</td>
+					</tr>
+				</thead>
+			</table>
+		</div>
+		<div id="aviso" class="leaflet-control">
+			<div id="aviso-conteudo">
+				<h3>&nbsp;Mapa com dados de Tecnologia e tipo de Cliente fornecidos pela operada a base da ANATEL&nbsp;</h3>
+				<p><b>Este site não é afiliado à nem uma operadora</b></p>
+				<p><b>Os dados aqui apresentados são informados pela própria operadora a base da ANATEL, com dados de 06/2023</b></p>
+				<p><b>Para ver os dados disponibilizados pela ANATEL acesse:</b></p>
+				<p><a href="https://informacoes.anatel.gov.br/paineis/acessos/banda-larga-fixa" target="_blank">https://informacoes.anatel.gov.br/paineis/acessos/banda-larga-fixa</a></p>
+				<!--<p>As marcações exibidas, são retornadas de consulta de API, a exemplo HFC Rede neutra é retornada, mas nunca ninguém viu essa rede.</p>-->
+				<button id="aviso-fechar">FECHAR</button>
+			</div>
+		</div>
+		<div id="load" class="leaflet-control">
+			<div id="load-conteudo">
+				<h3>&nbsp;Carregando&nbsp;</h3>
+				<img id="loadImg" src="#" alt="Carregando"/>
+			</div>
+		</div>
+		<div id="telaerro" class="leaflet-control" style="display: none;">
+			<span style="float: right; margin: 5px;">
+				<button id="telaerro-fechar">FECHAR</button> <br>
+			</span>
+			<div id="telaerro-conteudo">
+			</div>
+		</div>
+	</body>
+</html>

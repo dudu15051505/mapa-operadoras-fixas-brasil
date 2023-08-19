@@ -1,0 +1,35 @@
+[
+    {
+        "cidade": "Parnaíba",
+        "uf": "PI",
+        "latitude": -2.905847,
+        "longitude": -41.775388,
+        "empresa": "CLARO",
+        "pf-ou-pj": "Pessoa Física",
+        "tecnologia": "FTTH",
+        "tipo-de-Produto": "INTERNET",
+        "meio-de-acesso": "Fibra"
+    },
+    {
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "CLARO",
+        "pf-ou-pj": "Pessoa Física",
+        "tecnologia": "FTTH",
+        "tipo-de-Produto": "INTERNET",
+        "meio-de-acesso": "Fibra"
+    },
+    {
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "CLARO",
+        "pf-ou-pj": "Pessoa Física",
+        "tecnologia": "HFC",
+        "tipo-de-Produto": "INTERNET",
+        "meio-de-acesso": "Cabo Coaxial"
+    }
+]
