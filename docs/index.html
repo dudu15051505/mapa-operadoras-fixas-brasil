@@ -5,7 +5,29 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">		
 		<script type="text/javascript" defer>
+			function addPreloadJSON(linksArray, verOperadora) {
+				const basePath = verOperadora ? `./js/locations/${verOperadora}/` : `./js/locations/tim/`;
+				linksArray.forEach(link => {
+					const linkElement = document.createElement('link');
+					linkElement.rel = 'prefetch';
+					linkElement.href = basePath + link;
+					linkElement.as = 'fetch';
+					linkElement.crossOrigin = 'anonymous';
+					document.head.appendChild(linkElement);
+				});
+			}
+
 			const verOperadora = new URLSearchParams(window.location.search).get("operadora");
+
+			const siglasUF = [
+				'AC', 'AL', 'AM', 'AP', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MG', 'MS', 'MT',
+				'PA', 'PB', 'PE', 'PI', 'PR', 'RJ', 'RN', 'RO', 'RR', 'RS', 'SC', 'SE', 'SP', 'TO'
+			];
+
+			for (const sigla of siglasUF) {				
+				addPreloadJSON([`locations-${sigla}-PF.json`], verOperadora);
+				addPreloadJSON([`locations-${sigla}-PJ.json`], verOperadora);
+			}
 			
 			document.addEventListener('DOMContentLoaded', function () {
 				document.getElementById('lista-data-dados').addEventListener('change', function () {
@@ -29,16 +51,16 @@
 		</script>
 		<link rel="preload" href="./js/locations/locations-data-lista.json" as="fetch" crossorigin="anonymous">
 		<link rel="preload" as="script" type="text/javascript" href="./js/leaflet/leaflet.js" />
-		<link rel="preload" as="script" type="text/javascript" href="./js/script-min.js" />
+		<!--<link rel="preload" as="script" type="text/javascript" href="./js/script-min.js" />-->
 		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-black.png" />
 		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-green.png" />
-		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-grey.png" />
+		<!--<link rel="preload" as="image" type="image/png" href="./img/marker-icon-grey.png" />
 		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-orange.png" />
 		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-red.png" />
 		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-violet.png" />
-		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-yellow.png" />	
-		<link rel="preload" as="image" type="image/png" href="./js/leaflet/images/layers.png" />
 		<link rel="prefetch" as="image" type="image/png" href="./img/marker-icon-blue.png" />
+		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-yellow.png" />-->
+		<link rel="preload" as="image" type="image/png" href="./js/leaflet/images/layers.png" />
 		<link rel="prefetch" as="image" type="image/png" href="./img/google_maps_icon.png" />	
 		<link rel="prefetch" as="image" type="image/svg+xml" href="./img/osm_icon.svg" />
 		<link rel="prefetch" as="image" type="image/gif" href="./img/loading0.gif" />
@@ -104,5 +126,29 @@
 			<div id="telaerro-conteudo">
 			</div>
 		</div>
+		<script type="text/javascript">
+			const telaLoad = document.getElementById('load');
+			const loadImg = document.getElementById('loadImg');
+
+			const urls = [
+				`./img/loading0.gif`,
+				`./img/loading1.gif`,
+				`./img/loading2.gif`
+			];
+
+			function ocultarTelaLoad(status = 'none') {
+				telaLoad.style.display = status;
+			}
+
+			loadImg.setAttribute('src', urls[Math.floor(Math.random() * urls.length)]);
+
+			document.addEventListener('readystatechange', function() {
+				if (document.readyState === 'complete') {
+					ocultarTelaLoad();
+				} else {
+					ocultarTelaLoad('block');
+				}
+			});
+		</script>
 	</body>
 </html>
