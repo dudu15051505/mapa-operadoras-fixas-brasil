@@ -1,33 +1,34 @@
 [
+  
+  {
+    "operadora": "TIM",
+    "valorCampo": "tim",
+    "informacaoExtra": "Mapa peso ok"
+  },
   {
     "operadora": "SKY",
     "valorCampo": "sky",
-    "informacaoExtra": "Mapa ok"
+    "informacaoExtra": "Mapa peso ok"
   },
   {
     "operadora": "VIVO",
     "valorCampo": "vivo",
-    "informacaoExtra": "Mapa medio"
-  },
-  {
-    "operadora": "OI",
-    "valorCampo": "oi",
-    "informacaoExtra": "Mapa EXTREMAMENTE PESADO - Ative cada estado individualmente para não travar seu pc/celular"
+    "informacaoExtra": "Mapa peso medio"
   },
   {
     "operadora": "CLARO",
     "valorCampo": "claro",
-    "informacaoExtra": "Mapa medio"
-  },
-  {
-    "operadora": "TIM",
-    "valorCampo": "tim",
-    "informacaoExtra": "Mapa ok"
+    "informacaoExtra": "Mapa peso medio"
   },
   {
     "operadora": "VTAL",
     "valorCampo": "vtal",
     "informacaoExtra": "Mapa ok - Os dados foram filtrados para exibir apenas os dados de FTTH da OI, não a exatamente dados da VTAL no portal da anatel"
+  },
+  {
+    "operadora": "OI",
+    "valorCampo": "oi",
+    "informacaoExtra": "Mapa EXTREMAMENTE PESADO - Ative cada estado individualmente para não travar seu pc/celular"
   },
   {
     "operadora": "Pequenas Operadoras",
