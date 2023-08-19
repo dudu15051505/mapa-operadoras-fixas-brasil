@@ -21,7 +21,7 @@
 					document.getElementById('telaerro').style.display = 'none';
 				});
 
-				if (!verOperadora) {
+				if (!verOperadora || verOperadora) {
 					const avisoElement = document.querySelector('#aviso');
 					avisoElement.style.display = 'block';
 				}
@@ -79,6 +79,10 @@
 		<div id="aviso" class="leaflet-control">
 			<div id="aviso-conteudo">
 				<h3>&nbsp;Mapa com dados de Tecnologia e tipo de Cliente fornecidos pela operada a base da ANATEL&nbsp;</h3>
+				<br>
+				<h1><b>ESTE SITE ESTA EM PERÍODO ALPHA DE DESENVOLVIMENTO!</b></h1>
+				<h1><b>Poderá ocorrer erros e algumas informações processadas incorretamente!</b></h1>
+				<br>
 				<p><b>Este site não é afiliado à nem uma operadora</b></p>
 				<p><b>Os dados aqui apresentados são informados pela própria operadora a base da ANATEL, com dados de 06/2023</b></p>
 				<p><b>Para ver os dados disponibilizados pela ANATEL acesse:</b></p>
