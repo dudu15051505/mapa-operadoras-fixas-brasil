@@ -171,13 +171,11 @@ document.addEventListener('DOMContentLoaded', function() {
 	}
 
 	async function loadDataList() {
-		console.log('chamou');
 		fetch('./js/locations/locations-data-lista.json')
 			.then(response => {
 				if (!response.ok) {
 					throw new Error('Erro ao carregar lista de dados passados.');
 				}
-				console.log('chamou 1');
 				return response.json();
 				
 			})
@@ -211,6 +209,8 @@ document.addEventListener('DOMContentLoaded', function() {
 	}
 
 	async function fetchJSON(url) {
+		let resposta = [];
+
 		try {
 			const response = await fetch(url);
 			if (!response.ok) {
@@ -220,57 +220,68 @@ document.addEventListener('DOMContentLoaded', function() {
 					throw new Error('Erro ao carregar dados.');
 			  }
 		 }
-			return response.json();
+		
+			resposta.push(true, response.json());
+
+			return resposta;
 		} catch (error) {
-			exibirErro(error);
+			resposta.push(false, error);
+
+			return resposta;
 		}
 	}
 
 	async function addMarkersAndLayers(url, type, cor = 'blue') {
 		try {
 			const layerGroup = L.layerGroup();
-			const conteudo = await fetchJSON(url);
+         const response = await fetchJSON(url);
 
-			//document.getElementById(somatorioId).innerHTML = `<span class="center">${conteudo.length}</span>`;
+         if (response[0]) {
+            const layerGroup = L.layerGroup();
+				const response = await fetchJSON(url);
 
-			conteudo.forEach(function(dadosJson) {
-				if(!(dadosJson.latitude == null) || !(dadosJson.longitude == null)) {
-					const customIcon = L.icon({
-						iconUrl: `./img/marker-icon-${cor}.png`,
-						iconSize: [25, 41],
-						iconAnchor: [12, 41],
-						popupAnchor: [0, -41]
+				if (response[0]) {
+					const conteudo = await response[1];
+
+					conteudo.forEach(function(dadosJson) {
+						if(!(dadosJson.latitude == null) || !(dadosJson.longitude == null)) {
+							const customIcon = L.icon({
+								iconUrl: `./img/marker-icon-${cor}.png`,
+								iconSize: [25, 41],
+								iconAnchor: [12, 41],
+								popupAnchor: [0, -41]
+							});
+
+							const marker = L.marker([
+								verOperadora === 'pequenas' ? deslocarMarcador(dadosJson.latitude, 0.05) : deslocarMarcador(dadosJson.latitude, 0.005),
+								verOperadora === 'pequenas' ? deslocarMarcador(dadosJson.longitude, 0.05) : deslocarMarcador(dadosJson.longitude, 0.005)
+							], {
+								icon: customIcon
+							});
+
+							markerTexto = `
+							${dadosJson.cidade}, ${dadosJson.uf} <br> <br>
+							${dadosJson.empresa} <br>
+							Tipo de cliente: ${dadosJson["pf-ou-pj"]} <br>
+							Tipo de produto: ${dadosJson["tipo-de-Produto"]} <br>
+							Meio de acesso: ${dadosJson["meio-de-acesso"]} <br>
+							Tecnologia: ${dadosJson.tecnologia} <br>
+							`;
+
+							marker.bindPopup(markerTexto);	
+							marker.addTo(layerGroup);
+						}
 					});
 
-					const marker = L.marker([
-						verOperadora === 'pequenas' ? deslocarMarcador(dadosJson.latitude, 0.05) : deslocarMarcador(dadosJson.latitude, 0.005),
-    					verOperadora === 'pequenas' ? deslocarMarcador(dadosJson.longitude, 0.05) : deslocarMarcador(dadosJson.longitude, 0.005)
-					], {
-						icon: customIcon
-					});
-
-					markerTexto = `
-					${dadosJson.cidade}, ${dadosJson.uf} <br> <br>
-					${dadosJson.empresa} <br>
-					Tipo de cliente: ${dadosJson["pf-ou-pj"]} <br>
-					Tipo de produto: ${dadosJson["tipo-de-Produto"]} <br>
-					Meio de acesso: ${dadosJson["meio-de-acesso"]} <br>
-					Tecnologia: ${dadosJson.tecnologia} <br>
-					`;
-
-					marker.bindPopup(markerTexto);	
-
-					marker.addTo(layerGroup);
+					if (conteudo.length > 0) {
+						if (type in locationLayers) {
+							  locationLayers[type].addLayer(layerGroup);
+						} else {
+							throw new mensagemErro(`Tipo de localização desconhecido: ${type}`);
+						}
+					}
 				}
-			});
-
-			if (conteudo.length > 0) {
-               if (type in locationLayers) {
-                    locationLayers[type].addLayer(layerGroup);
-               } else {
-						throw new mensagemErro(`Tipo de localização desconhecido: ${type}`);
-               }
-            }
+			}
 		} catch (error) {
 			exibirErro(error);
 		}
