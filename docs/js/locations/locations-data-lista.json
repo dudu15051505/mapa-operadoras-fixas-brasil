@@ -28,5 +28,10 @@
     "operadora": "VTAL",
     "valorCampo": "vtal",
     "informacaoExtra": "Mapa ok - Os dados foram filtrados para exibir apenas os dados de FTTH da OI, não a exatamente dados da VTAL no portal da anatel"
+  },
+  {
+    "operadora": "Pequenas Operadoras",
+    "valorCampo": "pequenas",
+    "informacaoExtra": "Mapa EXTREMAMENTE PESADO - Ative cada estado individualmente para não travar seu pc/celular"
   }
 ]
