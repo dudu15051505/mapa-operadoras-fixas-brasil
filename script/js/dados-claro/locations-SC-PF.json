@@ -1,0 +1,680 @@
+[
+    {
+        "cidade": "Araranguá",
+        "uf": "SC",
+        "latitude": -28.935615,
+        "longitude": -49.491809,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 588
+            }
+        ]
+    },
+    {
+        "cidade": "Balneário Camboriú",
+        "uf": "SC",
+        "latitude": -26.992594,
+        "longitude": -48.635152,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 325
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 27302
+            }
+        ]
+    },
+    {
+        "cidade": "Biguaçu",
+        "uf": "SC",
+        "latitude": -27.496004,
+        "longitude": -48.65979,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3723
+            }
+        ]
+    },
+    {
+        "cidade": "Blumenau",
+        "uf": "SC",
+        "latitude": -26.915501,
+        "longitude": -49.070904,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 836
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 44819
+            }
+        ]
+    },
+    {
+        "cidade": "Brusque",
+        "uf": "SC",
+        "latitude": -27.097706,
+        "longitude": -48.910663,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 594
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 3285
+            }
+        ]
+    },
+    {
+        "cidade": "Camboriú",
+        "uf": "SC",
+        "latitude": -27.024078,
+        "longitude": -48.650338,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3574
+            }
+        ]
+    },
+    {
+        "cidade": "Caçador",
+        "uf": "SC",
+        "latitude": -26.77567,
+        "longitude": -51.012004,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1124
+            }
+        ]
+    },
+    {
+        "cidade": "Chapecó",
+        "uf": "SC",
+        "latitude": -27.100448,
+        "longitude": -52.61519,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 96
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 5625
+            }
+        ]
+    },
+    {
+        "cidade": "Concórdia",
+        "uf": "SC",
+        "latitude": -27.233461,
+        "longitude": -52.025962,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 849
+            }
+        ]
+    },
+    {
+        "cidade": "Criciúma",
+        "uf": "SC",
+        "latitude": -28.672267,
+        "longitude": -49.372887,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1249
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 11767
+            }
+        ]
+    },
+    {
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "latitude": -27.594486,
+        "longitude": -48.547696,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2924
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 111729
+            }
+        ]
+    },
+    {
+        "cidade": "Fraiburgo",
+        "uf": "SC",
+        "latitude": -27.023288,
+        "longitude": -50.919978,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 765
+            }
+        ]
+    },
+    {
+        "cidade": "Gaspar",
+        "uf": "SC",
+        "latitude": -26.933597,
+        "longitude": -48.953428,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1095
+            }
+        ]
+    },
+    {
+        "cidade": "Guaramirim",
+        "uf": "SC",
+        "latitude": -26.468753,
+        "longitude": -49.002628,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2271
+            }
+        ]
+    },
+    {
+        "cidade": "Herval d'Oeste",
+        "uf": "SC",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 480
+            }
+        ]
+    },
+    {
+        "cidade": "Indaial",
+        "uf": "SC",
+        "latitude": -26.899247,
+        "longitude": -49.235417,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1659
+            }
+        ]
+    },
+    {
+        "cidade": "Itajaí",
+        "uf": "SC",
+        "latitude": -26.910097,
+        "longitude": -48.670475,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 144
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 21506
+            }
+        ]
+    },
+    {
+        "cidade": "Itapema",
+        "uf": "SC",
+        "latitude": -27.08607,
+        "longitude": -48.616038,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 630
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 1762
+            }
+        ]
+    },
+    {
+        "cidade": "Içara",
+        "uf": "SC",
+        "latitude": -28.713206,
+        "longitude": -49.308654,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 500
+            }
+        ]
+    },
+    {
+        "cidade": "Jaraguá do Sul",
+        "uf": "SC",
+        "latitude": -26.485083,
+        "longitude": -49.07125,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15581
+            }
+        ]
+    },
+    {
+        "cidade": "Joaçaba",
+        "uf": "SC",
+        "latitude": -27.172105,
+        "longitude": -51.510788,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 683
+            }
+        ]
+    },
+    {
+        "cidade": "Joinville",
+        "uf": "SC",
+        "latitude": -26.304497,
+        "longitude": -48.848675,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6954
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 67054
+            }
+        ]
+    },
+    {
+        "cidade": "Lages",
+        "uf": "SC",
+        "latitude": -27.814966,
+        "longitude": -50.325862,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5726
+            }
+        ]
+    },
+    {
+        "cidade": "Mafra",
+        "uf": "SC",
+        "latitude": -26.115935,
+        "longitude": -49.808624,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 942
+            }
+        ]
+    },
+    {
+        "cidade": "Navegantes",
+        "uf": "SC",
+        "latitude": -26.894293,
+        "longitude": -48.654593,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 844
+            }
+        ]
+    },
+    {
+        "cidade": "Palhoça",
+        "uf": "SC",
+        "latitude": -27.645518,
+        "longitude": -48.669661,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 15969
+            }
+        ]
+    },
+    {
+        "cidade": "Rio Negrinho",
+        "uf": "SC",
+        "latitude": -26.259075,
+        "longitude": -49.517746,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 984
+            }
+        ]
+    },
+    {
+        "cidade": "Rio do Sul",
+        "uf": "SC",
+        "latitude": -27.215596,
+        "longitude": -49.643016,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1647
+            }
+        ]
+    },
+    {
+        "cidade": "São Bento do Sul",
+        "uf": "SC",
+        "latitude": -26.249542,
+        "longitude": -49.383077,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2423
+            }
+        ]
+    },
+    {
+        "cidade": "São Francisco do Sul",
+        "uf": "SC",
+        "latitude": -26.257917,
+        "longitude": -48.634372,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2132
+            }
+        ]
+    },
+    {
+        "cidade": "São José",
+        "uf": "SC",
+        "latitude": -27.613577,
+        "longitude": -48.636607,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 571
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 42553
+            }
+        ]
+    },
+    {
+        "cidade": "Timbó",
+        "uf": "SC",
+        "latitude": -26.82464,
+        "longitude": -49.269039,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 437
+            }
+        ]
+    },
+    {
+        "cidade": "Tubarão",
+        "uf": "SC",
+        "latitude": -28.47131,
+        "longitude": -49.014371,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1184
+            }
+        ]
+    },
+    {
+        "cidade": "Videira",
+        "uf": "SC",
+        "latitude": -27.008624,
+        "longitude": -51.154274,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1001
+            }
+        ]
+    },
+    {
+        "cidade": "Xanxerê",
+        "uf": "SC",
+        "latitude": -26.874694,
+        "longitude": -52.403579,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 546
+            }
+        ]
+    },
+    {
+        "cidade": "Xaxim",
+        "uf": "SC",
+        "latitude": -26.959643,
+        "longitude": -52.537446,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 156
+            }
+        ]
+    }
+]

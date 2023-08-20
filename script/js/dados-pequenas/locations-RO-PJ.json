@@ -1,0 +1,6490 @@
+[
+    {
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A",
+        "cnpj": 357038000116,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A",
+        "cnpj": 357038000116,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Mamoré",
+        "uf": "RO",
+        "latitude": -10.407697,
+        "longitude": -65.334596,
+        "empresa": "VIEIRA SALMIM CAMINHA CAO LTDA",
+        "cnpj": 2072246000102,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 16
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Mirante da Serra",
+        "uf": "RO",
+        "latitude": -11.028967,
+        "longitude": -62.669593,
+        "empresa": "O. P. DOS SANTOS & CIA LTDA",
+        "cnpj": 2905202000108,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 66
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "BT",
+        "cnpj": 3076075000144,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "BT",
+        "cnpj": 3076075000144,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "AT&T GLOBAL NETWORK SERVICES BRASIL LTDA",
+        "cnpj": 3341093000106,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Alta Floresta D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "C. GOMES DE SOUSA INFORMATICA - ME",
+        "cnpj": 4136373000145,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cerejeiras",
+        "uf": "RO",
+        "latitude": -13.186987,
+        "longitude": -60.816836,
+        "empresa": "JAN CHARLES RUECKERT ME",
+        "cnpj": 5011908000114,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 78
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "cidade": "Corumbiara",
+        "uf": "RO",
+        "latitude": -12.955111,
+        "longitude": -60.894732,
+        "empresa": "JAN CHARLES RUECKERT ME",
+        "cnpj": 5011908000114,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "JAN CHARLES RUECKERT ME",
+        "cnpj": 5011908000114,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Pimenteiras do Oeste",
+        "uf": "RO",
+        "latitude": -13.482271,
+        "longitude": -61.047052,
+        "empresa": "JAN CHARLES RUECKERT ME",
+        "cnpj": 5011908000114,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "WIANET SOLUÇÕES E TECNOLOGIA LTDA",
+        "cnpj": 5104611000101,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "WIANET SOLUÇÕES E TECNOLOGIA LTDA",
+        "cnpj": 5104611000101,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 196
+            }
+        ]
+    },
+    {
+        "cidade": "Alvorada D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "F JEAN SILVA LTDA",
+        "cnpj": 5203855000133,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 57
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "cidade": "Teixeirópolis",
+        "uf": "RO",
+        "latitude": -10.905601,
+        "longitude": -62.241993,
+        "empresa": "F JEAN SILVA LTDA",
+        "cnpj": 5203855000133,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Urupá",
+        "uf": "RO",
+        "latitude": -11.126123,
+        "longitude": -62.363895,
+        "empresa": "F JEAN SILVA LTDA",
+        "cnpj": 5203855000133,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "cidade": "Campo Novo de Rondônia",
+        "uf": "RO",
+        "latitude": -10.57125,
+        "longitude": -63.626551,
+        "empresa": "J BOSCO DA SILVA & CIA LTDA - ME",
+        "cnpj": 5588747000126,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 155
+            }
+        ]
+    },
+    {
+        "cidade": "São Francisco do Guaporé",
+        "uf": "RO",
+        "latitude": -12.051977,
+        "longitude": -63.567968,
+        "empresa": "e M Silva Eletronica",
+        "cnpj": 5782151000162,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 45
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Alto Alegre dos Parecis",
+        "uf": "RO",
+        "latitude": -12.131955,
+        "longitude": -61.834979,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
+        "cidade": "Buritis",
+        "uf": "RO",
+        "latitude": -10.194272,
+        "longitude": -63.832438,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Cabixi",
+        "uf": "RO",
+        "latitude": -13.494479,
+        "longitude": -60.552032,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 18
+            }
+        ]
+    },
+    {
+        "cidade": "Cerejeiras",
+        "uf": "RO",
+        "latitude": -13.186987,
+        "longitude": -60.816836,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Corumbiara",
+        "uf": "RO",
+        "latitude": -12.955111,
+        "longitude": -60.894732,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Costa Marques",
+        "uf": "RO",
+        "latitude": -12.436715,
+        "longitude": -64.22797,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 24
+            }
+        ]
+    },
+    {
+        "cidade": "Jaru",
+        "uf": "RO",
+        "latitude": -10.431826,
+        "longitude": -62.478769,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 32
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 18
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Mamoré",
+        "uf": "RO",
+        "latitude": -10.407697,
+        "longitude": -65.334596,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Ouro Preto do Oeste",
+        "uf": "RO",
+        "latitude": -10.716717,
+        "longitude": -62.256532,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Parecis",
+        "uf": "RO",
+        "latitude": -12.175416,
+        "longitude": -61.603225,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Pimenta Bueno",
+        "uf": "RO",
+        "latitude": -11.671959,
+        "longitude": -61.197963,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 23
+            }
+        ]
+    },
+    {
+        "cidade": "Presidente Médici",
+        "uf": "RO",
+        "latitude": -11.168974,
+        "longitude": -61.898617,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 20
+            }
+        ]
+    },
+    {
+        "cidade": "São Francisco do Guaporé",
+        "uf": "RO",
+        "latitude": -12.051977,
+        "longitude": -63.567968,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "UFINET BRASIL S.A",
+        "cnpj": 6288154000107,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "SPEED TRAVEL COMUNICACAO MULTIMIDIA LTDA",
+        "cnpj": 7304055000134,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 430
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "SPEED TRAVEL COMUNICACAO MULTIMIDIA LTDA",
+        "cnpj": 7304055000134,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 92
+            }
+        ]
+    },
+    {
+        "cidade": "Costa Marques",
+        "uf": "RO",
+        "latitude": -12.436715,
+        "longitude": -64.22797,
+        "empresa": "ADRIANO LENZ COMERCIO DE PRODUTOS DE INFORMATICA ME",
+        "cnpj": 7427979000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "cidade": "Mirante da Serra",
+        "uf": "RO",
+        "latitude": -11.028967,
+        "longitude": -62.669593,
+        "empresa": "M. L. J. DANTAS - ME",
+        "cnpj": 7558594000108,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Teixeirópolis",
+        "uf": "RO",
+        "latitude": -10.905601,
+        "longitude": -62.241993,
+        "empresa": "M. L. J. DANTAS - ME",
+        "cnpj": 7558594000108,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Urupá",
+        "uf": "RO",
+        "latitude": -11.126123,
+        "longitude": -62.363895,
+        "empresa": "M. L. J. DANTAS - ME",
+        "cnpj": 7558594000108,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 49
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Costa Marques",
+        "uf": "RO",
+        "latitude": -12.436715,
+        "longitude": -64.22797,
+        "empresa": "JENIVALDO CUSTODIO JANUARIO INFORMATICA",
+        "cnpj": 7636226000122,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Alta Floresta D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
+        "cnpj": 7672623000150,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Jaru",
+        "uf": "RO",
+        "latitude": -10.431826,
+        "longitude": -62.478769,
+        "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
+        "cnpj": 7672623000150,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 386
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
+        "cnpj": 7672623000150,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Nova União",
+        "uf": "RO",
+        "latitude": -10.90681,
+        "longitude": -62.556368,
+        "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
+        "cnpj": 7672623000150,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ouro Preto do Oeste",
+        "uf": "RO",
+        "latitude": -10.716717,
+        "longitude": -62.256532,
+        "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
+        "cnpj": 7672623000150,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 251
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
+        "cnpj": 7672623000150,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "cidade": "Vale do Paraíso",
+        "uf": "RO",
+        "latitude": -10.446543,
+        "longitude": -62.135182,
+        "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
+        "cnpj": 7672623000150,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 37
+            }
+        ]
+    },
+    {
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "LINX TELECOMUNICAÇÕES LTDA",
+        "cnpj": 7695739000104,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "LINX TELECOMUNICAÇÕES LTDA",
+        "cnpj": 7695739000104,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Jaru",
+        "uf": "RO",
+        "latitude": -10.431826,
+        "longitude": -62.478769,
+        "empresa": "LINX TELECOMUNICAÇÕES LTDA",
+        "cnpj": 7695739000104,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "LINX TELECOMUNICAÇÕES LTDA",
+        "cnpj": 7695739000104,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "LINX TELECOMUNICAÇÕES LTDA",
+        "cnpj": 7695739000104,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "LINX TELECOMUNICAÇÕES LTDA",
+        "cnpj": 7695739000104,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "LINX TELECOMUNICAÇÕES LTDA",
+        "cnpj": 7695739000104,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "BRASIL TECPAR",
+        "cnpj": 7756651000155,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "BRASIL TECPAR",
+        "cnpj": 7756651000155,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "BRASIL TECPAR",
+        "cnpj": 7756651000155,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 7939517000190,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Brasilândia D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 7939517000190,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 119
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "cidade": "Novo Horizonte do Oeste",
+        "uf": "RO",
+        "latitude": -11.696145,
+        "longitude": -61.995137,
+        "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 7939517000190,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 23
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Ouro Preto do Oeste",
+        "uf": "RO",
+        "latitude": -10.716717,
+        "longitude": -62.256532,
+        "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 7939517000190,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Pimenta Bueno",
+        "uf": "RO",
+        "latitude": -11.671959,
+        "longitude": -61.197963,
+        "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 7939517000190,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 7939517000190,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 7939517000190,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Seringueiras",
+        "uf": "RO",
+        "latitude": -11.805454,
+        "longitude": -63.018234,
+        "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 7939517000190,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "São Miguel do Guaporé",
+        "uf": "RO",
+        "latitude": -11.69527,
+        "longitude": -62.719222,
+        "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 7939517000190,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Ministro Andreazza",
+        "uf": "RO",
+        "latitude": -11.19596,
+        "longitude": -61.517437,
+        "empresa": "L DA SILVA DOS SANTOS INFORMATICA",
+        "cnpj": 7970058000107,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Brasilândia D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "INFO NET COMERCIO DE INFORMATICA LTDA - ME",
+        "cnpj": 8039298000155,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "MENDEX NETWORKS TELECOMUNICACOES LTDA - EPP",
+        "cnpj": 8219232000147,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Alta Floresta D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "SISTEM COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA ME",
+        "cnpj": 8542734000104,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 44
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "Ozonio Telecomunicacoes Ltda",
+        "cnpj": 8678016000160,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "Ozonio Telecomunicacoes Ltda",
+        "cnpj": 8678016000160,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "Ozonio Telecomunicacoes Ltda",
+        "cnpj": 8678016000160,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "Ozonio Telecomunicacoes Ltda",
+        "cnpj": 8678016000160,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Mamoré",
+        "uf": "RO",
+        "latitude": -10.407697,
+        "longitude": -65.334596,
+        "empresa": "GLOBOFIBER TELECOM LTDA",
+        "cnpj": 8741236000190,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "GLOBOFIBER TELECOM LTDA",
+        "cnpj": 8741236000190,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 262
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Seringueiras",
+        "uf": "RO",
+        "latitude": -11.805454,
+        "longitude": -63.018234,
+        "empresa": "VIDEOSAT SERVICOS DE INFORMATICA LTDA.",
+        "cnpj": 8769659000119,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 66
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "São Francisco do Guaporé",
+        "uf": "RO",
+        "latitude": -12.051977,
+        "longitude": -63.567968,
+        "empresa": "VIDEOSAT SERVICOS DE INFORMATICA LTDA.",
+        "cnpj": 8769659000119,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 75
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "São Miguel do Guaporé",
+        "uf": "RO",
+        "latitude": -11.69527,
+        "longitude": -62.719222,
+        "empresa": "VIDEOSAT SERVICOS DE INFORMATICA LTDA.",
+        "cnpj": 8769659000119,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "COLADINI & COLADINI LTDA",
+        "cnpj": 9050368000139,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Ministro Andreazza",
+        "uf": "RO",
+        "latitude": -11.19596,
+        "longitude": -61.517437,
+        "empresa": "COLADINI & COLADINI LTDA",
+        "cnpj": 9050368000139,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 19
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "cidade": "Presidente Médici",
+        "uf": "RO",
+        "latitude": -11.168974,
+        "longitude": -61.898617,
+        "empresa": "COLADINI & COLADINI LTDA",
+        "cnpj": 9050368000139,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ouro Preto do Oeste",
+        "uf": "RO",
+        "latitude": -10.716717,
+        "longitude": -62.256532,
+        "empresa": "OMEGA_NET LTDA - ME",
+        "cnpj": 9251220000162,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 66
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Vale do Paraíso",
+        "uf": "RO",
+        "latitude": -10.446543,
+        "longitude": -62.135182,
+        "empresa": "OMEGA_NET LTDA - ME",
+        "cnpj": 9251220000162,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "RONDON - TELECOM LTDA-ME",
+        "cnpj": 9256492000155,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 457
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cujubim",
+        "uf": "RO",
+        "latitude": -9.360655,
+        "longitude": -62.584579,
+        "empresa": "RONDON - TELECOM LTDA-ME",
+        "cnpj": 9256492000155,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 28
+            }
+        ]
+    },
+    {
+        "cidade": "Cujubim",
+        "uf": "RO",
+        "latitude": -9.360655,
+        "longitude": -62.584579,
+        "empresa": "D.A. SERVICOS DE TELECOMUNICACOES EIRELI",
+        "cnpj": 9271376000105,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 91
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "cidade": "Machadinho D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "D.A. SERVICOS DE TELECOMUNICACOES EIRELI",
+        "cnpj": 9271376000105,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 179
+            }
+        ]
+    },
+    {
+        "cidade": "Theobroma",
+        "uf": "RO",
+        "latitude": -10.24834,
+        "longitude": -62.353796,
+        "empresa": "D.A. SERVICOS DE TELECOMUNICACOES EIRELI",
+        "cnpj": 9271376000105,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 18
+            }
+        ]
+    },
+    {
+        "cidade": "Vale do Anari",
+        "uf": "RO",
+        "latitude": -9.862155,
+        "longitude": -62.187649,
+        "empresa": "D.A. SERVICOS DE TELECOMUNICACOES EIRELI",
+        "cnpj": 9271376000105,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 42
+            }
+        ]
+    },
+    {
+        "cidade": "Alvorada D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "cidade": "Buritis",
+        "uf": "RO",
+        "latitude": -10.194272,
+        "longitude": -63.832438,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 30
+            }
+        ]
+    },
+    {
+        "cidade": "Castanheiras",
+        "uf": "RO",
+        "latitude": -11.425304,
+        "longitude": -61.948228,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 25
+            }
+        ]
+    },
+    {
+        "cidade": "Costa Marques",
+        "uf": "RO",
+        "latitude": -12.436715,
+        "longitude": -64.22797,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 60
+            }
+        ]
+    },
+    {
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 60
+            }
+        ]
+    },
+    {
+        "cidade": "Mirante da Serra",
+        "uf": "RO",
+        "latitude": -11.028967,
+        "longitude": -62.669593,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Monte Negro",
+        "uf": "RO",
+        "latitude": -10.245823,
+        "longitude": -63.289988,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Brasilândia D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Novo Horizonte do Oeste",
+        "uf": "RO",
+        "latitude": -11.696145,
+        "longitude": -61.995137,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 21
+            }
+        ]
+    },
+    {
+        "cidade": "Parecis",
+        "uf": "RO",
+        "latitude": -12.175416,
+        "longitude": -61.603225,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Presidente Médici",
+        "uf": "RO",
+        "latitude": -11.168974,
+        "longitude": -61.898617,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 38
+            }
+        ]
+    },
+    {
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 346
+            }
+        ]
+    },
+    {
+        "cidade": "Santa Luzia D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 27
+            }
+        ]
+    },
+    {
+        "cidade": "Seringueiras",
+        "uf": "RO",
+        "latitude": -11.805454,
+        "longitude": -63.018234,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 46
+            }
+        ]
+    },
+    {
+        "cidade": "São Felipe D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
+        "cnpj": 9337446000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "cidade": "Buritis",
+        "uf": "RO",
+        "latitude": -10.194272,
+        "longitude": -63.832438,
+        "empresa": "R & B COMÉRCIO DE INFORMÁTICA LTDA",
+        "cnpj": 9391548000184,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 69
+            }
+        ]
+    },
+    {
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "CLICK PRODUTOS E SERVICOS LTDA - ME",
+        "cnpj": 9443451000178,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 54
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "VIP SERVICOS DE TELECOMUNICACOES LTDA - ME",
+        "cnpj": 9457528000169,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 86
+            }
+        ]
+    },
+    {
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "LINK NET TELECOMUNICACOES LTDA",
+        "cnpj": 10246104000134,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Mamoré",
+        "uf": "RO",
+        "latitude": -10.407697,
+        "longitude": -65.334596,
+        "empresa": "LINK NET TELECOMUNICACOES LTDA",
+        "cnpj": 10246104000134,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "LINK NET TELECOMUNICACOES LTDA",
+        "cnpj": 10246104000134,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 19
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "YUNE NET INFORMATICA LTDA",
+        "cnpj": 10321821000183,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 579
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 138
+            }
+        ]
+    },
+    {
+        "cidade": "Alta Floresta D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Cujubim",
+        "uf": "RO",
+        "latitude": -9.360655,
+        "longitude": -62.584579,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Espigão D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Mamoré",
+        "uf": "RO",
+        "latitude": -10.407697,
+        "longitude": -65.334596,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Parecis",
+        "uf": "RO",
+        "latitude": -12.175416,
+        "longitude": -61.603225,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Pimenta Bueno",
+        "uf": "RO",
+        "latitude": -11.671959,
+        "longitude": -61.197963,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 27
+            }
+        ]
+    },
+    {
+        "cidade": "São Francisco do Guaporé",
+        "uf": "RO",
+        "latitude": -12.051977,
+        "longitude": -63.567968,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "NET WAY INFORMATICA LTDA",
+        "cnpj": 10563381000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 330
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "NET WAY INFORMATICA LTDA",
+        "cnpj": 10563381000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cerejeiras",
+        "uf": "RO",
+        "latitude": -13.186987,
+        "longitude": -60.816836,
+        "empresa": "NET WAY INFORMATICA LTDA",
+        "cnpj": 10563381000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Chupinguaia",
+        "uf": "RO",
+        "latitude": -12.561115,
+        "longitude": -60.887694,
+        "empresa": "NET WAY INFORMATICA LTDA",
+        "cnpj": 10563381000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Espigão D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "NET WAY INFORMATICA LTDA",
+        "cnpj": 10563381000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "NET WAY INFORMATICA LTDA",
+        "cnpj": 10563381000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ministro Andreazza",
+        "uf": "RO",
+        "latitude": -11.19596,
+        "longitude": -61.517437,
+        "empresa": "NET WAY INFORMATICA LTDA",
+        "cnpj": 10563381000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Parecis",
+        "uf": "RO",
+        "latitude": -12.175416,
+        "longitude": -61.603225,
+        "empresa": "NET WAY INFORMATICA LTDA",
+        "cnpj": 10563381000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Pimenta Bueno",
+        "uf": "RO",
+        "latitude": -11.671959,
+        "longitude": -61.197963,
+        "empresa": "NET WAY INFORMATICA LTDA",
+        "cnpj": 10563381000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 234
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 68
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "NET WAY INFORMATICA LTDA",
+        "cnpj": 10563381000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Primavera de Rondônia",
+        "uf": "RO",
+        "latitude": -11.829456,
+        "longitude": -61.315336,
+        "empresa": "NET WAY INFORMATICA LTDA",
+        "cnpj": 10563381000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "NET WAY INFORMATICA LTDA",
+        "cnpj": 10563381000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "NET WAY INFORMATICA LTDA",
+        "cnpj": 10563381000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "INTERNETI PROVEDOR E INFORMATICA LTDA ME",
+        "cnpj": 10791708000161,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 11
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 133
+            }
+        ]
+    },
+    {
+        "cidade": "Alta Floresta D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "RIDERSON MENDES BORGES",
+        "cnpj": 10802481000102,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "RIDERSON MENDES BORGES",
+        "cnpj": 10802481000102,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 52
+            }
+        ]
+    },
+    {
+        "cidade": "São Miguel do Guaporé",
+        "uf": "RO",
+        "latitude": -11.69527,
+        "longitude": -62.719222,
+        "empresa": "RIDERSON MENDES BORGES",
+        "cnpj": 10802481000102,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "cidade": "Alto Alegre dos Parecis",
+        "uf": "RO",
+        "latitude": -12.131955,
+        "longitude": -61.834979,
+        "empresa": "WM DE OLIVEIRA TELECOMUNICAÇÕES EIRELI",
+        "cnpj": 10803506000192,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "WM DE OLIVEIRA TELECOMUNICAÇÕES EIRELI",
+        "cnpj": 10803506000192,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Primavera de Rondônia",
+        "uf": "RO",
+        "latitude": -11.829456,
+        "longitude": -61.315336,
+        "empresa": "WM DE OLIVEIRA TELECOMUNICAÇÕES EIRELI",
+        "cnpj": 10803506000192,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "WM DE OLIVEIRA TELECOMUNICAÇÕES EIRELI",
+        "cnpj": 10803506000192,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "São Felipe D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "WM DE OLIVEIRA TELECOMUNICAÇÕES EIRELI",
+        "cnpj": 10803506000192,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Alto Alegre dos Parecis",
+        "uf": "RO",
+        "latitude": -12.131955,
+        "longitude": -61.834979,
+        "empresa": "C.R. MARCILIO PAZ - ME",
+        "cnpj": 11155708000138,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 69
+            }
+        ]
+    },
+    {
+        "cidade": "Pimenta Bueno",
+        "uf": "RO",
+        "latitude": -11.671959,
+        "longitude": -61.197963,
+        "empresa": "MEGA TELEINFORMATICA EIRELI",
+        "cnpj": 11408142000109,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Presidente Médici",
+        "uf": "RO",
+        "latitude": -11.168974,
+        "longitude": -61.898617,
+        "empresa": "UZZY TELECOM COMÉRCIO DE EQUIPAMENTO DE INFORMÁTICA E SERVIÇOS DE COMUNICAÇÕES EIRELI",
+        "cnpj": 11767980000179,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 178
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 46
+            }
+        ]
+    },
+    {
+        "cidade": "Espigão D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "JULIO CESAR BATISTA DE OLIVEIRA ME",
+        "cnpj": 12134704000136,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 84
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "WILLAMES FERREIRA SANTOS - ME",
+        "cnpj": 12878243000106,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 23
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "OLLA COMUNICAÇÃO LTDA",
+        "cnpj": 12973083000184,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 23
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 43
+            }
+        ]
+    },
+    {
+        "cidade": "Alto Paraíso",
+        "uf": "RO",
+        "latitude": -9.714294,
+        "longitude": -63.318834,
+        "empresa": "SFAR COMUNICACOES LTDA",
+        "cnpj": 13030105000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "cidade": "Cerejeiras",
+        "uf": "RO",
+        "latitude": -13.186987,
+        "longitude": -60.816836,
+        "empresa": "TECNONET SERVICOS PROVEDOR DE INTERNET LTDA",
+        "cnpj": 13484151000104,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 44
+            }
+        ]
+    },
+    {
+        "cidade": "Nova União",
+        "uf": "RO",
+        "latitude": -10.90681,
+        "longitude": -62.556368,
+        "empresa": "J. L. PEREIRA",
+        "cnpj": 13937361000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 31
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Ouro Preto do Oeste",
+        "uf": "RO",
+        "latitude": -10.716717,
+        "longitude": -62.256532,
+        "empresa": "J. L. PEREIRA",
+        "cnpj": 13937361000100,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "PELIKAN NET LTDA - ME",
+        "cnpj": 13969568000167,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 26
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Colorado do Oeste",
+        "uf": "RO",
+        "latitude": -13.117431,
+        "longitude": -60.545428,
+        "empresa": "SCARMOCIN INFORMATICA E COMUNICAÇÃO LTDA",
+        "cnpj": 14054640000199,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "SCARMOCIN INFORMATICA E COMUNICAÇÃO LTDA",
+        "cnpj": 14054640000199,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "Brasil Digital Servicos de Informatica e Comercio Eireli",
+        "cnpj": 14629705000187,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "cidade": "Cujubim",
+        "uf": "RO",
+        "latitude": -9.360655,
+        "longitude": -62.584579,
+        "empresa": "Brasil Digital Servicos de Informatica e Comercio Eireli",
+        "cnpj": 14629705000187,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "Brasil Digital Servicos de Informatica e Comercio Eireli",
+        "cnpj": 14629705000187,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Itapuã do Oeste",
+        "uf": "RO",
+        "latitude": -9.196871,
+        "longitude": -63.180878,
+        "empresa": "Brasil Digital Servicos de Informatica e Comercio Eireli",
+        "cnpj": 14629705000187,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 36
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Mamoré",
+        "uf": "RO",
+        "latitude": -10.407697,
+        "longitude": -65.334596,
+        "empresa": "Brasil Digital Servicos de Informatica e Comercio Eireli",
+        "cnpj": 14629705000187,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "Brasil Digital Servicos de Informatica e Comercio Eireli",
+        "cnpj": 14629705000187,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1072
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 64
+            },
+            {
+                "tecnologia": "VDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "ACESSOLINE TELECOMUNICACOES LTDA",
+        "cnpj": 14798740000120,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "ACESSOLINE TELECOMUNICACOES LTDA",
+        "cnpj": 14798740000120,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "ACESSOLINE TELECOMUNICACOES LTDA",
+        "cnpj": 14798740000120,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Pimenta Bueno",
+        "uf": "RO",
+        "latitude": -11.671959,
+        "longitude": -61.197963,
+        "empresa": "ACESSOLINE TELECOMUNICACOES LTDA",
+        "cnpj": 14798740000120,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Espigão D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "E. B. DE MELO INFORMÁTICA E CONSULTORIA - ME",
+        "cnpj": 17179982000123,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 58
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 36
+            }
+        ]
+    },
+    {
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "JUNTO TELECOM SERVIÇOS DE TELECOMUNICAÇÕES LTDA",
+        "cnpj": 17192192000188,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "JUNTO TELECOM SERVIÇOS DE TELECOMUNICAÇÕES LTDA",
+        "cnpj": 17192192000188,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "JUNTO TELECOM SERVIÇOS DE TELECOMUNICAÇÕES LTDA",
+        "cnpj": 17192192000188,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Alvorada D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "M. H. BELTRAMI EIRELI",
+        "cnpj": 17290762000172,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Alto Paraíso",
+        "uf": "RO",
+        "latitude": -9.714294,
+        "longitude": -63.318834,
+        "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
+        "cnpj": 18456569000121,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
+        "cnpj": 18456569000121,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 530
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 55
+            }
+        ]
+    },
+    {
+        "cidade": "Buritis",
+        "uf": "RO",
+        "latitude": -10.194272,
+        "longitude": -63.832438,
+        "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
+        "cnpj": 18456569000121,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 115
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
+        "cnpj": 18456569000121,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
+        "cnpj": 18456569000121,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Monte Negro",
+        "uf": "RO",
+        "latitude": -10.245823,
+        "longitude": -63.289988,
+        "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
+        "cnpj": 18456569000121,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
+        "cnpj": 18456569000121,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "LIMA & LIMA SERVICOS DE INFORMATICA LTDA",
+        "cnpj": 18578613000176,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 41
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "cidade": "Ouro Preto do Oeste",
+        "uf": "RO",
+        "latitude": -10.716717,
+        "longitude": -62.256532,
+        "empresa": "Infinity Servicos de Telecomunicacao Ltda",
+        "cnpj": 18702422000174,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "RJ CONNECT SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 19045139000180,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 56
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Rio Crespo",
+        "uf": "RO",
+        "latitude": -9.699648,
+        "longitude": -62.901127,
+        "empresa": "B&g Comercio de Eletronicos Ltda",
+        "cnpj": 19882023000103,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "Rondo Comercio e Servicos Ltda",
+        "cnpj": 20020786000116,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 91
+            }
+        ]
+    },
+    {
+        "cidade": "Cujubim",
+        "uf": "RO",
+        "latitude": -9.360655,
+        "longitude": -62.584579,
+        "empresa": "Rondo Comercio e Servicos Ltda",
+        "cnpj": 20020786000116,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "RODRIGUES SERVICOS DE COMUNICACAO LTDA",
+        "cnpj": 20302836000158,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 40
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "C2M SERVICOS DE INFORMATICA E TELECOMUNICACOES LTDA",
+        "cnpj": 23350169000177,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 319
+            }
+        ]
+    },
+    {
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "Flash Net Servicos de Comunicacoes Eireli",
+        "cnpj": 24332385000152,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Governador Jorge Teixeira",
+        "uf": "RO",
+        "latitude": -10.610031,
+        "longitude": -62.737071,
+        "empresa": "Flash Net Servicos de Comunicacoes Eireli",
+        "cnpj": 24332385000152,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Jaru",
+        "uf": "RO",
+        "latitude": -10.431826,
+        "longitude": -62.478769,
+        "empresa": "Flash Net Servicos de Comunicacoes Eireli",
+        "cnpj": 24332385000152,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 18
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "KORE BRASIL LTDA",
+        "cnpj": 24492478000144,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "KORE BRASIL LTDA",
+        "cnpj": 24492478000144,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "KORE BRASIL LTDA",
+        "cnpj": 24492478000144,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "KORE BRASIL LTDA",
+        "cnpj": 24492478000144,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 20
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "KORE BRASIL LTDA",
+        "cnpj": 24492478000144,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 33
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "TELXE DO BRASIL TELECOMUNICACOES LTDA",
+        "cnpj": 24996988000159,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Buritis",
+        "uf": "RO",
+        "latitude": -10.194272,
+        "longitude": -63.832438,
+        "empresa": "F.A.A PROVEDOR LTDA",
+        "cnpj": 26133539000102,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 58
+            }
+        ]
+    },
+    {
+        "cidade": "Cacaulândia",
+        "uf": "RO",
+        "latitude": -10.348981,
+        "longitude": -62.904328,
+        "empresa": "BULLETI NET SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 26569744000115,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 52
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Alta Floresta D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Alto Paraíso",
+        "uf": "RO",
+        "latitude": -9.714294,
+        "longitude": -63.318834,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Alvorada D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "cidade": "Buritis",
+        "uf": "RO",
+        "latitude": -10.194272,
+        "longitude": -63.832438,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cacaulândia",
+        "uf": "RO",
+        "latitude": -10.348981,
+        "longitude": -62.904328,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Costa Marques",
+        "uf": "RO",
+        "latitude": -12.436715,
+        "longitude": -64.22797,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Espigão D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Jaru",
+        "uf": "RO",
+        "latitude": -10.431826,
+        "longitude": -62.478769,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 19
+            }
+        ]
+    },
+    {
+        "cidade": "Machadinho D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Ministro Andreazza",
+        "uf": "RO",
+        "latitude": -11.19596,
+        "longitude": -61.517437,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Mirante da Serra",
+        "uf": "RO",
+        "latitude": -11.028967,
+        "longitude": -62.669593,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Brasilândia D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Nova União",
+        "uf": "RO",
+        "latitude": -10.90681,
+        "longitude": -62.556368,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ouro Preto do Oeste",
+        "uf": "RO",
+        "latitude": -10.716717,
+        "longitude": -62.256532,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Pimenta Bueno",
+        "uf": "RO",
+        "latitude": -11.671959,
+        "longitude": -61.197963,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "cidade": "Presidente Médici",
+        "uf": "RO",
+        "latitude": -11.168974,
+        "longitude": -61.898617,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Seringueiras",
+        "uf": "RO",
+        "latitude": -11.805454,
+        "longitude": -63.018234,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "São Felipe D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "São Francisco do Guaporé",
+        "uf": "RO",
+        "latitude": -12.051977,
+        "longitude": -63.567968,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "São Miguel do Guaporé",
+        "uf": "RO",
+        "latitude": -11.69527,
+        "longitude": -62.719222,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Teixeirópolis",
+        "uf": "RO",
+        "latitude": -10.905601,
+        "longitude": -62.241993,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "Nbs Servicos de Comunicacoes Ltda",
+        "cnpj": 26824572000189,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Costa Marques",
+        "uf": "RO",
+        "latitude": -12.436715,
+        "longitude": -64.22797,
+        "empresa": "DERIO DANTAS DE ALENCAR EIRELI",
+        "cnpj": 26983250000182,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Alto Paraíso",
+        "uf": "RO",
+        "latitude": -9.714294,
+        "longitude": -63.318834,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Alto Paraíso",
+        "uf": "RO",
+        "latitude": -9.714294,
+        "longitude": -63.318834,
+        "empresa": "ZVC TURBO NET COMERCIO LTDA - ME",
+        "cnpj": 27861697000141,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "ZVC TURBO NET COMERCIO LTDA - ME",
+        "cnpj": 27861697000141,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "ZVC TURBO NET COMERCIO LTDA - ME",
+        "cnpj": 27861697000141,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Itapuã do Oeste",
+        "uf": "RO",
+        "latitude": -9.196871,
+        "longitude": -63.180878,
+        "empresa": "ZVC TURBO NET COMERCIO LTDA - ME",
+        "cnpj": 27861697000141,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Rio Crespo",
+        "uf": "RO",
+        "latitude": -9.699648,
+        "longitude": -62.901127,
+        "empresa": "ZVC TURBO NET COMERCIO LTDA - ME",
+        "cnpj": 27861697000141,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Espigão D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "ABSOLUTA NET TECNOLOGIA LTDA",
+        "cnpj": 28619117000177,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 73
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "CONECTJA LTDA",
+        "cnpj": 29200024000176,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 75
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "COGENT BRASIL TELECOMUNICACOES LTDA.",
+        "cnpj": 29484413000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "WITECHINFO EIRELI",
+        "cnpj": 29765130000105,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "CANDEIAS NET TELECOM COMUNICACOES LTDA",
+        "cnpj": 29815661000157,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 59
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Governador Jorge Teixeira",
+        "uf": "RO",
+        "latitude": -10.610031,
+        "longitude": -62.737071,
+        "empresa": "CANDEIAS NET TELECOM COMUNICACOES LTDA",
+        "cnpj": 29815661000157,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "CANDEIAS NET TELECOM COMUNICACOES LTDA",
+        "cnpj": 29815661000157,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "R M SANCHES",
+        "cnpj": 30070310000143,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 16
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Buritis",
+        "uf": "RO",
+        "latitude": -10.194272,
+        "longitude": -63.832438,
+        "empresa": "R M SANCHES",
+        "cnpj": 30070310000143,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Monte Negro",
+        "uf": "RO",
+        "latitude": -10.245823,
+        "longitude": -63.289988,
+        "empresa": "R M SANCHES",
+        "cnpj": 30070310000143,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Ouro Preto do Oeste",
+        "uf": "RO",
+        "latitude": -10.716717,
+        "longitude": -62.256532,
+        "empresa": "Web Norte Servicos de Internet Ltda",
+        "cnpj": 30234839000155,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Vale do Paraíso",
+        "uf": "RO",
+        "latitude": -10.446543,
+        "longitude": -62.135182,
+        "empresa": "Web Norte Servicos de Internet Ltda",
+        "cnpj": 30234839000155,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Mamoré",
+        "uf": "RO",
+        "latitude": -10.407697,
+        "longitude": -65.334596,
+        "empresa": "Rocha, Vieira e Caminha Ltda",
+        "cnpj": 30606499000146,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "Rocha, Vieira e Caminha Ltda",
+        "cnpj": 30606499000146,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "W. Deodato de Souza Ltda.",
+        "cnpj": 30607988000112,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "C H C Silva Telecomunicacoes",
+        "cnpj": 32053073000138,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 161
+            }
+        ]
+    },
+    {
+        "cidade": "Costa Marques",
+        "uf": "RO",
+        "latitude": -12.436715,
+        "longitude": -64.22797,
+        "empresa": "C H C Silva Telecomunicacoes",
+        "cnpj": 32053073000138,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 20
+            }
+        ]
+    },
+    {
+        "cidade": "Alta Floresta D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Alto Alegre dos Parecis",
+        "uf": "RO",
+        "latitude": -12.131955,
+        "longitude": -61.834979,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Alto Paraíso",
+        "uf": "RO",
+        "latitude": -9.714294,
+        "longitude": -63.318834,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Alvorada D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Buritis",
+        "uf": "RO",
+        "latitude": -10.194272,
+        "longitude": -63.832438,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Cabixi",
+        "uf": "RO",
+        "latitude": -13.494479,
+        "longitude": -60.552032,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cacaulândia",
+        "uf": "RO",
+        "latitude": -10.348981,
+        "longitude": -62.904328,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Campo Novo de Rondônia",
+        "uf": "RO",
+        "latitude": -10.57125,
+        "longitude": -63.626551,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Castanheiras",
+        "uf": "RO",
+        "latitude": -11.425304,
+        "longitude": -61.948228,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cerejeiras",
+        "uf": "RO",
+        "latitude": -13.186987,
+        "longitude": -60.816836,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Chupinguaia",
+        "uf": "RO",
+        "latitude": -12.561115,
+        "longitude": -60.887694,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Colorado do Oeste",
+        "uf": "RO",
+        "latitude": -13.117431,
+        "longitude": -60.545428,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Corumbiara",
+        "uf": "RO",
+        "latitude": -12.955111,
+        "longitude": -60.894732,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Costa Marques",
+        "uf": "RO",
+        "latitude": -12.436715,
+        "longitude": -64.22797,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cujubim",
+        "uf": "RO",
+        "latitude": -9.360655,
+        "longitude": -62.584579,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Espigão D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Governador Jorge Teixeira",
+        "uf": "RO",
+        "latitude": -10.610031,
+        "longitude": -62.737071,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Itapuã do Oeste",
+        "uf": "RO",
+        "latitude": -9.196871,
+        "longitude": -63.180878,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Jaru",
+        "uf": "RO",
+        "latitude": -10.431826,
+        "longitude": -62.478769,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "cidade": "Machadinho D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Ministro Andreazza",
+        "uf": "RO",
+        "latitude": -11.19596,
+        "longitude": -61.517437,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Mirante da Serra",
+        "uf": "RO",
+        "latitude": -11.028967,
+        "longitude": -62.669593,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Monte Negro",
+        "uf": "RO",
+        "latitude": -10.245823,
+        "longitude": -63.289988,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Brasilândia D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Mamoré",
+        "uf": "RO",
+        "latitude": -10.407697,
+        "longitude": -65.334596,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Novo Horizonte do Oeste",
+        "uf": "RO",
+        "latitude": -11.696145,
+        "longitude": -61.995137,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ouro Preto do Oeste",
+        "uf": "RO",
+        "latitude": -10.716717,
+        "longitude": -62.256532,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Parecis",
+        "uf": "RO",
+        "latitude": -12.175416,
+        "longitude": -61.603225,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Pimenta Bueno",
+        "uf": "RO",
+        "latitude": -11.671959,
+        "longitude": -61.197963,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Pimenteiras do Oeste",
+        "uf": "RO",
+        "latitude": -13.482271,
+        "longitude": -61.047052,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 25
+            }
+        ]
+    },
+    {
+        "cidade": "Presidente Médici",
+        "uf": "RO",
+        "latitude": -11.168974,
+        "longitude": -61.898617,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Primavera de Rondônia",
+        "uf": "RO",
+        "latitude": -11.829456,
+        "longitude": -61.315336,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Rio Crespo",
+        "uf": "RO",
+        "latitude": -9.699648,
+        "longitude": -62.901127,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Santa Luzia D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Seringueiras",
+        "uf": "RO",
+        "latitude": -11.805454,
+        "longitude": -63.018234,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "São Felipe D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "São Francisco do Guaporé",
+        "uf": "RO",
+        "latitude": -12.051977,
+        "longitude": -63.567968,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "São Miguel do Guaporé",
+        "uf": "RO",
+        "latitude": -11.69527,
+        "longitude": -62.719222,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Teixeirópolis",
+        "uf": "RO",
+        "latitude": -10.905601,
+        "longitude": -62.241993,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Theobroma",
+        "uf": "RO",
+        "latitude": -10.24834,
+        "longitude": -62.353796,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Urupá",
+        "uf": "RO",
+        "latitude": -11.126123,
+        "longitude": -62.363895,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Vale do Anari",
+        "uf": "RO",
+        "latitude": -9.862155,
+        "longitude": -62.187649,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Vale do Paraíso",
+        "uf": "RO",
+        "latitude": -10.446543,
+        "longitude": -62.135182,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "FIBRACONN SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 33483541000177,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 53
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Jaru",
+        "uf": "RO",
+        "latitude": -10.431826,
+        "longitude": -62.478769,
+        "empresa": "FIBRACONN SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 33483541000177,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 56
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "S & M NACIONAL TELECOM LTDA",
+        "cnpj": 34211050000130,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "S & M NACIONAL TELECOM LTDA",
+        "cnpj": 34211050000130,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 145
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "GN FIBRA PROVEDOR DE INTERNET LTDA",
+        "cnpj": 34803568000162,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 19
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "BR364 SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 35823676000160,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 72
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Mamoré",
+        "uf": "RO",
+        "latitude": -10.407697,
+        "longitude": -65.334596,
+        "empresa": "BR364 SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 35823676000160,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "BR364 SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 35823676000160,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Chupinguaia",
+        "uf": "RO",
+        "latitude": -12.561115,
+        "longitude": -60.887694,
+        "empresa": "R. G  SERVICOS DE PROVEDORES DE INTERNET LTDA",
+        "cnpj": 37435689000197,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "R. G  SERVICOS DE PROVEDORES DE INTERNET LTDA",
+        "cnpj": 37435689000197,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "RURAL NET PROVEDOR DE INTERNET LTDA",
+        "cnpj": 40206900000104,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Alto Paraíso",
+        "uf": "RO",
+        "latitude": -9.714294,
+        "longitude": -63.318834,
+        "empresa": "M.o. Servicos de Telecomunicacoes Ltda",
+        "cnpj": 40291217000112,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 210
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "Flaveli Murarolli Ferri & Cia Ltda.",
+        "cnpj": 43110512000113,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "Obvious Servicos Digitais Ltda",
+        "cnpj": 44025225000178,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Espigão D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "Centranet Ltda",
+        "cnpj": 44542310000103,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 36
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "Volt Telecom Servicos de Comunicacao e Multimidia Ltda",
+        "cnpj": 46209572000186,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "cidade": "São Miguel do Guaporé",
+        "uf": "RO",
+        "latitude": -11.69527,
+        "longitude": -62.719222,
+        "empresa": "N Guerra da Silva Servicos de Comunicacao",
+        "cnpj": 48161792000102,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 33
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "Rede Neutra Servicos de Internet Ltda",
+        "cnpj": 48254506000153,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 221
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "Invicto Telecom Provedor de Internet Ltda",
+        "cnpj": 48549632000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "BT",
+        "cnpj": 74280256000136,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "BT",
+        "cnpj": 74280256000136,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "BT",
+        "cnpj": 74280256000136,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Alta Floresta D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "cnpj": 84591775000179,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 168
+            }
+        ]
+    },
+    {
+        "cidade": "Alto Alegre dos Parecis",
+        "uf": "RO",
+        "latitude": -12.131955,
+        "longitude": -61.834979,
+        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "cnpj": 84591775000179,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 35
+            }
+        ]
+    },
+    {
+        "cidade": "Machadinho D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "cnpj": 84591775000179,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 156
+            }
+        ]
+    },
+    {
+        "cidade": "Pimenta Bueno",
+        "uf": "RO",
+        "latitude": -11.671959,
+        "longitude": -61.197963,
+        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "cnpj": 84591775000179,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 198
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 239
+            }
+        ]
+    },
+    {
+        "cidade": "São Francisco do Guaporé",
+        "uf": "RO",
+        "latitude": -12.051977,
+        "longitude": -63.567968,
+        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "cnpj": 84591775000179,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 135
+            }
+        ]
+    },
+    {
+        "cidade": "São Miguel do Guaporé",
+        "uf": "RO",
+        "latitude": -11.69527,
+        "longitude": -62.719222,
+        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "cnpj": 84591775000179,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 185
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 98
+            }
+        ]
+    },
+    {
+        "cidade": "Vale do Anari",
+        "uf": "RO",
+        "latitude": -9.862155,
+        "longitude": -62.187649,
+        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "cnpj": 84591775000179,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 119
+            }
+        ]
+    },
+    {
+        "cidade": "Espigão D'Oeste",
+        "uf": "RO",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "H & F SOLUÇÕES TECNOLOGICAS LTDA - EPP",
+        "cnpj": 84716059000170,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 79
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 9
+            }
+        ]
+    }
+]

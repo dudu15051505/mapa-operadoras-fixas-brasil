@@ -1,0 +1,70 @@
+[
+    {
+        "cidade": "Gurupi",
+        "uf": "TO",
+        "latitude": -11.72794,
+        "longitude": -49.068046,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3335
+            }
+        ]
+    },
+    {
+        "cidade": "Palmas",
+        "uf": "TO",
+        "latitude": -10.239973,
+        "longitude": -48.355751,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22452
+            }
+        ]
+    },
+    {
+        "cidade": "Paraíso do Tocantins",
+        "uf": "TO",
+        "latitude": -10.174998,
+        "longitude": -48.882269,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 661
+            }
+        ]
+    },
+    {
+        "cidade": "Porto Nacional",
+        "uf": "TO",
+        "latitude": -10.702705,
+        "longitude": -48.408008,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1537
+            }
+        ]
+    }
+]

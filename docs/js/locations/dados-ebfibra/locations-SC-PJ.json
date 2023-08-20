@@ -1,0 +1,36 @@
+[
+    {
+        "cidade": "Itajaí",
+        "uf": "SC",
+        "latitude": -26.910097,
+        "longitude": -48.670475,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Palhoça",
+        "uf": "SC",
+        "latitude": -27.645518,
+        "longitude": -48.669661,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

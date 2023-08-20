@@ -1,0 +1,104 @@
+[
+    {
+        "cidade": "Imperatriz",
+        "uf": "MA",
+        "latitude": -5.518471,
+        "longitude": -47.477726,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1489
+            }
+        ]
+    },
+    {
+        "cidade": "Paço do Lumiar",
+        "uf": "MA",
+        "latitude": -2.516573,
+        "longitude": -44.101886,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 117
+            }
+        ]
+    },
+    {
+        "cidade": "Santa Inês",
+        "uf": "MA",
+        "latitude": -3.651118,
+        "longitude": -45.37745,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3727
+            }
+        ]
+    },
+    {
+        "cidade": "São José de Ribamar",
+        "uf": "MA",
+        "latitude": -2.54704,
+        "longitude": -44.059745,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 97
+            }
+        ]
+    },
+    {
+        "cidade": "São Luís",
+        "uf": "MA",
+        "latitude": -2.538742,
+        "longitude": -44.282513,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 76943
+            }
+        ]
+    },
+    {
+        "cidade": "Timon",
+        "uf": "MA",
+        "latitude": -5.097692,
+        "longitude": -42.83292,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 62
+            }
+        ]
+    }
+]

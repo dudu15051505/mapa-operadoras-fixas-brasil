@@ -1,0 +1,468 @@
+[
+    {
+        "cidade": "Angra dos Reis",
+        "uf": "RJ",
+        "latitude": -23.001074,
+        "longitude": -44.31956,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 258
+            }
+        ]
+    },
+    {
+        "cidade": "Araruama",
+        "uf": "RJ",
+        "latitude": -22.869651,
+        "longitude": -42.332625,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 535
+            }
+        ]
+    },
+    {
+        "cidade": "Armação dos Búzios",
+        "uf": "RJ",
+        "latitude": -22.752846,
+        "longitude": -41.884559,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 153
+            }
+        ]
+    },
+    {
+        "cidade": "Barra Mansa",
+        "uf": "RJ",
+        "latitude": -22.548084,
+        "longitude": -44.175241,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12127
+            }
+        ]
+    },
+    {
+        "cidade": "Barra do Piraí",
+        "uf": "RJ",
+        "latitude": -22.471531,
+        "longitude": -43.826918,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 347
+            }
+        ]
+    },
+    {
+        "cidade": "Cabo Frio",
+        "uf": "RJ",
+        "latitude": -22.88943,
+        "longitude": -42.028595,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6620
+            }
+        ]
+    },
+    {
+        "cidade": "Campos dos Goytacazes",
+        "uf": "RJ",
+        "latitude": -21.762171,
+        "longitude": -41.318055,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 567
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7202
+            }
+        ]
+    },
+    {
+        "cidade": "Duque de Caxias",
+        "uf": "RJ",
+        "latitude": -22.785801,
+        "longitude": -43.304895,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1882
+            }
+        ]
+    },
+    {
+        "cidade": "Iguaba Grande",
+        "uf": "RJ",
+        "latitude": -22.849462,
+        "longitude": -42.229916,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 781
+            }
+        ]
+    },
+    {
+        "cidade": "Itaperuna",
+        "uf": "RJ",
+        "latitude": -21.199665,
+        "longitude": -41.879907,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 514
+            }
+        ]
+    },
+    {
+        "cidade": "Mangaratiba",
+        "uf": "RJ",
+        "latitude": -22.959402,
+        "longitude": -44.040892,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 432
+            }
+        ]
+    },
+    {
+        "cidade": "Nilópolis",
+        "uf": "RJ",
+        "latitude": -22.805658,
+        "longitude": -43.423344,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1168
+            }
+        ]
+    },
+    {
+        "cidade": "Niterói",
+        "uf": "RJ",
+        "latitude": -22.88321,
+        "longitude": -43.103367,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3031
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15337
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Iguaçu",
+        "uf": "RJ",
+        "latitude": -22.755635,
+        "longitude": -43.460325,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1906
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3747
+            }
+        ]
+    },
+    {
+        "cidade": "Paraty",
+        "uf": "RJ",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 465
+            }
+        ]
+    },
+    {
+        "cidade": "Petrópolis",
+        "uf": "RJ",
+        "latitude": -22.519963,
+        "longitude": -43.192613,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 117
+            }
+        ]
+    },
+    {
+        "cidade": "Resende",
+        "uf": "RJ",
+        "latitude": -22.470473,
+        "longitude": -44.45091,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 313
+            }
+        ]
+    },
+    {
+        "cidade": "Rio Bonito",
+        "uf": "RJ",
+        "latitude": -22.71811,
+        "longitude": -42.627574,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 641
+            }
+        ]
+    },
+    {
+        "cidade": "Rio das Ostras",
+        "uf": "RJ",
+        "latitude": -22.517378,
+        "longitude": -41.947509,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4545
+            }
+        ]
+    },
+    {
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 9422
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 126183
+            }
+        ]
+    },
+    {
+        "cidade": "São Gonçalo",
+        "uf": "RJ",
+        "latitude": -22.82679,
+        "longitude": -43.063351,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3466
+            }
+        ]
+    },
+    {
+        "cidade": "São Pedro da Aldeia",
+        "uf": "RJ",
+        "latitude": -22.842859,
+        "longitude": -42.102596,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 449
+            }
+        ]
+    },
+    {
+        "cidade": "Teresópolis",
+        "uf": "RJ",
+        "latitude": -22.416464,
+        "longitude": -42.97519,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 349
+            }
+        ]
+    },
+    {
+        "cidade": "Três Rios",
+        "uf": "RJ",
+        "latitude": -22.11651,
+        "longitude": -43.218533,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 437
+            }
+        ]
+    },
+    {
+        "cidade": "Valença",
+        "uf": "RJ",
+        "latitude": -22.244496,
+        "longitude": -43.71288,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 193
+            }
+        ]
+    },
+    {
+        "cidade": "Volta Redonda",
+        "uf": "RJ",
+        "latitude": -22.520212,
+        "longitude": -44.099555,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 18822
+            }
+        ]
+    }
+]

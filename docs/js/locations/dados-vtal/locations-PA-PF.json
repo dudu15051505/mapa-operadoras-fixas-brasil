@@ -1,0 +1,70 @@
+[
+    {
+        "cidade": "Ananindeua",
+        "uf": "PA",
+        "latitude": -1.363914,
+        "longitude": -48.374298,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 30272
+            }
+        ]
+    },
+    {
+        "cidade": "Belém",
+        "uf": "PA",
+        "latitude": -1.455396,
+        "longitude": -48.489756,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 88792
+            }
+        ]
+    },
+    {
+        "cidade": "Castanhal",
+        "uf": "PA",
+        "latitude": -1.297971,
+        "longitude": -47.916742,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1375
+            }
+        ]
+    },
+    {
+        "cidade": "Marabá",
+        "uf": "PA",
+        "latitude": -5.38075,
+        "longitude": -49.132672,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10281
+            }
+        ]
+    }
+]

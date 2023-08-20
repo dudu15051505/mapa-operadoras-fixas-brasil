@@ -1,0 +1,3123 @@
+[
+    {
+        "cidade": "Abaiara",
+        "uf": "CE",
+        "latitude": -7.345879,
+        "longitude": -39.04159,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Acarape",
+        "uf": "CE",
+        "latitude": null,
+        "longitude": null,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Acaraú",
+        "uf": "CE",
+        "latitude": -2.887689,
+        "longitude": -40.118306,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 91
+            }
+        ]
+    },
+    {
+        "cidade": "Acopiara",
+        "uf": "CE",
+        "latitude": -6.089114,
+        "longitude": -39.448042,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 95
+            }
+        ]
+    },
+    {
+        "cidade": "Aiuaba",
+        "uf": "CE",
+        "latitude": -6.571216,
+        "longitude": -40.11782,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "cidade": "Altaneira",
+        "uf": "CE",
+        "latitude": -6.998371,
+        "longitude": -39.7356,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Alto Santo",
+        "uf": "CE",
+        "latitude": -5.508941,
+        "longitude": -38.274318,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 36
+            }
+        ]
+    },
+    {
+        "cidade": "Apuiarés",
+        "uf": "CE",
+        "latitude": -3.945057,
+        "longitude": -39.43593,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Aquiraz",
+        "uf": "CE",
+        "latitude": -3.899293,
+        "longitude": -38.389563,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Aracati",
+        "uf": "CE",
+        "latitude": -4.558259,
+        "longitude": -37.767894,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
+        "cidade": "Aracoiaba",
+        "uf": "CE",
+        "latitude": -4.36872,
+        "longitude": -38.812512,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "cidade": "Ararendá",
+        "uf": "CE",
+        "latitude": -4.745667,
+        "longitude": -40.83099,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Araripe",
+        "uf": "CE",
+        "latitude": -7.213195,
+        "longitude": -40.135894,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Aratuba",
+        "uf": "CE",
+        "latitude": -4.412291,
+        "longitude": -39.047117,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Arneiroz",
+        "uf": "CE",
+        "latitude": -6.316499,
+        "longitude": -40.165285,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Assaré",
+        "uf": "CE",
+        "latitude": -6.866897,
+        "longitude": -39.868872,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Aurora",
+        "uf": "CE",
+        "latitude": -6.933487,
+        "longitude": -38.974221,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "cidade": "Baixio",
+        "uf": "CE",
+        "latitude": -6.719447,
+        "longitude": -38.713376,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Banabuiú",
+        "uf": "CE",
+        "latitude": -5.304544,
+        "longitude": -38.913175,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 38
+            }
+        ]
+    },
+    {
+        "cidade": "Barbalha",
+        "uf": "CE",
+        "latitude": -7.298203,
+        "longitude": -39.30208,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 288
+            }
+        ]
+    },
+    {
+        "cidade": "Barro",
+        "uf": "CE",
+        "latitude": -7.171879,
+        "longitude": -38.774133,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Barroquinha",
+        "uf": "CE",
+        "latitude": -3.020514,
+        "longitude": -41.13585,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Baturité",
+        "uf": "CE",
+        "latitude": -4.325983,
+        "longitude": -38.881206,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 81
+            }
+        ]
+    },
+    {
+        "cidade": "Beberibe",
+        "uf": "CE",
+        "latitude": -4.177415,
+        "longitude": -38.127075,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Bela Cruz",
+        "uf": "CE",
+        "latitude": -3.049964,
+        "longitude": -40.167127,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Boa Viagem",
+        "uf": "CE",
+        "latitude": -5.112583,
+        "longitude": -39.733652,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "cidade": "Brejo Santo",
+        "uf": "CE",
+        "latitude": -7.484686,
+        "longitude": -38.979911,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 228
+            }
+        ]
+    },
+    {
+        "cidade": "Camocim",
+        "uf": "CE",
+        "latitude": -2.900499,
+        "longitude": -40.854362,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Campos Sales",
+        "uf": "CE",
+        "latitude": -7.067611,
+        "longitude": -40.368678,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "cidade": "Canindé",
+        "uf": "CE",
+        "latitude": -4.351618,
+        "longitude": -39.315505,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 32
+            }
+        ]
+    },
+    {
+        "cidade": "Capistrano",
+        "uf": "CE",
+        "latitude": -4.455688,
+        "longitude": -38.904842,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Caridade",
+        "uf": "CE",
+        "latitude": -4.225141,
+        "longitude": -39.191166,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Caririaçu",
+        "uf": "CE",
+        "latitude": -7.028076,
+        "longitude": -39.28276,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Cariré",
+        "uf": "CE",
+        "latitude": -3.948584,
+        "longitude": -40.476028,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Cariús",
+        "uf": "CE",
+        "latitude": -6.524282,
+        "longitude": -39.491619,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "cidade": "Cascavel",
+        "uf": "CE",
+        "latitude": -4.129666,
+        "longitude": -38.241178,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 104
+            }
+        ]
+    },
+    {
+        "cidade": "Catarina",
+        "uf": "CE",
+        "latitude": -6.122911,
+        "longitude": -39.873644,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Catunda",
+        "uf": "CE",
+        "latitude": -4.64336,
+        "longitude": -40.199988,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Caucaia",
+        "uf": "CE",
+        "latitude": -3.727966,
+        "longitude": -38.661931,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 24
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 162
+            }
+        ]
+    },
+    {
+        "cidade": "Cedro",
+        "uf": "CE",
+        "latitude": -6.600342,
+        "longitude": -39.060869,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 37
+            }
+        ]
+    },
+    {
+        "cidade": "Chaval",
+        "uf": "CE",
+        "latitude": -3.035708,
+        "longitude": -41.24346,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Chorozinho",
+        "uf": "CE",
+        "latitude": -4.28873,
+        "longitude": -38.498572,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Choró",
+        "uf": "CE",
+        "latitude": -4.839062,
+        "longitude": -39.134397,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Crateús",
+        "uf": "CE",
+        "latitude": -5.167683,
+        "longitude": -40.653635,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 248
+            }
+        ]
+    },
+    {
+        "cidade": "Crato",
+        "uf": "CE",
+        "latitude": -7.215303,
+        "longitude": -39.410299,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 36
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 930
+            }
+        ]
+    },
+    {
+        "cidade": "Croatá",
+        "uf": "CE",
+        "latitude": -4.404805,
+        "longitude": -40.902228,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cruz",
+        "uf": "CE",
+        "latitude": -2.918128,
+        "longitude": -40.175981,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Deputado Irapuan Pinheiro",
+        "uf": "CE",
+        "latitude": -5.914848,
+        "longitude": -39.25701,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Ererê",
+        "uf": "CE",
+        "latitude": -6.027508,
+        "longitude": -38.346113,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 18
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Eusébio",
+        "uf": "CE",
+        "latitude": -3.892501,
+        "longitude": -38.455875,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 157
+            }
+        ]
+    },
+    {
+        "cidade": "Farias Brito",
+        "uf": "CE",
+        "latitude": -6.92146,
+        "longitude": -39.565114,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Forquilha",
+        "uf": "CE",
+        "latitude": -3.799447,
+        "longitude": -40.263405,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 28
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3240
+            }
+        ]
+    },
+    {
+        "cidade": "Fortim",
+        "uf": "CE",
+        "latitude": -4.451256,
+        "longitude": -37.798056,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "General Sampaio",
+        "uf": "CE",
+        "latitude": -4.043507,
+        "longitude": -39.453958,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Granja",
+        "uf": "CE",
+        "latitude": -3.127879,
+        "longitude": -40.837205,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Granjeiro",
+        "uf": "CE",
+        "latitude": -6.88134,
+        "longitude": -39.21439,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Guaiúba",
+        "uf": "CE",
+        "latitude": -4.040571,
+        "longitude": -38.640372,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Guaraciaba do Norte",
+        "uf": "CE",
+        "latitude": -4.158136,
+        "longitude": -40.747588,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 26
+            }
+        ]
+    },
+    {
+        "cidade": "Guaramiranga",
+        "uf": "CE",
+        "latitude": -4.262477,
+        "longitude": -38.932044,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Horizonte",
+        "uf": "CE",
+        "latitude": -4.120896,
+        "longitude": -38.470674,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 189
+            }
+        ]
+    },
+    {
+        "cidade": "Ibaretama",
+        "uf": "CE",
+        "latitude": -4.803764,
+        "longitude": -38.750085,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Ibiapina",
+        "uf": "CE",
+        "latitude": -3.924025,
+        "longitude": -40.891147,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 18
+            }
+        ]
+    },
+    {
+        "cidade": "Ibicuitinga",
+        "uf": "CE",
+        "latitude": -4.969993,
+        "longitude": -38.636249,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "cidade": "Icapuí",
+        "uf": "CE",
+        "latitude": -4.712063,
+        "longitude": -37.353062,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Icó",
+        "uf": "CE",
+        "latitude": -6.396271,
+        "longitude": -38.855352,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 24
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 305
+            }
+        ]
+    },
+    {
+        "cidade": "Iguatu",
+        "uf": "CE",
+        "latitude": -6.362806,
+        "longitude": -39.28915,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 41
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 755
+            }
+        ]
+    },
+    {
+        "cidade": "Independência",
+        "uf": "CE",
+        "latitude": -5.387889,
+        "longitude": -40.308526,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Ipaporanga",
+        "uf": "CE",
+        "latitude": -4.897636,
+        "longitude": -40.753705,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Ipaumirim",
+        "uf": "CE",
+        "latitude": -6.782648,
+        "longitude": -38.717856,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "cidade": "Ipu",
+        "uf": "CE",
+        "latitude": -4.317484,
+        "longitude": -40.705877,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 26
+            }
+        ]
+    },
+    {
+        "cidade": "Ipueiras",
+        "uf": "CE",
+        "latitude": -4.538021,
+        "longitude": -40.711764,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Iracema",
+        "uf": "CE",
+        "latitude": -5.8124,
+        "longitude": -38.291943,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 24
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 87
+            }
+        ]
+    },
+    {
+        "cidade": "Irauçuba",
+        "uf": "CE",
+        "latitude": -3.747367,
+        "longitude": -39.784332,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Itaitinga",
+        "uf": "CE",
+        "latitude": -3.965768,
+        "longitude": -38.529763,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Itaiçaba",
+        "uf": "CE",
+        "latitude": -4.671461,
+        "longitude": -37.832957,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Itapajé",
+        "uf": "CE",
+        "latitude": -3.683137,
+        "longitude": -39.585531,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 41
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 100
+            }
+        ]
+    },
+    {
+        "cidade": "Itapipoca",
+        "uf": "CE",
+        "latitude": -3.499329,
+        "longitude": -39.583571,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 261
+            }
+        ]
+    },
+    {
+        "cidade": "Itapiúna",
+        "uf": "CE",
+        "latitude": -4.555165,
+        "longitude": -38.928113,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Itarema",
+        "uf": "CE",
+        "latitude": -2.924797,
+        "longitude": -39.916654,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Itatira",
+        "uf": "CE",
+        "latitude": -4.526076,
+        "longitude": -39.620155,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Jaguaretama",
+        "uf": "CE",
+        "latitude": -5.605096,
+        "longitude": -38.763861,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 36
+            }
+        ]
+    },
+    {
+        "cidade": "Jaguaribara",
+        "uf": "CE",
+        "latitude": -5.677651,
+        "longitude": -38.535878,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 18
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 71
+            }
+        ]
+    },
+    {
+        "cidade": "Jaguaribe",
+        "uf": "CE",
+        "latitude": -5.902134,
+        "longitude": -38.622653,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 18
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 162
+            }
+        ]
+    },
+    {
+        "cidade": "Jaguaruana",
+        "uf": "CE",
+        "latitude": -4.831508,
+        "longitude": -37.780997,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Jardim",
+        "uf": "CE",
+        "latitude": -7.575989,
+        "longitude": -39.28262,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Jati",
+        "uf": "CE",
+        "latitude": -7.6797,
+        "longitude": -39.002871,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Jijoca de Jericoacoara",
+        "uf": "CE",
+        "latitude": -2.793312,
+        "longitude": -40.512742,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Juazeiro do Norte",
+        "uf": "CE",
+        "latitude": -7.196207,
+        "longitude": -39.307593,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 44
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2116
+            }
+        ]
+    },
+    {
+        "cidade": "Jucás",
+        "uf": "CE",
+        "latitude": -6.515229,
+        "longitude": -39.518679,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 21
+            }
+        ]
+    },
+    {
+        "cidade": "Lavras da Mangabeira",
+        "uf": "CE",
+        "latitude": -6.744801,
+        "longitude": -38.970619,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 39
+            }
+        ]
+    },
+    {
+        "cidade": "Limoeiro do Norte",
+        "uf": "CE",
+        "latitude": -5.143921,
+        "longitude": -38.084693,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 65
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 544
+            }
+        ]
+    },
+    {
+        "cidade": "Madalena",
+        "uf": "CE",
+        "latitude": -4.846012,
+        "longitude": -39.572542,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Maracanaú",
+        "uf": "CE",
+        "latitude": -3.86699,
+        "longitude": -38.625901,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 145
+            }
+        ]
+    },
+    {
+        "cidade": "Maranguape",
+        "uf": "CE",
+        "latitude": -3.891432,
+        "longitude": -38.682911,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 69
+            }
+        ]
+    },
+    {
+        "cidade": "Marco",
+        "uf": "CE",
+        "latitude": -3.128501,
+        "longitude": -40.15824,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Martinópole",
+        "uf": "CE",
+        "latitude": -3.225198,
+        "longitude": -40.689581,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Massapê",
+        "uf": "CE",
+        "latitude": -3.523645,
+        "longitude": -40.342271,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Mauriti",
+        "uf": "CE",
+        "latitude": -7.385974,
+        "longitude": -38.770786,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "cidade": "Meruoca",
+        "uf": "CE",
+        "latitude": -3.539741,
+        "longitude": -40.453106,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Milagres",
+        "uf": "CE",
+        "latitude": -7.297492,
+        "longitude": -38.937829,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 63
+            }
+        ]
+    },
+    {
+        "cidade": "Milhã",
+        "uf": "CE",
+        "latitude": -5.672525,
+        "longitude": -39.187483,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Miraíma",
+        "uf": "CE",
+        "latitude": -3.568674,
+        "longitude": -39.966267,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Missão Velha",
+        "uf": "CE",
+        "latitude": -7.235219,
+        "longitude": -39.143046,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 86
+            }
+        ]
+    },
+    {
+        "cidade": "Mombaça",
+        "uf": "CE",
+        "latitude": -5.738442,
+        "longitude": -39.630009,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 69
+            }
+        ]
+    },
+    {
+        "cidade": "Monsenhor Tabosa",
+        "uf": "CE",
+        "latitude": -4.791022,
+        "longitude": -40.064637,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Morada Nova",
+        "uf": "CE",
+        "latitude": -5.09736,
+        "longitude": -38.370158,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 312
+            }
+        ]
+    },
+    {
+        "cidade": "Morrinhos",
+        "uf": "CE",
+        "latitude": -3.234258,
+        "longitude": -40.123275,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Mucambo",
+        "uf": "CE",
+        "latitude": -3.902714,
+        "longitude": -40.745222,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Mulungu",
+        "uf": "CE",
+        "latitude": -4.302938,
+        "longitude": -38.995133,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Olinda",
+        "uf": "CE",
+        "latitude": -7.084145,
+        "longitude": -39.67128,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Nova Russas",
+        "uf": "CE",
+        "latitude": -4.705807,
+        "longitude": -40.562118,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "cidade": "Novo Oriente",
+        "uf": "CE",
+        "latitude": -5.525519,
+        "longitude": -40.771296,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ocara",
+        "uf": "CE",
+        "latitude": -4.48523,
+        "longitude": -38.593256,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Orós",
+        "uf": "CE",
+        "latitude": -6.251816,
+        "longitude": -38.905264,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 34
+            }
+        ]
+    },
+    {
+        "cidade": "Pacajus",
+        "uf": "CE",
+        "latitude": -4.171073,
+        "longitude": -38.464988,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 299
+            }
+        ]
+    },
+    {
+        "cidade": "Pacatuba",
+        "uf": "CE",
+        "latitude": -3.978396,
+        "longitude": -38.618296,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Pacoti",
+        "uf": "CE",
+        "latitude": -4.224918,
+        "longitude": -38.922011,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Palhano",
+        "uf": "CE",
+        "latitude": -4.736722,
+        "longitude": -37.965549,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Palmácia",
+        "uf": "CE",
+        "latitude": -4.138308,
+        "longitude": -38.844601,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Paracuru",
+        "uf": "CE",
+        "latitude": -3.41436,
+        "longitude": -39.030028,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Paraipaba",
+        "uf": "CE",
+        "latitude": -3.437987,
+        "longitude": -39.147868,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "cidade": "Parambu",
+        "uf": "CE",
+        "latitude": -6.207681,
+        "longitude": -40.690524,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "cidade": "Paramoti",
+        "uf": "CE",
+        "latitude": -4.088146,
+        "longitude": -39.241691,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Pedra Branca",
+        "uf": "CE",
+        "latitude": -5.453411,
+        "longitude": -39.707771,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 36
+            }
+        ]
+    },
+    {
+        "cidade": "Penaforte",
+        "uf": "CE",
+        "latitude": -7.82163,
+        "longitude": -39.070724,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Pentecoste",
+        "uf": "CE",
+        "latitude": -3.792736,
+        "longitude": -39.269159,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Pereiro",
+        "uf": "CE",
+        "latitude": -6.035761,
+        "longitude": -38.462397,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 87
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 105
+            }
+        ]
+    },
+    {
+        "cidade": "Pindoretama",
+        "uf": "CE",
+        "latitude": -4.015839,
+        "longitude": -38.306118,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Piquet Carneiro",
+        "uf": "CE",
+        "latitude": -5.800251,
+        "longitude": -39.417017,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "cidade": "Porteiras",
+        "uf": "CE",
+        "latitude": -7.522647,
+        "longitude": -39.114028,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Potengi",
+        "uf": "CE",
+        "latitude": -7.09154,
+        "longitude": -40.023292,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Potiretama",
+        "uf": "CE",
+        "latitude": -5.71287,
+        "longitude": -38.157804,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 31
+            }
+        ]
+    },
+    {
+        "cidade": "Quiterianópolis",
+        "uf": "CE",
+        "latitude": -5.842496,
+        "longitude": -40.700217,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Quixadá",
+        "uf": "CE",
+        "latitude": -4.966301,
+        "longitude": -39.015474,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 73
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 550
+            }
+        ]
+    },
+    {
+        "cidade": "Quixelô",
+        "uf": "CE",
+        "latitude": -6.246369,
+        "longitude": -39.201067,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
+        "cidade": "Quixeramobim",
+        "uf": "CE",
+        "latitude": -5.190672,
+        "longitude": -39.288947,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 60
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 346
+            }
+        ]
+    },
+    {
+        "cidade": "Quixeré",
+        "uf": "CE",
+        "latitude": -5.071482,
+        "longitude": -37.9802,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 25
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 144
+            }
+        ]
+    },
+    {
+        "cidade": "Redenção",
+        "uf": "CE",
+        "latitude": -4.215873,
+        "longitude": -38.727719,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Russas",
+        "uf": "CE",
+        "latitude": -4.926727,
+        "longitude": -37.972086,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 35
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 458
+            }
+        ]
+    },
+    {
+        "cidade": "Saboeiro",
+        "uf": "CE",
+        "latitude": -6.534595,
+        "longitude": -39.90173,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "cidade": "Salitre",
+        "uf": "CE",
+        "latitude": -7.28398,
+        "longitude": -40.450013,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Santa Quitéria",
+        "uf": "CE",
+        "latitude": -4.326081,
+        "longitude": -40.152305,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "cidade": "Santana do Acaraú",
+        "uf": "CE",
+        "latitude": -3.461435,
+        "longitude": -40.211827,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Santana do Cariri",
+        "uf": "CE",
+        "latitude": -7.176125,
+        "longitude": -39.730161,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Senador Pompeu",
+        "uf": "CE",
+        "latitude": -5.582444,
+        "longitude": -39.370369,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 13
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 87
+            }
+        ]
+    },
+    {
+        "cidade": "Senador Sá",
+        "uf": "CE",
+        "latitude": -3.35305,
+        "longitude": -40.4662,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Sobral",
+        "uf": "CE",
+        "latitude": -3.689133,
+        "longitude": -40.34821,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 755
+            }
+        ]
+    },
+    {
+        "cidade": "Solonópole",
+        "uf": "CE",
+        "latitude": -5.718936,
+        "longitude": -39.01072,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "cidade": "São Benedito",
+        "uf": "CE",
+        "latitude": -4.047131,
+        "longitude": -40.859572,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 69
+            }
+        ]
+    },
+    {
+        "cidade": "São Gonçalo do Amarante",
+        "uf": "CE",
+        "latitude": -3.605149,
+        "longitude": -38.972646,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "São João do Jaguaribe",
+        "uf": "CE",
+        "latitude": -5.275164,
+        "longitude": -38.269366,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "cidade": "São Luís do Curu",
+        "uf": "CE",
+        "latitude": -3.66976,
+        "longitude": -39.239123,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Tabuleiro do Norte",
+        "uf": "CE",
+        "latitude": -5.243527,
+        "longitude": -38.128175,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 80
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 189
+            }
+        ]
+    },
+    {
+        "cidade": "Tamboril",
+        "uf": "CE",
+        "latitude": -4.831364,
+        "longitude": -40.319593,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Tarrafas",
+        "uf": "CE",
+        "latitude": -6.678376,
+        "longitude": -39.753048,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Tauá",
+        "uf": "CE",
+        "latitude": -5.985853,
+        "longitude": -40.296802,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 231
+            }
+        ]
+    },
+    {
+        "cidade": "Tianguá",
+        "uf": "CE",
+        "latitude": -3.729645,
+        "longitude": -40.992286,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 17
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 395
+            }
+        ]
+    },
+    {
+        "cidade": "Trairi",
+        "uf": "CE",
+        "latitude": -3.269323,
+        "longitude": -39.268126,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Tururu",
+        "uf": "CE",
+        "latitude": -3.584132,
+        "longitude": -39.429656,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Ubajara",
+        "uf": "CE",
+        "latitude": -3.854479,
+        "longitude": -40.920437,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 50
+            }
+        ]
+    },
+    {
+        "cidade": "Umari",
+        "uf": "CE",
+        "latitude": -6.638926,
+        "longitude": -38.700798,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Umirim",
+        "uf": "CE",
+        "latitude": -3.676541,
+        "longitude": -39.346513,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Uruburetama",
+        "uf": "CE",
+        "latitude": -3.623165,
+        "longitude": -39.510677,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Uruoca",
+        "uf": "CE",
+        "latitude": -3.308194,
+        "longitude": -40.56276,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Viçosa do Ceará",
+        "uf": "CE",
+        "latitude": -3.566703,
+        "longitude": -41.091554,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 36
+            }
+        ]
+    },
+    {
+        "cidade": "Várzea Alegre",
+        "uf": "CE",
+        "latitude": -6.782642,
+        "longitude": -39.294155,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 144
+            }
+        ]
+    }
+]

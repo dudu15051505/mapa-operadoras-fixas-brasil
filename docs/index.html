@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">		
 		<script type="text/javascript" defer>
 			function addPreloadJSON(linksArray, verOperadora) {
-				const basePath = verOperadora ? `./js/locations/${verOperadora}/` : `./js/locations/tim/`;
+				const basePath = verOperadora ? `./js/locations/dados-${verOperadora}/` : `./js/locations/dados-algar/`;
 				linksArray.forEach(link => {
 					const linkElement = document.createElement('link');
 					linkElement.rel = 'prefetch';
@@ -36,6 +36,10 @@
 				});
 
 				document.getElementById('aviso-fechar').addEventListener('click', function () {
+					document.getElementById('aviso').style.display = 'none';
+				});
+
+				document.getElementById('aviso-fechar2').addEventListener('click', function () {
 					document.getElementById('aviso').style.display = 'none';
 				});
 
@@ -100,13 +104,14 @@
 		</div>
 		<div id="aviso" class="leaflet-control">
 			<div id="aviso-conteudo">
+				<button id="aviso-fechar2">FECHAR</button>
 				<h3>&nbsp;Mapa com dados de Tecnologia e tipo de Cliente fornecidos pela operada a base da ANATEL&nbsp;</h3>
 				<br>
 				<h1><b>ESTE SITE ESTA EM PERÍODO ALPHA DE DESENVOLVIMENTO!</b></h1>
 				<h1><b>Poderá ocorrer erros e algumas informações processadas incorretamente!</b></h1>
 				<br>
 				<p><b>Este site não é afiliado à nem uma operadora</b></p>
-				<p><b>Os dados aqui apresentados são informados pela própria operadora a base da ANATEL, com dados consolidados de 01/2023 ate 06/2023</b></p>
+				<p><b>Os dados aqui apresentados são informados pela própria operadora a base da ANATEL, com dados de apenas 06/2023</b></p>
 				<p><b>Para ver os dados disponibilizados pela ANATEL acesse:</b></p>
 				<p><a href="https://informacoes.anatel.gov.br/paineis/acessos/banda-larga-fixa" target="_blank">https://informacoes.anatel.gov.br/paineis/acessos/banda-larga-fixa</a></p>
 				<p>Código fonte do site disponível no <a href="https://github.com/dudu15051505/mapa-operadoras-fixas-brasil" target="_blank">GitHub</a></p>

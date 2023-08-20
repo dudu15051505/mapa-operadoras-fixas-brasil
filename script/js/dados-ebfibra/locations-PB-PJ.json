@@ -1,0 +1,901 @@
+[
+    {
+        "cidade": "Alagoa Grande",
+        "uf": "PB",
+        "latitude": -7.039432,
+        "longitude": -35.620609,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Alagoinha",
+        "uf": "PB",
+        "latitude": -6.946569,
+        "longitude": -35.533196,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Alhandra",
+        "uf": "PB",
+        "latitude": -7.42977,
+        "longitude": -34.905662,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Araruna",
+        "uf": "PB",
+        "latitude": -6.548484,
+        "longitude": -35.7498,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Areia",
+        "uf": "PB",
+        "latitude": -6.963965,
+        "longitude": -35.697731,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Aroeiras",
+        "uf": "PB",
+        "latitude": -7.544731,
+        "longitude": -35.706549,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Bananeiras",
+        "uf": "PB",
+        "latitude": -6.747749,
+        "longitude": -35.624573,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Bayeux",
+        "uf": "PB",
+        "latitude": -7.123797,
+        "longitude": -34.929336,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Caaporã",
+        "uf": "PB",
+        "latitude": -7.513508,
+        "longitude": -34.905514,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Cabedelo",
+        "uf": "PB",
+        "latitude": -6.987314,
+        "longitude": -34.828409,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Cajazeiras",
+        "uf": "PB",
+        "latitude": -6.880044,
+        "longitude": -38.557722,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Campina Grande",
+        "uf": "PB",
+        "latitude": -7.221958,
+        "longitude": -35.873144,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 16
+            }
+        ]
+    },
+    {
+        "cidade": "Catolé do Rocha",
+        "uf": "PB",
+        "latitude": -6.340625,
+        "longitude": -37.746967,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Conceição",
+        "uf": "PB",
+        "latitude": -7.551063,
+        "longitude": -38.501437,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Conde",
+        "uf": "PB",
+        "latitude": -7.257464,
+        "longitude": -34.899876,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Cuité",
+        "uf": "PB",
+        "latitude": -6.476466,
+        "longitude": -36.151456,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Esperança",
+        "uf": "PB",
+        "latitude": -7.022783,
+        "longitude": -35.859719,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Guarabira",
+        "uf": "PB",
+        "latitude": -6.850636,
+        "longitude": -35.484986,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Gurinhém",
+        "uf": "PB",
+        "latitude": -7.1233,
+        "longitude": -35.422198,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Ingá",
+        "uf": "PB",
+        "latitude": -7.281444,
+        "longitude": -35.605,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Itabaiana",
+        "uf": "PB",
+        "latitude": -7.331674,
+        "longitude": -35.331723,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Itaporanga",
+        "uf": "PB",
+        "latitude": -7.302021,
+        "longitude": -38.150442,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 63
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 55
+            }
+        ]
+    },
+    {
+        "cidade": "Juazeirinho",
+        "uf": "PB",
+        "latitude": -7.060924,
+        "longitude": -36.579316,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Lagoa",
+        "uf": "PB",
+        "latitude": -6.585723,
+        "longitude": -37.912745,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Mamanguape",
+        "uf": "PB",
+        "latitude": -6.833698,
+        "longitude": -35.121316,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Massaranduba",
+        "uf": "PB",
+        "latitude": -7.18995,
+        "longitude": -35.784768,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Monteiro",
+        "uf": "PB",
+        "latitude": -7.883626,
+        "longitude": -37.118419,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Patos",
+        "uf": "PB",
+        "latitude": -7.017427,
+        "longitude": -37.274702,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Pedras de Fogo",
+        "uf": "PB",
+        "latitude": -7.391069,
+        "longitude": -35.106464,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Piancó",
+        "uf": "PB",
+        "latitude": -7.192823,
+        "longitude": -37.92888,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Picuí",
+        "uf": "PB",
+        "latitude": -6.508451,
+        "longitude": -36.349704,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Pocinhos",
+        "uf": "PB",
+        "latitude": -7.06658,
+        "longitude": -36.066779,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Pombal",
+        "uf": "PB",
+        "latitude": -6.766059,
+        "longitude": -37.80027,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Princesa Isabel",
+        "uf": "PB",
+        "latitude": -7.731747,
+        "longitude": -37.988647,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Queimadas",
+        "uf": "PB",
+        "latitude": -7.350288,
+        "longitude": -35.903136,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Rio Tinto",
+        "uf": "PB",
+        "latitude": -6.803828,
+        "longitude": -35.077569,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Santa Luzia",
+        "uf": "PB",
+        "latitude": -6.860922,
+        "longitude": -36.917792,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Santa Rita",
+        "uf": "PB",
+        "latitude": -7.117242,
+        "longitude": -34.975295,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Sapé",
+        "uf": "PB",
+        "latitude": -7.093591,
+        "longitude": -35.227975,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Sobrado",
+        "uf": "PB",
+        "latitude": -7.144288,
+        "longitude": -35.23574,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Soledade",
+        "uf": "PB",
+        "latitude": -7.058292,
+        "longitude": -36.366791,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Solânea",
+        "uf": "PB",
+        "latitude": -6.751606,
+        "longitude": -35.663568,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Sousa",
+        "uf": "PB",
+        "latitude": -6.751484,
+        "longitude": -38.231059,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "cidade": "Sumé",
+        "uf": "PB",
+        "latitude": -7.66206,
+        "longitude": -36.883972,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "São Bento",
+        "uf": "PB",
+        "latitude": -6.485286,
+        "longitude": -37.448835,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "São José de Piranhas",
+        "uf": "PB",
+        "latitude": -7.118704,
+        "longitude": -38.50198,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "cidade": "Teixeira",
+        "uf": "PB",
+        "latitude": -7.221036,
+        "longitude": -37.252477,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "Uiraúna",
+        "uf": "PB",
+        "latitude": -6.515044,
+        "longitude": -38.412754,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]
