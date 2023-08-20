@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	const telaErroElement = document.getElementById('telaerro');
    const map = L.map('map').setView([-14.235004, -51.925280], 5);
    
-   const getJsonPath = (verOperadora, filename) => verOperadora ? `./js/locations/${verOperadora}/${filename}` : `./js/locations/tim/${filename}`;
+   const getJsonPath = (verOperadora, filename) => verOperadora ? `./js/locations/dados-${verOperadora}/${filename}` : `./js/locations/dados-algar/${filename}`;
 
 	const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors',
@@ -97,9 +97,19 @@ document.addEventListener('DOMContentLoaded', function() {
 		locationLayers[`${sigla}-PJ`] = locations[`locations-${sigla}pj`];
 	}
 
-	const primeiraLinha = verOperadora === "oi" || verOperadora === "pequenas" ? false : true;
+	const operadorasPesadas = 	verOperadora === "oi" || 
+										verOperadora === "pequenas" ||
+										verOperadora === "hughes" ||
+										verOperadora === "starlink"
+				? false : true;
+
+	if(!operadorasPesadas) {
+		exibirErro(`<h3>A operadora selecionada possui muitos dados a serem exibidos <br> <br>
+		Selecione manualmente os tipos de dados a serem exibidos no menu <img src="./js/leaflet/images/layers.png"/> para exibir os dados</h3>`);
+	}
+	
 	const carregarMarcacoesMapa = siglasUF.flatMap(sigla => [
-		[primeiraLinha, `${sigla}-PF`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PF.json`), `${sigla}-PF`, 'green')],
+		[operadorasPesadas, `${sigla}-PF`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PF.json`), `${sigla}-PF`, 'green')],
   		[false, `${sigla}-PJ`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PJ.json`), `${sigla}-PJ`, 'black')]
 	]);
 
@@ -146,7 +156,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 					ocultarTelaErro();
 
-					map.setView([parseFloat(data[0].lat), parseFloat(data[0].lon)], 10);
+					map.setView([parseFloat(data[0].lat), parseFloat(data[0].lon)], 14);
 					L.marker([parseFloat(data[0].lat), parseFloat(data[0].lon)]).addTo(map);
 				} else {
 					console.error('Local não encontrado.');
@@ -249,13 +259,35 @@ document.addEventListener('DOMContentLoaded', function() {
 								icon: customIcon
 							});
 
+							let dadosCidade = '';
+							
+							//console.log(dadosJson.cidade, dadosJson["info-tecnologia"]);
+
+							for(let i = 0; i < dadosJson["info-tecnologia"].length; i++) {
+								//let dadosTecnologia = dadosJson["info-tecnologia"][i].map(item => item.valores);
+								//console.log(dadosJson.cidade, dadosTecnologia[0])
+
+								const dadosArreyJSON = dadosJson["info-tecnologia"][i];
+								//console.log(dadosJson.cidade, dadosArreyJSON);
+								//console.log(dadosJson.cidade, dadosArreyJSON["tecnologia"]);
+								//console.log(dadosJson.cidade, dadosArreyJSON["tipo-de-Produto"]);
+								//console.log(dadosJson.cidade, dadosArreyJSON["meio-de-acesso"]);
+								//console.log(dadosJson.cidade, dadosArreyJSON["quantidade-acesso"]);
+
+								dadosCidade += ` <br>
+									Tecnologia: ${dadosArreyJSON["tecnologia"]} <br>
+									Tipo de produto:  ${dadosArreyJSON["tipo-de-Produto"]} <br>
+									Meio de acesso: ${dadosArreyJSON["meio-de-acesso"]} <br>
+									Quantidade de acessos: ${dadosArreyJSON["quantidade-acesso"]} <br>
+								`;
+							}
+							
 							markerTexto = `
 							${dadosJson.cidade}, ${dadosJson.uf} <br> <br>
 							${dadosJson.empresa} <br>
+							CNPJ: ${dadosJson.cnpj} <br>
 							Tipo de cliente: ${dadosJson["pf-ou-pj"]} <br>
-							Tipo de produto: ${dadosJson["tipo-de-Produto"]} <br>
-							Meio de acesso: ${dadosJson["meio-de-acesso"]} <br>
-							Tecnologia: ${dadosJson.tecnologia} <br>
+							${dadosCidade}
 							`;
 
 							marker.bindPopup(markerTexto);	

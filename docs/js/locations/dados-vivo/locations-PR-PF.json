@@ -1,0 +1,650 @@
+[
+    {
+        "cidade": "Almirante Tamandaré",
+        "uf": "PR",
+        "latitude": -25.318819,
+        "longitude": -49.303733,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 582
+            }
+        ]
+    },
+    {
+        "cidade": "Apucarana",
+        "uf": "PR",
+        "latitude": -23.549961,
+        "longitude": -51.463486,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 775
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3430
+            }
+        ]
+    },
+    {
+        "cidade": "Arapongas",
+        "uf": "PR",
+        "latitude": -23.415296,
+        "longitude": -51.42592,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 828
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2232
+            }
+        ]
+    },
+    {
+        "cidade": "Araucária",
+        "uf": "PR",
+        "latitude": -25.585939,
+        "longitude": -49.404748,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1615
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 761
+            }
+        ]
+    },
+    {
+        "cidade": "Cambé",
+        "uf": "PR",
+        "latitude": -23.276575,
+        "longitude": -51.279832,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 363
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1639
+            }
+        ]
+    },
+    {
+        "cidade": "Campina Grande do Sul",
+        "uf": "PR",
+        "latitude": -25.30439,
+        "longitude": -49.055096,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 658
+            }
+        ]
+    },
+    {
+        "cidade": "Campo Largo",
+        "uf": "PR",
+        "latitude": -25.452535,
+        "longitude": -49.529026,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 758
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2928
+            }
+        ]
+    },
+    {
+        "cidade": "Campo Mourão",
+        "uf": "PR",
+        "latitude": -24.046329,
+        "longitude": -52.37802,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 912
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3712
+            }
+        ]
+    },
+    {
+        "cidade": "Cascavel",
+        "uf": "PR",
+        "latitude": -24.957301,
+        "longitude": -53.459005,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2267
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5185
+            }
+        ]
+    },
+    {
+        "cidade": "Cianorte",
+        "uf": "PR",
+        "latitude": -23.659859,
+        "longitude": -52.605444,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 527
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2339
+            }
+        ]
+    },
+    {
+        "cidade": "Colombo",
+        "uf": "PR",
+        "latitude": -25.292487,
+        "longitude": -49.22616,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 477
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1915
+            }
+        ]
+    },
+    {
+        "cidade": "Curitiba",
+        "uf": "PR",
+        "latitude": -25.419547,
+        "longitude": -49.264622,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 8278
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 108106
+            }
+        ]
+    },
+    {
+        "cidade": "Fazenda Rio Grande",
+        "uf": "PR",
+        "latitude": -25.662354,
+        "longitude": -49.30731,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1966
+            }
+        ]
+    },
+    {
+        "cidade": "Foz do Iguaçu",
+        "uf": "PR",
+        "latitude": -25.542748,
+        "longitude": -54.582689,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2999
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8275
+            }
+        ]
+    },
+    {
+        "cidade": "Francisco Beltrão",
+        "uf": "PR",
+        "latitude": -26.081677,
+        "longitude": -53.053466,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 203
+            }
+        ]
+    },
+    {
+        "cidade": "Guarapuava",
+        "uf": "PR",
+        "latitude": -25.390237,
+        "longitude": -51.462317,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 33
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2817
+            }
+        ]
+    },
+    {
+        "cidade": "Londrina",
+        "uf": "PR",
+        "latitude": -23.303975,
+        "longitude": -51.1691,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2245
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 32825
+            }
+        ]
+    },
+    {
+        "cidade": "Marialva",
+        "uf": "PR",
+        "latitude": -23.484316,
+        "longitude": -51.792802,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1669
+            }
+        ]
+    },
+    {
+        "cidade": "Maringá",
+        "uf": "PR",
+        "latitude": -23.420545,
+        "longitude": -51.933298,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2671
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22336
+            }
+        ]
+    },
+    {
+        "cidade": "Paiçandu",
+        "uf": "PR",
+        "latitude": -23.455534,
+        "longitude": -52.046013,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 406
+            }
+        ]
+    },
+    {
+        "cidade": "Paranavaí",
+        "uf": "PR",
+        "latitude": -23.08165,
+        "longitude": -52.461724,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 358
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1302
+            }
+        ]
+    },
+    {
+        "cidade": "Pato Branco",
+        "uf": "PR",
+        "latitude": -26.229237,
+        "longitude": -52.67063,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 51
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1033
+            }
+        ]
+    },
+    {
+        "cidade": "Pinhais",
+        "uf": "PR",
+        "latitude": -25.442949,
+        "longitude": -49.19267,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 197
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5106
+            }
+        ]
+    },
+    {
+        "cidade": "Ponta Grossa",
+        "uf": "PR",
+        "latitude": -25.091622,
+        "longitude": -50.166787,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2609
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6416
+            }
+        ]
+    },
+    {
+        "cidade": "Quatro Barras",
+        "uf": "PR",
+        "latitude": -25.367317,
+        "longitude": -49.076306,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 295
+            }
+        ]
+    },
+    {
+        "cidade": "Rolândia",
+        "uf": "PR",
+        "latitude": -23.31012,
+        "longitude": -51.365928,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 45
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2407
+            }
+        ]
+    },
+    {
+        "cidade": "Sarandi",
+        "uf": "PR",
+        "latitude": -23.444117,
+        "longitude": -51.876016,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1250
+            }
+        ]
+    },
+    {
+        "cidade": "São José dos Pinhais",
+        "uf": "PR",
+        "latitude": -25.531343,
+        "longitude": -49.203097,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2058
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5002
+            }
+        ]
+    },
+    {
+        "cidade": "Toledo",
+        "uf": "PR",
+        "latitude": -24.724641,
+        "longitude": -53.741177,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 630
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1974
+            }
+        ]
+    },
+    {
+        "cidade": "Umuarama",
+        "uf": "PR",
+        "latitude": -23.765634,
+        "longitude": -53.32011,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 624
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1464
+            }
+        ]
+    }
+]

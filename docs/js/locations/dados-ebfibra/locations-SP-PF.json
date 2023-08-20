@@ -1,0 +1,818 @@
+[
+    {
+        "cidade": "Mongaguá",
+        "uf": "SP",
+        "latitude": -24.080901,
+        "longitude": -46.626526,
+        "empresa": "EB FIBRA",
+        "cnpj": 501541000101,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10417
+            }
+        ]
+    },
+    {
+        "cidade": "Praia Grande",
+        "uf": "SP",
+        "latitude": -24.008378,
+        "longitude": -46.412057,
+        "empresa": "EB FIBRA",
+        "cnpj": 501541000101,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1366
+            }
+        ]
+    },
+    {
+        "cidade": "Guará",
+        "uf": "SP",
+        "latitude": -20.430162,
+        "longitude": -47.823626,
+        "empresa": "EB FIBRA",
+        "cnpj": 4483690000138,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1553
+            }
+        ]
+    },
+    {
+        "cidade": "Igarapava",
+        "uf": "SP",
+        "latitude": -20.040687,
+        "longitude": -47.746576,
+        "empresa": "EB FIBRA",
+        "cnpj": 4483690000138,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1327
+            }
+        ]
+    },
+    {
+        "cidade": "Ipuã",
+        "uf": "SP",
+        "latitude": -20.443785,
+        "longitude": -48.012881,
+        "empresa": "EB FIBRA",
+        "cnpj": 4483690000138,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 707
+            }
+        ]
+    },
+    {
+        "cidade": "Ituverava",
+        "uf": "SP",
+        "latitude": -20.335465,
+        "longitude": -47.790207,
+        "empresa": "EB FIBRA",
+        "cnpj": 4483690000138,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 334
+            }
+        ]
+    },
+    {
+        "cidade": "Morro Agudo",
+        "uf": "SP",
+        "latitude": -20.728828,
+        "longitude": -48.058084,
+        "empresa": "EB FIBRA",
+        "cnpj": 4483690000138,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 825
+            }
+        ]
+    },
+    {
+        "cidade": "Orlândia",
+        "uf": "SP",
+        "latitude": -20.716925,
+        "longitude": -47.885205,
+        "empresa": "EB FIBRA",
+        "cnpj": 4483690000138,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 649
+            }
+        ]
+    },
+    {
+        "cidade": "São Joaquim da Barra",
+        "uf": "SP",
+        "latitude": -20.581158,
+        "longitude": -47.859316,
+        "empresa": "EB FIBRA",
+        "cnpj": 4483690000138,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3195
+            }
+        ]
+    },
+    {
+        "cidade": "São José da Bela Vista",
+        "uf": "SP",
+        "latitude": -20.593548,
+        "longitude": -47.642413,
+        "empresa": "EB FIBRA",
+        "cnpj": 4483690000138,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 282
+            }
+        ]
+    },
+    {
+        "cidade": "Bertioga",
+        "uf": "SP",
+        "latitude": -23.848568,
+        "longitude": -46.139586,
+        "empresa": "EB FIBRA",
+        "cnpj": 7714104000107,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1038
+            }
+        ]
+    },
+    {
+        "cidade": "Caraguatatuba",
+        "uf": "SP",
+        "latitude": -23.612535,
+        "longitude": -45.412533,
+        "empresa": "EB FIBRA",
+        "cnpj": 7714104000107,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 28312
+            }
+        ]
+    },
+    {
+        "cidade": "Ilhabela",
+        "uf": "SP",
+        "latitude": -23.778533,
+        "longitude": -45.355226,
+        "empresa": "EB FIBRA",
+        "cnpj": 7714104000107,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9916
+            }
+        ]
+    },
+    {
+        "cidade": "Santos",
+        "uf": "SP",
+        "latitude": -23.953543,
+        "longitude": -46.335042,
+        "empresa": "EB FIBRA",
+        "cnpj": 7714104000107,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "cidade": "São Sebastião",
+        "uf": "SP",
+        "latitude": -23.795059,
+        "longitude": -45.414314,
+        "empresa": "EB FIBRA",
+        "cnpj": 7714104000107,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 27213
+            }
+        ]
+    },
+    {
+        "cidade": "Ubatuba",
+        "uf": "SP",
+        "latitude": -23.433162,
+        "longitude": -45.083415,
+        "empresa": "EB FIBRA",
+        "cnpj": 7714104000107,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 74
+            }
+        ]
+    },
+    {
+        "cidade": "Caçapava",
+        "uf": "SP",
+        "latitude": -23.099204,
+        "longitude": -45.707645,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 463
+            }
+        ]
+    },
+    {
+        "cidade": "Diadema",
+        "uf": "SP",
+        "latitude": -23.681347,
+        "longitude": -46.62052,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7404
+            }
+        ]
+    },
+    {
+        "cidade": "Ferraz de Vasconcelos",
+        "uf": "SP",
+        "latitude": -23.541056,
+        "longitude": -46.37097,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3674
+            }
+        ]
+    },
+    {
+        "cidade": "Guarulhos",
+        "uf": "SP",
+        "latitude": -23.453758,
+        "longitude": -46.533347,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 23902
+            }
+        ]
+    },
+    {
+        "cidade": "Itaquaquecetuba",
+        "uf": "SP",
+        "latitude": -23.483481,
+        "longitude": -46.345724,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "cidade": "Itariri",
+        "uf": "SP",
+        "latitude": -24.283404,
+        "longitude": -47.173619,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "cidade": "Jacareí",
+        "uf": "SP",
+        "latitude": -23.29829,
+        "longitude": -45.965814,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2066
+            }
+        ]
+    },
+    {
+        "cidade": "Mauá",
+        "uf": "SP",
+        "latitude": -23.66767,
+        "longitude": -46.461263,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 21710
+            }
+        ]
+    },
+    {
+        "cidade": "Mogi das Cruzes",
+        "uf": "SP",
+        "latitude": -23.52082,
+        "longitude": -46.18541,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5439
+            }
+        ]
+    },
+    {
+        "cidade": "Poá",
+        "uf": "SP",
+        "latitude": -23.533285,
+        "longitude": -46.347292,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 28
+            }
+        ]
+    },
+    {
+        "cidade": "Ribeirão Pires",
+        "uf": "SP",
+        "latitude": -23.706669,
+        "longitude": -46.405805,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10334
+            }
+        ]
+    },
+    {
+        "cidade": "Rio Grande da Serra",
+        "uf": "SP",
+        "latitude": -23.743724,
+        "longitude": -46.397084,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1901
+            }
+        ]
+    },
+    {
+        "cidade": "Santo André",
+        "uf": "SP",
+        "latitude": -23.67373,
+        "longitude": -46.543154,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 264
+            }
+        ]
+    },
+    {
+        "cidade": "Suzano",
+        "uf": "SP",
+        "latitude": -23.544828,
+        "longitude": -46.311181,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9542
+            }
+        ]
+    },
+    {
+        "cidade": "São Bernardo do Campo",
+        "uf": "SP",
+        "latitude": -23.691412,
+        "longitude": -46.564617,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 602
+            }
+        ]
+    },
+    {
+        "cidade": "São José dos Campos",
+        "uf": "SP",
+        "latitude": -23.189554,
+        "longitude": -45.884115,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1296
+            }
+        ]
+    },
+    {
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 99009
+            }
+        ]
+    },
+    {
+        "cidade": "Taubaté",
+        "uf": "SP",
+        "latitude": -23.010414,
+        "longitude": -45.55926,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2908
+            }
+        ]
+    },
+    {
+        "cidade": "Tremembé",
+        "uf": "SP",
+        "latitude": -22.95714,
+        "longitude": -45.547526,
+        "empresa": "EB FIBRA",
+        "cnpj": 13330765000131,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 110
+            }
+        ]
+    },
+    {
+        "cidade": "Bertioga",
+        "uf": "SP",
+        "latitude": -23.848568,
+        "longitude": -46.139586,
+        "empresa": "EB FIBRA",
+        "cnpj": 15163190000135,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4504
+            }
+        ]
+    },
+    {
+        "cidade": "Cubatão",
+        "uf": "SP",
+        "latitude": -23.891121,
+        "longitude": -46.423968,
+        "empresa": "EB FIBRA",
+        "cnpj": 15163190000135,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1945
+            }
+        ]
+    },
+    {
+        "cidade": "Guarujá",
+        "uf": "SP",
+        "latitude": -23.988798,
+        "longitude": -46.257959,
+        "empresa": "EB FIBRA",
+        "cnpj": 15163190000135,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 34067
+            }
+        ]
+    },
+    {
+        "cidade": "Itanhaém",
+        "uf": "SP",
+        "latitude": -24.173633,
+        "longitude": -46.787986,
+        "empresa": "EB FIBRA",
+        "cnpj": 15163190000135,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 488
+            }
+        ]
+    },
+    {
+        "cidade": "Peruíbe",
+        "uf": "SP",
+        "latitude": -24.311974,
+        "longitude": -47.0012,
+        "empresa": "EB FIBRA",
+        "cnpj": 15163190000135,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 387
+            }
+        ]
+    },
+    {
+        "cidade": "Praia Grande",
+        "uf": "SP",
+        "latitude": -24.008378,
+        "longitude": -46.412057,
+        "empresa": "EB FIBRA",
+        "cnpj": 15163190000135,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5293
+            }
+        ]
+    },
+    {
+        "cidade": "Ribeirão Preto",
+        "uf": "SP",
+        "latitude": -21.169923,
+        "longitude": -47.809875,
+        "empresa": "EB FIBRA",
+        "cnpj": 15163190000135,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6087
+            }
+        ]
+    },
+    {
+        "cidade": "Santos",
+        "uf": "SP",
+        "latitude": -23.953543,
+        "longitude": -46.335042,
+        "empresa": "EB FIBRA",
+        "cnpj": 15163190000135,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10228
+            }
+        ]
+    },
+    {
+        "cidade": "São Vicente",
+        "uf": "SP",
+        "latitude": -23.957353,
+        "longitude": -46.388333,
+        "empresa": "EB FIBRA",
+        "cnpj": 15163190000135,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8042
+            }
+        ]
+    },
+    {
+        "cidade": "Altinópolis",
+        "uf": "SP",
+        "latitude": -21.021364,
+        "longitude": -47.3712,
+        "empresa": "EB FIBRA",
+        "cnpj": 20326556000180,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 773
+            }
+        ]
+    },
+    {
+        "cidade": "Franca",
+        "uf": "SP",
+        "latitude": -20.53523,
+        "longitude": -47.403861,
+        "empresa": "EB FIBRA",
+        "cnpj": 20326556000180,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10039
+            }
+        ]
+    },
+    {
+        "cidade": "Itirapuã",
+        "uf": "SP",
+        "latitude": -20.641585,
+        "longitude": -47.219446,
+        "empresa": "EB FIBRA",
+        "cnpj": 20326556000180,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 559
+            }
+        ]
+    },
+    {
+        "cidade": "Patrocínio Paulista",
+        "uf": "SP",
+        "latitude": -20.638361,
+        "longitude": -47.280124,
+        "empresa": "EB FIBRA",
+        "cnpj": 20326556000180,
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 926
+            }
+        ]
+    }
+]

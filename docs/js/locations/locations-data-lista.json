@@ -1,38 +1,67 @@
 [
-  
   {
-    "operadora": "TIM",
-    "valorCampo": "tim",
-    "informacaoExtra": "Mapa peso ok"
+    "operadora": "ALGAR",
+    "valorCampo": "algar",
+    "informacaoExtra": "Mapa peso leve"
   },
   {
-    "operadora": "SKY",
-    "valorCampo": "sky",
-    "informacaoExtra": "Mapa peso ok"
-  },
-  {
-    "operadora": "VIVO",
-    "valorCampo": "vivo",
-    "informacaoExtra": "Mapa peso medio"
+    "operadora": "Brisanet",
+    "valorCampo": "brisanet",
+    "informacaoExtra": "Mapa peso leve"
   },
   {
     "operadora": "CLARO",
     "valorCampo": "claro",
-    "informacaoExtra": "Mapa peso medio"
+    "informacaoExtra": "Mapa peso médio"
   },
   {
-    "operadora": "VTAL",
-    "valorCampo": "vtal",
-    "informacaoExtra": "Mapa ok - Os dados foram filtrados para exibir apenas os dados de FTTH da OI, não a exatamente dados da VTAL no portal da anatel"
+    "operadora": "Desktop",
+    "valorCampo": "desktop",
+    "informacaoExtra": "Mapa peso leve"
+  },
+  {
+    "operadora": "EB FIBRA",
+    "valorCampo": "ebfibra",
+    "informacaoExtra": "Mapa peso leve"
+  },
+  {
+    "operadora": "Hughes",
+    "valorCampo": "hughes",
+    "informacaoExtra": "Mapa peso pesado"
   },
   {
     "operadora": "OI",
     "valorCampo": "oi",
-    "informacaoExtra": "Mapa EXTREMAMENTE PESADO - Ative cada estado individualmente para não travar seu pc/celular"
+    "informacaoExtra": "Mapa peso pesado"
   },
   {
-    "operadora": "Pequenas Operadoras",
+    "operadora": "Pequenas",
     "valorCampo": "pequenas",
-    "informacaoExtra": "Mapa EXTREMAMENTE PESADO - Ative cada estado individualmente para não travar seu pc/celular"
-  }
+    "informacaoExtra": "Mapa peso pesado"
+  },
+  {
+    "operadora": "Starlink",
+    "valorCampo": "starlink",
+    "informacaoExtra": "Mapa peso pesado"
+  },
+  {
+    "operadora": "TIM",
+    "valorCampo": "tim",
+    "informacaoExtra": "Mapa peso leve"
+  },
+  {
+    "operadora": "VERO",
+    "valorCampo": "vero",
+    "informacaoExtra": "Mapa peso leve"
+  },
+  {
+    "operadora": "VIVO",
+    "valorCampo": "vivo",
+    "informacaoExtra": "Mapa peso médio"
+  },
+  {
+    "operadora": "VTAL",
+    "valorCampo": "vtal",
+    "informacaoExtra": "Mapa peso leve - Atenção não existe exatamente dados da vtal, este mapa é apenas um filtro da tecnologia FTTH da operadora OI que utiliza apenas rede ftth da vtal"
+  } 
 ]
