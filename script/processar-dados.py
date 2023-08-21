@@ -22,7 +22,7 @@ if os.path.exists(output_folder):
 os.makedirs(output_folder)
 
 # Lê o arquivo CSV de dados de trabalho
-dados_df = pd.read_csv('dados-para-trabalho.csv', sep=';', low_memory=False)
+dados_df = pd.read_csv('Acessos_Banda_Larga_Fixa_2023_Colunas.csv', sep=';', low_memory=False)
 
 # Lê o arquivo CSV de latitude e longitude
 lat_lon_df = pd.read_csv('latitude-longitude-cidades-powershell.csv')
