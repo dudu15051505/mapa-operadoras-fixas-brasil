@@ -1,0 +1,140 @@
+[
+    {
+        "identifier": "2421421000111-Duque de Caxias-RJ-TIM-Pessoa Física",
+        "cidade": "Duque de Caxias",
+        "uf": "RJ",
+        "latitude": -22.785801,
+        "longitude": -43.304895,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9020
+            },
+            {
+                "tecnologia": "VDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5008
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Nilópolis-RJ-TIM-Pessoa Física",
+        "cidade": "Nilópolis",
+        "uf": "RJ",
+        "latitude": -22.805658,
+        "longitude": -43.423344,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5065
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Nova Iguaçu-RJ-TIM-Pessoa Física",
+        "cidade": "Nova Iguaçu",
+        "uf": "RJ",
+        "latitude": -22.755635,
+        "longitude": -43.460325,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4887
+            },
+            {
+                "tecnologia": "VDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5632
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Rio de Janeiro-RJ-TIM-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 90331
+            },
+            {
+                "tecnologia": "VDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 31734
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São Gonçalo-RJ-TIM-Pessoa Física",
+        "cidade": "São Gonçalo",
+        "uf": "RJ",
+        "latitude": -22.82679,
+        "longitude": -43.063351,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7375
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São João de Meriti-RJ-TIM-Pessoa Física",
+        "cidade": "São João de Meriti",
+        "uf": "RJ",
+        "latitude": -22.805776,
+        "longitude": -43.37292,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5848
+            }
+        ]
+    }
+]

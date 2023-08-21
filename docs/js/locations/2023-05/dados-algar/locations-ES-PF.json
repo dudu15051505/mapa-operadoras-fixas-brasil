@@ -1,0 +1,166 @@
+[
+    {
+        "identifier": "5872814000130-Cariacica-ES-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Cariacica",
+        "uf": "ES",
+        "latitude": -20.263202,
+        "longitude": -40.416549,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 196
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Serra-ES-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Serra",
+        "uf": "ES",
+        "latitude": -20.121032,
+        "longitude": -40.307408,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 270
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Vila Velha-ES-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Vila Velha",
+        "uf": "ES",
+        "latitude": -20.341705,
+        "longitude": -40.287458,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 349
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Vitória-ES-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Vitória",
+        "uf": "ES",
+        "latitude": -20.315472,
+        "longitude": -40.312806,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 350
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "71208516000174-Cariacica-ES-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Cariacica",
+        "uf": "ES",
+        "latitude": -20.263202,
+        "longitude": -40.416549,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "71208516000174-Serra-ES-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Serra",
+        "uf": "ES",
+        "latitude": -20.121032,
+        "longitude": -40.307408,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "71208516000174-Vila Velha-ES-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Vila Velha",
+        "uf": "ES",
+        "latitude": -20.341705,
+        "longitude": -40.287458,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 16
+            }
+        ]
+    },
+    {
+        "identifier": "71208516000174-Vitória-ES-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Vitória",
+        "uf": "ES",
+        "latitude": -20.315472,
+        "longitude": -40.312806,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15
+            }
+        ]
+    }
+]

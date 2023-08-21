@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "497373000110-Maceió-AL-SKY/AT&T-Pessoa Física",
+        "cidade": "Maceió",
+        "uf": "AL",
+        "latitude": -9.665985,
+        "longitude": -35.73496,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Penedo-AL-SKY/AT&T-Pessoa Física",
+        "cidade": "Penedo",
+        "uf": "AL",
+        "latitude": -10.287422,
+        "longitude": -36.581905,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-São Luís do Quitunde-AL-SKY/AT&T-Pessoa Física",
+        "cidade": "São Luís do Quitunde",
+        "uf": "AL",
+        "latitude": -9.31816,
+        "longitude": -35.560553,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Teotônio Vilela-AL-SKY/AT&T-Pessoa Física",
+        "cidade": "Teotônio Vilela",
+        "uf": "AL",
+        "latitude": -9.916562,
+        "longitude": -36.349212,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    }
+]

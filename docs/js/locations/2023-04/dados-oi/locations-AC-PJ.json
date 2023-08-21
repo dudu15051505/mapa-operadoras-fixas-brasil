@@ -1,0 +1,990 @@
+[
+    {
+        "identifier": "76535764000143-Acrelândia-AC-OI-Pessoa Jurídica",
+        "cidade": "Acrelândia",
+        "uf": "AC",
+        "latitude": -9.825808,
+        "longitude": -66.897166,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 19
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Assis Brasil-AC-OI-Pessoa Jurídica",
+        "cidade": "Assis Brasil",
+        "uf": "AC",
+        "latitude": -10.929765,
+        "longitude": -69.573794,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 13
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Brasiléia-AC-OI-Pessoa Jurídica",
+        "cidade": "Brasiléia",
+        "uf": "AC",
+        "latitude": -10.994994,
+        "longitude": -68.749696,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 27
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 42
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 25
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Bujari-AC-OI-Pessoa Jurídica",
+        "cidade": "Bujari",
+        "uf": "AC",
+        "latitude": -9.815277,
+        "longitude": -67.955029,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Capixaba-AC-OI-Pessoa Jurídica",
+        "cidade": "Capixaba",
+        "uf": "AC",
+        "latitude": -10.566031,
+        "longitude": -67.686006,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 13
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Cruzeiro do Sul-AC-OI-Pessoa Jurídica",
+        "cidade": "Cruzeiro do Sul",
+        "uf": "AC",
+        "latitude": -7.627625,
+        "longitude": -72.675582,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 42
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 175
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 33
+            },
+            {
+                "tecnologia": "FR",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 95
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Epitaciolândia-AC-OI-Pessoa Jurídica",
+        "cidade": "Epitaciolândia",
+        "uf": "AC",
+        "latitude": -11.018771,
+        "longitude": -68.734109,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 16
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 20
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FR",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Feijó-AC-OI-Pessoa Jurídica",
+        "cidade": "Feijó",
+        "uf": "AC",
+        "latitude": -8.170536,
+        "longitude": -70.350973,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 15
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 35
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15
+            },
+            {
+                "tecnologia": "FR",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 19
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Jordão-AC-OI-Pessoa Jurídica",
+        "cidade": "Jordão",
+        "uf": "AC",
+        "latitude": -9.430912,
+        "longitude": -71.897391,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Manoel Urbano-AC-OI-Pessoa Jurídica",
+        "cidade": "Manoel Urbano",
+        "uf": "AC",
+        "latitude": -8.832911,
+        "longitude": -69.267862,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Marechal Thaumaturgo-AC-OI-Pessoa Jurídica",
+        "cidade": "Marechal Thaumaturgo",
+        "uf": "AC",
+        "latitude": -8.938983,
+        "longitude": -72.799704,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Mâncio Lima-AC-OI-Pessoa Jurídica",
+        "cidade": "Mâncio Lima",
+        "uf": "AC",
+        "latitude": -7.616575,
+        "longitude": -72.899708,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 16
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Plácido de Castro-AC-OI-Pessoa Jurídica",
+        "cidade": "Plácido de Castro",
+        "uf": "AC",
+        "latitude": -10.28064,
+        "longitude": -67.137133,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 22
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Porto Acre-AC-OI-Pessoa Jurídica",
+        "cidade": "Porto Acre",
+        "uf": "AC",
+        "latitude": -9.581378,
+        "longitude": -67.547815,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Porto Walter-AC-OI-Pessoa Jurídica",
+        "cidade": "Porto Walter",
+        "uf": "AC",
+        "latitude": -8.263233,
+        "longitude": -72.753747,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Rio Branco-AC-OI-Pessoa Jurídica",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 157
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 229
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ATM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 662
+            },
+            {
+                "tecnologia": "FR",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 25
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 24
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 443
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2151
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Rodrigues Alves-AC-OI-Pessoa Jurídica",
+        "cidade": "Rodrigues Alves",
+        "uf": "AC",
+        "latitude": -7.738638,
+        "longitude": -72.661015,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 20
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Santa Rosa do Purus-AC-OI-Pessoa Jurídica",
+        "cidade": "Santa Rosa do Purus",
+        "uf": "AC",
+        "latitude": -9.446515,
+        "longitude": -70.49025,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Sena Madureira-AC-OI-Pessoa Jurídica",
+        "cidade": "Sena Madureira",
+        "uf": "AC",
+        "latitude": -9.063499,
+        "longitude": -68.671278,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 13
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 51
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 26
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Senador Guiomard-AC-OI-Pessoa Jurídica",
+        "cidade": "Senador Guiomard",
+        "uf": "AC",
+        "latitude": -10.149686,
+        "longitude": -67.736185,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 33
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "FR",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 18
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Tarauacá-AC-OI-Pessoa Jurídica",
+        "cidade": "Tarauacá",
+        "uf": "AC",
+        "latitude": -8.156975,
+        "longitude": -70.772154,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 12
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 38
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 25
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Xapuri-AC-OI-Pessoa Jurídica",
+        "cidade": "Xapuri",
+        "uf": "AC",
+        "latitude": -10.651598,
+        "longitude": -68.496857,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 12
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 24
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FR",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

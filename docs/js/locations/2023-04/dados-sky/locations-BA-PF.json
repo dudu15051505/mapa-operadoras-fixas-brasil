@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "497373000110-Barreiras-BA-SKY/AT&T-Pessoa Física",
+        "cidade": "Barreiras",
+        "uf": "BA",
+        "latitude": -12.143864,
+        "longitude": -44.996838,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Itabuna-BA-SKY/AT&T-Pessoa Física",
+        "cidade": "Itabuna",
+        "uf": "BA",
+        "latitude": -14.787573,
+        "longitude": -39.278056,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 50
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Porto Seguro-BA-SKY/AT&T-Pessoa Física",
+        "cidade": "Porto Seguro",
+        "uf": "BA",
+        "latitude": -16.443473,
+        "longitude": -39.064251,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 62
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Vitória da Conquista-BA-SKY/AT&T-Pessoa Física",
+        "cidade": "Vitória da Conquista",
+        "uf": "BA",
+        "latitude": -14.861466,
+        "longitude": -40.844159,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 16
+            }
+        ]
+    }
+]

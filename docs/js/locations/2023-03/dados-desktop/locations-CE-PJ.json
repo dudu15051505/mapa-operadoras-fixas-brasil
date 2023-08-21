@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "8170849000115-Horizonte-CE-DESKTOP-Pessoa Jurídica",
+        "cidade": "Horizonte",
+        "uf": "CE",
+        "latitude": -4.120896,
+        "longitude": -38.470674,
+        "empresa": "DESKTOP",
+        "cnpj": 8170849000115,
+        "data-dados": "2023-03",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8170849000115-Massapê-CE-DESKTOP-Pessoa Jurídica",
+        "cidade": "Massapê",
+        "uf": "CE",
+        "latitude": -3.523645,
+        "longitude": -40.342271,
+        "empresa": "DESKTOP",
+        "cnpj": 8170849000115,
+        "data-dados": "2023-03",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 34
+            }
+        ]
+    },
+    {
+        "identifier": "8170849000115-Sobral-CE-DESKTOP-Pessoa Jurídica",
+        "cidade": "Sobral",
+        "uf": "CE",
+        "latitude": -3.689133,
+        "longitude": -40.34821,
+        "empresa": "DESKTOP",
+        "cnpj": 8170849000115,
+        "data-dados": "2023-03",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            }
+        ]
+    }
+]

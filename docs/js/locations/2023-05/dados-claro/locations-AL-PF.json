@@ -1,0 +1,46 @@
+[
+    {
+        "identifier": "66970229000167-Arapiraca-AL-CLARO-Pessoa Física",
+        "cidade": "Arapiraca",
+        "uf": "AL",
+        "latitude": -9.754866,
+        "longitude": -36.661471,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2245
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Maceió-AL-CLARO-Pessoa Física",
+        "cidade": "Maceió",
+        "uf": "AL",
+        "latitude": -9.665985,
+        "longitude": -35.73496,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3849
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 60245
+            }
+        ]
+    }
+]

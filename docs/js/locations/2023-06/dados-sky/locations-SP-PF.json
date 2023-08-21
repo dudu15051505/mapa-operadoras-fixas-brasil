@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "497373000110-Cubatão-SP-SKY/AT&T-Pessoa Física",
+        "cidade": "Cubatão",
+        "uf": "SP",
+        "latitude": -23.891121,
+        "longitude": -46.423968,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 121
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Guarujá-SP-SKY/AT&T-Pessoa Física",
+        "cidade": "Guarujá",
+        "uf": "SP",
+        "latitude": -23.988798,
+        "longitude": -46.257959,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 255
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Praia Grande-SP-SKY/AT&T-Pessoa Física",
+        "cidade": "Praia Grande",
+        "uf": "SP",
+        "latitude": -24.008378,
+        "longitude": -46.412057,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 580
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-São Vicente-SP-SKY/AT&T-Pessoa Física",
+        "cidade": "São Vicente",
+        "uf": "SP",
+        "latitude": -23.957353,
+        "longitude": -46.388333,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 681
+            }
+        ]
+    }
+]

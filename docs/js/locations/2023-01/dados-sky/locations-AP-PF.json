@@ -1,0 +1,97 @@
+[
+    {
+        "identifier": "497373000110-Laranjal do Jari-AP-SKY/AT&T-Pessoa Física",
+        "cidade": "Laranjal do Jari",
+        "uf": "AP",
+        "latitude": -0.804911,
+        "longitude": -52.452962,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Macapá-AP-SKY/AT&T-Pessoa Física",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2704
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Oiapoque-AP-SKY/AT&T-Pessoa Física",
+        "cidade": "Oiapoque",
+        "uf": "AP",
+        "latitude": 3.84074,
+        "longitude": -51.833123,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Porto Grande-AP-SKY/AT&T-Pessoa Física",
+        "cidade": "Porto Grande",
+        "uf": "AP",
+        "latitude": 0.71243,
+        "longitude": -51.415499,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Santana-AP-SKY/AT&T-Pessoa Física",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 706
+            }
+        ]
+    }
+]

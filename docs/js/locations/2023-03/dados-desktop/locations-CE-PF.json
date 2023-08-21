@@ -1,0 +1,103 @@
+[
+    {
+        "identifier": "8170849000115-Acaraú-CE-DESKTOP-Pessoa Física",
+        "cidade": "Acaraú",
+        "uf": "CE",
+        "latitude": -2.887689,
+        "longitude": -40.118306,
+        "empresa": "DESKTOP",
+        "cnpj": 8170849000115,
+        "data-dados": "2023-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8170849000115-Horizonte-CE-DESKTOP-Pessoa Física",
+        "cidade": "Horizonte",
+        "uf": "CE",
+        "latitude": -4.120896,
+        "longitude": -38.470674,
+        "empresa": "DESKTOP",
+        "cnpj": 8170849000115,
+        "data-dados": "2023-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "8170849000115-Massapê-CE-DESKTOP-Pessoa Física",
+        "cidade": "Massapê",
+        "uf": "CE",
+        "latitude": -3.523645,
+        "longitude": -40.342271,
+        "empresa": "DESKTOP",
+        "cnpj": 8170849000115,
+        "data-dados": "2023-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 178
+            }
+        ]
+    },
+    {
+        "identifier": "8170849000115-Santana do Acaraú-CE-DESKTOP-Pessoa Física",
+        "cidade": "Santana do Acaraú",
+        "uf": "CE",
+        "latitude": -3.461435,
+        "longitude": -40.211827,
+        "empresa": "DESKTOP",
+        "cnpj": 8170849000115,
+        "data-dados": "2023-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 42
+            }
+        ]
+    },
+    {
+        "identifier": "8170849000115-Sobral-CE-DESKTOP-Pessoa Física",
+        "cidade": "Sobral",
+        "uf": "CE",
+        "latitude": -3.689133,
+        "longitude": -40.34821,
+        "empresa": "DESKTOP",
+        "cnpj": 8170849000115,
+        "data-dados": "2023-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 132
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    }
+]

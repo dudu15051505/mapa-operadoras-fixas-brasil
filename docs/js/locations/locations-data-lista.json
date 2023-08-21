@@ -1,67 +1,103 @@
 [
   {
-    "operadora": "ALGAR",
-    "valorCampo": "algar",
-    "informacaoExtra": "Mapa peso leve"
-  },
-  {
-    "operadora": "Brisanet",
-    "valorCampo": "brisanet",
-    "informacaoExtra": "Mapa peso leve"
-  },
-  {
-    "operadora": "CLARO",
-    "valorCampo": "claro",
-    "informacaoExtra": "Mapa peso médio"
-  },
-  {
-    "operadora": "Desktop",
-    "valorCampo": "desktop",
-    "informacaoExtra": "Mapa peso leve"
-  },
-  {
-    "operadora": "EB FIBRA",
-    "valorCampo": "ebfibra",
-    "informacaoExtra": "Mapa peso leve"
-  },
-  {
-    "operadora": "Hughes",
-    "valorCampo": "hughes",
-    "informacaoExtra": "Mapa peso pesado"
-  },
-  {
-    "operadora": "OI",
-    "valorCampo": "oi",
-    "informacaoExtra": "Mapa peso pesado"
-  },
-  {
-    "operadora": "Pequenas",
-    "valorCampo": "pequenas",
-    "informacaoExtra": "Mapa peso pesado"
-  },
-  {
-    "operadora": "Starlink",
-    "valorCampo": "starlink",
-    "informacaoExtra": "Mapa peso pesado"
-  },
-  {
-    "operadora": "TIM",
-    "valorCampo": "tim",
-    "informacaoExtra": "Mapa peso leve"
-  },
-  {
-    "operadora": "VERO",
-    "valorCampo": "vero",
-    "informacaoExtra": "Mapa peso leve"
-  },
-  {
-    "operadora": "VIVO",
-    "valorCampo": "vivo",
-    "informacaoExtra": "Mapa peso médio"
-  },
-  {
-    "operadora": "VTAL",
-    "valorCampo": "vtal",
-    "informacaoExtra": "Mapa peso leve - Atenção não existe exatamente dados da vtal, este mapa é apenas um filtro da tecnologia FTTH da operadora OI que utiliza apenas rede ftth da vtal"
-  } 
+    "datas-consulta": [
+      {
+        "periudo": "01/2023",
+        "valorCampo": "2023-01"
+      },
+      {
+        "periudo": "02/2023",
+        "valorCampo": "2023-02"
+      },
+      {
+        "periudo": "03/2023",
+        "valorCampo": "2023-03"
+      },
+      {
+        "periudo": "04/2023",
+        "valorCampo": "2023-04"
+      },
+      {
+        "periudo": "05/2023",
+        "valorCampo": "2023-05"
+      },
+      {
+        "periudo": "06/2023",
+        "valorCampo": "2023-06"
+      }
+    ],
+
+    "operadoras-lista": [
+        {
+          "operadora": "ALGAR",
+          "valorCampo": "algar",
+          "informacaoExtra": "Mapa peso leve"
+        },
+        {
+          "operadora": "Brisanet",
+          "valorCampo": "brisanet",
+          "informacaoExtra": "Mapa peso leve"
+        },
+        {
+          "operadora": "CLARO",
+          "valorCampo": "claro",
+          "informacaoExtra": "Mapa peso médio"
+        },
+        {
+          "operadora": "Desktop",
+          "valorCampo": "desktop",
+          "informacaoExtra": "Mapa peso leve"
+        },
+        {
+          "operadora": "EB FIBRA",
+          "valorCampo": "ebfibra",
+          "informacaoExtra": "Mapa peso leve"
+        },
+        {
+          "operadora": "Hughes",
+          "valorCampo": "hughes",
+          "informacaoExtra": "Mapa peso pesado"
+        },
+        {
+          "operadora": "OI",
+          "valorCampo": "oi",
+          "informacaoExtra": "Mapa peso pesado"
+        },
+        {
+          "operadora": "SKY",
+          "valorCampo": "sky",
+          "informacaoExtra": "Mapa peso leve"
+        },
+        {
+          "operadora": "Pequenas",
+          "valorCampo": "pequenas",
+          "informacaoExtra": "Mapa peso pesado"
+        },
+        {
+          "operadora": "Starlink",
+          "valorCampo": "starlink",
+          "informacaoExtra": "Mapa peso pesado"
+        },
+        {
+          "operadora": "TIM",
+          "valorCampo": "tim",
+          "informacaoExtra": "Mapa peso leve"
+        },
+        {
+          "operadora": "VERO",
+          "valorCampo": "vero",
+          "informacaoExtra": "Mapa peso leve"
+        },
+        {
+          "operadora": "VIVO",
+          "valorCampo": "vivo",
+          "informacaoExtra": "Mapa peso médio"
+        },
+        {
+          "operadora": "VTAL",
+          "valorCampo": "vtal",
+          "informacaoExtra": "Mapa peso leve - Atenção não existe exatamente dados da vtal, este mapa é apenas um filtro da tecnologia FTTH da operadora OI que utiliza apenas rede ftth da vtal"
+        } 
+      ]
+  }
 ]

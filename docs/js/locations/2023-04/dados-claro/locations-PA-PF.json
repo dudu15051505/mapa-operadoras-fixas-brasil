@@ -1,0 +1,128 @@
+[
+    {
+        "identifier": "66970229000167-Ananindeua-PA-CLARO-Pessoa Física",
+        "cidade": "Ananindeua",
+        "uf": "PA",
+        "latitude": -1.363914,
+        "longitude": -48.374298,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 442
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 11925
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Belém-PA-CLARO-Pessoa Física",
+        "cidade": "Belém",
+        "uf": "PA",
+        "latitude": -1.455396,
+        "longitude": -48.489756,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 106
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 84725
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Castanhal-PA-CLARO-Pessoa Física",
+        "cidade": "Castanhal",
+        "uf": "PA",
+        "latitude": -1.297971,
+        "longitude": -47.916742,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5784
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Marabá-PA-CLARO-Pessoa Física",
+        "cidade": "Marabá",
+        "uf": "PA",
+        "latitude": -5.38075,
+        "longitude": -49.132672,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2530
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Paragominas-PA-CLARO-Pessoa Física",
+        "cidade": "Paragominas",
+        "uf": "PA",
+        "latitude": -3.002116,
+        "longitude": -47.352692,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2538
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Parauapebas-PA-CLARO-Pessoa Física",
+        "cidade": "Parauapebas",
+        "uf": "PA",
+        "latitude": -6.067812,
+        "longitude": -49.903733,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2181
+            }
+        ]
+    }
+]

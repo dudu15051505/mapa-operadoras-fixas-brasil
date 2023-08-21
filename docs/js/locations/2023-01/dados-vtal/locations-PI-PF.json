@@ -1,0 +1,97 @@
+[
+    {
+        "identifier": "76535764000143.0-Beneditinos-PI-OI-Pessoa Física",
+        "cidade": "Beneditinos",
+        "uf": "PI",
+        "latitude": -5.456758,
+        "longitude": -42.36382,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143.0-Floriano-PI-OI-Pessoa Física",
+        "cidade": "Floriano",
+        "uf": "PI",
+        "latitude": -6.771821,
+        "longitude": -43.024136,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 552
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143.0-Parnaíba-PI-OI-Pessoa Física",
+        "cidade": "Parnaíba",
+        "uf": "PI",
+        "latitude": -2.905847,
+        "longitude": -41.775388,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6443
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143.0-Piripiri-PI-OI-Pessoa Física",
+        "cidade": "Piripiri",
+        "uf": "PI",
+        "latitude": -4.271574,
+        "longitude": -41.771569,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 118
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143.0-Teresina-PI-OI-Pessoa Física",
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 27486
+            }
+        ]
+    }
+]

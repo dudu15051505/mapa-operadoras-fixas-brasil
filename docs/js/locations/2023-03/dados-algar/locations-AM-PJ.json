@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "71208516000174-Manaus-AM-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2023-03",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    }
+]

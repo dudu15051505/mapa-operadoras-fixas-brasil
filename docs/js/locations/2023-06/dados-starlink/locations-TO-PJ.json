@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "40154884000153-Arraias-TO-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Jurídica",
+        "cidade": "Arraias",
+        "uf": "TO",
+        "latitude": -12.92867,
+        "longitude": -46.935891,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "40154884000153-São Félix do Tocantins-TO-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Jurídica",
+        "cidade": "São Félix do Tocantins",
+        "uf": "TO",
+        "latitude": -10.161465,
+        "longitude": -46.661786,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

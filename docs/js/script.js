@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	const telaErroElement = document.getElementById('telaerro');
    const map = L.map('map').setView([-14.235004, -51.925280], 5);
    
-   const getJsonPath = (verOperadora, filename) => verOperadora ? `./js/locations/dados-${verOperadora}/${filename}` : `./js/locations/dados-algar/${filename}`;
+   const getJsonPath = (verOperadora, filename) => verOperadora ? `./js/locations/${verPeriudo}/dados-${verOperadora}/${filename}` : `./js/locations/${verPeriudo}/dados-algar/${filename}`;
 
 	const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors',
@@ -180,32 +180,41 @@ document.addEventListener('DOMContentLoaded', function() {
 				
 			})
 			.then(data => {
-				const listaDataDadosElement = document.getElementById('lista-data-dados');
+				const listaOperadoraDadosElement = document.getElementById('lista-operadora-dados');
+				const listaPeriudoDadosElement = document.getElementById('lista-data-dados');
+				const dadosJSON = data[0];
+
+				dadosJSON["datas-consulta"].forEach((value, index) => {
+					const option = new Option(
+						value.periudo,
+						value.valorCampo);
+					document.getElementById('lista-data-dados').appendChild(option);	
+				});				
 	
-				data.forEach((value, index) => {
+				dadosJSON["operadoras-lista"].forEach((value, index) => {
 					const option = new Option(
 						value.informacaoExtra ? `${value.operadora} - ${value.informacaoExtra}` : `${value.operadora}`,
 						value.valorCampo);
-					document.getElementById('lista-data-dados').appendChild(option);
-	
+					document.getElementById('lista-operadora-dados').appendChild(option);
 				});
-	
+				
 				if (verOperadora) {
-					listaDataDadosElement.value = verOperadora;
+					listaOperadoraDadosElement.value = verOperadora;
+				} /*else {
+					const lastOption = listaOperadoraDadosElement.options[listaOperadoraDadosElement.options.length - 1];
+					lastOption.selected = true;
+				}*/
+
+				if (verPeriudo) {
+					listaPeriudoDadosElement.value = verPeriudo;
 				} else {
-					const lastOption = listaDataDadosElement.options[0];
+					const lastOption = listaPeriudoDadosElement.options[listaPeriudoDadosElement.options.length - 1];
 					lastOption.selected = true;
 				}
-	
-				if (document.getElementById(`dados-info-${listaDataDadosElement.selectedIndex}`)) {
-					const dadosInfoElement = document.getElementById(`dados-info-${listaDataDadosElement.selectedIndex}`);
-					dadosInfoElement.style.display = 'block';
-				}
-	
 			})
 			.catch(error => {
 				exibirErro(error);
-			});
+		});
 	}
 
 	async function fetchJSON(url) {
@@ -261,19 +270,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 							let dadosCidade = '';
 							
-							//console.log(dadosJson.cidade, dadosJson["info-tecnologia"]);
-
 							for(let i = 0; i < dadosJson["info-tecnologia"].length; i++) {
-								//let dadosTecnologia = dadosJson["info-tecnologia"][i].map(item => item.valores);
-								//console.log(dadosJson.cidade, dadosTecnologia[0])
-
 								const dadosArreyJSON = dadosJson["info-tecnologia"][i];
-								//console.log(dadosJson.cidade, dadosArreyJSON);
-								//console.log(dadosJson.cidade, dadosArreyJSON["tecnologia"]);
-								//console.log(dadosJson.cidade, dadosArreyJSON["tipo-de-Produto"]);
-								//console.log(dadosJson.cidade, dadosArreyJSON["meio-de-acesso"]);
-								//console.log(dadosJson.cidade, dadosArreyJSON["quantidade-acesso"]);
-
+								
 								dadosCidade += ` <br>
 									Tecnologia: ${dadosArreyJSON["tecnologia"]} <br>
 									Tipo de produto:  ${dadosArreyJSON["tipo-de-Produto"]} <br>

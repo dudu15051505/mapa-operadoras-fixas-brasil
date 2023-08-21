@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "497373000110-Barra Mansa-RJ-SKY/AT&T-Pessoa Física",
+        "cidade": "Barra Mansa",
+        "uf": "RJ",
+        "latitude": -22.548084,
+        "longitude": -44.175241,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 78
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Cabo Frio-RJ-SKY/AT&T-Pessoa Física",
+        "cidade": "Cabo Frio",
+        "uf": "RJ",
+        "latitude": -22.88943,
+        "longitude": -42.028595,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 71
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Rio das Ostras-RJ-SKY/AT&T-Pessoa Física",
+        "cidade": "Rio das Ostras",
+        "uf": "RJ",
+        "latitude": -22.517378,
+        "longitude": -41.947509,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 91
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Volta Redonda-RJ-SKY/AT&T-Pessoa Física",
+        "cidade": "Volta Redonda",
+        "uf": "RJ",
+        "latitude": -22.520212,
+        "longitude": -44.099555,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 149
+            }
+        ]
+    }
+]

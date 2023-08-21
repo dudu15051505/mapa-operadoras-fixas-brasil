@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "497373000110-Rio das Ostras-RJ-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Rio das Ostras",
+        "uf": "RJ",
+        "latitude": -22.517378,
+        "longitude": -41.947509,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Volta Redonda-RJ-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Volta Redonda",
+        "uf": "RJ",
+        "latitude": -22.520212,
+        "longitude": -44.099555,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]
