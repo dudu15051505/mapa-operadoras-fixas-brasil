@@ -1,0 +1,97 @@
+[
+    {
+        "identifier": "76535764000143.0-Campo Grande-MS-OI-Pessoa Física",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "latitude": -20.448589,
+        "longitude": -54.629463,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 59503
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143.0-Corumbá-MS-OI-Pessoa Física",
+        "cidade": "Corumbá",
+        "uf": "MS",
+        "latitude": -19.007727,
+        "longitude": -57.651036,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 920
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143.0-Coxim-MS-OI-Pessoa Física",
+        "cidade": "Coxim",
+        "uf": "MS",
+        "latitude": -18.501299,
+        "longitude": -54.750991,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143.0-Dourados-MS-OI-Pessoa Física",
+        "cidade": "Dourados",
+        "uf": "MS",
+        "latitude": -22.223099,
+        "longitude": -54.812043,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29275
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143.0-Maracaju-MS-OI-Pessoa Física",
+        "cidade": "Maracaju",
+        "uf": "MS",
+        "latitude": -21.610544,
+        "longitude": -55.167763,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1171
+            }
+        ]
+    }
+]

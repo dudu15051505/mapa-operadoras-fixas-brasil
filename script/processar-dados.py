@@ -2,18 +2,24 @@ import os
 import pandas as pd
 import json
 import io
+import shutil
+
+selecionar_data = '2023-01'
 
 # Limpa a pasta de saída js
-output_folder = 'js'
+output_folder = f"js-{selecionar_data}"
+
+def delete_folder(path):
+    try:
+        shutil.rmtree(path)
+        print(f"A pasta {path} foi deletada com sucesso.")
+    except Exception as e:
+        print(f"Erro ao deletar a pasta {path}: {e}")
+        
 if os.path.exists(output_folder):
-    for filename in os.listdir(output_folder):
-        file_path = os.path.join(output_folder, filename)
-        if os.path.isfile(file_path):
-            os.remove(file_path)
-        else:
-            os.rmdir(file_path)
-else:
-    os.makedirs(output_folder)
+    delete_folder(output_folder)
+
+os.makedirs(output_folder)
 
 # Lê o arquivo CSV de dados de trabalho
 dados_df = pd.read_csv('dados-para-trabalho.csv', sep=';', low_memory=False)
@@ -37,7 +43,7 @@ special_companies = {
     'VERO': 'dados-vero',
     'STARLINK BRAZIL SERVICOS DE INTERNET LTDA.': 'dados-starlink',
     'HUGHES': 'dados-hughes',
-    'TELEBRAS': 'dados-telebras'
+    'SKY/AT&T': 'dados-sky'
     # Adicione mais empresas aqui, se necessário
 }
 
@@ -48,6 +54,9 @@ grouped_df = dados_df.groupby(['CNPJ', 'Município', 'UF', 'Empresa', 'Tipo de P
 # Criar um dicionário para armazenar os dados fixos
 output_data = {}
 
+# Cria uma lista para armazenar as cidades com problemas de geolocalização
+cidades_com_problema_geo = []
+
 # Itera sobre os grupos e atualiza os dados no dicionário
 for index, row in grouped_df.iterrows():
     cnpj = row['CNPJ']
@@ -55,7 +64,7 @@ for index, row in grouped_df.iterrows():
     cidade = row['Município']
     empresa = row['Empresa']
     tipo_pessoa = row['Tipo de Pessoa']
-    quantidade_acesso = int(row['2023-06'])  # Você pode escolher qual mês utilizar para a quantidade de acesso
+    quantidade_acesso = int(row[selecionar_data])  # Você pode escolher qual mês utilizar para a quantidade de acesso
     
     if quantidade_acesso == 0:
         continue
@@ -70,6 +79,13 @@ for index, row in grouped_df.iterrows():
     else:
         latitude = None
         longitude = None
+        
+        # Verifica se a cidade e UF já foram inseridas na lista de cidades com problema de geo
+        if (cidade, uf) not in cidades_com_problema_geo:
+            cidades_com_problema_geo.append((cidade, uf))
+            problema_geo_txt = os.path.join(output_folder, 'cidades-com-problema-geo.txt')
+            with open(problema_geo_txt, 'a', encoding='utf-8') as txt_file:
+                txt_file.write(f"{cidade}, {uf}\n")
 
     # Cria um dicionário para armazenar os dados de "info-tecnologia"
     info_tecnologia = {
@@ -85,12 +101,14 @@ for index, row in grouped_df.iterrows():
     # Se o identificador ainda não existe no dicionário, cria o registro
     if identifier not in output_data:
         output_data[identifier] = {
+            'identifier' : identifier,
             'cidade': cidade,
             'uf': uf,
             'latitude': latitude,
             'longitude': longitude,
             'empresa': empresa,
             'cnpj': cnpj,
+            'data-dados': selecionar_data,
             'pf-ou-pj': tipo_pessoa,
             'info-tecnologia': [info_tecnologia]  # Cria um array com o primeiro item
         }

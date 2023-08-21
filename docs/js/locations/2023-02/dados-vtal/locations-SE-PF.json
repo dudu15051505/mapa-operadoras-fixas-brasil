@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "76535764000143.0-Aracaju-SE-OI-Pessoa Física",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 16169
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143.0-Itabaiana-SE-OI-Pessoa Física",
+        "cidade": "Itabaiana",
+        "uf": "SE",
+        "latitude": -10.682555,
+        "longitude": -37.427287,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 275
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143.0-São Cristóvão-SE-OI-Pessoa Física",
+        "cidade": "São Cristóvão",
+        "uf": "SE",
+        "latitude": -11.008443,
+        "longitude": -37.20436,
+        "empresa": "OI",
+        "cnpj": 76535764000143.0,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

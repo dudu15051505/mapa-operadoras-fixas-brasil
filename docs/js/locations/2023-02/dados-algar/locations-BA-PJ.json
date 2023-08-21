@@ -1,0 +1,556 @@
+[
+    {
+        "identifier": "4622116000113-Lauro de Freitas-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Lauro de Freitas",
+        "uf": "BA",
+        "latitude": -12.8978,
+        "longitude": -38.321008,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 4622116000113,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "4622116000113-Salvador-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Salvador",
+        "uf": "BA",
+        "latitude": -12.97178,
+        "longitude": -38.501068,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 4622116000113,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 19
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Alagoinhas-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Alagoinhas",
+        "uf": "BA",
+        "latitude": -12.133526,
+        "longitude": -38.420772,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Barreiras-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Barreiras",
+        "uf": "BA",
+        "latitude": -12.143864,
+        "longitude": -44.996838,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Bom Jesus da Lapa-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Bom Jesus da Lapa",
+        "uf": "BA",
+        "latitude": -13.250571,
+        "longitude": -43.410754,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Camaçari-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Camaçari",
+        "uf": "BA",
+        "latitude": -12.699638,
+        "longitude": -38.326265,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 62
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Catu-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Catu",
+        "uf": "BA",
+        "latitude": -12.351274,
+        "longitude": -38.379108,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Cruz das Almas-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Cruz das Almas",
+        "uf": "BA",
+        "latitude": -12.667516,
+        "longitude": -39.100787,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Dias d'Ávila-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Dias d'Ávila",
+        "uf": "BA",
+        "latitude": -12.618894,
+        "longitude": -38.285953,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Eunápolis-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Eunápolis",
+        "uf": "BA",
+        "latitude": -16.371498,
+        "longitude": -39.582122,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Feira de Santana-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Feira de Santana",
+        "uf": "BA",
+        "latitude": -12.266429,
+        "longitude": -38.966293,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 512
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 51
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Ilhéus-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Ilhéus",
+        "uf": "BA",
+        "latitude": -14.793045,
+        "longitude": -39.04602,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Itabuna-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Itabuna",
+        "uf": "BA",
+        "latitude": -14.787573,
+        "longitude": -39.278056,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Jequié-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Jequié",
+        "uf": "BA",
+        "latitude": -13.850888,
+        "longitude": -40.087704,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Juazeiro-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Juazeiro",
+        "uf": "BA",
+        "latitude": -9.416217,
+        "longitude": -40.503251,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Lauro de Freitas-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Lauro de Freitas",
+        "uf": "BA",
+        "latitude": -12.8978,
+        "longitude": -38.321008,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 62
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 374
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 45
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Mata de São João-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Mata de São João",
+        "uf": "BA",
+        "latitude": -12.530685,
+        "longitude": -38.300898,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Paulo Afonso-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Paulo Afonso",
+        "uf": "BA",
+        "latitude": -9.398296,
+        "longitude": -38.22156,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Salvador-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Salvador",
+        "uf": "BA",
+        "latitude": -12.97178,
+        "longitude": -38.501068,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 686
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 845
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 163
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Santo Antônio de Jesus-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Santo Antônio de Jesus",
+        "uf": "BA",
+        "latitude": -12.961387,
+        "longitude": -39.258403,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Santo Estêvão-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Santo Estêvão",
+        "uf": "BA",
+        "latitude": -12.427981,
+        "longitude": -39.250541,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Simões Filho-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Simões Filho",
+        "uf": "BA",
+        "latitude": -12.786587,
+        "longitude": -38.402944,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 53
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-São Francisco do Conde-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "São Francisco do Conde",
+        "uf": "BA",
+        "latitude": -12.618345,
+        "longitude": -38.678601,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-São Gonçalo dos Campos-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "São Gonçalo dos Campos",
+        "uf": "BA",
+        "latitude": -12.433096,
+        "longitude": -38.966294,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Teixeira de Freitas-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Teixeira de Freitas",
+        "uf": "BA",
+        "latitude": -17.539915,
+        "longitude": -39.739962,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Vitória da Conquista-BA-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Vitória da Conquista",
+        "uf": "BA",
+        "latitude": -14.861466,
+        "longitude": -40.844159,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2023-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    }
+]

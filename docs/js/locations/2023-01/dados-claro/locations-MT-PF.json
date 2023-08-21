@@ -1,0 +1,141 @@
+[
+    {
+        "identifier": "66970229000167-Cuiabá-MT-CLARO-Pessoa Física",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "latitude": -15.600979,
+        "longitude": -56.097397,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 257
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 61733
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Lucas do Rio Verde-MT-CLARO-Pessoa Física",
+        "cidade": "Lucas do Rio Verde",
+        "uf": "MT",
+        "latitude": -13.058796,
+        "longitude": -55.904202,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2405
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Nova Mutum-MT-CLARO-Pessoa Física",
+        "cidade": "Nova Mutum",
+        "uf": "MT",
+        "latitude": -13.837389,
+        "longitude": -56.074316,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 227
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Rondonópolis-MT-CLARO-Pessoa Física",
+        "cidade": "Rondonópolis",
+        "uf": "MT",
+        "latitude": -16.467251,
+        "longitude": -54.637173,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 1944
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Sinop-MT-CLARO-Pessoa Física",
+        "cidade": "Sinop",
+        "uf": "MT",
+        "latitude": -11.86043,
+        "longitude": -55.509062,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4939
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Sorriso-MT-CLARO-Pessoa Física",
+        "cidade": "Sorriso",
+        "uf": "MT",
+        "latitude": -12.542527,
+        "longitude": -55.721051,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2236
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Várzea Grande-MT-CLARO-Pessoa Física",
+        "cidade": "Várzea Grande",
+        "uf": "MT",
+        "latitude": -15.645816,
+        "longitude": -56.132218,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 10766
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "identifier": "497373000110-Iranduba-AM-SKY/AT&T-Pessoa Física",
+        "cidade": "Iranduba",
+        "uf": "AM",
+        "latitude": -3.274792,
+        "longitude": -60.189953,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 450
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Manaus-AM-SKY/AT&T-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1992
+            },
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 11327
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Presidente Figueiredo-AM-SKY/AT&T-Pessoa Física",
+        "cidade": "Presidente Figueiredo",
+        "uf": "AM",
+        "latitude": -2.029813,
+        "longitude": -60.02338,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "497373000110-Formosa-GO-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Formosa",
+        "uf": "GO",
+        "latitude": -15.539991,
+        "longitude": -47.336999,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Luziânia-GO-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Luziânia",
+        "uf": "GO",
+        "latitude": -16.253,
+        "longitude": -47.95,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Mineiros-GO-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Mineiros",
+        "uf": "GO",
+        "latitude": -17.565388,
+        "longitude": -52.553672,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

@@ -6,7 +6,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">		
 		<script type="text/javascript" defer>
 			function addPreloadJSON(linksArray, verOperadora) {
-				const basePath = verOperadora ? `./js/locations/dados-${verOperadora}/` : `./js/locations/dados-algar/`;
+				const basePath = verOperadora ? `./js/locations/${verPeriudo}/dados-${verOperadora}/` : `./js/locations/${verPeriudo}/dados-algar/`;
+
 				linksArray.forEach(link => {
 					const linkElement = document.createElement('link');
 					linkElement.rel = 'prefetch';
@@ -18,6 +19,11 @@
 			}
 
 			const verOperadora = new URLSearchParams(window.location.search).get("operadora");
+			let verPeriudo = new URLSearchParams(window.location.search).get("periudo");
+
+			if (verPeriudo === null) {
+				verPeriudo = '2023-06';
+			}
 
 			const siglasUF = [
 				'AC', 'AL', 'AM', 'AP', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MG', 'MS', 'MT',
@@ -30,16 +36,8 @@
 			}
 			
 			document.addEventListener('DOMContentLoaded', function () {
-				document.getElementById('lista-data-dados').addEventListener('change', function () {
-					let value = this.value;
-					window.location.href = `./index.html?operadora=${value}`;
-				});
-
+				
 				document.getElementById('aviso-fechar').addEventListener('click', function () {
-					document.getElementById('aviso').style.display = 'none';
-				});
-
-				document.getElementById('aviso-fechar2').addEventListener('click', function () {
 					document.getElementById('aviso').style.display = 'none';
 				});
 
@@ -73,8 +71,8 @@
 		<link rel="stylesheet" href="./js/leaflet/leaflet-min.css" />
 		<link rel="stylesheet" href="./css/css-min.css" />
 		<script type="text/javascript" src="./js/leaflet/leaflet.js" defer></script>
-		<!--<script type="text/javascript" src="./js/script-min.js" defer></script>-->
-		<script type="text/javascript" src="./js/script.js" defer></script>
+		<script type="text/javascript" src="./js/script-min.js" defer></script>
+		<!--<script type="text/javascript" src="./js/script.js" defer></script>-->
 		<link rel="icon" type="image/x-icon" href="./favicon.ico">
 	</head>
 	<body>
@@ -93,10 +91,15 @@
 					</tr>
 					<tr>
 						<td style="width: 176px;">
-							<label>
-								Selecione a operadora para <br> ver dados  <select name="lista-data-dados" id="lista-data-dados" style="width: 84px;"></select> <br>
-							</label>
-							<span id="dados-info"></span>
+							<form id="selecao-dados" method="get" action="./index.html">
+								<label>
+									Selecione o período <select name="periudo" id="lista-data-dados" style="width: 70px;"></select>
+								</label>
+								<label>
+									e operadora <select name="operadora" id="lista-operadora-dados" style="width: 84px;"></select> ver dados   <br>
+								</label>
+								<input type="submit" value="Carregar" />
+							</form>
 						</td>
 					</tr>
 				</thead>
@@ -104,16 +107,11 @@
 		</div>
 		<div id="aviso" class="leaflet-control">
 			<div id="aviso-conteudo">
-				<button id="aviso-fechar2">FECHAR</button>
-				<h3>&nbsp;Mapa com dados de Tecnologia e tipo de Cliente fornecidos pela operada a base da ANATEL&nbsp;</h3>
-				<br>
-				<h1><b>ESTE SITE ESTA EM PERÍODO ALPHA DE DESENVOLVIMENTO!</b></h1>
-				<h1><b>Poderá ocorrer erros e algumas informações processadas incorretamente!</b></h1>
-				<br>
-				<p><b>Este site não é afiliado à nem uma operadora</b></p>
-				<p><b>Os dados aqui apresentados são informados pela própria operadora a base da ANATEL, com dados de apenas 06/2023</b></p>
-				<p><b>Para ver os dados disponibilizados pela ANATEL acesse:</b></p>
+				<h2>&nbsp;Mapa com dados de Tecnologia e tipo de Cliente fornecidos pela operada a base da ANATEL&nbsp;</h2>
+				<p><b>Os dados aqui apresentados são informados pela própria operadora para a ANATEL</b></p>
+				<p><b>Para ver os dados disponibilizados oficialmente pela ANATEL acesse:</b></p>
 				<p><a href="https://informacoes.anatel.gov.br/paineis/acessos/banda-larga-fixa" target="_blank">https://informacoes.anatel.gov.br/paineis/acessos/banda-larga-fixa</a></p>
+				<p><b>Este site não é afiliado à nem uma operadora e a ANATEL</b></p>
 				<p>Código fonte do site disponível no <a href="https://github.com/dudu15051505/mapa-operadoras-fixas-brasil" target="_blank">GitHub</a></p>
 				<button id="aviso-fechar">FECHAR</button>
 			</div>
@@ -153,7 +151,7 @@
 				} else {
 					ocultarTelaLoad('block');
 				}
-			});
+			});			
 		</script>
 	</body>
 </html>

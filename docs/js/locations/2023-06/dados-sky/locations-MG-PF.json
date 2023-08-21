@@ -1,0 +1,432 @@
+[
+    {
+        "identifier": "497373000110-Barbacena-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Barbacena",
+        "uf": "MG",
+        "latitude": -21.221446,
+        "longitude": -43.770266,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Belo Horizonte-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "latitude": -19.910183,
+        "longitude": -43.926572,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1265
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Betim-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Betim",
+        "uf": "MG",
+        "latitude": -19.966827,
+        "longitude": -44.200775,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1832
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Conselheiro Lafaiete-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Conselheiro Lafaiete",
+        "uf": "MG",
+        "latitude": -20.663445,
+        "longitude": -43.784609,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Contagem-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "latitude": -19.932079,
+        "longitude": -44.05392,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2571
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Divinópolis-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Divinópolis",
+        "uf": "MG",
+        "latitude": -20.144646,
+        "longitude": -44.891223,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 25
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Ibirité-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Ibirité",
+        "uf": "MG",
+        "latitude": -20.025188,
+        "longitude": -44.056882,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 362
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Itajubá-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Itajubá",
+        "uf": "MG",
+        "latitude": -22.422481,
+        "longitude": -45.459818,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Nova Lima-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Nova Lima",
+        "uf": "MG",
+        "latitude": -19.975763,
+        "longitude": -43.850854,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 35
+            },
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Patos de Minas-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Patos de Minas",
+        "uf": "MG",
+        "latitude": -18.569938,
+        "longitude": -46.501268,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Pouso Alegre-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Pouso Alegre",
+        "uf": "MG",
+        "latitude": -22.22659,
+        "longitude": -45.938935,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Poços de Caldas-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Poços de Caldas",
+        "uf": "MG",
+        "latitude": -21.779975,
+        "longitude": -46.569184,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 57
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Ribeirão das Neves-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Ribeirão das Neves",
+        "uf": "MG",
+        "latitude": -19.762076,
+        "longitude": -44.08445,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 28
+            },
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1551
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Sabará-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Sabará",
+        "uf": "MG",
+        "latitude": -19.884045,
+        "longitude": -43.82631,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 47
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Santa Luzia-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Santa Luzia",
+        "uf": "MG",
+        "latitude": -19.754824,
+        "longitude": -43.849658,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 977
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Sete Lagoas-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Sete Lagoas",
+        "uf": "MG",
+        "latitude": -19.456902,
+        "longitude": -44.241255,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 103
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Teófilo Otoni-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Teófilo Otoni",
+        "uf": "MG",
+        "latitude": -17.859534,
+        "longitude": -41.508717,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Timóteo-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Timóteo",
+        "uf": "MG",
+        "latitude": -19.581086,
+        "longitude": -42.64713,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 16
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Uberaba-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Uberaba",
+        "uf": "MG",
+        "latitude": -19.747205,
+        "longitude": -47.938073,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 96
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Uberlândia-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "latitude": -18.914142,
+        "longitude": -48.274934,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 65
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Vespasiano-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Vespasiano",
+        "uf": "MG",
+        "latitude": -19.688326,
+        "longitude": -43.9239,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 376
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Viçosa-MG-SKY/AT&T-Pessoa Física",
+        "cidade": "Viçosa",
+        "uf": "MG",
+        "latitude": -20.755916,
+        "longitude": -42.87417,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "06/2023",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    }
+]
