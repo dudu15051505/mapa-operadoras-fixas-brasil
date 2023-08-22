@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">		
 		<script type="text/javascript" defer>
 			function addPreloadJSON(linksArray, verOperadora) {
-				const basePath = verOperadora ? `./js/locations/${verPeriudo}/dados-${verOperadora}/` : `./js/locations/${verPeriudo}/dados-algar/`;
+				const basePath = verOperadora ? `${urlBaseJSON}/js/locations/${verPeriudo}/dados-${verOperadora}/` : `${urlBaseJSON}/js/locations/${verPeriudo}/dados-algar/`;
 
 				linksArray.forEach(link => {
 					const linkElement = document.createElement('link');
@@ -17,6 +17,8 @@
 					document.head.appendChild(linkElement);
 				});
 			}
+
+			const urlBaseJSON = 'https://raw.githubusercontent.com/dudu15051505/mapa-operadoras-fixas-brasil/main/dados';
 
 			const verOperadora = new URLSearchParams(window.location.search).get("operadora");
 			let verPeriudo = new URLSearchParams(window.location.search).get("periudo");
@@ -51,7 +53,7 @@
 				}
 			});
 		</script>
-		<link rel="preload" href="./js/locations/locations-data-lista.json" as="fetch" crossorigin="anonymous">
+		<link rel="preload" href="./js/locations-data-lista.json" as="fetch" crossorigin="anonymous">
 		<link rel="preload" as="script" type="text/javascript" href="./js/leaflet/leaflet.js" />
 		<!--<link rel="preload" as="script" type="text/javascript" href="./js/script-min.js" />-->
 		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-black.png" />
@@ -71,8 +73,8 @@
 		<link rel="stylesheet" href="./js/leaflet/leaflet-min.css" />
 		<link rel="stylesheet" href="./css/css-min.css" />
 		<script type="text/javascript" src="./js/leaflet/leaflet.js" defer></script>
-		<script type="text/javascript" src="./js/script-min.js" defer></script>
-		<!--<script type="text/javascript" src="./js/script.js" defer></script>-->
+		<!--<script type="text/javascript" src="./js/script-min.js" defer></script>-->
+		<script type="text/javascript" src="./js/script.js" defer></script>
 		<link rel="icon" type="image/x-icon" href="./favicon.ico">
 	</head>
 	<body>

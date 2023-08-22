@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', function() {
 	const telaErroConteudoElement = document.getElementById('telaerro-conteudo');
 	const telaErroElement = document.getElementById('telaerro');
    const map = L.map('map').setView([-14.235004, -51.925280], 5);
-   
-   const getJsonPath = (verOperadora, filename) => verOperadora ? `./js/locations/${verPeriudo}/dados-${verOperadora}/${filename}` : `./js/locations/${verPeriudo}/dados-algar/${filename}`;
+
+   const getJsonPath = (verOperadora, filename) => verOperadora ? `${urlBaseJSON}/js/locations/${verPeriudo}/dados-${verOperadora}/${filename}` : `${urlBaseJSON}/js/locations/${verPeriudo}/dados-algar/${filename}`;
 
 	const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> contributors',
@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	}
 
 	async function loadDataList() {
-		fetch('./js/locations/locations-data-lista.json')
+		fetch('./js/locations-data-lista.json')
 			.then(response => {
 				if (!response.ok) {
 					throw new Error('Erro ao carregar lista de dados passados.');
