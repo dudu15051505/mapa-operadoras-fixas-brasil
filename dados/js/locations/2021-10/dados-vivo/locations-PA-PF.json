@@ -1,0 +1,46 @@
+[
+    {
+        "identifier": "2558157000162-Belém-PA-VIVO-Pessoa Física",
+        "cidade": "Belém",
+        "uf": "PA",
+        "latitude": -1.455396,
+        "longitude": -48.489756,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 21021
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Melgaço-PA-VIVO-Pessoa Física",
+        "cidade": "Melgaço",
+        "uf": "PA",
+        "latitude": -1.803202,
+        "longitude": -50.714927,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

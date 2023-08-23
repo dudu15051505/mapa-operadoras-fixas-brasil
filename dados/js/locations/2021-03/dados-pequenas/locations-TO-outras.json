@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "12356161000100-Paraíso do Tocantins-TO-Prime System Telecomunicacoes Ltda.-Não Informado",
+        "cidade": "Paraíso do Tocantins",
+        "uf": "TO",
+        "latitude": -10.174998,
+        "longitude": -48.882269,
+        "empresa": "Prime System Telecomunicacoes Ltda.",
+        "cnpj": 12356161000100,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1446
+            }
+        ]
+    },
+    {
+        "identifier": "27275682000100-Caseara-TO-Net Prime Telecomunicacoes Ltda.-Não Informado",
+        "cidade": "Caseara",
+        "uf": "TO",
+        "latitude": -9.276121,
+        "longitude": -49.952123,
+        "empresa": "Net Prime Telecomunicacoes Ltda.",
+        "cnpj": 27275682000100,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 434
+            }
+        ]
+    }
+]

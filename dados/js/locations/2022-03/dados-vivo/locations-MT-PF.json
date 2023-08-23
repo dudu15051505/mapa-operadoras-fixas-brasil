@@ -1,0 +1,153 @@
+[
+    {
+        "identifier": "2558157000162-Cuiabá-MT-VIVO-Pessoa Física",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "latitude": -15.600979,
+        "longitude": -56.097397,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6832
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 20088
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Lucas do Rio Verde-MT-VIVO-Pessoa Física",
+        "cidade": "Lucas do Rio Verde",
+        "uf": "MT",
+        "latitude": -13.058796,
+        "longitude": -55.904202,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 332
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Nova Mutum-MT-VIVO-Pessoa Física",
+        "cidade": "Nova Mutum",
+        "uf": "MT",
+        "latitude": -13.837389,
+        "longitude": -56.074316,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 437
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Rondonópolis-MT-VIVO-Pessoa Física",
+        "cidade": "Rondonópolis",
+        "uf": "MT",
+        "latitude": -16.467251,
+        "longitude": -54.637173,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 93
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4386
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Sinop-MT-VIVO-Pessoa Física",
+        "cidade": "Sinop",
+        "uf": "MT",
+        "latitude": -11.86043,
+        "longitude": -55.509062,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1458
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Sorriso-MT-VIVO-Pessoa Física",
+        "cidade": "Sorriso",
+        "uf": "MT",
+        "latitude": -12.542527,
+        "longitude": -55.721051,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 402
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Várzea Grande-MT-VIVO-Pessoa Física",
+        "cidade": "Várzea Grande",
+        "uf": "MT",
+        "latitude": -15.645816,
+        "longitude": -56.132218,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 987
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2569
+            }
+        ]
+    }
+]

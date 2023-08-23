@@ -1,0 +1,229 @@
+[
+    {
+        "identifier": "2558157000162-Alagoinhas-BA-VIVO-Pessoa Física",
+        "cidade": "Alagoinhas",
+        "uf": "BA",
+        "latitude": -12.133526,
+        "longitude": -38.420772,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 508
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Barreiras-BA-VIVO-Pessoa Física",
+        "cidade": "Barreiras",
+        "uf": "BA",
+        "latitude": -12.143864,
+        "longitude": -44.996838,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 735
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Camaçari-BA-VIVO-Pessoa Física",
+        "cidade": "Camaçari",
+        "uf": "BA",
+        "latitude": -12.699638,
+        "longitude": -38.326265,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1293
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Feira de Santana-BA-VIVO-Pessoa Física",
+        "cidade": "Feira de Santana",
+        "uf": "BA",
+        "latitude": -12.266429,
+        "longitude": -38.966293,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3767
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5198
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Itabuna-BA-VIVO-Pessoa Física",
+        "cidade": "Itabuna",
+        "uf": "BA",
+        "latitude": -14.787573,
+        "longitude": -39.278056,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8089
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Lauro de Freitas-BA-VIVO-Pessoa Física",
+        "cidade": "Lauro de Freitas",
+        "uf": "BA",
+        "latitude": -12.8978,
+        "longitude": -38.321008,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1845
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2138
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Porto Seguro-BA-VIVO-Pessoa Física",
+        "cidade": "Porto Seguro",
+        "uf": "BA",
+        "latitude": -16.443473,
+        "longitude": -39.064251,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3343
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Salvador-BA-VIVO-Pessoa Física",
+        "cidade": "Salvador",
+        "uf": "BA",
+        "latitude": -12.97178,
+        "longitude": -38.501068,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 26135
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 43277
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Simões Filho-BA-VIVO-Pessoa Física",
+        "cidade": "Simões Filho",
+        "uf": "BA",
+        "latitude": -12.786587,
+        "longitude": -38.402944,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 267
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Teixeira de Freitas-BA-VIVO-Pessoa Física",
+        "cidade": "Teixeira de Freitas",
+        "uf": "BA",
+        "latitude": -17.539915,
+        "longitude": -39.739962,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 257
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Vitória da Conquista-BA-VIVO-Pessoa Física",
+        "cidade": "Vitória da Conquista",
+        "uf": "BA",
+        "latitude": -14.861466,
+        "longitude": -40.844159,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9315
+            }
+        ]
+    }
+]

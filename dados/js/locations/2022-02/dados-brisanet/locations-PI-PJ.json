@@ -1,0 +1,84 @@
+[
+    {
+        "identifier": "4601397000128-Altos-PI-BRISANET-Pessoa Jurídica",
+        "cidade": "Altos",
+        "uf": "PI",
+        "latitude": -5.038879,
+        "longitude": -42.46116,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2022-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "4601397000128-Picos-PI-BRISANET-Pessoa Jurídica",
+        "cidade": "Picos",
+        "uf": "PI",
+        "latitude": -7.077213,
+        "longitude": -41.467003,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2022-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "4601397000128-Piripiri-PI-BRISANET-Pessoa Jurídica",
+        "cidade": "Piripiri",
+        "uf": "PI",
+        "latitude": -4.271574,
+        "longitude": -41.771569,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2022-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "4601397000128-Teresina-PI-BRISANET-Pessoa Jurídica",
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2022-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 149
+            }
+        ]
+    }
+]

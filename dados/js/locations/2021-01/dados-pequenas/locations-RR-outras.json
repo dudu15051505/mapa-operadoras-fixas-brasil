@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "35343561000178-Boa Vista-RR-Z M Lisboa dos Santos Ltda-Não Informado",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "Z M Lisboa dos Santos Ltda",
+        "cnpj": 35343561000178,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

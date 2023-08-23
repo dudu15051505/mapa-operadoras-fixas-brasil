@@ -1,0 +1,134 @@
+[
+    {
+        "identifier": "2558157000162-Cuiabá-MT-VIVO-Pessoa Física",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "latitude": -15.600979,
+        "longitude": -56.097397,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 8269
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 18884
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Lucas do Rio Verde-MT-VIVO-Pessoa Física",
+        "cidade": "Lucas do Rio Verde",
+        "uf": "MT",
+        "latitude": -13.058796,
+        "longitude": -55.904202,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Nova Mutum-MT-VIVO-Pessoa Física",
+        "cidade": "Nova Mutum",
+        "uf": "MT",
+        "latitude": -13.837389,
+        "longitude": -56.074316,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Rondonópolis-MT-VIVO-Pessoa Física",
+        "cidade": "Rondonópolis",
+        "uf": "MT",
+        "latitude": -16.467251,
+        "longitude": -54.637173,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 166
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4102
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Sinop-MT-VIVO-Pessoa Física",
+        "cidade": "Sinop",
+        "uf": "MT",
+        "latitude": -11.86043,
+        "longitude": -55.509062,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1221
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Várzea Grande-MT-VIVO-Pessoa Física",
+        "cidade": "Várzea Grande",
+        "uf": "MT",
+        "latitude": -15.645816,
+        "longitude": -56.132218,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1265
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2453
+            }
+        ]
+    }
+]

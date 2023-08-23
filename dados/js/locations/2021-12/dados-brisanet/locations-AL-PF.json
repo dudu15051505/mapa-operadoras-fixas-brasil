@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "4601397000128-Arapiraca-AL-BRISANET-Pessoa Física",
+        "cidade": "Arapiraca",
+        "uf": "AL",
+        "latitude": -9.754866,
+        "longitude": -36.661471,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "4601397000128-Maceió-AL-BRISANET-Pessoa Física",
+        "cidade": "Maceió",
+        "uf": "AL",
+        "latitude": -9.665985,
+        "longitude": -35.73496,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 41995
+            }
+        ]
+    },
+    {
+        "identifier": "4601397000128-Rio Largo-AL-BRISANET-Pessoa Física",
+        "cidade": "Rio Largo",
+        "uf": "AL",
+        "latitude": -9.477829,
+        "longitude": -35.839435,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2995
+            }
+        ]
+    },
+    {
+        "identifier": "4601397000128-São Miguel dos Campos-AL-BRISANET-Pessoa Física",
+        "cidade": "São Miguel dos Campos",
+        "uf": "AL",
+        "latitude": -9.78301,
+        "longitude": -36.097142,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 453
+            }
+        ]
+    }
+]

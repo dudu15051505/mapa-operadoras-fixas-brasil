@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "66970229000167-Imperatriz-MA-CLARO-Pessoa Física",
+        "cidade": "Imperatriz",
+        "uf": "MA",
+        "latitude": -5.518471,
+        "longitude": -47.477726,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2022-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7514
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-São Luís-MA-CLARO-Pessoa Física",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "latitude": -2.538742,
+        "longitude": -44.282513,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2022-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 57632
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Timon-MA-CLARO-Pessoa Física",
+        "cidade": "Timon",
+        "uf": "MA",
+        "latitude": -5.097692,
+        "longitude": -42.83292,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2022-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 133
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "8436839000189-Carangola-MG-FORTE TELECOM LTDA - ME-Não Informado",
+        "cidade": "Carangola",
+        "uf": "MG",
+        "latitude": -20.734348,
+        "longitude": -42.031348,
+        "empresa": "FORTE TELECOM LTDA - ME",
+        "cnpj": 8436839000189,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8436839000189-Tombos-MG-FORTE TELECOM LTDA - ME-Não Informado",
+        "cidade": "Tombos",
+        "uf": "MG",
+        "latitude": -20.908628,
+        "longitude": -42.022774,
+        "empresa": "FORTE TELECOM LTDA - ME",
+        "cnpj": 8436839000189,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

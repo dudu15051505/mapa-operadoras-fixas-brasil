@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "40154884000153-Aporé-GO-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Física",
+        "cidade": "Aporé",
+        "uf": "GO",
+        "latitude": -18.960729,
+        "longitude": -51.923184,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "40154884000153-Itumbiara-GO-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Física",
+        "cidade": "Itumbiara",
+        "uf": "GO",
+        "latitude": -18.409267,
+        "longitude": -49.215845,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

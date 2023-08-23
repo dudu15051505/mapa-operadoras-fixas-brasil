@@ -1,0 +1,593 @@
+[
+    {
+        "identifier": "7601386000136-Porto Acre-AC-VERDENET PROVEDOR DE INTERNET LTDA-Pessoa Física",
+        "cidade": "Porto Acre",
+        "uf": "AC",
+        "latitude": -9.581378,
+        "longitude": -67.547815,
+        "empresa": "VERDENET PROVEDOR DE INTERNET LTDA",
+        "cnpj": 7601386000136,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 98
+            }
+        ]
+    },
+    {
+        "identifier": "7601386000136-Senador Guiomard-AC-VERDENET PROVEDOR DE INTERNET LTDA-Pessoa Física",
+        "cidade": "Senador Guiomard",
+        "uf": "AC",
+        "latitude": -10.149686,
+        "longitude": -67.736185,
+        "empresa": "VERDENET PROVEDOR DE INTERNET LTDA",
+        "cnpj": 7601386000136,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 47
+            }
+        ]
+    },
+    {
+        "identifier": "9281606000117-Feijó-AC-SDMNET INFORMATICA LTDA - ME-Pessoa Física",
+        "cidade": "Feijó",
+        "uf": "AC",
+        "latitude": -8.170536,
+        "longitude": -70.350973,
+        "empresa": "SDMNET INFORMATICA LTDA - ME",
+        "cnpj": 9281606000117,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 170
+            }
+        ]
+    },
+    {
+        "identifier": "9281606000117-Tarauacá-AC-SDMNET INFORMATICA LTDA - ME-Pessoa Física",
+        "cidade": "Tarauacá",
+        "uf": "AC",
+        "latitude": -8.156975,
+        "longitude": -70.772154,
+        "empresa": "SDMNET INFORMATICA LTDA - ME",
+        "cnpj": 9281606000117,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 320
+            }
+        ]
+    },
+    {
+        "identifier": "10313079000164-Cruzeiro do Sul-AC-Unonet Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Cruzeiro do Sul",
+        "uf": "AC",
+        "latitude": -7.627625,
+        "longitude": -72.675582,
+        "empresa": "Unonet Telecomunicacoes Ltda",
+        "cnpj": 10313079000164,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 102
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1693
+            }
+        ]
+    },
+    {
+        "identifier": "10313079000164-Marechal Thaumaturgo-AC-Unonet Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Marechal Thaumaturgo",
+        "uf": "AC",
+        "latitude": -8.938983,
+        "longitude": -72.799704,
+        "empresa": "Unonet Telecomunicacoes Ltda",
+        "cnpj": 10313079000164,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 49
+            }
+        ]
+    },
+    {
+        "identifier": "10313079000164-Porto Walter-AC-Unonet Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Porto Walter",
+        "uf": "AC",
+        "latitude": -8.263233,
+        "longitude": -72.753747,
+        "empresa": "Unonet Telecomunicacoes Ltda",
+        "cnpj": 10313079000164,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 46
+            }
+        ]
+    },
+    {
+        "identifier": "10313079000164-Rodrigues Alves-AC-Unonet Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Rodrigues Alves",
+        "uf": "AC",
+        "latitude": -7.738638,
+        "longitude": -72.661015,
+        "empresa": "Unonet Telecomunicacoes Ltda",
+        "cnpj": 10313079000164,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 47
+            }
+        ]
+    },
+    {
+        "identifier": "11972556000166-Rio Branco-AC-SEM FRONTEIRAS TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "SEM FRONTEIRAS TELECOMUNICACOES LTDA",
+        "cnpj": 11972556000166,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8013
+            },
+            {
+                "tecnologia": "NR",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 433
+            }
+        ]
+    },
+    {
+        "identifier": "11972556000166-Senador Guiomard-AC-SEM FRONTEIRAS TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Senador Guiomard",
+        "uf": "AC",
+        "latitude": -10.149686,
+        "longitude": -67.736185,
+        "empresa": "SEM FRONTEIRAS TELECOMUNICACOES LTDA",
+        "cnpj": 11972556000166,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 573
+            }
+        ]
+    },
+    {
+        "identifier": "13365132000169-Acrelândia-AC-CENTRAL DE COMUNICAÇÃO DE TECNOLOGIA KENEDY & SANTOS LTDA-Pessoa Física",
+        "cidade": "Acrelândia",
+        "uf": "AC",
+        "latitude": -9.825808,
+        "longitude": -66.897166,
+        "empresa": "CENTRAL DE COMUNICAÇÃO DE TECNOLOGIA KENEDY & SANTOS LTDA",
+        "cnpj": 13365132000169,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 727
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 251
+            }
+        ]
+    },
+    {
+        "identifier": "13365132000169-Manoel Urbano-AC-CENTRAL DE COMUNICAÇÃO DE TECNOLOGIA KENEDY & SANTOS LTDA-Pessoa Física",
+        "cidade": "Manoel Urbano",
+        "uf": "AC",
+        "latitude": -8.832911,
+        "longitude": -69.267862,
+        "empresa": "CENTRAL DE COMUNICAÇÃO DE TECNOLOGIA KENEDY & SANTOS LTDA",
+        "cnpj": 13365132000169,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 420
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 130
+            }
+        ]
+    },
+    {
+        "identifier": "13365132000169-Plácido de Castro-AC-CENTRAL DE COMUNICAÇÃO DE TECNOLOGIA KENEDY & SANTOS LTDA-Pessoa Física",
+        "cidade": "Plácido de Castro",
+        "uf": "AC",
+        "latitude": -10.28064,
+        "longitude": -67.137133,
+        "empresa": "CENTRAL DE COMUNICAÇÃO DE TECNOLOGIA KENEDY & SANTOS LTDA",
+        "cnpj": 13365132000169,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 437
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 254
+            }
+        ]
+    },
+    {
+        "identifier": "17295274000158-Rio Branco-AC-ROSENILDA NEVES ASSUNCAO 51079216200-Pessoa Física",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "ROSENILDA NEVES ASSUNCAO 51079216200",
+        "cnpj": 17295274000158,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "NR",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 355
+            }
+        ]
+    },
+    {
+        "identifier": "17792959000100-Cruzeiro do Sul-AC-CONCOURSE TELECOMUNICACOES BRASIL LTDA.-Pessoa Física",
+        "cidade": "Cruzeiro do Sul",
+        "uf": "AC",
+        "latitude": -7.627625,
+        "longitude": -72.675582,
+        "empresa": "CONCOURSE TELECOMUNICACOES BRASIL LTDA.",
+        "cnpj": 17792959000100,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 136
+            }
+        ]
+    },
+    {
+        "identifier": "17792959000100-Rio Branco-AC-CONCOURSE TELECOMUNICACOES BRASIL LTDA.-Pessoa Física",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "CONCOURSE TELECOMUNICACOES BRASIL LTDA.",
+        "cnpj": 17792959000100,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 155
+            }
+        ]
+    },
+    {
+        "identifier": "18393588000156-Porto Acre-AC-Portonet Servicos de Telecomunicacao Imp. e Exp Ltda-Pessoa Física",
+        "cidade": "Porto Acre",
+        "uf": "AC",
+        "latitude": -9.581378,
+        "longitude": -67.547815,
+        "empresa": "Portonet Servicos de Telecomunicacao Imp. e Exp Ltda",
+        "cnpj": 18393588000156,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12
+            },
+            {
+                "tecnologia": "WIMAX",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "18393588000156-Rio Branco-AC-Portonet Servicos de Telecomunicacao Imp. e Exp Ltda-Pessoa Física",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "Portonet Servicos de Telecomunicacao Imp. e Exp Ltda",
+        "cnpj": 18393588000156,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "WIMAX",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 471
+            }
+        ]
+    },
+    {
+        "identifier": "18393588000156-Senador Guiomard-AC-Portonet Servicos de Telecomunicacao Imp. e Exp Ltda-Pessoa Física",
+        "cidade": "Senador Guiomard",
+        "uf": "AC",
+        "latitude": -10.149686,
+        "longitude": -67.736185,
+        "empresa": "Portonet Servicos de Telecomunicacao Imp. e Exp Ltda",
+        "cnpj": 18393588000156,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "WIMAX",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "22555575000103-Brasiléia-AC-DANTAS & SOUZA IMPORTACAO & EXPORTACAO LTDA-Pessoa Física",
+        "cidade": "Brasiléia",
+        "uf": "AC",
+        "latitude": -10.994994,
+        "longitude": -68.749696,
+        "empresa": "DANTAS & SOUZA IMPORTACAO & EXPORTACAO LTDA",
+        "cnpj": 22555575000103,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 345
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 280
+            }
+        ]
+    },
+    {
+        "identifier": "22555575000103-Epitaciolândia-AC-DANTAS & SOUZA IMPORTACAO & EXPORTACAO LTDA-Pessoa Física",
+        "cidade": "Epitaciolândia",
+        "uf": "AC",
+        "latitude": -11.018771,
+        "longitude": -68.734109,
+        "empresa": "DANTAS & SOUZA IMPORTACAO & EXPORTACAO LTDA",
+        "cnpj": 22555575000103,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 343
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 200
+            }
+        ]
+    },
+    {
+        "identifier": "28821099000101-Acrelândia-AC-JORDAO GODOIS BRAZ 00949896217-Pessoa Física",
+        "cidade": "Acrelândia",
+        "uf": "AC",
+        "latitude": -9.825808,
+        "longitude": -66.897166,
+        "empresa": "JORDAO GODOIS BRAZ 00949896217",
+        "cnpj": 28821099000101,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 97
+            }
+        ]
+    },
+    {
+        "identifier": "29942267000180-Porto Acre-AC-NETPURUS SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Porto Acre",
+        "uf": "AC",
+        "latitude": -9.581378,
+        "longitude": -67.547815,
+        "empresa": "NETPURUS SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 29942267000180,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Indeterminado",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "31771028000156-Mâncio Lima-AC-I9 PROVEDOR DE INTERNET E SERVICOS LTDA-Pessoa Física",
+        "cidade": "Mâncio Lima",
+        "uf": "AC",
+        "latitude": -7.616575,
+        "longitude": -72.899708,
+        "empresa": "I9 PROVEDOR DE INTERNET E SERVICOS LTDA",
+        "cnpj": 31771028000156,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 42
+            }
+        ]
+    },
+    {
+        "identifier": "33764568000138-Bujari-AC-VERDE FIBRA LTDA-Pessoa Física",
+        "cidade": "Bujari",
+        "uf": "AC",
+        "latitude": -9.815277,
+        "longitude": -67.955029,
+        "empresa": "VERDE FIBRA LTDA",
+        "cnpj": 33764568000138,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 259
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 568
+            }
+        ]
+    },
+    {
+        "identifier": "33764568000138-Porto Acre-AC-VERDE FIBRA LTDA-Pessoa Física",
+        "cidade": "Porto Acre",
+        "uf": "AC",
+        "latitude": -9.581378,
+        "longitude": -67.547815,
+        "empresa": "VERDE FIBRA LTDA",
+        "cnpj": 33764568000138,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 19
+            }
+        ]
+    },
+    {
+        "identifier": "33764568000138-Sena Madureira-AC-VERDE FIBRA LTDA-Pessoa Física",
+        "cidade": "Sena Madureira",
+        "uf": "AC",
+        "latitude": -9.063499,
+        "longitude": -68.671278,
+        "empresa": "VERDE FIBRA LTDA",
+        "cnpj": 33764568000138,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 480
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 693
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "identifier": "10271457000194-Guaraí-TO-SP TELECOMUNICAÇÕES EIRELI-Não Informado",
+        "cidade": "Guaraí",
+        "uf": "TO",
+        "latitude": -8.835429,
+        "longitude": -48.511432,
+        "empresa": "SP TELECOMUNICAÇÕES EIRELI",
+        "cnpj": 10271457000194,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 979
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 85
+            }
+        ]
+    },
+    {
+        "identifier": "12356161000100-Paraíso do Tocantins-TO-Prime System Telecomunicacoes Ltda.-Não Informado",
+        "cidade": "Paraíso do Tocantins",
+        "uf": "TO",
+        "latitude": -10.174998,
+        "longitude": -48.882269,
+        "empresa": "Prime System Telecomunicacoes Ltda.",
+        "cnpj": 12356161000100,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1216
+            }
+        ]
+    }
+]

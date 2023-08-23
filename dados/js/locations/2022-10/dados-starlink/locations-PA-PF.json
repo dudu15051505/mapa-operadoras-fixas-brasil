@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "40154884000153-Altamira-PA-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Física",
+        "cidade": "Altamira",
+        "uf": "PA",
+        "latitude": -3.204065,
+        "longitude": -52.209961,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2022-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "40154884000153-Dom Eliseu-PA-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Física",
+        "cidade": "Dom Eliseu",
+        "uf": "PA",
+        "latitude": -4.283786,
+        "longitude": -47.505688,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2022-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

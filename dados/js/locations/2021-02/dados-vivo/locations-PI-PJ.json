@@ -1,0 +1,109 @@
+[
+    {
+        "identifier": "2558157000162-Monsenhor Gil-PI-VIVO-Pessoa Jurídica",
+        "cidade": "Monsenhor Gil",
+        "uf": "PI",
+        "latitude": -5.561999,
+        "longitude": -42.607493,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Parnaíba-PI-VIVO-Pessoa Jurídica",
+        "cidade": "Parnaíba",
+        "uf": "PI",
+        "latitude": -2.905847,
+        "longitude": -41.775388,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Picos-PI-VIVO-Pessoa Jurídica",
+        "cidade": "Picos",
+        "uf": "PI",
+        "latitude": -7.077213,
+        "longitude": -41.467003,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-São Luis do Piauí-PI-VIVO-Pessoa Jurídica",
+        "cidade": "São Luis do Piauí",
+        "uf": "PI",
+        "latitude": -6.819363,
+        "longitude": -41.317454,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Teresina-PI-VIVO-Pessoa Jurídica",
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 32
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2186
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 44
+            }
+        ]
+    }
+]

@@ -1,0 +1,341 @@
+[
+    {
+        "identifier": "76535764000143-Barueri-SP-OI-Pessoa Física",
+        "cidade": "Barueri",
+        "uf": "SP",
+        "latitude": -23.505689,
+        "longitude": -46.879042,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Biritiba-Mirim-SP-OI-Pessoa Física",
+        "cidade": "Biritiba-Mirim",
+        "uf": "SP",
+        "latitude": -23.569774,
+        "longitude": -46.0407,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Cabreúva-SP-OI-Pessoa Física",
+        "cidade": "Cabreúva",
+        "uf": "SP",
+        "latitude": -23.30533,
+        "longitude": -47.136251,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Campinas-SP-OI-Pessoa Física",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "latitude": -22.905346,
+        "longitude": -47.06595,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2123
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Embu das Artes-SP-OI-Pessoa Física",
+        "cidade": "Embu das Artes",
+        "uf": "SP",
+        "latitude": -23.643717,
+        "longitude": -46.858776,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Guararema-SP-OI-Pessoa Física",
+        "cidade": "Guararema",
+        "uf": "SP",
+        "latitude": -23.411195,
+        "longitude": -46.036946,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Guarulhos-SP-OI-Pessoa Física",
+        "cidade": "Guarulhos",
+        "uf": "SP",
+        "latitude": -23.453758,
+        "longitude": -46.533347,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1001
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Hortolândia-SP-OI-Pessoa Física",
+        "cidade": "Hortolândia",
+        "uf": "SP",
+        "latitude": -22.852854,
+        "longitude": -47.214259,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 92
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Mauá-SP-OI-Pessoa Física",
+        "cidade": "Mauá",
+        "uf": "SP",
+        "latitude": -23.66767,
+        "longitude": -46.461263,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Mogi das Cruzes-SP-OI-Pessoa Física",
+        "cidade": "Mogi das Cruzes",
+        "uf": "SP",
+        "latitude": -23.52082,
+        "longitude": -46.18541,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Osasco-SP-OI-Pessoa Física",
+        "cidade": "Osasco",
+        "uf": "SP",
+        "latitude": -23.53239,
+        "longitude": -46.791555,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Rio Grande da Serra-SP-OI-Pessoa Física",
+        "cidade": "Rio Grande da Serra",
+        "uf": "SP",
+        "latitude": -23.743724,
+        "longitude": -46.397084,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Sorocaba-SP-OI-Pessoa Física",
+        "cidade": "Sorocaba",
+        "uf": "SP",
+        "latitude": -23.496886,
+        "longitude": -47.445073,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 378
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-São José dos Campos-SP-OI-Pessoa Física",
+        "cidade": "São José dos Campos",
+        "uf": "SP",
+        "latitude": -23.189554,
+        "longitude": -45.884115,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 38
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-São Paulo-SP-OI-Pessoa Física",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FR",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6486
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            }
+        ]
+    }
+]

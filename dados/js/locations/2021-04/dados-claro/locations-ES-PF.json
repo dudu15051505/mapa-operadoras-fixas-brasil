@@ -1,0 +1,97 @@
+[
+    {
+        "identifier": "40432544000147-Cachoeiro de Itapemirim-ES-CLARO-Pessoa Física",
+        "cidade": "Cachoeiro de Itapemirim",
+        "uf": "ES",
+        "latitude": -20.846212,
+        "longitude": -41.119829,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 993
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Cariacica-ES-CLARO-Pessoa Física",
+        "cidade": "Cariacica",
+        "uf": "ES",
+        "latitude": -20.263202,
+        "longitude": -40.416549,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 9537
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Serra-ES-CLARO-Pessoa Física",
+        "cidade": "Serra",
+        "uf": "ES",
+        "latitude": -20.121032,
+        "longitude": -40.307408,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 29956
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Vila Velha-ES-CLARO-Pessoa Física",
+        "cidade": "Vila Velha",
+        "uf": "ES",
+        "latitude": -20.341705,
+        "longitude": -40.287458,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 43253
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Vitória-ES-CLARO-Pessoa Física",
+        "cidade": "Vitória",
+        "uf": "ES",
+        "latitude": -20.315472,
+        "longitude": -40.312806,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 42844
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "identifier": "27355368000129-Araguaína-TO-Toledo Telecom Ltda-Não Informado",
+        "cidade": "Araguaína",
+        "uf": "TO",
+        "latitude": -7.192375,
+        "longitude": -48.204402,
+        "empresa": "Toledo Telecom Ltda",
+        "cnpj": 27355368000129,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Indeterminado",
+                "quantidade-acesso": 936
+            },
+            {
+                "tecnologia": "WIMAX",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Indeterminado",
+                "quantidade-acesso": 29
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Indeterminado",
+                "quantidade-acesso": 7
+            }
+        ]
+    }
+]

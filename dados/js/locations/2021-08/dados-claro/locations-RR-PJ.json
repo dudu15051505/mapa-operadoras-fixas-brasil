@@ -1,0 +1,443 @@
+[
+    {
+        "identifier": "40432544000147-Alto Alegre-RR-CLARO-Pessoa Jurídica",
+        "cidade": "Alto Alegre",
+        "uf": "RR",
+        "latitude": 2.98858,
+        "longitude": -61.307167,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Amajari-RR-CLARO-Pessoa Jurídica",
+        "cidade": "Amajari",
+        "uf": "RR",
+        "latitude": 3.645714,
+        "longitude": -61.369245,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 25
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Boa Vista-RR-CLARO-Pessoa Jurídica",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 269
+            },
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 71
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 116
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 42
+            },
+            {
+                "tecnologia": "WIMAX",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Bonfim-RR-CLARO-Pessoa Jurídica",
+        "cidade": "Bonfim",
+        "uf": "RR",
+        "latitude": 3.361614,
+        "longitude": -59.8333,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Cantá-RR-CLARO-Pessoa Jurídica",
+        "cidade": "Cantá",
+        "uf": "RR",
+        "latitude": 2.60994,
+        "longitude": -60.605827,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Caracaraí-RR-CLARO-Pessoa Jurídica",
+        "cidade": "Caracaraí",
+        "uf": "RR",
+        "latitude": 1.827659,
+        "longitude": -61.130378,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 11
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 23
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Caroebe-RR-CLARO-Pessoa Jurídica",
+        "cidade": "Caroebe",
+        "uf": "RR",
+        "latitude": 0.884203,
+        "longitude": -59.695886,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Iracema-RR-CLARO-Pessoa Jurídica",
+        "cidade": "Iracema",
+        "uf": "RR",
+        "latitude": 2.183046,
+        "longitude": -61.041546,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Mucajaí-RR-CLARO-Pessoa Jurídica",
+        "cidade": "Mucajaí",
+        "uf": "RR",
+        "latitude": 2.439982,
+        "longitude": -60.909619,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Normandia-RR-CLARO-Pessoa Jurídica",
+        "cidade": "Normandia",
+        "uf": "RR",
+        "latitude": 3.885305,
+        "longitude": -59.620402,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 11
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Pacaraima-RR-CLARO-Pessoa Jurídica",
+        "cidade": "Pacaraima",
+        "uf": "RR",
+        "latitude": 4.479895,
+        "longitude": -61.147695,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 19
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Rorainópolis-RR-CLARO-Pessoa Jurídica",
+        "cidade": "Rorainópolis",
+        "uf": "RR",
+        "latitude": 0.939956,
+        "longitude": -60.438923,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 23
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-São João da Baliza-RR-CLARO-Pessoa Jurídica",
+        "cidade": "São João da Baliza",
+        "uf": "RR",
+        "latitude": 0.951659,
+        "longitude": -59.913293,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 13
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-São Luiz-RR-CLARO-Pessoa Jurídica",
+        "cidade": "São Luiz",
+        "uf": "RR",
+        "latitude": 1.010193,
+        "longitude": -60.041894,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Uiramutã-RR-CLARO-Pessoa Jurídica",
+        "cidade": "Uiramutã",
+        "uf": "RR",
+        "latitude": 4.603144,
+        "longitude": -60.181464,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 9
+            }
+        ]
+    }
+]

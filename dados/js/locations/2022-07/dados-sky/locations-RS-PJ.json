@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "497373000110-Novo Hamburgo-RS-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Novo Hamburgo",
+        "uf": "RS",
+        "latitude": -29.687548,
+        "longitude": -51.132828,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Santa Cruz do Sul-RS-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Santa Cruz do Sul",
+        "uf": "RS",
+        "latitude": -29.722021,
+        "longitude": -52.434318,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Sapucaia do Sul-RS-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Sapucaia do Sul",
+        "uf": "RS",
+        "latitude": -29.827575,
+        "longitude": -51.144975,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-São Leopoldo-RS-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "São Leopoldo",
+        "uf": "RS",
+        "latitude": -29.754494,
+        "longitude": -51.149773,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8
+            }
+        ]
+    }
+]

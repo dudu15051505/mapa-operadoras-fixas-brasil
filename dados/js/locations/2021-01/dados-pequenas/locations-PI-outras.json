@@ -1,0 +1,84 @@
+[
+    {
+        "identifier": "608881000128-Teresina-PI-IT TECNOLOGIA E INFORMACAO LTDA-Não Informado",
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "IT TECNOLOGIA E INFORMACAO LTDA",
+        "cnpj": 608881000128,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 649
+            },
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "14783977000137-Fronteiras-PI-LIBERTI TELECOM E COMERCIO DE INFORMATICA LTDA - ME-Não Informado",
+        "cidade": "Fronteiras",
+        "uf": "PI",
+        "latitude": -7.081727,
+        "longitude": -40.614601,
+        "empresa": "LIBERTI TELECOM E COMERCIO DE INFORMATICA LTDA - ME",
+        "cnpj": 14783977000137,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 86
+            }
+        ]
+    },
+    {
+        "identifier": "18563238000190-Cocal-PI-SMART SOLUCOES LTDA-Não Informado",
+        "cidade": "Cocal",
+        "uf": "PI",
+        "latitude": -3.472792,
+        "longitude": -41.554623,
+        "empresa": "SMART SOLUCOES LTDA",
+        "cnpj": 18563238000190,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "38074231000112-Teresina-PI-FORTHE TELECOM LTDA-Não Informado",
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "FORTHE TELECOM LTDA",
+        "cnpj": 38074231000112,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "identifier": "40432544000147-Anápolis-GO-CLARO-Pessoa Física",
+        "cidade": "Anápolis",
+        "uf": "GO",
+        "latitude": -16.328095,
+        "longitude": -48.952958,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 19410
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Aparecida de Goiânia-GO-CLARO-Pessoa Física",
+        "cidade": "Aparecida de Goiânia",
+        "uf": "GO",
+        "latitude": -16.819804,
+        "longitude": -49.246856,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 1978
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Caldas Novas-GO-CLARO-Pessoa Física",
+        "cidade": "Caldas Novas",
+        "uf": "GO",
+        "latitude": -17.74406,
+        "longitude": -48.624579,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 800
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Goiânia-GO-CLARO-Pessoa Física",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "latitude": -16.686439,
+        "longitude": -49.264346,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 133431
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Rio Verde-GO-CLARO-Pessoa Física",
+        "cidade": "Rio Verde",
+        "uf": "GO",
+        "latitude": -17.792266,
+        "longitude": -50.919195,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22604
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Valparaíso de Goiás-GO-CLARO-Pessoa Física",
+        "cidade": "Valparaíso de Goiás",
+        "uf": "GO",
+        "latitude": -16.065078,
+        "longitude": -47.975675,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12422
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "8375171000107-Messias-AL-DENISSON C. DE VASCONCELOS - ME-Não Informado",
+        "cidade": "Messias",
+        "uf": "AL",
+        "latitude": -9.393843,
+        "longitude": -35.839182,
+        "empresa": "DENISSON C. DE VASCONCELOS - ME",
+        "cnpj": 8375171000107,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8375171000107-Murici-AL-DENISSON C. DE VASCONCELOS - ME-Não Informado",
+        "cidade": "Murici",
+        "uf": "AL",
+        "latitude": -9.306823,
+        "longitude": -35.942798,
+        "empresa": "DENISSON C. DE VASCONCELOS - ME",
+        "cnpj": 8375171000107,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "14829672000119-Rio Largo-AL-L. A. DA SILVA SERVICOS - ME-Não Informado",
+        "cidade": "Rio Largo",
+        "uf": "AL",
+        "latitude": -9.477829,
+        "longitude": -35.839435,
+        "empresa": "L. A. DA SILVA SERVICOS - ME",
+        "cnpj": 14829672000119,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 147
+            }
+        ]
+    },
+    {
+        "identifier": "26289035000186-Arapiraca-AL-L. O. LEANDRO INTERNET-Não Informado",
+        "cidade": "Arapiraca",
+        "uf": "AL",
+        "latitude": -9.754866,
+        "longitude": -36.661471,
+        "empresa": "L. O. LEANDRO INTERNET",
+        "cnpj": 26289035000186,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]

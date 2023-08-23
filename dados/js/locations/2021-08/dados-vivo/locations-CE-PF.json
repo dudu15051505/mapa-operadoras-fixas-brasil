@@ -1,0 +1,65 @@
+[
+    {
+        "identifier": "2558157000162-Caucaia-CE-VIVO-Pessoa Física",
+        "cidade": "Caucaia",
+        "uf": "CE",
+        "latitude": -3.727966,
+        "longitude": -38.661931,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2260
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Fortaleza-CE-VIVO-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 30412
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 26806
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Maracanaú-CE-VIVO-Pessoa Física",
+        "cidade": "Maracanaú",
+        "uf": "CE",
+        "latitude": -3.86699,
+        "longitude": -38.625901,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2220
+            }
+        ]
+    }
+]

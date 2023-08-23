@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "497373000110-Aracaju-SE-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-11",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 29
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Nossa Senhora do Socorro-SE-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Nossa Senhora do Socorro",
+        "uf": "SE",
+        "latitude": -10.846822,
+        "longitude": -37.123113,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-11",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-São Cristóvão-SE-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "São Cristóvão",
+        "uf": "SE",
+        "latitude": -11.008443,
+        "longitude": -37.20436,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-11",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "16524935000107-Viamão-RS-WIANET SERVIÇOS & TECNOLOGIA LTDA - ME-Não Informado",
+        "cidade": "Viamão",
+        "uf": "RS",
+        "latitude": -30.081899,
+        "longitude": -51.019435,
+        "empresa": "WIANET SERVIÇOS & TECNOLOGIA LTDA - ME",
+        "cnpj": 16524935000107,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Indeterminado",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "30120502000117-Alegrete-RS-CGP TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Alegrete",
+        "uf": "RS",
+        "latitude": -29.790166,
+        "longitude": -55.794862,
+        "empresa": "CGP TELECOMUNICACOES LTDA",
+        "cnpj": 30120502000117,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 603
+            }
+        ]
+    }
+]

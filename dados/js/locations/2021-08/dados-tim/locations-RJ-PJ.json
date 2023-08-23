@@ -1,0 +1,963 @@
+[
+    {
+        "identifier": "2421421000111-Angra dos Reis-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Angra dos Reis",
+        "uf": "RJ",
+        "latitude": -23.001074,
+        "longitude": -44.31956,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Arraial do Cabo-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Arraial do Cabo",
+        "uf": "RJ",
+        "latitude": -22.977448,
+        "longitude": -42.026715,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Barra Mansa-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Barra Mansa",
+        "uf": "RJ",
+        "latitude": -22.548084,
+        "longitude": -44.175241,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Barra do Piraí-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Barra do Piraí",
+        "uf": "RJ",
+        "latitude": -22.471531,
+        "longitude": -43.826918,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Belford Roxo-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Belford Roxo",
+        "uf": "RJ",
+        "latitude": -22.764042,
+        "longitude": -43.39921,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Bom Jesus do Itabapoana-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Bom Jesus do Itabapoana",
+        "uf": "RJ",
+        "latitude": -21.144851,
+        "longitude": -41.682222,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Cabo Frio-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Cabo Frio",
+        "uf": "RJ",
+        "latitude": -22.88943,
+        "longitude": -42.028595,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Campos dos Goytacazes-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Campos dos Goytacazes",
+        "uf": "RJ",
+        "latitude": -21.762171,
+        "longitude": -41.318055,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Cantagalo-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Cantagalo",
+        "uf": "RJ",
+        "latitude": -21.979736,
+        "longitude": -42.366425,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Duque de Caxias-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Duque de Caxias",
+        "uf": "RJ",
+        "latitude": -22.785801,
+        "longitude": -43.304895,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 24
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 102
+            },
+            {
+                "tecnologia": "VDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 128
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Itaboraí-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Itaboraí",
+        "uf": "RJ",
+        "latitude": -22.756504,
+        "longitude": -42.863905,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ATM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Itaguaí-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Itaguaí",
+        "uf": "RJ",
+        "latitude": -22.863566,
+        "longitude": -43.779821,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Itaperuna-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Itaperuna",
+        "uf": "RJ",
+        "latitude": -21.199665,
+        "longitude": -41.879907,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Itatiaia-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Itatiaia",
+        "uf": "RJ",
+        "latitude": -22.48971,
+        "longitude": -44.567485,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Macaé-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Macaé",
+        "uf": "RJ",
+        "latitude": -22.376807,
+        "longitude": -41.784828,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Magé-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Magé",
+        "uf": "RJ",
+        "latitude": -22.663151,
+        "longitude": -43.031483,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Maricá-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Maricá",
+        "uf": "RJ",
+        "latitude": -22.935434,
+        "longitude": -42.824587,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Mesquita-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Mesquita",
+        "uf": "RJ",
+        "latitude": -22.802811,
+        "longitude": -43.460066,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Nilópolis-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Nilópolis",
+        "uf": "RJ",
+        "latitude": -22.805658,
+        "longitude": -43.423344,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 51
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Niterói-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Niterói",
+        "uf": "RJ",
+        "latitude": -22.88321,
+        "longitude": -43.103367,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 36
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Nova Friburgo-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Nova Friburgo",
+        "uf": "RJ",
+        "latitude": -22.293224,
+        "longitude": -42.537692,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Nova Iguaçu-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Nova Iguaçu",
+        "uf": "RJ",
+        "latitude": -22.755635,
+        "longitude": -43.460325,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 16
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "VDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 165
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Paraíba do Sul-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Paraíba do Sul",
+        "uf": "RJ",
+        "latitude": -22.158462,
+        "longitude": -43.304004,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Petrópolis-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Petrópolis",
+        "uf": "RJ",
+        "latitude": -22.519963,
+        "longitude": -43.192613,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Porto Real-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Porto Real",
+        "uf": "RJ",
+        "latitude": -22.417472,
+        "longitude": -44.295167,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ATM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Queimados-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Queimados",
+        "uf": "RJ",
+        "latitude": -22.710172,
+        "longitude": -43.551808,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Quissamã-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Quissamã",
+        "uf": "RJ",
+        "latitude": -22.103097,
+        "longitude": -41.469253,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Resende-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Resende",
+        "uf": "RJ",
+        "latitude": -22.470473,
+        "longitude": -44.45091,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ATM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Rio Bonito-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Rio Bonito",
+        "uf": "RJ",
+        "latitude": -22.71811,
+        "longitude": -42.627574,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Rio das Ostras-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Rio das Ostras",
+        "uf": "RJ",
+        "latitude": -22.517378,
+        "longitude": -41.947509,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Rio de Janeiro-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ATM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "ATM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 24
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 11
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 755
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 706
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FR",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FR",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15
+            },
+            {
+                "tecnologia": "FR",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1030
+            },
+            {
+                "tecnologia": "VDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1901
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Seropédica-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Seropédica",
+        "uf": "RJ",
+        "latitude": -22.752584,
+        "longitude": -43.715482,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São Gonçalo-RJ-TIM-Pessoa Jurídica",
+        "cidade": "São Gonçalo",
+        "uf": "RJ",
+        "latitude": -22.82679,
+        "longitude": -43.063351,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ATM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "FR",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 137
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São João de Meriti-RJ-TIM-Pessoa Jurídica",
+        "cidade": "São João de Meriti",
+        "uf": "RJ",
+        "latitude": -22.805776,
+        "longitude": -43.37292,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "VDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 171
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Teresópolis-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Teresópolis",
+        "uf": "RJ",
+        "latitude": -22.416464,
+        "longitude": -42.97519,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Três Rios-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Três Rios",
+        "uf": "RJ",
+        "latitude": -22.11651,
+        "longitude": -43.218533,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Volta Redonda-RJ-TIM-Pessoa Jurídica",
+        "cidade": "Volta Redonda",
+        "uf": "RJ",
+        "latitude": -22.520212,
+        "longitude": -44.099555,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ATM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FR",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

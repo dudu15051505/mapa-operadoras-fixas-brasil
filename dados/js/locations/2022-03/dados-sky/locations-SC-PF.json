@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "497373000110-Blumenau-SC-SKY/AT&T-Pessoa Física",
+        "cidade": "Blumenau",
+        "uf": "SC",
+        "latitude": -26.915501,
+        "longitude": -49.070904,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Jaraguá do Sul-SC-SKY/AT&T-Pessoa Física",
+        "cidade": "Jaraguá do Sul",
+        "uf": "SC",
+        "latitude": -26.485083,
+        "longitude": -49.07125,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "497373000110-Novo Hamburgo-RS-SKY/AT&T-Pessoa Física",
+        "cidade": "Novo Hamburgo",
+        "uf": "RS",
+        "latitude": -29.687548,
+        "longitude": -51.132828,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 990
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Sapucaia do Sul-RS-SKY/AT&T-Pessoa Física",
+        "cidade": "Sapucaia do Sul",
+        "uf": "RS",
+        "latitude": -29.827575,
+        "longitude": -51.144975,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1245
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-São Leopoldo-RS-SKY/AT&T-Pessoa Física",
+        "cidade": "São Leopoldo",
+        "uf": "RS",
+        "latitude": -29.754494,
+        "longitude": -51.149773,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1608
+            }
+        ]
+    }
+]

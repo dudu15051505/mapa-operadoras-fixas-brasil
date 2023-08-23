@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "40432544000147-Fortaleza-CE-CLARO-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 65771
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Sobral-CE-CLARO-Pessoa Física",
+        "cidade": "Sobral",
+        "uf": "CE",
+        "latitude": -3.689133,
+        "longitude": -40.34821,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3967
+            }
+        ]
+    }
+]

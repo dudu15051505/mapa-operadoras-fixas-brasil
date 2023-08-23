@@ -1,0 +1,179 @@
+[
+    {
+        "identifier": "2421421000111-Diadema-SP-TIM-Pessoa Física",
+        "cidade": "Diadema",
+        "uf": "SP",
+        "latitude": -23.681347,
+        "longitude": -46.62052,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3053
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Francisco Morato-SP-TIM-Pessoa Física",
+        "cidade": "Francisco Morato",
+        "uf": "SP",
+        "latitude": -23.279248,
+        "longitude": -46.744781,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5062
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Franco da Rocha-SP-TIM-Pessoa Física",
+        "cidade": "Franco da Rocha",
+        "uf": "SP",
+        "latitude": -23.322882,
+        "longitude": -46.729011,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7402
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Guarulhos-SP-TIM-Pessoa Física",
+        "cidade": "Guarulhos",
+        "uf": "SP",
+        "latitude": -23.453758,
+        "longitude": -46.533347,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3770
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Mauá-SP-TIM-Pessoa Física",
+        "cidade": "Mauá",
+        "uf": "SP",
+        "latitude": -23.66767,
+        "longitude": -46.461263,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4245
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Poá-SP-TIM-Pessoa Física",
+        "cidade": "Poá",
+        "uf": "SP",
+        "latitude": -23.533285,
+        "longitude": -46.347292,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5684
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Suzano-SP-TIM-Pessoa Física",
+        "cidade": "Suzano",
+        "uf": "SP",
+        "latitude": -23.544828,
+        "longitude": -46.311181,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 726
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São Paulo-SP-TIM-Pessoa Física",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 75123
+            },
+            {
+                "tecnologia": "VDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 169704
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Taboão da Serra-SP-TIM-Pessoa Física",
+        "cidade": "Taboão da Serra",
+        "uf": "SP",
+        "latitude": -23.601867,
+        "longitude": -46.752637,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1623
+            }
+        ]
+    }
+]

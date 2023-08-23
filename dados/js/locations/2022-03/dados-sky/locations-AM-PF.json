@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "497373000110-Iranduba-AM-SKY/AT&T-Pessoa Física",
+        "cidade": "Iranduba",
+        "uf": "AM",
+        "latitude": -3.274792,
+        "longitude": -60.189953,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1015
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Manaus-AM-SKY/AT&T-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 17378
+            }
+        ]
+    }
+]

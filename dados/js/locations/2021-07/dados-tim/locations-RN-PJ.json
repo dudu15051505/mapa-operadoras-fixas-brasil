@@ -1,0 +1,103 @@
+[
+    {
+        "identifier": "2421421000111-Montanhas-RN-TIM-Pessoa Jurídica",
+        "cidade": "Montanhas",
+        "uf": "RN",
+        "latitude": -6.485217,
+        "longitude": -35.284158,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Natal-RN-TIM-Pessoa Jurídica",
+        "cidade": "Natal",
+        "uf": "RN",
+        "latitude": -5.793567,
+        "longitude": -35.198604,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Parnamirim-RN-TIM-Pessoa Jurídica",
+        "cidade": "Parnamirim",
+        "uf": "RN",
+        "latitude": -5.911156,
+        "longitude": -35.271,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São Gonçalo do Amarante-RN-TIM-Pessoa Jurídica",
+        "cidade": "São Gonçalo do Amarante",
+        "uf": "RN",
+        "latitude": -5.790682,
+        "longitude": -35.325729,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São Vicente-RN-TIM-Pessoa Jurídica",
+        "cidade": "São Vicente",
+        "uf": "RN",
+        "latitude": -6.218931,
+        "longitude": -36.682696,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

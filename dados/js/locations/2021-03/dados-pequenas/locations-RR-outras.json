@@ -1,0 +1,65 @@
+[
+    {
+        "identifier": "5779911000182-Boa Vista-RR-Riu Telecom Ltda-Não Informado",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "Riu Telecom Ltda",
+        "cnpj": 5779911000182,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "5779911000182-Cantá-RR-Riu Telecom Ltda-Não Informado",
+        "cidade": "Cantá",
+        "uf": "RR",
+        "latitude": 2.60994,
+        "longitude": -60.605827,
+        "empresa": "Riu Telecom Ltda",
+        "cnpj": 5779911000182,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "35343561000178-Boa Vista-RR-Z M Lisboa dos Santos Ltda-Não Informado",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "Z M Lisboa dos Santos Ltda",
+        "cnpj": 35343561000178,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]
