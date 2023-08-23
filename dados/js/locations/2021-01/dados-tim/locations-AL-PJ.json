@@ -1,0 +1,71 @@
+[
+    {
+        "identifier": "2421421000111-Campo Grande-AL-TIM-Pessoa Jurídica",
+        "cidade": "Campo Grande",
+        "uf": "AL",
+        "latitude": -9.955423,
+        "longitude": -36.792608,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Coruripe-AL-TIM-Pessoa Jurídica",
+        "cidade": "Coruripe",
+        "uf": "AL",
+        "latitude": -10.127632,
+        "longitude": -36.171724,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Maceió-AL-TIM-Pessoa Jurídica",
+        "cidade": "Maceió",
+        "uf": "AL",
+        "latitude": -9.665985,
+        "longitude": -35.73496,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 16
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    }
+]

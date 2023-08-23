@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "497373000110-Cuiabá-MT-SKY/AT&T-Pessoa Física",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "latitude": -15.600979,
+        "longitude": -56.097397,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8303
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Várzea Grande-MT-SKY/AT&T-Pessoa Física",
+        "cidade": "Várzea Grande",
+        "uf": "MT",
+        "latitude": -15.645816,
+        "longitude": -56.132218,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2862
+            }
+        ]
+    }
+]

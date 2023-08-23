@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "7870094000107-Areia Branca-RN-EB FIBRA-Pessoa Física",
+        "cidade": "Areia Branca",
+        "uf": "RN",
+        "latitude": -4.952537,
+        "longitude": -37.125226,
+        "empresa": "EB FIBRA",
+        "cnpj": 7870094000107,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7870094000107-São Vicente-RN-EB FIBRA-Pessoa Física",
+        "cidade": "São Vicente",
+        "uf": "RN",
+        "latitude": -6.218931,
+        "longitude": -36.682696,
+        "empresa": "EB FIBRA",
+        "cnpj": 7870094000107,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "20326556000180-Itaú-RN-EB FIBRA-Pessoa Física",
+        "cidade": "Itaú",
+        "uf": "RN",
+        "latitude": -5.836301,
+        "longitude": -37.991249,
+        "empresa": "EB FIBRA",
+        "cnpj": 20326556000180,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    }
+]

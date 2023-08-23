@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "2558157000162-Aracaju-SE-VIVO-Pessoa Física",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 9604
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14819
+            }
+        ]
+    }
+]

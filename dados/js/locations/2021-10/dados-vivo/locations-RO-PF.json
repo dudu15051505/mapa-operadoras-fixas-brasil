@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "2558157000162-Porto Velho-RO-VIVO-Pessoa Física",
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Rolim de Moura-RO-VIVO-Pessoa Física",
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Vilhena-RO-VIVO-Pessoa Física",
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

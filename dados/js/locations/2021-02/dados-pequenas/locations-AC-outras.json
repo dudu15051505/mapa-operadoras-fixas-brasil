@@ -1,0 +1,46 @@
+[
+    {
+        "identifier": "9367511000110-Cruzeiro do Sul-AC-OMEGASUL TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Cruzeiro do Sul",
+        "uf": "AC",
+        "latitude": -7.627625,
+        "longitude": -72.675582,
+        "empresa": "OMEGASUL TELECOMUNICACOES LTDA",
+        "cnpj": 9367511000110,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 540
+            },
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 88
+            }
+        ]
+    },
+    {
+        "identifier": "12977301000159-Rio Branco-AC-MAIS FIBRA TELECOMUNICACAO LTDA-Não Informado",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "MAIS FIBRA TELECOMUNICACAO LTDA",
+        "cnpj": 12977301000159,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

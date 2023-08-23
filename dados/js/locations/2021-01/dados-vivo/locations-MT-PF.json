@@ -1,0 +1,115 @@
+[
+    {
+        "identifier": "2558157000162-Barra do Garças-MT-VIVO-Pessoa Física",
+        "cidade": "Barra do Garças",
+        "uf": "MT",
+        "latitude": -15.880412,
+        "longitude": -52.263953,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Cuiabá-MT-VIVO-Pessoa Física",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "latitude": -15.600979,
+        "longitude": -56.097397,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 13365
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14485
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Rondonópolis-MT-VIVO-Pessoa Física",
+        "cidade": "Rondonópolis",
+        "uf": "MT",
+        "latitude": -16.467251,
+        "longitude": -54.637173,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1268
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3111
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Sinop-MT-VIVO-Pessoa Física",
+        "cidade": "Sinop",
+        "uf": "MT",
+        "latitude": -11.86043,
+        "longitude": -55.509062,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 487
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Várzea Grande-MT-VIVO-Pessoa Física",
+        "cidade": "Várzea Grande",
+        "uf": "MT",
+        "latitude": -15.645816,
+        "longitude": -56.132218,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2691
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1446
+            }
+        ]
+    }
+]

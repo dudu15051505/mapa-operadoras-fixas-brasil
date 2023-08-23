@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "66970229000167-Ji-Paraná-RO-CLARO-Pessoa Física",
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2022-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 156
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Porto Velho-RO-CLARO-Pessoa Física",
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2022-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 14510
+            }
+        ]
+    }
+]

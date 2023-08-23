@@ -1,0 +1,97 @@
+[
+    {
+        "identifier": "4622116000113-Curitiba-PR-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Curitiba",
+        "uf": "PR",
+        "latitude": -25.419547,
+        "longitude": -49.264622,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 4622116000113,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "4622116000113-Londrina-PR-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Londrina",
+        "uf": "PR",
+        "latitude": -23.303975,
+        "longitude": -51.1691,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 4622116000113,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Cambará-PR-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Cambará",
+        "uf": "PR",
+        "latitude": -23.042273,
+        "longitude": -50.075281,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Curitiba-PR-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Curitiba",
+        "uf": "PR",
+        "latitude": -25.419547,
+        "longitude": -49.264622,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Pinhais-PR-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Pinhais",
+        "uf": "PR",
+        "latitude": -25.442949,
+        "longitude": -49.19267,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

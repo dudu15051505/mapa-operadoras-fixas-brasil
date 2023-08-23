@@ -1,0 +1,33 @@
+[
+    {
+        "identifier": "41644220000135-Brasília-DF-EB FIBRA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    }
+]

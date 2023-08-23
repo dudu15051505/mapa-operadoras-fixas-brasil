@@ -1,0 +1,185 @@
+[
+    {
+        "identifier": "2421421000111-Arapiraca-AL-TIM-Pessoa Jurídica",
+        "cidade": "Arapiraca",
+        "uf": "AL",
+        "latitude": -9.754866,
+        "longitude": -36.661471,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Campo Grande-AL-TIM-Pessoa Jurídica",
+        "cidade": "Campo Grande",
+        "uf": "AL",
+        "latitude": -9.955423,
+        "longitude": -36.792608,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Coruripe-AL-TIM-Pessoa Jurídica",
+        "cidade": "Coruripe",
+        "uf": "AL",
+        "latitude": -10.127632,
+        "longitude": -36.171724,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Maceió-AL-TIM-Pessoa Jurídica",
+        "cidade": "Maceió",
+        "uf": "AL",
+        "latitude": -9.665985,
+        "longitude": -35.73496,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 25
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Palmeira dos Índios-AL-TIM-Pessoa Jurídica",
+        "cidade": "Palmeira dos Índios",
+        "uf": "AL",
+        "latitude": -9.405681,
+        "longitude": -36.632812,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Penedo-AL-TIM-Pessoa Jurídica",
+        "cidade": "Penedo",
+        "uf": "AL",
+        "latitude": -10.287422,
+        "longitude": -36.581905,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Santana do Ipanema-AL-TIM-Pessoa Jurídica",
+        "cidade": "Santana do Ipanema",
+        "uf": "AL",
+        "latitude": -9.369989,
+        "longitude": -37.248018,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São Miguel dos Campos-AL-TIM-Pessoa Jurídica",
+        "cidade": "São Miguel dos Campos",
+        "uf": "AL",
+        "latitude": -9.78301,
+        "longitude": -36.097142,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-União dos Palmares-AL-TIM-Pessoa Jurídica",
+        "cidade": "União dos Palmares",
+        "uf": "AL",
+        "latitude": -9.15921,
+        "longitude": -36.02227,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

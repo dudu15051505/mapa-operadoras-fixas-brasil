@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "6809941000157-Joinville-SC-EB FIBRA-Pessoa Jurídica",
+        "cidade": "Joinville",
+        "uf": "SC",
+        "latitude": -26.304497,
+        "longitude": -48.848675,
+        "empresa": "EB FIBRA",
+        "cnpj": 6809941000157,
+        "data-dados": "2021-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "6809941000157-Santo Amaro da Imperatriz-SC-EB FIBRA-Pessoa Jurídica",
+        "cidade": "Santo Amaro da Imperatriz",
+        "uf": "SC",
+        "latitude": -27.685182,
+        "longitude": -48.781305,
+        "empresa": "EB FIBRA",
+        "cnpj": 6809941000157,
+        "data-dados": "2021-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "2558157000162-Açailândia-MA-VIVO-Pessoa Física",
+        "cidade": "Açailândia",
+        "uf": "MA",
+        "latitude": -4.947137,
+        "longitude": -47.500383,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-São Luís-MA-VIVO-Pessoa Física",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "latitude": -2.538742,
+        "longitude": -44.282513,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 20125
+            }
+        ]
+    }
+]

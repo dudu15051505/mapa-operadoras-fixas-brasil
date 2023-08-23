@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "4622116000113-Rio de Janeiro-RJ-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 4622116000113,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Rio de Janeiro-RJ-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2021-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    }
+]

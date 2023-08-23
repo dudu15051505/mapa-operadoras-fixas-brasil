@@ -1,0 +1,153 @@
+[
+    {
+        "identifier": "4622116000113-Cabedelo-PB-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Cabedelo",
+        "uf": "PB",
+        "latitude": -6.987314,
+        "longitude": -34.828409,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 4622116000113,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "4622116000113-João Pessoa-PB-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 4622116000113,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Alhandra-PB-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Alhandra",
+        "uf": "PB",
+        "latitude": -7.42977,
+        "longitude": -34.905662,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Cabedelo-PB-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Cabedelo",
+        "uf": "PB",
+        "latitude": -6.987314,
+        "longitude": -34.828409,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Campina Grande-PB-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Campina Grande",
+        "uf": "PB",
+        "latitude": -7.221958,
+        "longitude": -35.873144,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Conde-PB-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Conde",
+        "uf": "PB",
+        "latitude": -7.257464,
+        "longitude": -34.899876,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-João Pessoa-PB-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 91
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 570
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 75
+            }
+        ]
+    }
+]

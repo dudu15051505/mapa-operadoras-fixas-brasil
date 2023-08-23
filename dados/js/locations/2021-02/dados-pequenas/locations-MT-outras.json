@@ -1,0 +1,159 @@
+[
+    {
+        "identifier": "12464859000130-Cuiabá-MT-SGV SERVICOS DE TI E TELECOM LTDA-Não Informado",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "latitude": -15.600979,
+        "longitude": -56.097397,
+        "empresa": "SGV SERVICOS DE TI E TELECOM LTDA",
+        "cnpj": 12464859000130,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Indeterminado",
+                "quantidade-acesso": 425
+            }
+        ]
+    },
+    {
+        "identifier": "12823984000190-Ipiranga do Norte-MT-ANDERSON FERNANDES CASTRO - ME-Não Informado",
+        "cidade": "Ipiranga do Norte",
+        "uf": "MT",
+        "latitude": -12.240162,
+        "longitude": -56.145936,
+        "empresa": "ANDERSON FERNANDES CASTRO - ME",
+        "cnpj": 12823984000190,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "23466230000146-Alto Taquari-MT-IEDA APARECIDA RAMOS COQUEIRO EIRELI - EPP-Não Informado",
+        "cidade": "Alto Taquari",
+        "uf": "MT",
+        "latitude": -17.82405,
+        "longitude": -53.27922,
+        "empresa": "IEDA APARECIDA RAMOS COQUEIRO EIRELI - EPP",
+        "cnpj": 23466230000146,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "25256052000154-Campo Novo do Parecis-MT-AGATHA.NET INFORMATICA EIRELI - ME-Não Informado",
+        "cidade": "Campo Novo do Parecis",
+        "uf": "MT",
+        "latitude": -13.658735,
+        "longitude": -57.890723,
+        "empresa": "AGATHA.NET INFORMATICA EIRELI - ME",
+        "cnpj": 25256052000154,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 159
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 185
+            }
+        ]
+    },
+    {
+        "identifier": "26324221000109-Guarantã do Norte-MT-CARINE AMERICO FERREIRA - ME-Não Informado",
+        "cidade": "Guarantã do Norte",
+        "uf": "MT",
+        "latitude": -9.962182,
+        "longitude": -54.912126,
+        "empresa": "CARINE AMERICO FERREIRA - ME",
+        "cnpj": 26324221000109,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Indeterminado",
+                "quantidade-acesso": 59
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "26701126000187-Cuiabá-MT-UP LINK INTERNET BANDA LARGA LTDA-Não Informado",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "latitude": -15.600979,
+        "longitude": -56.097397,
+        "empresa": "UP LINK INTERNET BANDA LARGA LTDA",
+        "cnpj": 26701126000187,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 294
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 349
+            }
+        ]
+    },
+    {
+        "identifier": "37456198000122-Várzea Grande-MT-FIBER NET SERVICOS DE TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Várzea Grande",
+        "uf": "MT",
+        "latitude": -15.645816,
+        "longitude": -56.132218,
+        "empresa": "FIBER NET SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 37456198000122,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 170
+            }
+        ]
+    }
+]

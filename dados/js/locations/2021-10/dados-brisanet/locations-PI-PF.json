@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "4601397000128-Altos-PI-BRISANET-Pessoa Física",
+        "cidade": "Altos",
+        "uf": "PI",
+        "latitude": -5.038879,
+        "longitude": -42.46116,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2021-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 21
+            }
+        ]
+    },
+    {
+        "identifier": "4601397000128-Picos-PI-BRISANET-Pessoa Física",
+        "cidade": "Picos",
+        "uf": "PI",
+        "latitude": -7.077213,
+        "longitude": -41.467003,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2021-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 125
+            }
+        ]
+    },
+    {
+        "identifier": "4601397000128-Teresina-PI-BRISANET-Pessoa Física",
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2021-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4238
+            }
+        ]
+    }
+]

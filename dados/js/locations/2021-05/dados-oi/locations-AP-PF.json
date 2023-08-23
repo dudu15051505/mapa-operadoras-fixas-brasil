@@ -1,0 +1,335 @@
+[
+    {
+        "identifier": "5423963000111-Macapá-AP-OI-Pessoa Física",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "OI",
+        "cnpj": 5423963000111,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 23040
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Amapá-AP-OI-Pessoa Física",
+        "cidade": "Amapá",
+        "uf": "AP",
+        "latitude": 2.052669,
+        "longitude": -50.795653,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 28
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Calçoene-AP-OI-Pessoa Física",
+        "cidade": "Calçoene",
+        "uf": "AP",
+        "latitude": 2.504747,
+        "longitude": -50.951233,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 38
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Cutias-AP-OI-Pessoa Física",
+        "cidade": "Cutias",
+        "uf": "AP",
+        "latitude": 0.987565,
+        "longitude": -50.799169,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Ferreira Gomes-AP-OI-Pessoa Física",
+        "cidade": "Ferreira Gomes",
+        "uf": "AP",
+        "latitude": 0.857256,
+        "longitude": -51.179523,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Itaubal-AP-OI-Pessoa Física",
+        "cidade": "Itaubal",
+        "uf": "AP",
+        "latitude": 0.596137,
+        "longitude": -50.670828,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Laranjal do Jari-AP-OI-Pessoa Física",
+        "cidade": "Laranjal do Jari",
+        "uf": "AP",
+        "latitude": -0.804911,
+        "longitude": -52.452962,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 41
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Macapá-AP-OI-Pessoa Física",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 93
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1015
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Mazagão-AP-OI-Pessoa Física",
+        "cidade": "Mazagão",
+        "uf": "AP",
+        "latitude": -0.11336,
+        "longitude": -51.28913,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Oiapoque-AP-OI-Pessoa Física",
+        "cidade": "Oiapoque",
+        "uf": "AP",
+        "latitude": 3.84074,
+        "longitude": -51.833123,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 139
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Pedra Branca do Amapari-AP-OI-Pessoa Física",
+        "cidade": "Pedra Branca do Amapari",
+        "uf": "AP",
+        "latitude": -0.949786,
+        "longitude": -51.999564,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Porto Grande-AP-OI-Pessoa Física",
+        "cidade": "Porto Grande",
+        "uf": "AP",
+        "latitude": 0.71243,
+        "longitude": -51.415499,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 63
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Santana-AP-OI-Pessoa Física",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 31
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 198
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Serra do Navio-AP-OI-Pessoa Física",
+        "cidade": "Serra do Navio",
+        "uf": "AP",
+        "latitude": 0.901357,
+        "longitude": -52.003636,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "33000118000179-Tartarugalzinho-AP-OI-Pessoa Física",
+        "cidade": "Tartarugalzinho",
+        "uf": "AP",
+        "latitude": 1.506519,
+        "longitude": -50.90874,
+        "empresa": "OI",
+        "cnpj": 33000118000179,
+        "data-dados": "2021-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 19
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "40432544000147-Cabedelo-PB-CLARO-Pessoa Física",
+        "cidade": "Cabedelo",
+        "uf": "PB",
+        "latitude": -6.987314,
+        "longitude": -34.828409,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 2149
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Campina Grande-PB-CLARO-Pessoa Física",
+        "cidade": "Campina Grande",
+        "uf": "PB",
+        "latitude": -7.221958,
+        "longitude": -35.873144,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 6165
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-João Pessoa-PB-CLARO-Pessoa Física",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 54812
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "7714104000107-Além Paraíba-MG-EB FIBRA-Pessoa Física",
+        "cidade": "Além Paraíba",
+        "uf": "MG",
+        "latitude": -21.879703,
+        "longitude": -42.717588,
+        "empresa": "EB FIBRA",
+        "cnpj": 7714104000107,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6663
+            }
+        ]
+    },
+    {
+        "identifier": "7714104000107-Cataguases-MG-EB FIBRA-Pessoa Física",
+        "cidade": "Cataguases",
+        "uf": "MG",
+        "latitude": -21.39239,
+        "longitude": -42.689647,
+        "empresa": "EB FIBRA",
+        "cnpj": 7714104000107,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2804
+            }
+        ]
+    },
+    {
+        "identifier": "7714104000107-Muriaé-MG-EB FIBRA-Pessoa Física",
+        "cidade": "Muriaé",
+        "uf": "MG",
+        "latitude": -21.129965,
+        "longitude": -42.369304,
+        "empresa": "EB FIBRA",
+        "cnpj": 7714104000107,
+        "data-dados": "2021-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4359
+            }
+        ]
+    }
+]

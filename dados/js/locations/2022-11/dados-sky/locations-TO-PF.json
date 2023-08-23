@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "497373000110-Figueirópolis-TO-SKY/AT&T-Pessoa Física",
+        "cidade": "Figueirópolis",
+        "uf": "TO",
+        "latitude": -12.131175,
+        "longitude": -49.174771,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Palmas-TO-SKY/AT&T-Pessoa Física",
+        "cidade": "Palmas",
+        "uf": "TO",
+        "latitude": -10.239973,
+        "longitude": -48.355751,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

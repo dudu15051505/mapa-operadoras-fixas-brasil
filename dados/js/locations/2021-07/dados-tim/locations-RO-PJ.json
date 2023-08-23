@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "2421421000111-Ariquemes-RO-TIM-Pessoa Jurídica",
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Porto Velho-RO-TIM-Pessoa Jurídica",
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]

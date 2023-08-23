@@ -1,0 +1,108 @@
+[
+    {
+        "identifier": "2558157000162-Aracaju-SE-VIVO-Pessoa Jurídica",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1505
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 51
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 17
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3152
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Itabaiana-SE-VIVO-Pessoa Jurídica",
+        "cidade": "Itabaiana",
+        "uf": "SE",
+        "latitude": -10.682555,
+        "longitude": -37.427287,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Laranjeiras-SE-VIVO-Pessoa Jurídica",
+        "cidade": "Laranjeiras",
+        "uf": "SE",
+        "latitude": -10.798121,
+        "longitude": -37.173123,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Nossa Senhora do Socorro-SE-VIVO-Pessoa Jurídica",
+        "cidade": "Nossa Senhora do Socorro",
+        "uf": "SE",
+        "latitude": -10.846822,
+        "longitude": -37.123113,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]

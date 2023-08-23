@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "14783977000137-Fronteiras-PI-LIBERTI TELECOM E COMERCIO DE INFORMATICA LTDA - ME-Não Informado",
+        "cidade": "Fronteiras",
+        "uf": "PI",
+        "latitude": -7.081727,
+        "longitude": -40.614601,
+        "empresa": "LIBERTI TELECOM E COMERCIO DE INFORMATICA LTDA - ME",
+        "cnpj": 14783977000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 86
+            }
+        ]
+    },
+    {
+        "identifier": "38074231000112-Teresina-PI-FORTHE TELECOM LTDA-Não Informado",
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "FORTHE TELECOM LTDA",
+        "cnpj": 38074231000112,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "41518341000130-Piracuruca-PI-PAULO HENRIQUE CESAR MACHADO ME-Não Informado",
+        "cidade": "Piracuruca",
+        "uf": "PI",
+        "latitude": -3.93335,
+        "longitude": -41.708779,
+        "empresa": "PAULO HENRIQUE CESAR MACHADO ME",
+        "cnpj": 41518341000130,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Indeterminado",
+                "quantidade-acesso": 200
+            }
+        ]
+    }
+]

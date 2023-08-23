@@ -1,0 +1,228 @@
+[
+    {
+        "identifier": "2421421000111-Abadia de Goiás-GO-TIM-Pessoa Jurídica",
+        "cidade": "Abadia de Goiás",
+        "uf": "GO",
+        "latitude": -16.757326,
+        "longitude": -49.441156,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Abadiânia-GO-TIM-Pessoa Jurídica",
+        "cidade": "Abadiânia",
+        "uf": "GO",
+        "latitude": -16.196973,
+        "longitude": -48.705672,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Anápolis-GO-TIM-Pessoa Jurídica",
+        "cidade": "Anápolis",
+        "uf": "GO",
+        "latitude": -16.328095,
+        "longitude": -48.952958,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 198
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Aparecida de Goiânia-GO-TIM-Pessoa Jurídica",
+        "cidade": "Aparecida de Goiânia",
+        "uf": "GO",
+        "latitude": -16.819804,
+        "longitude": -49.246856,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 378
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Catalão-GO-TIM-Pessoa Jurídica",
+        "cidade": "Catalão",
+        "uf": "GO",
+        "latitude": -18.165633,
+        "longitude": -47.944043,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Goiânia-GO-TIM-Pessoa Jurídica",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "latitude": -16.686439,
+        "longitude": -49.264346,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ATM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ATM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2250
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Itumbiara-GO-TIM-Pessoa Jurídica",
+        "cidade": "Itumbiara",
+        "uf": "GO",
+        "latitude": -18.409267,
+        "longitude": -49.215845,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Rio Verde-GO-TIM-Pessoa Jurídica",
+        "cidade": "Rio Verde",
+        "uf": "GO",
+        "latitude": -17.792266,
+        "longitude": -50.919195,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Silvânia-GO-TIM-Pessoa Jurídica",
+        "cidade": "Silvânia",
+        "uf": "GO",
+        "latitude": -16.659972,
+        "longitude": -48.608326,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Valparaíso de Goiás-GO-TIM-Pessoa Jurídica",
+        "cidade": "Valparaíso de Goiás",
+        "uf": "GO",
+        "latitude": -16.065078,
+        "longitude": -47.975675,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

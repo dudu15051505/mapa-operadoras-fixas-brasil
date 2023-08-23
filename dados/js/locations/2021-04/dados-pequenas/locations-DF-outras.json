@@ -1,0 +1,84 @@
+[
+    {
+        "identifier": "18345523000135-Brasília-DF-P F DE ANDRADE PROVEDOR DE INTERNET - ME-Não Informado",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "P F DE ANDRADE PROVEDOR DE INTERNET - ME",
+        "cnpj": 18345523000135,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "33056058000106-Brasília-DF-YOU TELECOM PROVEDOR DE INTERNET LTDA-Não Informado",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "YOU TELECOM PROVEDOR DE INTERNET LTDA",
+        "cnpj": 33056058000106,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 67
+            }
+        ]
+    },
+    {
+        "identifier": "35112926000153-Brasília-DF-TELEMATICA NERES SERVICOS DE COMUNICACAO MULTIMIDIA EIRELI-Não Informado",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "TELEMATICA NERES SERVICOS DE COMUNICACAO MULTIMIDIA EIRELI",
+        "cnpj": 35112926000153,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 90
+            }
+        ]
+    },
+    {
+        "identifier": "40050280000167-Brasília-DF-TURBO NETCOM PROVEDOR DE INTERNET LTDA-Não Informado",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "TURBO NETCOM PROVEDOR DE INTERNET LTDA",
+        "cnpj": 40050280000167,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
+            }
+        ]
+    }
+]

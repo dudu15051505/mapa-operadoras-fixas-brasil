@@ -1,0 +1,189 @@
+[
+    {
+        "identifier": "2558157000162-Bayeux-PB-VIVO-Pessoa Jurídica",
+        "cidade": "Bayeux",
+        "uf": "PB",
+        "latitude": -7.123797,
+        "longitude": -34.929336,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Belém-PB-VIVO-Pessoa Jurídica",
+        "cidade": "Belém",
+        "uf": "PB",
+        "latitude": -6.742614,
+        "longitude": -35.51658,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Cabedelo-PB-VIVO-Pessoa Jurídica",
+        "cidade": "Cabedelo",
+        "uf": "PB",
+        "latitude": -6.987314,
+        "longitude": -34.828409,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 45
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Campina Grande-PB-VIVO-Pessoa Jurídica",
+        "cidade": "Campina Grande",
+        "uf": "PB",
+        "latitude": -7.221958,
+        "longitude": -35.873144,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1140
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 73
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 618
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 24
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Itabaiana-PB-VIVO-Pessoa Jurídica",
+        "cidade": "Itabaiana",
+        "uf": "PB",
+        "latitude": -7.331674,
+        "longitude": -35.331723,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-João Pessoa-PB-VIVO-Pessoa Jurídica",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1693
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 124
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1275
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 43
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Santa Rita-PB-VIVO-Pessoa Jurídica",
+        "cidade": "Santa Rita",
+        "uf": "PB",
+        "latitude": -7.117242,
+        "longitude": -34.975295,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 155
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 8
+            }
+        ]
+    }
+]

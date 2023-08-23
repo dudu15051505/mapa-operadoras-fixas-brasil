@@ -1,0 +1,448 @@
+[
+    {
+        "identifier": "5872814000130-Eusébio-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Eusébio",
+        "uf": "CE",
+        "latitude": -3.892501,
+        "longitude": -38.455875,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Fortaleza-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 20
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Maracanaú-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Maracanaú",
+        "uf": "CE",
+        "latitude": -3.86699,
+        "longitude": -38.625901,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Maranguape-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Maranguape",
+        "uf": "CE",
+        "latitude": -3.891432,
+        "longitude": -38.682911,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Acarape-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Acarape",
+        "uf": "CE",
+        "latitude": -4.220895,
+        "longitude": -38.705222,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Caucaia-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Caucaia",
+        "uf": "CE",
+        "latitude": -3.727966,
+        "longitude": -38.661931,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 294
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Crato-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Crato",
+        "uf": "CE",
+        "latitude": -7.215303,
+        "longitude": -39.410299,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Eusébio-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Eusébio",
+        "uf": "CE",
+        "latitude": -3.892501,
+        "longitude": -38.455875,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Fortaleza-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 341
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1541
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 247
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Itaitinga-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Itaitinga",
+        "uf": "CE",
+        "latitude": -3.965768,
+        "longitude": -38.529763,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Itapipoca-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Itapipoca",
+        "uf": "CE",
+        "latitude": -3.499329,
+        "longitude": -39.583571,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Jaguaribe-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Jaguaribe",
+        "uf": "CE",
+        "latitude": -5.902134,
+        "longitude": -38.622653,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Limoeiro do Norte-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Limoeiro do Norte",
+        "uf": "CE",
+        "latitude": -5.143921,
+        "longitude": -38.084693,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Maracanaú-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Maracanaú",
+        "uf": "CE",
+        "latitude": -3.86699,
+        "longitude": -38.625901,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 45
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 173
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Maranguape-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Maranguape",
+        "uf": "CE",
+        "latitude": -3.891432,
+        "longitude": -38.682911,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 58
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Pacajus-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Pacajus",
+        "uf": "CE",
+        "latitude": -4.171073,
+        "longitude": -38.464988,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Pacatuba-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Pacatuba",
+        "uf": "CE",
+        "latitude": -3.978396,
+        "longitude": -38.618296,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Sobral-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Sobral",
+        "uf": "CE",
+        "latitude": -3.689133,
+        "longitude": -40.34821,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Tianguá-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Tianguá",
+        "uf": "CE",
+        "latitude": -3.729645,
+        "longitude": -40.992286,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "71208516000174-Fortaleza-CE-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2022-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]

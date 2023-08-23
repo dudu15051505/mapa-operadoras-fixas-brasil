@@ -1,0 +1,97 @@
+[
+    {
+        "identifier": "497373000110-Bayeux-PB-SKY/AT&T-Pessoa Física",
+        "cidade": "Bayeux",
+        "uf": "PB",
+        "latitude": -7.123797,
+        "longitude": -34.929336,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 161
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Cabedelo-PB-SKY/AT&T-Pessoa Física",
+        "cidade": "Cabedelo",
+        "uf": "PB",
+        "latitude": -6.987314,
+        "longitude": -34.828409,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 127
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Campina Grande-PB-SKY/AT&T-Pessoa Física",
+        "cidade": "Campina Grande",
+        "uf": "PB",
+        "latitude": -7.221958,
+        "longitude": -35.873144,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 400
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-João Pessoa-PB-SKY/AT&T-Pessoa Física",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 808
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Santa Rita-PB-SKY/AT&T-Pessoa Física",
+        "cidade": "Santa Rita",
+        "uf": "PB",
+        "latitude": -7.117242,
+        "longitude": -34.975295,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 136
+            }
+        ]
+    }
+]

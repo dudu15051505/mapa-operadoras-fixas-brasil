@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "4622116000113-Aracaju-SE-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 4622116000113,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "22166193000198-Aracaju-SE-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 22166193000198,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 719
+            }
+        ]
+    }
+]

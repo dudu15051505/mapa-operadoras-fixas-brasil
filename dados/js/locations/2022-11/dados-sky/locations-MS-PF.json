@@ -1,0 +1,97 @@
+[
+    {
+        "identifier": "497373000110-Aparecida do Taboado-MS-SKY/AT&T-Pessoa Física",
+        "cidade": "Aparecida do Taboado",
+        "uf": "MS",
+        "latitude": -20.087275,
+        "longitude": -51.096135,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Campo Grande-MS-SKY/AT&T-Pessoa Física",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "latitude": -20.448589,
+        "longitude": -54.629463,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3609
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Dourados-MS-SKY/AT&T-Pessoa Física",
+        "cidade": "Dourados",
+        "uf": "MS",
+        "latitude": -22.223099,
+        "longitude": -54.812043,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Rochedo-MS-SKY/AT&T-Pessoa Física",
+        "cidade": "Rochedo",
+        "uf": "MS",
+        "latitude": -19.956488,
+        "longitude": -54.884769,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-São Gabriel do Oeste-MS-SKY/AT&T-Pessoa Física",
+        "cidade": "São Gabriel do Oeste",
+        "uf": "MS",
+        "latitude": -19.388858,
+        "longitude": -54.550668,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]

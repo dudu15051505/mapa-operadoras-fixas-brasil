@@ -1,0 +1,33 @@
+[
+    {
+        "identifier": "2558157000162-Rio Branco-AC-VIVO-Pessoa Jurídica",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2022-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

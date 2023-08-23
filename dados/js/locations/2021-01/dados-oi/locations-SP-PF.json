@@ -1,0 +1,65 @@
+[
+    {
+        "identifier": "5423963000111-Barueri-SP-OI-Pessoa Física",
+        "cidade": "Barueri",
+        "uf": "SP",
+        "latitude": -23.505689,
+        "longitude": -46.879042,
+        "empresa": "OI",
+        "cnpj": 5423963000111,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "5423963000111-Cabreúva-SP-OI-Pessoa Física",
+        "cidade": "Cabreúva",
+        "uf": "SP",
+        "latitude": -23.30533,
+        "longitude": -47.136251,
+        "empresa": "OI",
+        "cnpj": 5423963000111,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5423963000111-São Paulo-SP-OI-Pessoa Física",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "OI",
+        "cnpj": 5423963000111,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FR",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "2421421000111-Belo Horizonte-MG-TIM-Pessoa Física",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "latitude": -19.910183,
+        "longitude": -43.926572,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3174
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Betim-MG-TIM-Pessoa Física",
+        "cidade": "Betim",
+        "uf": "MG",
+        "latitude": -19.966827,
+        "longitude": -44.200775,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2104
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Contagem-MG-TIM-Pessoa Física",
+        "cidade": "Contagem",
+        "uf": "MG",
+        "latitude": -19.932079,
+        "longitude": -44.05392,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7665
+            }
+        ]
+    }
+]

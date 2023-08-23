@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "40432544000147-Campo Grande-MS-CLARO-Pessoa Física",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "latitude": -20.448589,
+        "longitude": -54.629463,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 80773
+            }
+        ]
+    },
+    {
+        "identifier": "40432544000147-Dourados-MS-CLARO-Pessoa Física",
+        "cidade": "Dourados",
+        "uf": "MS",
+        "latitude": -22.223099,
+        "longitude": -54.812043,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 5468
+            }
+        ]
+    }
+]

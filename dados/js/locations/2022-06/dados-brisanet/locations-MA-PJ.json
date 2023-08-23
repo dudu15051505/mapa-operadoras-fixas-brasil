@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "4601397000128-São José de Ribamar-MA-BRISANET-Pessoa Jurídica",
+        "cidade": "São José de Ribamar",
+        "uf": "MA",
+        "latitude": -2.54704,
+        "longitude": -44.059745,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2022-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "4601397000128-São Luís-MA-BRISANET-Pessoa Jurídica",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "latitude": -2.538742,
+        "longitude": -44.282513,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2022-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "4601397000128-Timon-MA-BRISANET-Pessoa Jurídica",
+        "cidade": "Timon",
+        "uf": "MA",
+        "latitude": -5.097692,
+        "longitude": -42.83292,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2022-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            }
+        ]
+    }
+]

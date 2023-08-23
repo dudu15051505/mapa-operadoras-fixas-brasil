@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "40154884000153-Caracaraí-RR-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Física",
+        "cidade": "Caracaraí",
+        "uf": "RR",
+        "latitude": 1.827659,
+        "longitude": -61.130378,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2022-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "40154884000153-Rorainópolis-RR-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Física",
+        "cidade": "Rorainópolis",
+        "uf": "RR",
+        "latitude": 0.939956,
+        "longitude": -60.438923,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2022-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "40154884000153-São Luiz-RR-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Física",
+        "cidade": "São Luiz",
+        "uf": "RR",
+        "latitude": 1.010193,
+        "longitude": -60.041894,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2022-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "identifier": "2558157000162-Cabedelo-PB-VIVO-Pessoa Física",
+        "cidade": "Cabedelo",
+        "uf": "PB",
+        "latitude": -6.987314,
+        "longitude": -34.828409,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 561
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Campina Grande-PB-VIVO-Pessoa Física",
+        "cidade": "Campina Grande",
+        "uf": "PB",
+        "latitude": -7.221958,
+        "longitude": -35.873144,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 7388
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4059
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-João Pessoa-PB-VIVO-Pessoa Física",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5848
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10324
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Santa Rita-PB-VIVO-Pessoa Física",
+        "cidade": "Santa Rita",
+        "uf": "PB",
+        "latitude": -7.117242,
+        "longitude": -34.975295,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1669
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Uiraúna-PB-VIVO-Pessoa Física",
+        "cidade": "Uiraúna",
+        "uf": "PB",
+        "latitude": -6.515044,
+        "longitude": -38.412754,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]

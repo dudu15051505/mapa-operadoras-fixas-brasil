@@ -1,0 +1,83 @@
+[
+    {
+        "identifier": "2421421000111-Manaus-AM-TIM-Pessoa Jurídica",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 75
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 40
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 941
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São Sebastião do Uatumã-AM-TIM-Pessoa Jurídica",
+        "cidade": "São Sebastião do Uatumã",
+        "uf": "AM",
+        "latitude": -2.559147,
+        "longitude": -57.873049,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "40166794000182-Manaus-AM-TIM-Pessoa Jurídica",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "TIM",
+        "cnpj": 40166794000182,
+        "data-dados": "2022-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "497373000110-Caruaru-PE-SKY/AT&T-Pessoa Física",
+        "cidade": "Caruaru",
+        "uf": "PE",
+        "latitude": -8.284547,
+        "longitude": -35.969863,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Petrolina-PE-SKY/AT&T-Pessoa Física",
+        "cidade": "Petrolina",
+        "uf": "PE",
+        "latitude": -9.388662,
+        "longitude": -40.502731,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 81
+            }
+        ]
+    }
+]

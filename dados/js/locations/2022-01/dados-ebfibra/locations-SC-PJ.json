@@ -1,0 +1,71 @@
+[
+    {
+        "identifier": "7870094000107-Joinville-SC-EB FIBRA-Pessoa Jurídica",
+        "cidade": "Joinville",
+        "uf": "SC",
+        "latitude": -26.304497,
+        "longitude": -48.848675,
+        "empresa": "EB FIBRA",
+        "cnpj": 7870094000107,
+        "data-dados": "2022-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7870094000107-Santo Amaro da Imperatriz-SC-EB FIBRA-Pessoa Jurídica",
+        "cidade": "Santo Amaro da Imperatriz",
+        "uf": "SC",
+        "latitude": -27.685182,
+        "longitude": -48.781305,
+        "empresa": "EB FIBRA",
+        "cnpj": 7870094000107,
+        "data-dados": "2022-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "7870094000107-São José-SC-EB FIBRA-Pessoa Jurídica",
+        "cidade": "São José",
+        "uf": "SC",
+        "latitude": -27.613577,
+        "longitude": -48.636607,
+        "empresa": "EB FIBRA",
+        "cnpj": 7870094000107,
+        "data-dados": "2022-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

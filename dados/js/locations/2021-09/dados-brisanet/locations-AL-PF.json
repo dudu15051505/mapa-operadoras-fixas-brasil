@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "4601397000128-Maceió-AL-BRISANET-Pessoa Física",
+        "cidade": "Maceió",
+        "uf": "AL",
+        "latitude": -9.665985,
+        "longitude": -35.73496,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 35963
+            }
+        ]
+    },
+    {
+        "identifier": "4601397000128-Rio Largo-AL-BRISANET-Pessoa Física",
+        "cidade": "Rio Largo",
+        "uf": "AL",
+        "latitude": -9.477829,
+        "longitude": -35.839435,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2021-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2347
+            }
+        ]
+    }
+]

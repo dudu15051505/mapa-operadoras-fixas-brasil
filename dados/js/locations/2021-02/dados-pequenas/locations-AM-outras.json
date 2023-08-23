@@ -1,0 +1,583 @@
+[
+    {
+        "identifier": "4859842000154-Manaus-AM-SYSCOM TELECOM LTDA-Não Informado",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "SYSCOM TELECOM LTDA",
+        "cnpj": 4859842000154,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 276
+            }
+        ]
+    },
+    {
+        "identifier": "5307793000100-Canutama-AM-SES TELECOMUNICACOES DO BRASIL LTDA.-Não Informado",
+        "cidade": "Canutama",
+        "uf": "AM",
+        "latitude": -6.52582,
+        "longitude": -64.39528,
+        "empresa": "SES TELECOMUNICACOES DO BRASIL LTDA.",
+        "cnpj": 5307793000100,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5307793000100-Eirunepé-AM-SES TELECOMUNICACOES DO BRASIL LTDA.-Não Informado",
+        "cidade": "Eirunepé",
+        "uf": "AM",
+        "latitude": -6.656767,
+        "longitude": -69.86616,
+        "empresa": "SES TELECOMUNICACOES DO BRASIL LTDA.",
+        "cnpj": 5307793000100,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5925168000121-Manacapuru-AM-NOVA SOLUCOES EM TECNOLOGIA EIRELI-Não Informado",
+        "cidade": "Manacapuru",
+        "uf": "AM",
+        "latitude": -3.290657,
+        "longitude": -60.621581,
+        "empresa": "NOVA SOLUCOES EM TECNOLOGIA EIRELI",
+        "cnpj": 5925168000121,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Indeterminado",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "WIMAX",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Indeterminado",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "5925168000121-Manaus-AM-NOVA SOLUCOES EM TECNOLOGIA EIRELI-Não Informado",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "NOVA SOLUCOES EM TECNOLOGIA EIRELI",
+        "cnpj": 5925168000121,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Indeterminado",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Indeterminado",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Alvarães-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Alvarães",
+        "uf": "AM",
+        "latitude": -3.22727,
+        "longitude": -64.800654,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Amaturá-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Amaturá",
+        "uf": "AM",
+        "latitude": -3.374547,
+        "longitude": -68.200456,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Benjamin Constant-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Benjamin Constant",
+        "uf": "AM",
+        "latitude": -4.37768,
+        "longitude": -70.034157,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Carauari-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Carauari",
+        "uf": "AM",
+        "latitude": -4.881605,
+        "longitude": -66.908559,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Codajás-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Codajás",
+        "uf": "AM",
+        "latitude": -3.830528,
+        "longitude": -62.065787,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Eirunepé-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Eirunepé",
+        "uf": "AM",
+        "latitude": -6.656767,
+        "longitude": -69.86616,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Fonte Boa-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Fonte Boa",
+        "uf": "AM",
+        "latitude": -2.523424,
+        "longitude": -66.094212,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Ipixuna-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Ipixuna",
+        "uf": "AM",
+        "latitude": -7.047909,
+        "longitude": -71.693426,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Itamarati-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Itamarati",
+        "uf": "AM",
+        "latitude": -6.424591,
+        "longitude": -68.260027,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Japurá-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Japurá",
+        "uf": "AM",
+        "latitude": -1.882366,
+        "longitude": -66.929051,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Juruá-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Juruá",
+        "uf": "AM",
+        "latitude": -3.484384,
+        "longitude": -66.071795,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Jutaí-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Jutaí",
+        "uf": "AM",
+        "latitude": -2.758144,
+        "longitude": -66.75947,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Maraã-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Maraã",
+        "uf": "AM",
+        "latitude": -1.853129,
+        "longitude": -65.572995,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Santo Antônio do Içá-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Santo Antônio do Içá",
+        "uf": "AM",
+        "latitude": -3.095443,
+        "longitude": -67.946279,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-São Paulo de Olivença-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "São Paulo de Olivença",
+        "uf": "AM",
+        "latitude": -3.472919,
+        "longitude": -68.964581,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Tabatinga-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Tabatinga",
+        "uf": "AM",
+        "latitude": -4.241597,
+        "longitude": -69.938273,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Tefé-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Tefé",
+        "uf": "AM",
+        "latitude": -3.368219,
+        "longitude": -64.719343,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Tonantins-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Tonantins",
+        "uf": "AM",
+        "latitude": -2.865825,
+        "longitude": -67.791904,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7791042000137-Uarini-AM-Enerwatt Engenharia, Industria e Comercio Ltda-Não Informado",
+        "cidade": "Uarini",
+        "uf": "AM",
+        "latitude": -2.996087,
+        "longitude": -65.113298,
+        "empresa": "Enerwatt Engenharia, Industria e Comercio Ltda",
+        "cnpj": 7791042000137,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "9367511000110-Caapiranga-AM-OMEGASUL TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Caapiranga",
+        "uf": "AM",
+        "latitude": -3.315372,
+        "longitude": -61.220557,
+        "empresa": "OMEGASUL TELECOMUNICACOES LTDA",
+        "cnpj": 9367511000110,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 201
+            },
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 109
+            }
+        ]
+    },
+    {
+        "identifier": "14968157000110-Manacapuru-AM-I K M DE LIMA-Não Informado",
+        "cidade": "Manacapuru",
+        "uf": "AM",
+        "latitude": -3.290657,
+        "longitude": -60.621581,
+        "empresa": "I K M DE LIMA",
+        "cnpj": 14968157000110,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 40
+            },
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 20
+            }
+        ]
+    },
+    {
+        "identifier": "19402859000155-Manaus-AM-CLICKIP SERVICOS DE COMUNICACAO LTDA-Não Informado",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "CLICKIP SERVICOS DE COMUNICACAO LTDA",
+        "cnpj": 19402859000155,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10806
+            },
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "20909456000186-Manaus-AM-JANDER FORTES LIMA - ME-Não Informado",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "JANDER FORTES LIMA - ME",
+        "cnpj": 20909456000186,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 266
+            }
+        ]
+    },
+    {
+        "identifier": "28144438000162-Manaus-AM-D E VIEIRA DA SILVA-Não Informado",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "D E VIEIRA DA SILVA",
+        "cnpj": 28144438000162,
+        "data-dados": "2021-02",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Indeterminado",
+                "quantidade-acesso": 25
+            }
+        ]
+    }
+]

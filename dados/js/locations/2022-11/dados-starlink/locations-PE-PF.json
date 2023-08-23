@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "40154884000153-Olinda-PE-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Física",
+        "cidade": "Olinda",
+        "uf": "PE",
+        "latitude": -8.010166,
+        "longitude": -34.854504,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "40154884000153-Petrolina-PE-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Física",
+        "cidade": "Petrolina",
+        "uf": "PE",
+        "latitude": -9.388662,
+        "longitude": -40.502731,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "40154884000153-Recife-PE-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Física",
+        "cidade": "Recife",
+        "uf": "PE",
+        "latitude": -8.046658,
+        "longitude": -34.877065,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2022-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

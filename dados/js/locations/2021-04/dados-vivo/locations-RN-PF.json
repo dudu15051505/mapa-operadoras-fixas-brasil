@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "2558157000162-Natal-RN-VIVO-Pessoa Física",
+        "cidade": "Natal",
+        "uf": "RN",
+        "latitude": -5.793567,
+        "longitude": -35.198604,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2021-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2884
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 657
+            }
+        ]
+    }
+]

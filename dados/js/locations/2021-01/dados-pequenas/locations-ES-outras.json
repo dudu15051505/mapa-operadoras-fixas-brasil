@@ -1,0 +1,584 @@
+[
+    {
+        "identifier": "1492641000173-Vitória-ES-CENTURY TELECOM LTDA-Não Informado",
+        "cidade": "Vitória",
+        "uf": "ES",
+        "latitude": -20.315472,
+        "longitude": -40.312806,
+        "empresa": "CENTURY TELECOM LTDA",
+        "cnpj": 1492641000173,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "9104418000113-Cariacica-ES-VLA TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Cariacica",
+        "uf": "ES",
+        "latitude": -20.263202,
+        "longitude": -40.416549,
+        "empresa": "VLA TELECOMUNICACOES LTDA",
+        "cnpj": 9104418000113,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1091
+            },
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 55
+            }
+        ]
+    },
+    {
+        "identifier": "9104418000113-Serra-ES-VLA TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Serra",
+        "uf": "ES",
+        "latitude": -20.121032,
+        "longitude": -40.307408,
+        "empresa": "VLA TELECOMUNICACOES LTDA",
+        "cnpj": 9104418000113,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 211
+            },
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "10723327000145-Serra-ES-CONECTMAIS COMUNICACOES LTDA-Não Informado",
+        "cidade": "Serra",
+        "uf": "ES",
+        "latitude": -20.121032,
+        "longitude": -40.307408,
+        "empresa": "CONECTMAIS COMUNICACOES LTDA",
+        "cnpj": 10723327000145,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3737
+            }
+        ]
+    },
+    {
+        "identifier": "11767820000120-Anchieta-ES-R7 TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Anchieta",
+        "uf": "ES",
+        "latitude": -20.795499,
+        "longitude": -40.642545,
+        "empresa": "R7 TELECOMUNICACOES LTDA",
+        "cnpj": 11767820000120,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 323
+            }
+        ]
+    },
+    {
+        "identifier": "11767820000120-Cachoeiro de Itapemirim-ES-R7 TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Cachoeiro de Itapemirim",
+        "uf": "ES",
+        "latitude": -20.846212,
+        "longitude": -41.119829,
+        "empresa": "R7 TELECOMUNICACOES LTDA",
+        "cnpj": 11767820000120,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3579
+            }
+        ]
+    },
+    {
+        "identifier": "11767820000120-Cariacica-ES-R7 TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Cariacica",
+        "uf": "ES",
+        "latitude": -20.263202,
+        "longitude": -40.416549,
+        "empresa": "R7 TELECOMUNICACOES LTDA",
+        "cnpj": 11767820000120,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 44
+            }
+        ]
+    },
+    {
+        "identifier": "11767820000120-Guarapari-ES-R7 TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Guarapari",
+        "uf": "ES",
+        "latitude": -20.677248,
+        "longitude": -40.509253,
+        "empresa": "R7 TELECOMUNICACOES LTDA",
+        "cnpj": 11767820000120,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 800
+            }
+        ]
+    },
+    {
+        "identifier": "11767820000120-Linhares-ES-R7 TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Linhares",
+        "uf": "ES",
+        "latitude": -19.394642,
+        "longitude": -40.064277,
+        "empresa": "R7 TELECOMUNICACOES LTDA",
+        "cnpj": 11767820000120,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3532
+            }
+        ]
+    },
+    {
+        "identifier": "11767820000120-Piúma-ES-R7 TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Piúma",
+        "uf": "ES",
+        "latitude": -20.833433,
+        "longitude": -40.726813,
+        "empresa": "R7 TELECOMUNICACOES LTDA",
+        "cnpj": 11767820000120,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 645
+            }
+        ]
+    },
+    {
+        "identifier": "11767820000120-Serra-ES-R7 TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Serra",
+        "uf": "ES",
+        "latitude": -20.121032,
+        "longitude": -40.307408,
+        "empresa": "R7 TELECOMUNICACOES LTDA",
+        "cnpj": 11767820000120,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1130
+            }
+        ]
+    },
+    {
+        "identifier": "11767820000120-Sooretama-ES-R7 TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Sooretama",
+        "uf": "ES",
+        "latitude": -19.189695,
+        "longitude": -40.097351,
+        "empresa": "R7 TELECOMUNICACOES LTDA",
+        "cnpj": 11767820000120,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 960
+            }
+        ]
+    },
+    {
+        "identifier": "11767820000120-São Mateus-ES-R7 TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "São Mateus",
+        "uf": "ES",
+        "latitude": -18.721407,
+        "longitude": -39.857935,
+        "empresa": "R7 TELECOMUNICACOES LTDA",
+        "cnpj": 11767820000120,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2355
+            }
+        ]
+    },
+    {
+        "identifier": "11767820000120-Vila Velha-ES-R7 TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Vila Velha",
+        "uf": "ES",
+        "latitude": -20.341705,
+        "longitude": -40.287458,
+        "empresa": "R7 TELECOMUNICACOES LTDA",
+        "cnpj": 11767820000120,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22002
+            }
+        ]
+    },
+    {
+        "identifier": "11767820000120-Vitória-ES-R7 TELECOMUNICACOES LTDA-Não Informado",
+        "cidade": "Vitória",
+        "uf": "ES",
+        "latitude": -20.315472,
+        "longitude": -40.312806,
+        "empresa": "R7 TELECOMUNICACOES LTDA",
+        "cnpj": 11767820000120,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1355
+            }
+        ]
+    },
+    {
+        "identifier": "13045346000158-Aracruz-ES-GTI TELECOMUNICAÇÕES LTDA-Não Informado",
+        "cidade": "Aracruz",
+        "uf": "ES",
+        "latitude": -19.820045,
+        "longitude": -40.276441,
+        "empresa": "GTI TELECOMUNICAÇÕES LTDA",
+        "cnpj": 13045346000158,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "13045346000158-Cachoeiro de Itapemirim-ES-GTI TELECOMUNICAÇÕES LTDA-Não Informado",
+        "cidade": "Cachoeiro de Itapemirim",
+        "uf": "ES",
+        "latitude": -20.846212,
+        "longitude": -41.119829,
+        "empresa": "GTI TELECOMUNICAÇÕES LTDA",
+        "cnpj": 13045346000158,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "13045346000158-Cariacica-ES-GTI TELECOMUNICAÇÕES LTDA-Não Informado",
+        "cidade": "Cariacica",
+        "uf": "ES",
+        "latitude": -20.263202,
+        "longitude": -40.416549,
+        "empresa": "GTI TELECOMUNICAÇÕES LTDA",
+        "cnpj": 13045346000158,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "13045346000158-Colatina-ES-GTI TELECOMUNICAÇÕES LTDA-Não Informado",
+        "cidade": "Colatina",
+        "uf": "ES",
+        "latitude": -19.549316,
+        "longitude": -40.626898,
+        "empresa": "GTI TELECOMUNICAÇÕES LTDA",
+        "cnpj": 13045346000158,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "13045346000158-Santa Teresa-ES-GTI TELECOMUNICAÇÕES LTDA-Não Informado",
+        "cidade": "Santa Teresa",
+        "uf": "ES",
+        "latitude": -19.936339,
+        "longitude": -40.597945,
+        "empresa": "GTI TELECOMUNICAÇÕES LTDA",
+        "cnpj": 13045346000158,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "13045346000158-Serra-ES-GTI TELECOMUNICAÇÕES LTDA-Não Informado",
+        "cidade": "Serra",
+        "uf": "ES",
+        "latitude": -20.121032,
+        "longitude": -40.307408,
+        "empresa": "GTI TELECOMUNICAÇÕES LTDA",
+        "cnpj": 13045346000158,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 154
+            }
+        ]
+    },
+    {
+        "identifier": "13045346000158-Viana-ES-GTI TELECOMUNICAÇÕES LTDA-Não Informado",
+        "cidade": "Viana",
+        "uf": "ES",
+        "latitude": -20.382503,
+        "longitude": -40.493292,
+        "empresa": "GTI TELECOMUNICAÇÕES LTDA",
+        "cnpj": 13045346000158,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "13045346000158-Vila Velha-ES-GTI TELECOMUNICAÇÕES LTDA-Não Informado",
+        "cidade": "Vila Velha",
+        "uf": "ES",
+        "latitude": -20.341705,
+        "longitude": -40.287458,
+        "empresa": "GTI TELECOMUNICAÇÕES LTDA",
+        "cnpj": 13045346000158,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 51
+            }
+        ]
+    },
+    {
+        "identifier": "13045346000158-Vitória-ES-GTI TELECOMUNICAÇÕES LTDA-Não Informado",
+        "cidade": "Vitória",
+        "uf": "ES",
+        "latitude": -20.315472,
+        "longitude": -40.312806,
+        "empresa": "GTI TELECOMUNICAÇÕES LTDA",
+        "cnpj": 13045346000158,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 100
+            }
+        ]
+    },
+    {
+        "identifier": "31662917000185-Baixo Guandu-ES-ONER TELECOMUNICACOES EIRELI-Não Informado",
+        "cidade": "Baixo Guandu",
+        "uf": "ES",
+        "latitude": -19.521283,
+        "longitude": -41.010913,
+        "empresa": "ONER TELECOMUNICACOES EIRELI",
+        "cnpj": 31662917000185,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "31662917000185-Colatina-ES-ONER TELECOMUNICACOES EIRELI-Não Informado",
+        "cidade": "Colatina",
+        "uf": "ES",
+        "latitude": -19.549316,
+        "longitude": -40.626898,
+        "empresa": "ONER TELECOMUNICACOES EIRELI",
+        "cnpj": 31662917000185,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "31662917000185-Fundão-ES-ONER TELECOMUNICACOES EIRELI-Não Informado",
+        "cidade": "Fundão",
+        "uf": "ES",
+        "latitude": -19.937035,
+        "longitude": -40.407759,
+        "empresa": "ONER TELECOMUNICACOES EIRELI",
+        "cnpj": 31662917000185,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "31662917000185-Linhares-ES-ONER TELECOMUNICACOES EIRELI-Não Informado",
+        "cidade": "Linhares",
+        "uf": "ES",
+        "latitude": -19.394642,
+        "longitude": -40.064277,
+        "empresa": "ONER TELECOMUNICACOES EIRELI",
+        "cnpj": 31662917000185,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "31662917000185-Serra-ES-ONER TELECOMUNICACOES EIRELI-Não Informado",
+        "cidade": "Serra",
+        "uf": "ES",
+        "latitude": -20.121032,
+        "longitude": -40.307408,
+        "empresa": "ONER TELECOMUNICACOES EIRELI",
+        "cnpj": 31662917000185,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "37370725000181-Barra de São Francisco-ES-HD FIBRA INTERNET LTDA-Não Informado",
+        "cidade": "Barra de São Francisco",
+        "uf": "ES",
+        "latitude": -18.75484,
+        "longitude": -40.896456,
+        "empresa": "HD FIBRA INTERNET LTDA",
+        "cnpj": 37370725000181,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Não Informado",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Indeterminado",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 51
+            }
+        ]
+    }
+]

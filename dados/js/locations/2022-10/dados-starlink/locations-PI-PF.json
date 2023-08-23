@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "40154884000153-Baixa Grande do Ribeiro-PI-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Física",
+        "cidade": "Baixa Grande do Ribeiro",
+        "uf": "PI",
+        "latitude": -7.849031,
+        "longitude": -45.218977,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2022-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "40154884000153-Teresina-PI-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Física",
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2022-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

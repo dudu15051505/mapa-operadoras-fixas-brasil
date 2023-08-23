@@ -1,0 +1,2954 @@
+[
+    {
+        "identifier": "336701000104-Brasília-DF-Telecomunicacoes Brasileiras S.A. Telebras-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Telecomunicacoes Brasileiras S.A. Telebras",
+        "cnpj": 336701000104,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 27
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 26
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 39
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 36
+            }
+        ]
+    },
+    {
+        "identifier": "912618000128-Brasília-DF-NOVACIA TECNOLOGIA E TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "NOVACIA TECNOLOGIA E TELECOMUNICACOES LTDA",
+        "cnpj": 912618000128,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 313
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 78
+            }
+        ]
+    },
+    {
+        "identifier": "1031269000106-Brasília-DF-RC OLIVEIRA ELETRONICA E COMUNICAÇOES LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "RC OLIVEIRA ELETRONICA E COMUNICAÇOES LTDA",
+        "cnpj": 1031269000106,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 380
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 150
+            }
+        ]
+    },
+    {
+        "identifier": "1594763000170-Brasília-DF-BR AUTOMAÇÃO E CONSULTORIA LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "BR AUTOMAÇÃO E CONSULTORIA LTDA",
+        "cnpj": 1594763000170,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "1778972000174-Brasília-DF-America Net S.a.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "America Net S.a.",
+        "cnpj": 1778972000174,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 178
+            }
+        ]
+    },
+    {
+        "identifier": "1920627000123-Brasília-DF-OPENTEL COMERCIO E SERVIÇOS LTDA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "OPENTEL COMERCIO E SERVIÇOS LTDA - ME",
+        "cnpj": 1920627000123,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 24
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 552
+            }
+        ]
+    },
+    {
+        "identifier": "1924055000150-Brasília-DF-INTERCORP PROVEDOR DE INTERNET LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "INTERCORP PROVEDOR DE INTERNET LTDA",
+        "cnpj": 1924055000150,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2926037000170-Brasília-DF-G8 NETWORKS LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "G8 NETWORKS LTDA",
+        "cnpj": 2926037000170,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "2954620000195-Brasília-DF-TBNET COMERCIO, LOCACAO E ADMINISTRACAO LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "TBNET COMERCIO, LOCACAO E ADMINISTRACAO LTDA",
+        "cnpj": 2954620000195,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 56
+            }
+        ]
+    },
+    {
+        "identifier": "3052673000183-Brasília-DF-ELETRONET S.A-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "ELETRONET S.A",
+        "cnpj": 3052673000183,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "3076075000144-Brasília-DF-BT-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "BT",
+        "cnpj": 3076075000144,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 35
+            }
+        ]
+    },
+    {
+        "identifier": "3170027000110-Brasília-DF-Megatelecom Telecomunicacoes S.a.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Megatelecom Telecomunicacoes S.a.",
+        "cnpj": 3170027000110,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "3341093000106-Brasília-DF-AT&T GLOBAL NETWORK SERVICES BRASIL LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "AT&T GLOBAL NETWORK SERVICES BRASIL LTDA",
+        "cnpj": 3341093000106,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "4368865000166-Brasília-DF-LIGGA TELECOM-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "LIGGA TELECOM",
+        "cnpj": 4368865000166,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "4838161000100-Brasília-DF-LEVE INTERNET E REDES DE TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "LEVE INTERNET E REDES DE TELECOMUNICACOES LTDA",
+        "cnpj": 4838161000100,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 25
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 105
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Brasília-DF-HUGHES TELECOMUNICACOES DO BRASIL LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "HUGHES TELECOMUNICACOES DO BRASIL LTDA",
+        "cnpj": 5206385000161,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 364
+            }
+        ]
+    },
+    {
+        "identifier": "6111200000106-Brasília-DF-NMF TELECOMUNICACOES E PROVEDORES DE INTERNET-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "NMF TELECOMUNICACOES E PROVEDORES DE INTERNET",
+        "cnpj": 6111200000106,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "6229098000130-Brasília-DF-Verizon Telecomunicacoes do Brasil Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Verizon Telecomunicacoes do Brasil Ltda",
+        "cnpj": 6229098000130,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "7756651000155-Brasília-DF-Brasil Tecpar Servicos de Telecomunicacoes S.A.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Brasil Tecpar Servicos de Telecomunicacoes S.A.",
+        "cnpj": 7756651000155,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8145394000188-Brasília-DF-MH INTEGRACAO REPARACAO E INSTALACAO EM INFORMATICA LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "MH INTEGRACAO REPARACAO E INSTALACAO EM INFORMATICA LTDA",
+        "cnpj": 8145394000188,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 24
+            }
+        ]
+    },
+    {
+        "identifier": "8219232000147-Brasília-DF-MENDEX NETWORKS TELECOMUNICACOES LTDA - EPP-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "MENDEX NETWORKS TELECOMUNICACOES LTDA - EPP",
+        "cnpj": 8219232000147,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "8505502000186-Brasília-DF-LOGTEL TELECOMUNICACOES E INFORMATICA LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "LOGTEL TELECOMUNICACOES E INFORMATICA LTDA",
+        "cnpj": 8505502000186,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 116
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 331
+            }
+        ]
+    },
+    {
+        "identifier": "8631686000120-Brasília-DF-SPRINT BRASIL SERVICOS DE TELECOMUNICACOES LTDA.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "SPRINT BRASIL SERVICOS DE TELECOMUNICACOES LTDA.",
+        "cnpj": 8631686000120,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "8673849000138-Brasília-DF-SETORIAL TELECOMUNICACOES LTDA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "SETORIAL TELECOMUNICACOES LTDA - ME",
+        "cnpj": 8673849000138,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 24
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "9178684000190-Brasília-DF-A & G SERVIÇOS EM TI LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "A & G SERVIÇOS EM TI LTDA",
+        "cnpj": 9178684000190,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 177
+            }
+        ]
+    },
+    {
+        "identifier": "9238990000175-Brasília-DF-OMNI TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "OMNI TELECOMUNICAÇÕES LTDA",
+        "cnpj": 9238990000175,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "9281193000170-Brasília-DF-CAMON PROVEDOR SOLUCOES EM INTERNET LTDA ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CAMON PROVEDOR SOLUCOES EM INTERNET LTDA ME",
+        "cnpj": 9281193000170,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 103
+            }
+        ]
+    },
+    {
+        "identifier": "9408264000153-Brasília-DF-FLYNET TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "FLYNET TELECOM LTDA",
+        "cnpj": 9408264000153,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "9520219000196-Brasília-DF-WIRELESS COMM SERVICES LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "WIRELESS COMM SERVICES LTDA",
+        "cnpj": 9520219000196,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 16
+            }
+        ]
+    },
+    {
+        "identifier": "9521936000132-Brasília-DF-VSLINK COMUNICAÇÃO E MULTIMIDIA LTDA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "VSLINK COMUNICAÇÃO E MULTIMIDIA LTDA - ME",
+        "cnpj": 9521936000132,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "9648857000197-Brasília-DF-LIGO TELECOMUNICACOES LTDA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "LIGO TELECOMUNICACOES LTDA - ME",
+        "cnpj": 9648857000197,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "10140126000115-Brasília-DF-MARIA NEUSA PEREIRA DE SOUSA E CIA LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "MARIA NEUSA PEREIRA DE SOUSA E CIA LTDA",
+        "cnpj": 10140126000115,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "10329181000158-Brasília-DF-RW SERVICOS DE TELECOMUNICACOES L T D A-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "10360080000140-Brasília-DF-LINKWAP PROVEDOR DE INTERNET E FIBRA OPTICA LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "LINKWAP PROVEDOR DE INTERNET E FIBRA OPTICA LTDA",
+        "cnpj": 10360080000140,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 19
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 653
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 57
+            }
+        ]
+    },
+    {
+        "identifier": "10383478000100-Brasília-DF-Lignet Servicos de Comunicacao Multimidia Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Lignet Servicos de Comunicacao Multimidia Ltda",
+        "cnpj": 10383478000100,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "10455507000193-Brasília-DF-SUPERI TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "SUPERI TELECOM LTDA",
+        "cnpj": 10455507000193,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "10496781000100-Brasília-DF-EQUINIX DO BRASIL TELECOMUNICAÇÕES LTDA.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "EQUINIX DO BRASIL TELECOMUNICAÇÕES LTDA.",
+        "cnpj": 10496781000100,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "10781826000199-Brasília-DF-L B GOMES-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "L B GOMES",
+        "cnpj": 10781826000199,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "10856024000109-Brasília-DF-MCD INFORMÁTICA E TELECOMUNICAÇÕES EIRELI-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "MCD INFORMÁTICA E TELECOMUNICAÇÕES EIRELI",
+        "cnpj": 10856024000109,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "11195968000137-Brasília-DF-Infor DF Telecomunicacoes e Informatica Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Infor DF Telecomunicacoes e Informatica Ltda",
+        "cnpj": 11195968000137,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 118
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 15
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 105
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 35
+            }
+        ]
+    },
+    {
+        "identifier": "11278588000166-Brasília-DF-Sothis Técnologia e Serviços de Telecomunicações Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Sothis Técnologia e Serviços de Telecomunicações Ltda",
+        "cnpj": 11278588000166,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "11290677000128-Brasília-DF-VIASATDIGITAL TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "VIASATDIGITAL TELECOM LTDA",
+        "cnpj": 11290677000128,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "11516600000123-Brasília-DF-P.h.s. Internet Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "P.h.s. Internet Ltda",
+        "cnpj": 11516600000123,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "11652220000116-Brasília-DF-GENTE TELECOM DO BRASIL LTDA.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "GENTE TELECOM DO BRASIL LTDA.",
+        "cnpj": 11652220000116,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 130
+            },
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 25
+            }
+        ]
+    },
+    {
+        "identifier": "11745682000188-Brasília-DF-CONNEC TELECOMUNICACOES E INFORMATICA LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CONNEC TELECOMUNICACOES E INFORMATICA LTDA",
+        "cnpj": 11745682000188,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 26
+            }
+        ]
+    },
+    {
+        "identifier": "11844663000109-Brasília-DF-1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA",
+        "cnpj": 11844663000109,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "11897935000139-Brasília-DF-LG PROVEDOR E SOLUÇÕES EM INFORMÁTICA LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "LG PROVEDOR E SOLUÇÕES EM INFORMÁTICA LTDA",
+        "cnpj": 11897935000139,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "12059400000151-Brasília-DF-Rei das Tecnologias Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Rei das Tecnologias Ltda",
+        "cnpj": 12059400000151,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 119
+            }
+        ]
+    },
+    {
+        "identifier": "12676019000131-Brasília-DF-JOÃO CELINO SANTANA QUIDUTE ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "JOÃO CELINO SANTANA QUIDUTE ME",
+        "cnpj": 12676019000131,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 23
+            }
+        ]
+    },
+    {
+        "identifier": "12850193000159-Brasília-DF-Everest Ridge do Brasil Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Everest Ridge do Brasil Ltda",
+        "cnpj": 12850193000159,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "13203392000138-Brasília-DF-INFOSYSTEM TELECOMUNICAÇÕES E INFORMÁTICA LTDA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "INFOSYSTEM TELECOMUNICAÇÕES E INFORMÁTICA LTDA - ME",
+        "cnpj": 13203392000138,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "13260324000100-Brasília-DF-LOGTEL INTERNET E COMUNICACOES EIRELI-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "LOGTEL INTERNET E COMUNICACOES EIRELI",
+        "cnpj": 13260324000100,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "13549714000103-Brasília-DF-STAR CONECT TELECOM LTDA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "STAR CONECT TELECOM LTDA - ME",
+        "cnpj": 13549714000103,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "13650022000149-Brasília-DF-I10 TELECOM ISP LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "I10 TELECOM ISP LTDA",
+        "cnpj": 13650022000149,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 51
+            }
+        ]
+    },
+    {
+        "identifier": "13782845000128-Brasília-DF-WJ SERVICOS DE INFORMATICA, TELECOMUNICACAO, SEGURANCA ELETRONICA E IMPORTACAO LTDA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "WJ SERVICOS DE INFORMATICA, TELECOMUNICACAO, SEGURANCA ELETRONICA E IMPORTACAO LTDA - ME",
+        "cnpj": 13782845000128,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 56
+            }
+        ]
+    },
+    {
+        "identifier": "14239652000198-Brasília-DF-PRISSMA SERVICOS EM TECNOLOGIA DA INFORMACAO LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "PRISSMA SERVICOS EM TECNOLOGIA DA INFORMACAO LTDA",
+        "cnpj": 14239652000198,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 36
+            }
+        ]
+    },
+    {
+        "identifier": "14314117000154-Brasília-DF-TELEFONICA GLOBAL SOLUTIONS BRASIL LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "TELEFONICA GLOBAL SOLUTIONS BRASIL LTDA",
+        "cnpj": 14314117000154,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "NR",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "14660994000187-Brasília-DF-Mh Provedor de Servicos de Internet Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Mh Provedor de Servicos de Internet Ltda",
+        "cnpj": 14660994000187,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "14767161000110-Brasília-DF-CONECTIVA REDES E TELECOM LTDA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CONECTIVA REDES E TELECOM LTDA - ME",
+        "cnpj": 14767161000110,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 12
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 20
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 38
+            }
+        ]
+    },
+    {
+        "identifier": "14845850000103-Brasília-DF-NOVACIA WEB TECNOLOGIA DA INFORMACAO LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "NOVACIA WEB TECNOLOGIA DA INFORMACAO LTDA",
+        "cnpj": 14845850000103,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 364
+            }
+        ]
+    },
+    {
+        "identifier": "15597100000114-Brasília-DF-R M R ABS SERVICOS DE TELECOMUNICACOES EIRELI-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "R M R ABS SERVICOS DE TELECOMUNICACOES EIRELI",
+        "cnpj": 15597100000114,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "18345523000135-Brasília-DF-P F DE ANDRADE PROVEDOR DE INTERNET - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "P F DE ANDRADE PROVEDOR DE INTERNET - ME",
+        "cnpj": 18345523000135,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "19998892000190-Brasília-DF-C.R.A SERVICO DE TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "C.R.A SERVICO DE TELECOM LTDA",
+        "cnpj": 19998892000190,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "NR",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "20959065000176-Brasília-DF-4K TELECOM INTERNET LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "4K TELECOM INTERNET LTDA",
+        "cnpj": 20959065000176,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 36
+            }
+        ]
+    },
+    {
+        "identifier": "21443001000180-Brasília-DF-LOGNET SERVICOS EM TI LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "LOGNET SERVICOS EM TI LTDA",
+        "cnpj": 21443001000180,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "22163107000193-Brasília-DF-NETWORK INTERNET SERVICOS E PROVEDOR LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "NETWORK INTERNET SERVICOS E PROVEDOR LTDA",
+        "cnpj": 22163107000193,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 146
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "22334149000140-Brasília-DF-RADNET SERVICOS EM TI EIRELI-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "RADNET SERVICOS EM TI EIRELI",
+        "cnpj": 22334149000140,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 16
+            }
+        ]
+    },
+    {
+        "identifier": "22377449000106-Brasília-DF-CONECTAR TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CONECTAR TELECOMUNICACOES LTDA",
+        "cnpj": 22377449000106,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 19
+            }
+        ]
+    },
+    {
+        "identifier": "22506325000183-Brasília-DF-CELERIX TECNOLOGIA DE TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CELERIX TECNOLOGIA DE TELECOMUNICACOES LTDA",
+        "cnpj": 22506325000183,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "22752628000186-Brasília-DF-ROBERTA CARDOSO JAHEL - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "ROBERTA CARDOSO JAHEL - ME",
+        "cnpj": 22752628000186,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "22832850000199-Brasília-DF-FLEXNET EIRELI-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "FLEXNET EIRELI",
+        "cnpj": 22832850000199,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "23150425000182-Brasília-DF-ALLFIBER TELECOM - SERVICOS DE TELECOMUNICACOES - LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "ALLFIBER TELECOM - SERVICOS DE TELECOMUNICACOES - LTDA",
+        "cnpj": 23150425000182,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "23772963000109-Brasília-DF-ANA CAROLINA RODRIGUES DA SILVA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "ANA CAROLINA RODRIGUES DA SILVA - ME",
+        "cnpj": 23772963000109,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "24166111000130-Brasília-DF-LOGFIBER SERVICOS E SUPORTE EM TECNOLOGIA DA INFORMACAO LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "LOGFIBER SERVICOS E SUPORTE EM TECNOLOGIA DA INFORMACAO LTDA",
+        "cnpj": 24166111000130,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 77
+            }
+        ]
+    },
+    {
+        "identifier": "24228756000150-Brasília-DF-Fixtell Internet Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Fixtell Internet Ltda",
+        "cnpj": 24228756000150,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 147
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "24546852000147-Brasília-DF-WIKINET TELECOMUNICACOES LTDA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "WIKINET TELECOMUNICACOES LTDA - ME",
+        "cnpj": 24546852000147,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 24
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 18
+            }
+        ]
+    },
+    {
+        "identifier": "24804507000166-Brasília-DF-DISTAKNET TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "DISTAKNET TELECOM LTDA",
+        "cnpj": 24804507000166,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "24857944000148-Brasília-DF-NET EXPRESS BRASIL TELECOMUNICACOES EIRELI-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "NET EXPRESS BRASIL TELECOMUNICACOES EIRELI",
+        "cnpj": 24857944000148,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 67
+            }
+        ]
+    },
+    {
+        "identifier": "25080370000107-Brasília-DF-IST INFORMATICA E TELECOMUNICACAO LTDA.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "IST INFORMATICA E TELECOMUNICACAO LTDA.",
+        "cnpj": 25080370000107,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "25217427000177-Brasília-DF-CONNECTX INFRAESTRUTURA DE TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CONNECTX INFRAESTRUTURA DE TELECOMUNICAÇÕES LTDA",
+        "cnpj": 25217427000177,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 114
+            }
+        ]
+    },
+    {
+        "identifier": "25385036000161-Brasília-DF-MEGA MAIS TELECOM LTDA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "MEGA MAIS TELECOM LTDA - ME",
+        "cnpj": 25385036000161,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "25452912000125-Brasília-DF-SEEG FIBRAS TELECOMUNICACOES LTDA.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "SEEG FIBRAS TELECOMUNICACOES LTDA.",
+        "cnpj": 25452912000125,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "25534254000110-Brasília-DF-MAXQUALITY TELECOMUNICACOES 601DF LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "MAXQUALITY TELECOMUNICACOES 601DF LTDA",
+        "cnpj": 25534254000110,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "26110878000173-Brasília-DF-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "cnpj": 26110878000173,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "26117079000129-Brasília-DF-ONITEL TELECOMUNICAÇÕES EIRELI-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "ONITEL TELECOMUNICAÇÕES EIRELI",
+        "cnpj": 26117079000129,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 21
+            }
+        ]
+    },
+    {
+        "identifier": "26227377000171-Brasília-DF-META FIBRA LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "META FIBRA LTDA",
+        "cnpj": 26227377000171,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "26254767000130-Brasília-DF-YAUH TELECOM PROVEDORES DE ACESSO A INTERNET LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "YAUH TELECOM PROVEDORES DE ACESSO A INTERNET LTDA",
+        "cnpj": 26254767000130,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "26263503000143-Brasília-DF-Canaa Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Canaa Telecomunicacoes Ltda",
+        "cnpj": 26263503000143,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 303
+            }
+        ]
+    },
+    {
+        "identifier": "26742415000124-Brasília-DF-Flex DF Comercio e Servicos Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Flex DF Comercio e Servicos Ltda",
+        "cnpj": 26742415000124,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 54
+            }
+        ]
+    },
+    {
+        "identifier": "26752955000199-Brasília-DF-BEM MAIS SERVICOS DE TELECOMUNICACAO LTDA.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "BEM MAIS SERVICOS DE TELECOMUNICACAO LTDA.",
+        "cnpj": 26752955000199,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 21
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Brasília-DF-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "27583479000192-Brasília-DF-Guarulhos Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Guarulhos Telecomunicacoes Ltda",
+        "cnpj": 27583479000192,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "28097989000112-Brasília-DF-CAMOA TELECOMUNICACOES, COMERCIO DE INFORMATICA E SERVICOS DIGITAIS LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CAMOA TELECOMUNICACOES, COMERCIO DE INFORMATICA E SERVICOS DIGITAIS LTDA",
+        "cnpj": 28097989000112,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 84
+            }
+        ]
+    },
+    {
+        "identifier": "28313483000101-Brasília-DF-ELEVEL TECNOLOGIA LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "ELEVEL TECNOLOGIA LTDA",
+        "cnpj": 28313483000101,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "28561007000100-Brasília-DF-DEYSE DE ALMEIDA 02464140147-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "DEYSE DE ALMEIDA 02464140147",
+        "cnpj": 28561007000100,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "28802876000170-Brasília-DF-ALL CONECT LTDA.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "ALL CONECT LTDA.",
+        "cnpj": 28802876000170,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "29021525000195-Brasília-DF-AS INFORMATICA LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "AS INFORMATICA LTDA",
+        "cnpj": 29021525000195,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "29484413000170-Brasília-DF-COGENT BRASIL TELECOMUNICACOES LTDA.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "COGENT BRASIL TELECOMUNICACOES LTDA.",
+        "cnpj": 29484413000170,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "29631402000176-Brasília-DF-DFLASH NET TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "DFLASH NET TELECOM LTDA",
+        "cnpj": 29631402000176,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "29788733000114-Brasília-DF-CONECT TEC TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CONECT TEC TELECOMUNICACOES LTDA",
+        "cnpj": 29788733000114,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "30378023000103-Brasília-DF-Mmsf Tecnologia de Provedor de Internet Eireli-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Mmsf Tecnologia de Provedor de Internet Eireli",
+        "cnpj": 30378023000103,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "30390947000117-Brasília-DF-Bmva Tecnologia de Provedor de Internet Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Bmva Tecnologia de Provedor de Internet Ltda",
+        "cnpj": 30390947000117,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "30410215000141-Brasília-DF-Dm Tecnologia de Internet Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Dm Tecnologia de Internet Ltda",
+        "cnpj": 30410215000141,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "30552887000191-Brasília-DF-AMERICAN TOWER DO BRASIL - COMUNICACAO MULTIMIDIA LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "AMERICAN TOWER DO BRASIL - COMUNICACAO MULTIMIDIA LTDA",
+        "cnpj": 30552887000191,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "30866488000103-Brasília-DF-AVS NET COMUNICACOES E SERVICOS DE INFORMATICA LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "AVS NET COMUNICACOES E SERVICOS DE INFORMATICA LTDA",
+        "cnpj": 30866488000103,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "32104757000111-Brasília-DF-BRUNA MAIA DA SILVA LTDA.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "BRUNA MAIA DA SILVA LTDA.",
+        "cnpj": 32104757000111,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 30
+            }
+        ]
+    },
+    {
+        "identifier": "32238567000197-Brasília-DF-GO FAST TELECOMUNICACOES LTDA.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "GO FAST TELECOMUNICACOES LTDA.",
+        "cnpj": 32238567000197,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "32268238000199-Brasília-DF-GERANDO VALOR EM TELECOMUNICACOES E CONSULTORIA LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "GERANDO VALOR EM TELECOMUNICACOES E CONSULTORIA LTDA",
+        "cnpj": 32268238000199,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "32431888000103-Brasília-DF-KT TELECOMUNICACOES EIRELI-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "KT TELECOMUNICACOES EIRELI",
+        "cnpj": 32431888000103,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "32843281000130-Brasília-DF-LSA TELCOM EIRELI-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "LSA TELCOM EIRELI",
+        "cnpj": 32843281000130,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "32999022000101-Brasília-DF-Guerra Rosa Internet Servicos de Comunicacao Multimidia Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Guerra Rosa Internet Servicos de Comunicacao Multimidia Ltda",
+        "cnpj": 32999022000101,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "33179565000137-Brasília-DF-BT-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 42
+            },
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 291
+            }
+        ]
+    },
+    {
+        "identifier": "33679907000188-Brasília-DF-TI8 TECNOLOGIA E INOVACAO EIRELI-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "TI8 TECNOLOGIA E INOVACAO EIRELI",
+        "cnpj": 33679907000188,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "33709348000101-Brasília-DF-I8 TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "I8 TELECOM LTDA",
+        "cnpj": 33709348000101,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "33846928000140-Brasília-DF-CANAA SERVICOS DE TELECOMUNICACAO LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CANAA SERVICOS DE TELECOMUNICACAO LTDA",
+        "cnpj": 33846928000140,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 308
+            }
+        ]
+    },
+    {
+        "identifier": "34411354000140-Brasília-DF-IGOR KIPGEN PEREIRA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "IGOR KIPGEN PEREIRA",
+        "cnpj": 34411354000140,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "34499448000113-Brasília-DF-Anploma Telecom Tecnologia e Comercio de Servicos de Internet Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Anploma Telecom Tecnologia e Comercio de Servicos de Internet Ltda",
+        "cnpj": 34499448000113,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "34694202000100-Brasília-DF-Cgm Conexao A Internet Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Cgm Conexao A Internet Ltda",
+        "cnpj": 34694202000100,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "34859219000162-Brasília-DF-Lgc Provedor de Conexao e Multimidia Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Lgc Provedor de Conexao e Multimidia Ltda",
+        "cnpj": 34859219000162,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "34912574000158-Brasília-DF-ISMAEL DA SILVA SERVICOS DE COMUNICACAO MULTIMIDIA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "ISMAEL DA SILVA SERVICOS DE COMUNICACAO MULTIMIDIA",
+        "cnpj": 34912574000158,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "35470356000173-Brasília-DF-M.j. Gomes Xavier Telecomunicacoes-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "M.j. Gomes Xavier Telecomunicacoes",
+        "cnpj": 35470356000173,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "35823096000172-Brasília-DF-Nw Servicos de Comunicacao Multimidia Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Nw Servicos de Comunicacao Multimidia Ltda",
+        "cnpj": 35823096000172,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 30
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
+        "identifier": "36230547000120-Brasília-DF-Age Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Age Telecomunicacoes Ltda",
+        "cnpj": 36230547000120,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 133
+            }
+        ]
+    },
+    {
+        "identifier": "36531693000196-Brasília-DF-Wintell Telecom Provedor e Servicos de Internet Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Wintell Telecom Provedor e Servicos de Internet Ltda",
+        "cnpj": 36531693000196,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "37059235000169-Brasília-DF-ANALYZER TELEPROCESSAMENTO LTDA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "ANALYZER TELEPROCESSAMENTO LTDA - ME",
+        "cnpj": 37059235000169,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "37137072000195-Brasília-DF-GIGANET WIRELESS LTDA ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "GIGANET WIRELESS LTDA ME",
+        "cnpj": 37137072000195,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "37591870000192-Brasília-DF-FAST LINK OPERADORA DE TELECOMUNICACOES E INTERNET LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "FAST LINK OPERADORA DE TELECOMUNICACOES E INTERNET LTDA",
+        "cnpj": 37591870000192,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "37666848000164-Brasília-DF-Wiser Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Wiser Telecomunicacoes Ltda",
+        "cnpj": 37666848000164,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "39281404000136-Brasília-DF-Prissma Hilan Tecnologia e Telecom Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Prissma Hilan Tecnologia e Telecom Ltda",
+        "cnpj": 39281404000136,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "41030747000170-Brasília-DF-LINK INTEGRADORA DE SOLUCOES EM TI E TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "LINK INTEGRADORA DE SOLUCOES EM TI E TELECOM LTDA",
+        "cnpj": 41030747000170,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "41277232000179-Brasília-DF-Ti9 Solucoes em Internet Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Ti9 Solucoes em Internet Ltda",
+        "cnpj": 41277232000179,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "42281136000167-Brasília-DF-Fiber Ceu Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Fiber Ceu Telecomunicacoes Ltda",
+        "cnpj": 42281136000167,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "66624776000190-Brasília-DF-ORANGE BUSINESS SERVICES BRASIL LTDA.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "ORANGE BUSINESS SERVICES BRASIL LTDA.",
+        "cnpj": 66624776000190,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 50
+            }
+        ]
+    },
+    {
+        "identifier": "72625940000187-Brasília-DF-VEC TELECOM COMERCIO & SERVICOS DE COMUNICACAO LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "VEC TELECOM COMERCIO & SERVICOS DE COMUNICACAO LTDA",
+        "cnpj": 72625940000187,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "72639628000142-Brasília-DF-R2 Telecom Comercio de Produtos Para Informatica Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "R2 Telecom Comercio de Produtos Para Informatica Ltda",
+        "cnpj": 72639628000142,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 33
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 151
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "72843212000141-Brasília-DF-Cirion Technologies do Brasil Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Cirion Technologies do Brasil Ltda",
+        "cnpj": 72843212000141,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 348
+            }
+        ]
+    },
+    {
+        "identifier": "74280256000136-Brasília-DF-BT-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "BT",
+        "cnpj": 74280256000136,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 21
+            },
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "87124582000104-Brasília-DF-PROCERGS-Centro de Tecnologia da Informação e Comunicação do Estado do Rio Grande do Sul-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "PROCERGS-Centro de Tecnologia da Informação e Comunicação do Estado do Rio Grande do Sul",
+        "cnpj": 87124582000104,
+        "data-dados": "2021-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]

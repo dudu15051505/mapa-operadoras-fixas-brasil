@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "41644220000135-Manaus-AM-EB FIBRA-Pessoa Jurídica",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2022-10",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    }
+]

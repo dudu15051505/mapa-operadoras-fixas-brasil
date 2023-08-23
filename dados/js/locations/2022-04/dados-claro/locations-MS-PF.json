@@ -1,0 +1,65 @@
+[
+    {
+        "identifier": "66970229000167-Campo Grande-MS-CLARO-Pessoa Física",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "latitude": -20.448589,
+        "longitude": -54.629463,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2022-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 69425
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Dourados-MS-CLARO-Pessoa Física",
+        "cidade": "Dourados",
+        "uf": "MS",
+        "latitude": -22.223099,
+        "longitude": -54.812043,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2022-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 5306
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Três Lagoas-MS-CLARO-Pessoa Física",
+        "cidade": "Três Lagoas",
+        "uf": "MS",
+        "latitude": -20.784853,
+        "longitude": -51.700731,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2022-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2980
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "497373000110-Macapá-AP-SKY/AT&T-Pessoa Física",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3631
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Santana-AP-SKY/AT&T-Pessoa Física",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2021-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1048
+            }
+        ]
+    }
+]
