@@ -4,7 +4,7 @@
 		<title>Mapa com dados de Tecnologia e tipo de Cliente fornecidos pela operada a base da ANATEL</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">		
-		<script type="text/javascript" defer>
+		<script type="text/javascript">
 			function addPreloadJSON(linksArray, verOperadora) {
 				const basePath = verOperadora ? `${urlBaseJSON}/js/locations/${verPeriudo}/dados-${verOperadora}/` : `${urlBaseJSON}/js/locations/${verPeriudo}/dados-algar/`;
 
@@ -31,11 +31,12 @@
 				'PA', 'PB', 'PE', 'PI', 'PR', 'RJ', 'RN', 'RO', 'RR', 'RS', 'SC', 'SE', 'SP', 'TO'
 			];
 
-			for (const sigla of siglasUF) {				
+			siglasUF.forEach(sigla => {
 				addPreloadJSON([`locations-${sigla}-PF.json`], verOperadora);
 				addPreloadJSON([`locations-${sigla}-PJ.json`], verOperadora);
-			}
-			
+			});
+		</script>			
+		<script type="text/javascript" defer>
 			document.addEventListener('DOMContentLoaded', function () {
 				
 				document.getElementById('aviso-fechar').addEventListener('click', function () {
@@ -72,8 +73,8 @@
 		<link rel="stylesheet" href="./js/leaflet/leaflet-min.css" />
 		<link rel="stylesheet" href="./css/css-min.css" />
 		<script type="text/javascript" src="./js/leaflet/leaflet.js" defer></script>
-		<!--<script type="text/javascript" src="./js/script-min.js" defer></script>-->
-		<script type="text/javascript" src="./js/script.js" defer></script>
+		<script type="text/javascript" src="./js/script-min.js" defer></script>
+		<!--<script type="text/javascript" src="./js/script.js" defer></script>-->
 		<link rel="icon" type="image/x-icon" href="./favicon.ico">
 	</head>
 	<body>
