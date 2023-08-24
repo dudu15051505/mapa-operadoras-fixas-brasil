@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	const overlayMaps = {};
 	const locationLayers = {};
 
-   for (const sigla of siglasUF) {
+   siglasUF.forEach(sigla => {
 		locations[`locations-${sigla}pf`] = L.layerGroup();
 		locations[`locations-${sigla}pj`] = L.layerGroup();
 	 
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	 
 		locationLayers[`${sigla}-PF`] = locations[`locations-${sigla}pf`];
 		locationLayers[`${sigla}-PJ`] = locations[`locations-${sigla}pj`];
-	}
+	});
 
 	const operadorasPesadas = 	verOperadora === "oi" || 
 										verOperadora === "pequenas" ||
@@ -270,14 +270,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
 							let dadosCidade = '';
 							
-							for(let i = 0; i < dadosJson["info-tecnologia"].length; i++) {
-								const dadosArreyJSON = dadosJson["info-tecnologia"][i];
-								
+							for (const dadosArreyJSON of dadosJson["info-tecnologia"]) {
 								dadosCidade += ` <br>
-									Tecnologia: ${dadosArreyJSON["tecnologia"]} <br>
-									Tipo de produto:  ${dadosArreyJSON["tipo-de-Produto"]} <br>
-									Meio de acesso: ${dadosArreyJSON["meio-de-acesso"]} <br>
-									Quantidade de acessos: ${dadosArreyJSON["quantidade-acesso"]} <br>
+								  Tecnologia: ${dadosArreyJSON["tecnologia"]} <br>
+								  Tipo de produto: ${dadosArreyJSON["tipo-de-Produto"]} <br>
+								  Meio de acesso: ${dadosArreyJSON["meio-de-acesso"]} <br>
+								  Quantidade de acessos: ${dadosArreyJSON["quantidade-acesso"]} <br>
 								`;
 							}
 							
