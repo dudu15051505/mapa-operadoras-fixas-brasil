@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "50787273000104-Nova Iguaçu-RJ-Torre Forte Telecom Ltda-Pessoa Física",
+        "cidade": "Nova Iguaçu",
+        "uf": "RJ",
+        "latitude": -22.755635,
+        "longitude": -43.460325,
+        "empresa": "Torre Forte Telecom Ltda",
+        "cnpj": 50787273000104,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 227
+            }
+        ]
+    },
+    {
+        "identifier": "50787273000104-Queimados-RJ-Torre Forte Telecom Ltda-Pessoa Física",
+        "cidade": "Queimados",
+        "uf": "RJ",
+        "latitude": -22.710172,
+        "longitude": -43.551808,
+        "empresa": "Torre Forte Telecom Ltda",
+        "cnpj": 50787273000104,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "72618523000107-Brasília-DF-Nova Via Telecom Servicos de Comunicacao Ltda-Pessoa Física",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Nova Via Telecom Servicos de Comunicacao Ltda",
+        "cnpj": 72618523000107,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 198
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 17
+            }
+        ]
+    }
+]

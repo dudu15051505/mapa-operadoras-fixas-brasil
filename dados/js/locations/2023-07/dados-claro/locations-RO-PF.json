@@ -1,0 +1,103 @@
+[
+    {
+        "identifier": "66970229000167-Ariquemes-RO-CLARO-Pessoa Física",
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4050
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Cacoal-RO-CLARO-Pessoa Física",
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 860
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Ji-Paraná-RO-CLARO-Pessoa Física",
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2056
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Porto Velho-RO-CLARO-Pessoa Física",
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 828
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 14308
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Vilhena-RO-CLARO-Pessoa Física",
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1311
+            }
+        ]
+    }
+]

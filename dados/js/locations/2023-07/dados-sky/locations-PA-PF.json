@@ -1,0 +1,122 @@
+[
+    {
+        "identifier": "497373000110-Ananindeua-PA-SKY/AT&T-Pessoa Física",
+        "cidade": "Ananindeua",
+        "uf": "PA",
+        "latitude": -1.363914,
+        "longitude": -48.374298,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3337
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Barcarena-PA-SKY/AT&T-Pessoa Física",
+        "cidade": "Barcarena",
+        "uf": "PA",
+        "latitude": -1.511872,
+        "longitude": -48.619529,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 993
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Belém-PA-SKY/AT&T-Pessoa Física",
+        "cidade": "Belém",
+        "uf": "PA",
+        "latitude": -1.455396,
+        "longitude": -48.489756,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1344
+            },
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6153
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Benevides-PA-SKY/AT&T-Pessoa Física",
+        "cidade": "Benevides",
+        "uf": "PA",
+        "latitude": -1.361829,
+        "longitude": -48.243408,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 295
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Santa Bárbara do Pará-PA-SKY/AT&T-Pessoa Física",
+        "cidade": "Santa Bárbara do Pará",
+        "uf": "PA",
+        "latitude": -1.226144,
+        "longitude": -48.295101,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 214
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Tomé-Açu-PA-SKY/AT&T-Pessoa Física",
+        "cidade": "Tomé-Açu",
+        "uf": "PA",
+        "latitude": -2.418028,
+        "longitude": -48.1541,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]
