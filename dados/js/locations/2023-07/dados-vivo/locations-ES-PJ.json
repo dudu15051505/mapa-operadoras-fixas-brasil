@@ -1,0 +1,596 @@
+[
+    {
+        "identifier": "2558157000162-Aracruz-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Aracruz",
+        "uf": "ES",
+        "latitude": -19.820045,
+        "longitude": -40.276441,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 389
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Cachoeiro de Itapemirim-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Cachoeiro de Itapemirim",
+        "uf": "ES",
+        "latitude": -20.846212,
+        "longitude": -41.119829,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1868
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Cariacica-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Cariacica",
+        "uf": "ES",
+        "latitude": -20.263202,
+        "longitude": -40.416549,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 262
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 13
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 434
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 24
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Colatina-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Colatina",
+        "uf": "ES",
+        "latitude": -19.549316,
+        "longitude": -40.626898,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 49
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1249
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 20
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Conceição da Barra-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Conceição da Barra",
+        "uf": "ES",
+        "latitude": -18.588306,
+        "longitude": -39.736199,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Governador Lindenberg-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Governador Lindenberg",
+        "uf": "ES",
+        "latitude": -19.25182,
+        "longitude": -40.460954,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Guarapari-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Guarapari",
+        "uf": "ES",
+        "latitude": -20.677248,
+        "longitude": -40.509253,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1546
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 18
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Linhares-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Linhares",
+        "uf": "ES",
+        "latitude": -19.394642,
+        "longitude": -40.064277,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 16
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1856
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 23
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Marataízes-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Marataízes",
+        "uf": "ES",
+        "latitude": -21.039813,
+        "longitude": -40.838436,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Marechal Floriano-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Marechal Floriano",
+        "uf": "ES",
+        "latitude": -20.415889,
+        "longitude": -40.669998,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Pedro Canário-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Pedro Canário",
+        "uf": "ES",
+        "latitude": -18.300418,
+        "longitude": -39.957365,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Santa Maria de Jetibá-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Santa Maria de Jetibá",
+        "uf": "ES",
+        "latitude": -20.025296,
+        "longitude": -40.743931,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 26
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Serra-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Serra",
+        "uf": "ES",
+        "latitude": -20.121032,
+        "longitude": -40.307408,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 456
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 49
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 18
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2221
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 89
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-São Gabriel da Palha-ES-VIVO-Pessoa Jurídica",
+        "cidade": "São Gabriel da Palha",
+        "uf": "ES",
+        "latitude": -19.01819,
+        "longitude": -40.536487,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-São Mateus-ES-VIVO-Pessoa Jurídica",
+        "cidade": "São Mateus",
+        "uf": "ES",
+        "latitude": -18.721407,
+        "longitude": -39.857935,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 543
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Viana-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Viana",
+        "uf": "ES",
+        "latitude": -20.382503,
+        "longitude": -40.493292,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 52
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Vila Velha-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Vila Velha",
+        "uf": "ES",
+        "latitude": -20.341705,
+        "longitude": -40.287458,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 530
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 30
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 25
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2100
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 82
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Vitória-ES-VIVO-Pessoa Jurídica",
+        "cidade": "Vitória",
+        "uf": "ES",
+        "latitude": -20.315472,
+        "longitude": -40.312806,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 694
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 38
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 15
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 39
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4500
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 139
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            }
+        ]
+    }
+]

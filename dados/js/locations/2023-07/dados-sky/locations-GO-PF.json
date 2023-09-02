@@ -1,0 +1,84 @@
+[
+    {
+        "identifier": "497373000110-Formosa-GO-SKY/AT&T-Pessoa Física",
+        "cidade": "Formosa",
+        "uf": "GO",
+        "latitude": -15.539991,
+        "longitude": -47.336999,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 19
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Itaberaí-GO-SKY/AT&T-Pessoa Física",
+        "cidade": "Itaberaí",
+        "uf": "GO",
+        "latitude": -16.020551,
+        "longitude": -49.806034,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Jataí-GO-SKY/AT&T-Pessoa Física",
+        "cidade": "Jataí",
+        "uf": "GO",
+        "latitude": -17.878383,
+        "longitude": -51.720424,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            },
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Mineiros-GO-SKY/AT&T-Pessoa Física",
+        "cidade": "Mineiros",
+        "uf": "GO",
+        "latitude": -17.565388,
+        "longitude": -52.553672,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 209
+            }
+        ]
+    }
+]

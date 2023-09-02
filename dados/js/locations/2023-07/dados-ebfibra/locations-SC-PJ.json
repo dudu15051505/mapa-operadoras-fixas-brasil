@@ -1,0 +1,84 @@
+[
+    {
+        "identifier": "41644220000135-Itajaí-SC-EB FIBRA-Pessoa Jurídica",
+        "cidade": "Itajaí",
+        "uf": "SC",
+        "latitude": -26.910097,
+        "longitude": -48.670475,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "41644220000135-Palhoça-SC-EB FIBRA-Pessoa Jurídica",
+        "cidade": "Palhoça",
+        "uf": "SC",
+        "latitude": -27.645518,
+        "longitude": -48.669661,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "41644220000135-Santo Amaro da Imperatriz-SC-EB FIBRA-Pessoa Jurídica",
+        "cidade": "Santo Amaro da Imperatriz",
+        "uf": "SC",
+        "latitude": -27.685182,
+        "longitude": -48.781305,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "41644220000135-São José-SC-EB FIBRA-Pessoa Jurídica",
+        "cidade": "São José",
+        "uf": "SC",
+        "latitude": -27.613577,
+        "longitude": -48.636607,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    }
+]
