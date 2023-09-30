@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "7870094000107-Parauapebas-PA-EB FIBRA-Pessoa Física",
+        "cidade": "Parauapebas",
+        "uf": "PA",
+        "latitude": -6.067812,
+        "longitude": -49.903733,
+        "empresa": "EB FIBRA",
+        "cnpj": 7870094000107,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 223
+            }
+        ]
+    }
+]

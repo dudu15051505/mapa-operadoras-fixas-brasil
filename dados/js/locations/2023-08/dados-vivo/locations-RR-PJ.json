@@ -1,0 +1,33 @@
+[
+    {
+        "identifier": "2558157000162-Boa Vista-RR-VIVO-Pessoa Jurídica",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "identifier": "497373000110-Paço do Lumiar-MA-SKY/AT&T-Pessoa Física",
+        "cidade": "Paço do Lumiar",
+        "uf": "MA",
+        "latitude": -2.516573,
+        "longitude": -44.101886,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 354
+            },
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1434
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-São José de Ribamar-MA-SKY/AT&T-Pessoa Física",
+        "cidade": "São José de Ribamar",
+        "uf": "MA",
+        "latitude": -2.54704,
+        "longitude": -44.059745,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2235
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-São Luís-MA-SKY/AT&T-Pessoa Física",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "latitude": -2.538742,
+        "longitude": -44.282513,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 943
+            },
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5571
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Viana-MA-SKY/AT&T-Pessoa Física",
+        "cidade": "Viana",
+        "uf": "MA",
+        "latitude": -3.20451,
+        "longitude": -44.991177,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

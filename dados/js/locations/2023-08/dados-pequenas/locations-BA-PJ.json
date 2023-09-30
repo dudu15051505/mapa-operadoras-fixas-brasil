@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "97553927000190-Salvador-BA-M.a. Internet Ltda-Pessoa Jurídica",
+        "cidade": "Salvador",
+        "uf": "BA",
+        "latitude": -12.97178,
+        "longitude": -38.501068,
+        "empresa": "M.a. Internet Ltda",
+        "cnpj": 97553927000190,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]
