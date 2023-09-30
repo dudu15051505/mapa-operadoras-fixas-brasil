@@ -1,0 +1,146 @@
+[
+    {
+        "identifier": "2558157000162-Itacoatiara-AM-VIVO-Pessoa Jurídica",
+        "cidade": "Itacoatiara",
+        "uf": "AM",
+        "latitude": -3.138607,
+        "longitude": -58.444874,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Itapiranga-AM-VIVO-Pessoa Jurídica",
+        "cidade": "Itapiranga",
+        "uf": "AM",
+        "latitude": -2.74081,
+        "longitude": -58.029257,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Manacapuru-AM-VIVO-Pessoa Jurídica",
+        "cidade": "Manacapuru",
+        "uf": "AM",
+        "latitude": -3.290657,
+        "longitude": -60.621581,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Manaus-AM-VIVO-Pessoa Jurídica",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 25
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4818
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 243
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Presidente Figueiredo-AM-VIVO-Pessoa Jurídica",
+        "cidade": "Presidente Figueiredo",
+        "uf": "AM",
+        "latitude": -2.029813,
+        "longitude": -60.02338,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Tabatinga-AM-VIVO-Pessoa Jurídica",
+        "cidade": "Tabatinga",
+        "uf": "AM",
+        "latitude": -4.241597,
+        "longitude": -69.938273,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

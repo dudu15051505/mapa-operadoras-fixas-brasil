@@ -1,0 +1,103 @@
+[
+    {
+        "identifier": "66970229000167-Aquiraz-CE-CLARO-Pessoa Física",
+        "cidade": "Aquiraz",
+        "uf": "CE",
+        "latitude": -3.899293,
+        "longitude": -38.389563,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1072
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Eusébio-CE-CLARO-Pessoa Física",
+        "cidade": "Eusébio",
+        "uf": "CE",
+        "latitude": -3.892501,
+        "longitude": -38.455875,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 802
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Fortaleza-CE-CLARO-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1672
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 64371
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Juazeiro do Norte-CE-CLARO-Pessoa Física",
+        "cidade": "Juazeiro do Norte",
+        "uf": "CE",
+        "latitude": -7.196207,
+        "longitude": -39.307593,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2896
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Sobral-CE-CLARO-Pessoa Física",
+        "cidade": "Sobral",
+        "uf": "CE",
+        "latitude": -3.689133,
+        "longitude": -40.34821,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5152
+            }
+        ]
+    }
+]

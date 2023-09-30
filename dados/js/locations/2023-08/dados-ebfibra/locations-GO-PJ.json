@@ -1,0 +1,46 @@
+[
+    {
+        "identifier": "41644220000135-Goiânia-GO-EB FIBRA-Pessoa Jurídica",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "latitude": -16.686439,
+        "longitude": -49.264346,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 20
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "41644220000135-Silvânia-GO-EB FIBRA-Pessoa Jurídica",
+        "cidade": "Silvânia",
+        "uf": "GO",
+        "latitude": -16.659972,
+        "longitude": -48.608326,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2023-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]
