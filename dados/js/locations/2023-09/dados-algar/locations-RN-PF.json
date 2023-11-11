@@ -1,0 +1,84 @@
+[
+    {
+        "identifier": "05872814000130-Natal-RN-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Natal",
+        "uf": "RN",
+        "latitude": -5.793567,
+        "longitude": -35.198604,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": "05872814000130",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 380
+            }
+        ]
+    },
+    {
+        "identifier": "05872814000130-Parnamirim-RN-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Parnamirim",
+        "uf": "RN",
+        "latitude": -5.911156,
+        "longitude": -35.271,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": "05872814000130",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 88
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7,12085E+13-Natal-RN-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Natal",
+        "uf": "RN",
+        "latitude": -5.793567,
+        "longitude": -35.198604,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": "7,12085E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 108
+            }
+        ]
+    },
+    {
+        "identifier": "7,12085E+13-Parnamirim-RN-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Parnamirim",
+        "uf": "RN",
+        "latitude": -5.911156,
+        "longitude": -35.271,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": "7,12085E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 27
+            }
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "identifier": "02558157000162-Araguaína-TO-VIVO-Pessoa Jurídica",
+        "cidade": "Araguaína",
+        "uf": "TO",
+        "latitude": -7.192375,
+        "longitude": -48.204402,
+        "empresa": "VIVO",
+        "cnpj": "02558157000162",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 25
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "02558157000162-Gurupi-TO-VIVO-Pessoa Jurídica",
+        "cidade": "Gurupi",
+        "uf": "TO",
+        "latitude": -11.72794,
+        "longitude": -49.068046,
+        "empresa": "VIVO",
+        "cnpj": "02558157000162",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "02558157000162-Palmas-TO-VIVO-Pessoa Jurídica",
+        "cidade": "Palmas",
+        "uf": "TO",
+        "latitude": -10.239973,
+        "longitude": -48.355751,
+        "empresa": "VIVO",
+        "cnpj": "02558157000162",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2263
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 66
+            }
+        ]
+    },
+    {
+        "identifier": "02558157000162-Taguatinga-TO-VIVO-Pessoa Jurídica",
+        "cidade": "Taguatinga",
+        "uf": "TO",
+        "latitude": -12.40263,
+        "longitude": -46.436967,
+        "empresa": "VIVO",
+        "cnpj": "02558157000162",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

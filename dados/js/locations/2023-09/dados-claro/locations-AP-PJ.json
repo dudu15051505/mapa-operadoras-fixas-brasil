@@ -1,0 +1,530 @@
+[
+    {
+        "identifier": "4,04325E+13-Amapá-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Amapá",
+        "uf": "AP",
+        "latitude": 2.052669,
+        "longitude": -50.795653,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Calçoene-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Calçoene",
+        "uf": "AP",
+        "latitude": 2.504747,
+        "longitude": -50.951233,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Cutias-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Cutias",
+        "uf": "AP",
+        "latitude": 0.987565,
+        "longitude": -50.799169,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Ferreira Gomes-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Ferreira Gomes",
+        "uf": "AP",
+        "latitude": 0.857256,
+        "longitude": -51.179523,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Itaubal-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Itaubal",
+        "uf": "AP",
+        "latitude": 0.596137,
+        "longitude": -50.670828,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Laranjal do Jari-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Laranjal do Jari",
+        "uf": "AP",
+        "latitude": -0.804911,
+        "longitude": -52.452962,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Macapá-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 306
+            },
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 92
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 131
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 31
+            },
+            {
+                "tecnologia": "WIMAX",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Mazagão-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Mazagão",
+        "uf": "AP",
+        "latitude": -0.11336,
+        "longitude": -51.28913,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Oiapoque-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Oiapoque",
+        "uf": "AP",
+        "latitude": 3.84074,
+        "longitude": -51.833123,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Pedra Branca do Amapari-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Pedra Branca do Amapari",
+        "uf": "AP",
+        "latitude": -0.949786,
+        "longitude": -51.999564,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Porto Grande-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Porto Grande",
+        "uf": "AP",
+        "latitude": 0.71243,
+        "longitude": -51.415499,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Pracuúba-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Pracuúba",
+        "uf": "AP",
+        "latitude": 1.745427,
+        "longitude": -50.789248,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Santana-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 16
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Serra do Navio-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Serra do Navio",
+        "uf": "AP",
+        "latitude": 0.901357,
+        "longitude": -52.003636,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Tartarugalzinho-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Tartarugalzinho",
+        "uf": "AP",
+        "latitude": 1.506519,
+        "longitude": -50.90874,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "4,04325E+13-Vitória do Jari-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Vitória do Jari",
+        "uf": "AP",
+        "latitude": -0.938,
+        "longitude": -52.424001,
+        "empresa": "CLARO",
+        "cnpj": "4,04325E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Macapá-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 727
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Santana-AP-CLARO-Pessoa Jurídica",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 365
+            }
+        ]
+    }
+]

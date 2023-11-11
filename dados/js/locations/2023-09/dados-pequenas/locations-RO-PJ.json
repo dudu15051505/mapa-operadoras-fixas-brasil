@@ -1,0 +1,33 @@
+[
+    {
+        "identifier": "8,47161E+13-Espigão D'Oeste-RO-H & F SOLUÇÕES TECNOLOGICAS LTDA - EPP-Pessoa Jurídica",
+        "cidade": "Espigão D'Oeste",
+        "uf": "RO",
+        "latitude": -11.530864,
+        "longitude": -61.026998,
+        "empresa": "H & F SOLUÇÕES TECNOLOGICAS LTDA - EPP",
+        "cnpj": "8,47161E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 63
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]

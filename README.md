@@ -4,6 +4,9 @@ https://mapa-operadoras-fixas-brasil.dudu-lab.xyz/
 
 Este mapa tem o objetivo de ver mais facilmente os dados informados pelas operadoras a ANATE, utilizando apenas para HTML, CSS e JS para manter compatibilidade com host Github Pages.
 
-Para este objetivo, fora utilizado os dados em CSV disponibilizados pela ANATEL no seguinte link: https://www.anatel.gov.br/dadosabertos/paineis_de_dados/acessos/acessos_banda_larga_fixa.zip
+Para este objetivo, fora utilizado os dados em CSV disponibilizados pela ANATEL pelo sistema Painéis de Dados: 
+https://informacoes.anatel.gov.br/paineis/acessos/banda-larga-fixa
+https://www.anatel.gov.br/dadosabertos/paineis_de_dados/acessos/acessos_banda_larga_fixa.zip
+https://dados.gov.br/dados/conjuntos-dados/acessos---banda-larga-fixa
 
 Todas as informações de nome de empresas, cnpj, locais, quantidades de acessos, tipos de acessos foram informados por cada operadora a ANATEL, a única informação que fora ajustada foi a "Quantidade de acessos", pois a ANATEL disponibiliza esta numeração separada por um grupo de velocidade, com isto o mapa realiza a soma de todos os acessos informados por grupo de velocidade para a cidade e o apresenta no mapa.

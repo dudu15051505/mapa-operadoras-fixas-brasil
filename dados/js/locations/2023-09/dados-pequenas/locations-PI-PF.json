@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "6,96101E+13-União-PI-MARCELINO CARDOSO DA SILVA-Pessoa Física",
+        "cidade": "União",
+        "uf": "PI",
+        "latitude": -4.585709,
+        "longitude": -42.858285,
+        "empresa": "MARCELINO CARDOSO DA SILVA",
+        "cnpj": "6,96101E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 442
+            }
+        ]
+    }
+]

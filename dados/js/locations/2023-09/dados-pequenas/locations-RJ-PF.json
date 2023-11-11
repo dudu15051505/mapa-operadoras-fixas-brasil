@@ -1,0 +1,33 @@
+[
+    {
+        "identifier": "5,16551E+13-Rio de Janeiro-RJ-Nossa-web Conexoes Ltda-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "Nossa-web Conexoes Ltda",
+        "cnpj": "5,16551E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 83
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1995
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 30
+            }
+        ]
+    }
+]
