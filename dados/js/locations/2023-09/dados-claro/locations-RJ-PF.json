@@ -1,0 +1,581 @@
+[
+    {
+        "identifier": "6,69702E+13-Armação dos Búzios-RJ-CLARO-Pessoa Física",
+        "cidade": "Armação dos Búzios",
+        "uf": "RJ",
+        "latitude": -22.752846,
+        "longitude": -41.884559,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3158
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Barra Mansa-RJ-CLARO-Pessoa Física",
+        "cidade": "Barra Mansa",
+        "uf": "RJ",
+        "latitude": -22.548084,
+        "longitude": -44.175241,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 386
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 2815
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Belford Roxo-RJ-CLARO-Pessoa Física",
+        "cidade": "Belford Roxo",
+        "uf": "RJ",
+        "latitude": -22.764042,
+        "longitude": -43.39921,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 5867
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Cabo Frio-RJ-CLARO-Pessoa Física",
+        "cidade": "Cabo Frio",
+        "uf": "RJ",
+        "latitude": -22.88943,
+        "longitude": -42.028595,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7344
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Campos dos Goytacazes-RJ-CLARO-Pessoa Física",
+        "cidade": "Campos dos Goytacazes",
+        "uf": "RJ",
+        "latitude": -21.762171,
+        "longitude": -41.318055,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 11222
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Duque de Caxias-RJ-CLARO-Pessoa Física",
+        "cidade": "Duque de Caxias",
+        "uf": "RJ",
+        "latitude": -22.785801,
+        "longitude": -43.304895,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 8873
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Itaguaí-RJ-CLARO-Pessoa Física",
+        "cidade": "Itaguaí",
+        "uf": "RJ",
+        "latitude": -22.863566,
+        "longitude": -43.779821,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1748
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Macaé-RJ-CLARO-Pessoa Física",
+        "cidade": "Macaé",
+        "uf": "RJ",
+        "latitude": -22.376807,
+        "longitude": -41.784828,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 50
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 18572
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Mesquita-RJ-CLARO-Pessoa Física",
+        "cidade": "Mesquita",
+        "uf": "RJ",
+        "latitude": -22.802811,
+        "longitude": -43.460066,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 32
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 10503
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Miguel Pereira-RJ-CLARO-Pessoa Física",
+        "cidade": "Miguel Pereira",
+        "uf": "RJ",
+        "latitude": -22.457242,
+        "longitude": -43.480275,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 188
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Nilópolis-RJ-CLARO-Pessoa Física",
+        "cidade": "Nilópolis",
+        "uf": "RJ",
+        "latitude": -22.805658,
+        "longitude": -43.423344,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 463
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 2949
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Niterói-RJ-CLARO-Pessoa Física",
+        "cidade": "Niterói",
+        "uf": "RJ",
+        "latitude": -22.88321,
+        "longitude": -43.103367,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 790
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 59664
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Nova Friburgo-RJ-CLARO-Pessoa Física",
+        "cidade": "Nova Friburgo",
+        "uf": "RJ",
+        "latitude": -22.293224,
+        "longitude": -42.537692,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6687
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Nova Iguaçu-RJ-CLARO-Pessoa Física",
+        "cidade": "Nova Iguaçu",
+        "uf": "RJ",
+        "latitude": -22.755635,
+        "longitude": -43.460325,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 247
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 23758
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Paraíba do Sul-RJ-CLARO-Pessoa Física",
+        "cidade": "Paraíba do Sul",
+        "uf": "RJ",
+        "latitude": -22.158462,
+        "longitude": -43.304004,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 390
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Petrópolis-RJ-CLARO-Pessoa Física",
+        "cidade": "Petrópolis",
+        "uf": "RJ",
+        "latitude": -22.519963,
+        "longitude": -43.192613,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 16
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 6934
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Resende-RJ-CLARO-Pessoa Física",
+        "cidade": "Resende",
+        "uf": "RJ",
+        "latitude": -22.470473,
+        "longitude": -44.45091,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 116
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 11403
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Rio das Ostras-RJ-CLARO-Pessoa Física",
+        "cidade": "Rio das Ostras",
+        "uf": "RJ",
+        "latitude": -22.517378,
+        "longitude": -41.947509,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 7275
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Rio de Janeiro-RJ-CLARO-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 17393
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 866050
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-São Gonçalo-RJ-CLARO-Pessoa Física",
+        "cidade": "São Gonçalo",
+        "uf": "RJ",
+        "latitude": -22.82679,
+        "longitude": -43.063351,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 158
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 21386
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-São João de Meriti-RJ-CLARO-Pessoa Física",
+        "cidade": "São João de Meriti",
+        "uf": "RJ",
+        "latitude": -22.805776,
+        "longitude": -43.37292,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 2057
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-São Pedro da Aldeia-RJ-CLARO-Pessoa Física",
+        "cidade": "São Pedro da Aldeia",
+        "uf": "RJ",
+        "latitude": -22.842859,
+        "longitude": -42.102596,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3700
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Teresópolis-RJ-CLARO-Pessoa Física",
+        "cidade": "Teresópolis",
+        "uf": "RJ",
+        "latitude": -22.416464,
+        "longitude": -42.97519,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 6053
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Três Rios-RJ-CLARO-Pessoa Física",
+        "cidade": "Três Rios",
+        "uf": "RJ",
+        "latitude": -22.11651,
+        "longitude": -43.218533,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1472
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Valença-RJ-CLARO-Pessoa Física",
+        "cidade": "Valença",
+        "uf": "RJ",
+        "latitude": -22.244496,
+        "longitude": -43.71288,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 811
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Vassouras-RJ-CLARO-Pessoa Física",
+        "cidade": "Vassouras",
+        "uf": "RJ",
+        "latitude": -22.405889,
+        "longitude": -43.668555,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 343
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Volta Redonda-RJ-CLARO-Pessoa Física",
+        "cidade": "Volta Redonda",
+        "uf": "RJ",
+        "latitude": -22.520212,
+        "longitude": -44.099555,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 99
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 7850
+            }
+        ]
+    }
+]

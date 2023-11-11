@@ -1,0 +1,71 @@
+[
+    {
+        "identifier": "2,42288E+13-Luziânia-GO-VERO-Pessoa Jurídica",
+        "cidade": "Luziânia",
+        "uf": "GO",
+        "latitude": -16.253,
+        "longitude": -47.95,
+        "empresa": "VERO",
+        "cnpj": "2,42288E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 53
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2,42288E+13-Novo Gama-GO-VERO-Pessoa Jurídica",
+        "cidade": "Novo Gama",
+        "uf": "GO",
+        "latitude": -16.059185,
+        "longitude": -48.041662,
+        "empresa": "VERO",
+        "cnpj": "2,42288E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            }
+        ]
+    },
+    {
+        "identifier": "2,42288E+13-Valparaíso de Goiás-GO-VERO-Pessoa Jurídica",
+        "cidade": "Valparaíso de Goiás",
+        "uf": "GO",
+        "latitude": -16.065078,
+        "longitude": -47.975675,
+        "empresa": "VERO",
+        "cnpj": "2,42288E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 627
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    }
+]

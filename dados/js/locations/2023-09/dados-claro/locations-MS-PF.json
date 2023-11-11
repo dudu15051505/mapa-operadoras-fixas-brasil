@@ -1,0 +1,109 @@
+[
+    {
+        "identifier": "6,69702E+13-Campo Grande-MS-CLARO-Pessoa Física",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "latitude": -20.448589,
+        "longitude": -54.629463,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1865
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 67323
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Dourados-MS-CLARO-Pessoa Física",
+        "cidade": "Dourados",
+        "uf": "MS",
+        "latitude": -22.223099,
+        "longitude": -54.812043,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1575
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 5854
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Naviraí-MS-CLARO-Pessoa Física",
+        "cidade": "Naviraí",
+        "uf": "MS",
+        "latitude": -23.06181,
+        "longitude": -54.199465,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 109
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Ponta Porã-MS-CLARO-Pessoa Física",
+        "cidade": "Ponta Porã",
+        "uf": "MS",
+        "latitude": -22.529617,
+        "longitude": -55.720326,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 937
+            }
+        ]
+    },
+    {
+        "identifier": "6,69702E+13-Três Lagoas-MS-CLARO-Pessoa Física",
+        "cidade": "Três Lagoas",
+        "uf": "MS",
+        "latitude": -20.784853,
+        "longitude": -51.700731,
+        "empresa": "CLARO",
+        "cnpj": "6,69702E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5656
+            }
+        ]
+    }
+]

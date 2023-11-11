@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "5,08334E+13-Novo Repartimento-PA-H3 Servicos de Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Novo Repartimento",
+        "uf": "PA",
+        "latitude": -4.247492,
+        "longitude": -49.949928,
+        "empresa": "H3 Servicos de Telecomunicacoes Ltda",
+        "cnpj": "5,08334E+13",
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 38
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 10
+            }
+        ]
+    }
+]
