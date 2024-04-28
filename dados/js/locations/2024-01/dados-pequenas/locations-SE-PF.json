@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "49517392000150-São Cristóvão-SE-Mais Ativa Provedor de Internet Ltda-Pessoa Física",
+        "cidade": "São Cristóvão",
+        "uf": "SE",
+        "latitude": -11.008443,
+        "longitude": -37.20436,
+        "empresa": "Mais Ativa Provedor de Internet Ltda",
+        "cnpj": 49517392000150,
+        "data-dados": "2024-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 167
+            }
+        ]
+    }
+]

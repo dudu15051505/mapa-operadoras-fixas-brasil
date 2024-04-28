@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "74209909000190-Cabo de Santo Agostinho-PE-Microset Tecnologia Ltda-Pessoa Jurídica",
+        "cidade": "Cabo de Santo Agostinho",
+        "uf": "PE",
+        "latitude": -8.28218,
+        "longitude": -35.025293,
+        "empresa": "Microset Tecnologia Ltda",
+        "cnpj": 74209909000190,
+        "data-dados": "2023-11",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "OFDMA/TDD",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "74209909000190-Ipojuca-PE-Microset Tecnologia Ltda-Pessoa Jurídica",
+        "cidade": "Ipojuca",
+        "uf": "PE",
+        "latitude": -8.393034,
+        "longitude": -35.060864,
+        "empresa": "Microset Tecnologia Ltda",
+        "cnpj": 74209909000190,
+        "data-dados": "2023-11",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "OFDMA/TDD",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

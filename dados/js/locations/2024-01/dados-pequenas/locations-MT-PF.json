@@ -1,0 +1,39 @@
+[
+    {
+        "identifier": "97521015000137-Diamantino-MT-Ds Provedor de Acesso As Redes de Comunicacoes Ltda-Pessoa Física",
+        "cidade": "Diamantino",
+        "uf": "MT",
+        "latitude": -14.403673,
+        "longitude": -56.436599,
+        "empresa": "Ds Provedor de Acesso As Redes de Comunicacoes Ltda",
+        "cnpj": 97521015000137,
+        "data-dados": "2024-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    }
+]

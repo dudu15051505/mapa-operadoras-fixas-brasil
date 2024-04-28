@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "97538061000149-Parobé-RS-PARANHANANET LTDA-Pessoa Jurídica",
+        "cidade": "Parobé",
+        "uf": "RS",
+        "latitude": -29.624257,
+        "longitude": -50.83118,
+        "empresa": "PARANHANANET LTDA",
+        "cnpj": 97538061000149,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    }
+]

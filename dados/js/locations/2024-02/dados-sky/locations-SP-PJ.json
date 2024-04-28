@@ -1,0 +1,97 @@
+[
+    {
+        "identifier": "497373000110-Franco da Rocha-SP-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Franco da Rocha",
+        "uf": "SP",
+        "latitude": -23.322882,
+        "longitude": -46.729011,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Guarulhos-SP-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Guarulhos",
+        "uf": "SP",
+        "latitude": -23.453758,
+        "longitude": -46.533347,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Limeira-SP-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Limeira",
+        "uf": "SP",
+        "latitude": -22.56605,
+        "longitude": -47.396987,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Poá-SP-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Poá",
+        "uf": "SP",
+        "latitude": -23.533285,
+        "longitude": -46.347292,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-São Paulo-SP-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            }
+        ]
+    }
+]

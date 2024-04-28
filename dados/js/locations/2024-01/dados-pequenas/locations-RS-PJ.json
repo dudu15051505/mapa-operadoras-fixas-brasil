@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "97184089000125-Tapejara-RS-NETVISUAL TELECOM LTDA - EPP-Pessoa Jurídica",
+        "cidade": "Tapejara",
+        "uf": "RS",
+        "latitude": -28.065237,
+        "longitude": -52.009665,
+        "empresa": "NETVISUAL TELECOM LTDA - EPP",
+        "cnpj": 97184089000125,
+        "data-dados": "2024-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 159
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 34
+            }
+        ]
+    }
+]

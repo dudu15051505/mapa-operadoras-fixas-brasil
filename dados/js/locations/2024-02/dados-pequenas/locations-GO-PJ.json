@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "97546395000164-Santo Antônio do Descoberto-GO-Jefferson Kayam da Rocha-Pessoa Jurídica",
+        "cidade": "Santo Antônio do Descoberto",
+        "uf": "GO",
+        "latitude": -15.941247,
+        "longitude": -48.257761,
+        "empresa": "Jefferson Kayam da Rocha",
+        "cnpj": 97546395000164,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "identifier": "97546395000164-Águas Lindas de Goiás-GO-Jefferson Kayam da Rocha-Pessoa Jurídica",
+        "cidade": "Águas Lindas de Goiás",
+        "uf": "GO",
+        "latitude": -15.761746,
+        "longitude": -48.281611,
+        "empresa": "Jefferson Kayam da Rocha",
+        "cnpj": 97546395000164,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]

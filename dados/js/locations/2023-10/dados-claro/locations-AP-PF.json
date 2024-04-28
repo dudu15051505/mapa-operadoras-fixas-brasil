@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "66970229000167-Macapá-AP-CLARO-Pessoa Física",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5396
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Santana-AP-CLARO-Pessoa Física",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4527
+            }
+        ]
+    }
+]

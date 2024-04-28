@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "40154884000153-Palhoça-SC-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Jurídica",
+        "cidade": "Palhoça",
+        "uf": "SC",
+        "latitude": -27.645518,
+        "longitude": -48.669661,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2024-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "40154884000153-Timbó-SC-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Jurídica",
+        "cidade": "Timbó",
+        "uf": "SC",
+        "latitude": -26.82464,
+        "longitude": -49.269039,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2024-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

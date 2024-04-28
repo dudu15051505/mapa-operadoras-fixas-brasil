@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "40154884000153-Estrela-RS-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Jurídica",
+        "cidade": "Estrela",
+        "uf": "RS",
+        "latitude": -29.500207,
+        "longitude": -51.949508,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "40154884000153-Porto Alegre-RS-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Jurídica",
+        "cidade": "Porto Alegre",
+        "uf": "RS",
+        "latitude": -30.031771,
+        "longitude": -51.206533,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    }
+]

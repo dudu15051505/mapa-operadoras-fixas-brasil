@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "497373000110-Cabedelo-PB-SKY/AT&T-Pessoa Física",
+        "cidade": "Cabedelo",
+        "uf": "PB",
+        "latitude": -6.987314,
+        "longitude": -34.828409,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 25
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Patos-PB-SKY/AT&T-Pessoa Física",
+        "cidade": "Patos",
+        "uf": "PB",
+        "latitude": -7.017427,
+        "longitude": -37.274702,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 24
+            }
+        ]
+    }
+]
