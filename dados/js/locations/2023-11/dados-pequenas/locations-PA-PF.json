@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "52967745000128-Ananindeua-PA-Jp-link Fibra Ltda-Pessoa Física",
+        "cidade": "Ananindeua",
+        "uf": "PA",
+        "latitude": -1.363914,
+        "longitude": -48.374298,
+        "empresa": "Jp-link Fibra Ltda",
+        "cnpj": 52967745000128,
+        "data-dados": "2023-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 80
+            }
+        ]
+    }
+]

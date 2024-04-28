@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "84879071000104-Curitiba-PR-ILLUMINET SOLUÇÕES EM TECNOLOGIA DA INFORMÁTICA LTDA-Pessoa Física",
+        "cidade": "Curitiba",
+        "uf": "PR",
+        "latitude": -25.419547,
+        "longitude": -49.264622,
+        "empresa": "ILLUMINET SOLUÇÕES EM TECNOLOGIA DA INFORMÁTICA LTDA",
+        "cnpj": 84879071000104,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 593
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 216
+            }
+        ]
+    }
+]

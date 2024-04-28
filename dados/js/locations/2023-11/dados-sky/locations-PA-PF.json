@@ -1,0 +1,103 @@
+[
+    {
+        "identifier": "497373000110-Belém-PA-SKY/AT&T-Pessoa Física",
+        "cidade": "Belém",
+        "uf": "PA",
+        "latitude": -1.455396,
+        "longitude": -48.489756,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3385
+            },
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 343
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Benevides-PA-SKY/AT&T-Pessoa Física",
+        "cidade": "Benevides",
+        "uf": "PA",
+        "latitude": -1.361829,
+        "longitude": -48.243408,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "LTE",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 231
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Canaã dos Carajás-PA-SKY/AT&T-Pessoa Física",
+        "cidade": "Canaã dos Carajás",
+        "uf": "PA",
+        "latitude": -6.496594,
+        "longitude": -49.877612,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Castanhal-PA-SKY/AT&T-Pessoa Física",
+        "cidade": "Castanhal",
+        "uf": "PA",
+        "latitude": -1.297971,
+        "longitude": -47.916742,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 113
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Parauapebas-PA-SKY/AT&T-Pessoa Física",
+        "cidade": "Parauapebas",
+        "uf": "PA",
+        "latitude": -6.067812,
+        "longitude": -49.903733,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 33
+            }
+        ]
+    }
+]

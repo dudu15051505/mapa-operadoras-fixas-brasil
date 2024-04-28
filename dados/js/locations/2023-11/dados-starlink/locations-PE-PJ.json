@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "40154884000153-Fernando de Noronha-PE-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Jurídica",
+        "cidade": "Fernando de Noronha",
+        "uf": "PE",
+        "latitude": -3.839601,
+        "longitude": -32.410733,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2023-11",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "40154884000153-Jaboatão dos Guararapes-PE-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Jurídica",
+        "cidade": "Jaboatão dos Guararapes",
+        "uf": "PE",
+        "latitude": -8.112982,
+        "longitude": -35.014959,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2023-11",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "40154884000153-Recife-PE-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Jurídica",
+        "cidade": "Recife",
+        "uf": "PE",
+        "latitude": -8.046658,
+        "longitude": -34.877065,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2023-11",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

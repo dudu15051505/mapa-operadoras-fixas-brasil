@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "497373000110-Crato-CE-SKY/AT&T-Pessoa Física",
+        "cidade": "Crato",
+        "uf": "CE",
+        "latitude": -7.215303,
+        "longitude": -39.410299,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 32
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Juazeiro do Norte-CE-SKY/AT&T-Pessoa Física",
+        "cidade": "Juazeiro do Norte",
+        "uf": "CE",
+        "latitude": -7.196207,
+        "longitude": -39.307593,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 101
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Sobral-CE-SKY/AT&T-Pessoa Física",
+        "cidade": "Sobral",
+        "uf": "CE",
+        "latitude": -3.689133,
+        "longitude": -40.34821,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
+            }
+        ]
+    }
+]

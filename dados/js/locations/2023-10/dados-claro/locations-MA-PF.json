@@ -1,0 +1,84 @@
+[
+    {
+        "identifier": "66970229000167-Caxias-MA-CLARO-Pessoa Física",
+        "cidade": "Caxias",
+        "uf": "MA",
+        "latitude": -4.865053,
+        "longitude": -43.361749,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 412
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Imperatriz-MA-CLARO-Pessoa Física",
+        "cidade": "Imperatriz",
+        "uf": "MA",
+        "latitude": -5.518471,
+        "longitude": -47.477726,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6540
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-São Luís-MA-CLARO-Pessoa Física",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "latitude": -2.538742,
+        "longitude": -44.282513,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2278
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 57387
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Timon-MA-CLARO-Pessoa Física",
+        "cidade": "Timon",
+        "uf": "MA",
+        "latitude": -5.097692,
+        "longitude": -42.83292,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 653
+            }
+        ]
+    }
+]

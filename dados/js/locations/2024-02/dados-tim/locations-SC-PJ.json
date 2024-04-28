@@ -1,0 +1,622 @@
+[
+    {
+        "identifier": "2421421000111-Balneário Camboriú-SC-TIM-Pessoa Jurídica",
+        "cidade": "Balneário Camboriú",
+        "uf": "SC",
+        "latitude": -26.992594,
+        "longitude": -48.635152,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Biguaçu-SC-TIM-Pessoa Jurídica",
+        "cidade": "Biguaçu",
+        "uf": "SC",
+        "latitude": -27.496004,
+        "longitude": -48.65979,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Blumenau-SC-TIM-Pessoa Jurídica",
+        "cidade": "Blumenau",
+        "uf": "SC",
+        "latitude": -26.915501,
+        "longitude": -49.070904,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 183
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Brusque-SC-TIM-Pessoa Jurídica",
+        "cidade": "Brusque",
+        "uf": "SC",
+        "latitude": -27.097706,
+        "longitude": -48.910663,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Canoinhas-SC-TIM-Pessoa Jurídica",
+        "cidade": "Canoinhas",
+        "uf": "SC",
+        "latitude": -26.176591,
+        "longitude": -50.395001,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Chapecó-SC-TIM-Pessoa Jurídica",
+        "cidade": "Chapecó",
+        "uf": "SC",
+        "latitude": -27.100448,
+        "longitude": -52.61519,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 33
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Criciúma-SC-TIM-Pessoa Jurídica",
+        "cidade": "Criciúma",
+        "uf": "SC",
+        "latitude": -28.672267,
+        "longitude": -49.372887,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 50
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Doutor Pedrinho-SC-TIM-Pessoa Jurídica",
+        "cidade": "Doutor Pedrinho",
+        "uf": "SC",
+        "latitude": -26.71737,
+        "longitude": -49.479495,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Florianópolis-SC-TIM-Pessoa Jurídica",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "latitude": -27.594486,
+        "longitude": -48.547696,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 17
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 62
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Gaspar-SC-TIM-Pessoa Jurídica",
+        "cidade": "Gaspar",
+        "uf": "SC",
+        "latitude": -26.933597,
+        "longitude": -48.953428,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Guabiruba-SC-TIM-Pessoa Jurídica",
+        "cidade": "Guabiruba",
+        "uf": "SC",
+        "latitude": -27.080811,
+        "longitude": -48.980445,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Itajaí-SC-TIM-Pessoa Jurídica",
+        "cidade": "Itajaí",
+        "uf": "SC",
+        "latitude": -26.910097,
+        "longitude": -48.670475,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 77
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Itapoá-SC-TIM-Pessoa Jurídica",
+        "cidade": "Itapoá",
+        "uf": "SC",
+        "latitude": -26.11576,
+        "longitude": -48.618188,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Içara-SC-TIM-Pessoa Jurídica",
+        "cidade": "Içara",
+        "uf": "SC",
+        "latitude": -28.713206,
+        "longitude": -49.308654,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Joinville-SC-TIM-Pessoa Jurídica",
+        "cidade": "Joinville",
+        "uf": "SC",
+        "latitude": -26.304497,
+        "longitude": -48.848675,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ATM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 350
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Lages-SC-TIM-Pessoa Jurídica",
+        "cidade": "Lages",
+        "uf": "SC",
+        "latitude": -27.814966,
+        "longitude": -50.325862,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Massaranduba-SC-TIM-Pessoa Jurídica",
+        "cidade": "Massaranduba",
+        "uf": "SC",
+        "latitude": -26.610868,
+        "longitude": -49.005351,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Navegantes-SC-TIM-Pessoa Jurídica",
+        "cidade": "Navegantes",
+        "uf": "SC",
+        "latitude": -26.894293,
+        "longitude": -48.654593,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Palhoça-SC-TIM-Pessoa Jurídica",
+        "cidade": "Palhoça",
+        "uf": "SC",
+        "latitude": -27.645518,
+        "longitude": -48.669661,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Rio do Sul-SC-TIM-Pessoa Jurídica",
+        "cidade": "Rio do Sul",
+        "uf": "SC",
+        "latitude": -27.215596,
+        "longitude": -49.643016,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São Bento do Sul-SC-TIM-Pessoa Jurídica",
+        "cidade": "São Bento do Sul",
+        "uf": "SC",
+        "latitude": -26.249542,
+        "longitude": -49.383077,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São José-SC-TIM-Pessoa Jurídica",
+        "cidade": "São José",
+        "uf": "SC",
+        "latitude": -27.613577,
+        "longitude": -48.636607,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Timbó-SC-TIM-Pessoa Jurídica",
+        "cidade": "Timbó",
+        "uf": "SC",
+        "latitude": -26.82464,
+        "longitude": -49.269039,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Tubarão-SC-TIM-Pessoa Jurídica",
+        "cidade": "Tubarão",
+        "uf": "SC",
+        "latitude": -28.47131,
+        "longitude": -49.014371,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Xaxim-SC-TIM-Pessoa Jurídica",
+        "cidade": "Xaxim",
+        "uf": "SC",
+        "latitude": -26.959643,
+        "longitude": -52.537446,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Águas Frias-SC-TIM-Pessoa Jurídica",
+        "cidade": "Águas Frias",
+        "uf": "SC",
+        "latitude": -26.879377,
+        "longitude": -52.856773,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

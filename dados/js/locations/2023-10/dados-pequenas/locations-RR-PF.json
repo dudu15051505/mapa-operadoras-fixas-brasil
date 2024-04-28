@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "47542461000150-Boa Vista-RR-Pronet Telecom RR Comunicacao Ltda-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "Pronet Telecom RR Comunicacao Ltda",
+        "cnpj": 47542461000150,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 325
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 334
+            }
+        ]
+    }
+]

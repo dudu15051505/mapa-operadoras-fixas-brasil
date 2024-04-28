@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "48141182000147-Assis Brasil-AC-Fontenet Wili Telecom Ltda-Pessoa Física",
+        "cidade": "Assis Brasil",
+        "uf": "AC",
+        "latitude": -10.929765,
+        "longitude": -69.573794,
+        "empresa": "Fontenet Wili Telecom Ltda",
+        "cnpj": 48141182000147,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "OFDMA/TDD",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 221
+            }
+        ]
+    },
+    {
+        "identifier": "48141182000147-Brasiléia-AC-Fontenet Wili Telecom Ltda-Pessoa Física",
+        "cidade": "Brasiléia",
+        "uf": "AC",
+        "latitude": -10.994994,
+        "longitude": -68.749696,
+        "empresa": "Fontenet Wili Telecom Ltda",
+        "cnpj": 48141182000147,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "OFDMA/TDD",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "48141182000147-Epitaciolândia-AC-Fontenet Wili Telecom Ltda-Pessoa Física",
+        "cidade": "Epitaciolândia",
+        "uf": "AC",
+        "latitude": -11.018771,
+        "longitude": -68.734109,
+        "empresa": "Fontenet Wili Telecom Ltda",
+        "cnpj": 48141182000147,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "OFDMA/TDD",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 166
+            }
+        ]
+    },
+    {
+        "identifier": "48141182000147-Xapuri-AC-Fontenet Wili Telecom Ltda-Pessoa Física",
+        "cidade": "Xapuri",
+        "uf": "AC",
+        "latitude": -10.651598,
+        "longitude": -68.496857,
+        "empresa": "Fontenet Wili Telecom Ltda",
+        "cnpj": 48141182000147,
+        "data-dados": "2024-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "OFDMA/TDD",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 65
+            }
+        ]
+    }
+]

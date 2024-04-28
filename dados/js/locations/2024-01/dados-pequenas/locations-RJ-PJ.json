@@ -1,0 +1,46 @@
+[
+    {
+        "identifier": "74209909000190-Rio de Janeiro-RJ-Microset Tecnologia Ltda-Pessoa Jurídica",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "Microset Tecnologia Ltda",
+        "cnpj": 74209909000190,
+        "data-dados": "2024-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "OFDMA/TDD",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "OFDMA/TDD",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "74209909000190-São João da Barra-RJ-Microset Tecnologia Ltda-Pessoa Jurídica",
+        "cidade": "São João da Barra",
+        "uf": "RJ",
+        "latitude": -21.638009,
+        "longitude": -41.044582,
+        "empresa": "Microset Tecnologia Ltda",
+        "cnpj": 74209909000190,
+        "data-dados": "2024-01",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "OFDMA/TDD",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

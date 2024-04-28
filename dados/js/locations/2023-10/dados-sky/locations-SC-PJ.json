@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "497373000110-Concórdia-SC-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Concórdia",
+        "uf": "SC",
+        "latitude": -27.233461,
+        "longitude": -52.025962,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Navegantes-SC-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Navegantes",
+        "uf": "SC",
+        "latitude": -26.894293,
+        "longitude": -48.654593,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Rio do Sul-SC-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Rio do Sul",
+        "uf": "SC",
+        "latitude": -27.215596,
+        "longitude": -49.643016,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-São Bento do Sul-SC-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "São Bento do Sul",
+        "uf": "SC",
+        "latitude": -26.249542,
+        "longitude": -49.383077,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2023-10",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

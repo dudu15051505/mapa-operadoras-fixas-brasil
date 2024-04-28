@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "51460360000107-Serra-ES-Via Fibra Redes e Automacao Ltda-Pessoa Física",
+        "cidade": "Serra",
+        "uf": "ES",
+        "latitude": -20.121032,
+        "longitude": -40.307408,
+        "empresa": "Via Fibra Redes e Automacao Ltda",
+        "cnpj": 51460360000107,
+        "data-dados": "2024-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "51460360000107-Viana-ES-Via Fibra Redes e Automacao Ltda-Pessoa Física",
+        "cidade": "Viana",
+        "uf": "ES",
+        "latitude": -20.382503,
+        "longitude": -40.493292,
+        "empresa": "Via Fibra Redes e Automacao Ltda",
+        "cnpj": 51460360000107,
+        "data-dados": "2024-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 344
+            }
+        ]
+    }
+]
