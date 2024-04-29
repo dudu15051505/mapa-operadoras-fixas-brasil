@@ -82,6 +82,25 @@
         ]
     },
     {
+        "identifier": "4859842000154-Manaus-AM-SYSCOM TELECOM LTDA-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "SYSCOM TELECOM LTDA",
+        "cnpj": 4859842000154,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 394
+            }
+        ]
+    },
+    {
         "identifier": "5033272000101-Manaus-AM-W. DE L. CAVALCANTE-Pessoa Física",
         "cidade": "Manaus",
         "uf": "AM",
@@ -107,12 +126,12 @@
         ]
     },
     {
-        "identifier": "5578337000102-Lábrea-AM-NARI EQUIPAMENTOS DE COMUNICACAO LTDA-Pessoa Física",
+        "identifier": "5578337000102-Lábrea-AM-Nari Equipamentos de Comunicacao Ltda-Pessoa Física",
         "cidade": "Lábrea",
         "uf": "AM",
         "latitude": -7.264133,
         "longitude": -64.794765,
-        "empresa": "NARI EQUIPAMENTOS DE COMUNICACAO LTDA",
+        "empresa": "Nari Equipamentos de Comunicacao Ltda",
         "cnpj": 5578337000102,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -1659,6 +1678,25 @@
         ]
     },
     {
+        "identifier": "20909456000186-Manaus-AM-JANDER FORTES LIMA - ME-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "JANDER FORTES LIMA - ME",
+        "cnpj": 20909456000186,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 294
+            }
+        ]
+    },
+    {
         "identifier": "22901671000166-Codajás-AM-Freedom Network Ltda-Pessoa Física",
         "cidade": "Codajás",
         "uf": "AM",
@@ -1929,12 +1967,12 @@
         ]
     },
     {
-        "identifier": "27967261000131-Manaus-AM-V L C DE MACEDO TELECOMUNICACOES - ME-Pessoa Física",
+        "identifier": "27967261000131-Manaus-AM-V L C SERVICOS DE TELECOMUNICACAO LTDA-Pessoa Física",
         "cidade": "Manaus",
         "uf": "AM",
         "latitude": -3.118662,
         "longitude": -60.02123,
-        "empresa": "V L C DE MACEDO TELECOMUNICACOES - ME",
+        "empresa": "V L C SERVICOS DE TELECOMUNICACAO LTDA",
         "cnpj": 27967261000131,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -2168,6 +2206,25 @@
         ]
     },
     {
+        "identifier": "30970665000199-Manaus-AM-LOBATO - SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "LOBATO - SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 30970665000199,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 141
+            }
+        ]
+    },
+    {
         "identifier": "32507370000106-Beruri-AM-ZAIHARA DE OLIVEIRA DIAS-Pessoa Física",
         "cidade": "Beruri",
         "uf": "AM",
@@ -2206,12 +2263,12 @@
         ]
     },
     {
-        "identifier": "33040828000122-Manaus-AM-JEYCK SUEL MARTINS SERVICOS EM COMUNICACAO E TELEFONIA - EIRELI-Pessoa Física",
+        "identifier": "33040828000122-Manaus-AM-Jeyck Suel Martins Telecom Ltda-Pessoa Física",
         "cidade": "Manaus",
         "uf": "AM",
         "latitude": -3.118662,
         "longitude": -60.02123,
-        "empresa": "JEYCK SUEL MARTINS SERVICOS EM COMUNICACAO E TELEFONIA - EIRELI",
+        "empresa": "Jeyck Suel Martins Telecom Ltda",
         "cnpj": 33040828000122,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -2392,6 +2449,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "37027691000127-Manaus-AM-Firenetwork Ltda-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "Firenetwork Ltda",
+        "cnpj": 37027691000127,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
             }
         ]
     },

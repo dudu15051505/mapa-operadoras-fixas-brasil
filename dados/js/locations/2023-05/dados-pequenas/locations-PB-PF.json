@@ -294,6 +294,31 @@
         ]
     },
     {
+        "identifier": "3667658000140-Mataraca-PB-NET4YOU INTERNET SOLUTION LTDA-Pessoa Física",
+        "cidade": "Mataraca",
+        "uf": "PB",
+        "latitude": -6.59673,
+        "longitude": -35.05308,
+        "empresa": "NET4YOU INTERNET SOLUTION LTDA",
+        "cnpj": 3667658000140,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 694
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 28
+            }
+        ]
+    },
+    {
         "identifier": "3761808000180-Arara-PB-MEGA ENTER INTERNET LTDA-Pessoa Física",
         "cidade": "Arara",
         "uf": "PB",
@@ -478,6 +503,37 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "5557175000118-Desterro-PB-Jair Barbosa de Almeida-Pessoa Física",
+        "cidade": "Desterro",
+        "uf": "PB",
+        "latitude": -7.286996,
+        "longitude": -37.092525,
+        "empresa": "Jair Barbosa de Almeida",
+        "cnpj": 5557175000118,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 13
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 594
             }
         ]
     },
@@ -1677,12 +1733,12 @@
         ]
     },
     {
-        "identifier": "7486876000139-Pombal-PB-JOSE WAGNER PEDROSA ROCHA-Pessoa Física",
+        "identifier": "7486876000139-Pombal-PB-R.V.M QUEIROGA PEDROSA LTDA ME-Pessoa Física",
         "cidade": "Pombal",
         "uf": "PB",
         "latitude": -6.766059,
         "longitude": -37.80027,
-        "empresa": "JOSE WAGNER PEDROSA ROCHA",
+        "empresa": "R.V.M QUEIROGA PEDROSA LTDA ME",
         "cnpj": 7486876000139,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -1696,12 +1752,12 @@
         ]
     },
     {
-        "identifier": "7486876000139-Sousa-PB-JOSE WAGNER PEDROSA ROCHA-Pessoa Física",
+        "identifier": "7486876000139-Sousa-PB-R.V.M QUEIROGA PEDROSA LTDA ME-Pessoa Física",
         "cidade": "Sousa",
         "uf": "PB",
         "latitude": -6.751484,
         "longitude": -38.231059,
-        "empresa": "JOSE WAGNER PEDROSA ROCHA",
+        "empresa": "R.V.M QUEIROGA PEDROSA LTDA ME",
         "cnpj": 7486876000139,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -1715,12 +1771,12 @@
         ]
     },
     {
-        "identifier": "7486876000139-São Bentinho-PB-JOSE WAGNER PEDROSA ROCHA-Pessoa Física",
+        "identifier": "7486876000139-São Bentinho-PB-R.V.M QUEIROGA PEDROSA LTDA ME-Pessoa Física",
         "cidade": "São Bentinho",
         "uf": "PB",
         "latitude": -6.885961,
         "longitude": -37.724345,
-        "empresa": "JOSE WAGNER PEDROSA ROCHA",
+        "empresa": "R.V.M QUEIROGA PEDROSA LTDA ME",
         "cnpj": 7486876000139,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -3976,12 +4032,12 @@
         ]
     },
     {
-        "identifier": "9395620000141-Santa Cecília-PB-GNET PROVEDOR - SERVICOS E INTERNET LTDA ME-Pessoa Física",
+        "identifier": "9395620000141-Santa Cecília-PB-Gnet Provedor - Servicos e Internet Ltda-Pessoa Física",
         "cidade": "Santa Cecília",
         "uf": "PB",
         "latitude": -7.738901,
         "longitude": -35.876375,
-        "empresa": "GNET PROVEDOR - SERVICOS E INTERNET LTDA ME",
+        "empresa": "Gnet Provedor - Servicos e Internet Ltda",
         "cnpj": 9395620000141,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -4327,12 +4383,31 @@
         ]
     },
     {
-        "identifier": "10811590000196-Juru-PB-M A Informatica Ltda-Pessoa Física",
+        "identifier": "10629523000155-Damião-PB-INT SERVICOS DE COMUNICACAO EIRELI-Pessoa Física",
+        "cidade": "Damião",
+        "uf": "PB",
+        "latitude": -6.631607,
+        "longitude": -35.910136,
+        "empresa": "INT SERVICOS DE COMUNICACAO EIRELI",
+        "cnpj": 10629523000155,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "10811590000196-Juru-PB-Mio Telecom Ltda-Pessoa Física",
         "cidade": "Juru",
         "uf": "PB",
         "latitude": -7.529826,
         "longitude": -37.815021,
-        "empresa": "M A Informatica Ltda",
+        "empresa": "Mio Telecom Ltda",
         "cnpj": 10811590000196,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -4352,12 +4427,12 @@
         ]
     },
     {
-        "identifier": "10811590000196-Manaíra-PB-M A Informatica Ltda-Pessoa Física",
+        "identifier": "10811590000196-Manaíra-PB-Mio Telecom Ltda-Pessoa Física",
         "cidade": "Manaíra",
         "uf": "PB",
         "latitude": -7.703313,
         "longitude": -38.152292,
-        "empresa": "M A Informatica Ltda",
+        "empresa": "Mio Telecom Ltda",
         "cnpj": 10811590000196,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -4371,12 +4446,12 @@
         ]
     },
     {
-        "identifier": "10811590000196-Princesa Isabel-PB-M A Informatica Ltda-Pessoa Física",
+        "identifier": "10811590000196-Princesa Isabel-PB-Mio Telecom Ltda-Pessoa Física",
         "cidade": "Princesa Isabel",
         "uf": "PB",
         "latitude": -7.731747,
         "longitude": -37.988647,
-        "empresa": "M A Informatica Ltda",
+        "empresa": "Mio Telecom Ltda",
         "cnpj": 10811590000196,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -4396,12 +4471,12 @@
         ]
     },
     {
-        "identifier": "10811590000196-São José de Princesa-PB-M A Informatica Ltda-Pessoa Física",
+        "identifier": "10811590000196-São José de Princesa-PB-Mio Telecom Ltda-Pessoa Física",
         "cidade": "São José de Princesa",
         "uf": "PB",
         "latitude": -7.736329,
         "longitude": -38.089432,
-        "empresa": "M A Informatica Ltda",
+        "empresa": "Mio Telecom Ltda",
         "cnpj": 10811590000196,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -4415,12 +4490,12 @@
         ]
     },
     {
-        "identifier": "10811590000196-Tavares-PB-M A Informatica Ltda-Pessoa Física",
+        "identifier": "10811590000196-Tavares-PB-Mio Telecom Ltda-Pessoa Física",
         "cidade": "Tavares",
         "uf": "PB",
         "latitude": -7.626971,
         "longitude": -37.871208,
-        "empresa": "M A Informatica Ltda",
+        "empresa": "Mio Telecom Ltda",
         "cnpj": 10811590000196,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -4436,6 +4511,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 706
+            }
+        ]
+    },
+    {
+        "identifier": "10960804000196-Bom Sucesso-PB-L GONZAGA JUNIOR SERVIÇOS DE INTERNET - ME-Pessoa Física",
+        "cidade": "Bom Sucesso",
+        "uf": "PB",
+        "latitude": -6.441761,
+        "longitude": -37.923409,
+        "empresa": "L GONZAGA JUNIOR SERVIÇOS DE INTERNET - ME",
+        "cnpj": 10960804000196,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 23
             }
         ]
     },
@@ -4618,6 +4712,37 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 108
+            }
+        ]
+    },
+    {
+        "identifier": "11554977000177-João Pessoa-PB-OZENILDO DE LUCENA RODRIGUES-Pessoa Física",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "OZENILDO DE LUCENA RODRIGUES",
+        "cnpj": 11554977000177,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 229
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 25
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 141
             }
         ]
     },
@@ -4874,6 +4999,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "12456439000102-João Pessoa-PB-GM TELECOM INTERNET LTDA-Pessoa Física",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "GM TELECOM INTERNET LTDA",
+        "cnpj": 12456439000102,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 237
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 20
             }
         ]
     },
@@ -5276,12 +5426,12 @@
         ]
     },
     {
-        "identifier": "13265820000157-Araruna-PB-INFORWAY INFORMATICA E PROVEDORES LTDA - ME-Pessoa Física",
+        "identifier": "13265820000157-Araruna-PB-INFORWAY TELECOM ARARUNA LTDA-Pessoa Física",
         "cidade": "Araruna",
         "uf": "PB",
         "latitude": -6.548484,
         "longitude": -35.7498,
-        "empresa": "INFORWAY INFORMATICA E PROVEDORES LTDA - ME",
+        "empresa": "INFORWAY TELECOM ARARUNA LTDA",
         "cnpj": 13265820000157,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5313,12 +5463,12 @@
         ]
     },
     {
-        "identifier": "13265820000157-Tacima-PB-INFORWAY INFORMATICA E PROVEDORES LTDA - ME-Pessoa Física",
+        "identifier": "13265820000157-Tacima-PB-INFORWAY TELECOM ARARUNA LTDA-Pessoa Física",
         "cidade": "Tacima",
         "uf": "PB",
         "latitude": -6.487431,
         "longitude": -35.634719,
-        "empresa": "INFORWAY INFORMATICA E PROVEDORES LTDA - ME",
+        "empresa": "INFORWAY TELECOM ARARUNA LTDA",
         "cnpj": 13265820000157,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5338,12 +5488,31 @@
         ]
     },
     {
-        "identifier": "13741450000187-Alagoa Nova-PB-FRANCISCO ADSON DE MELO SOARES - ME-Pessoa Física",
+        "identifier": "13461661000166-Campina Grande-PB-ELISANGELA DE MEDEIROS BRITO-Pessoa Física",
+        "cidade": "Campina Grande",
+        "uf": "PB",
+        "latitude": -7.221958,
+        "longitude": -35.873144,
+        "empresa": "ELISANGELA DE MEDEIROS BRITO",
+        "cnpj": 13461661000166,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 94
+            }
+        ]
+    },
+    {
+        "identifier": "13741450000187-Alagoa Nova-PB-Turbolink Servicos de Comunicacoes Ltda-Pessoa Física",
         "cidade": "Alagoa Nova",
         "uf": "PB",
         "latitude": -7.053772,
         "longitude": -35.759065,
-        "empresa": "FRANCISCO ADSON DE MELO SOARES - ME",
+        "empresa": "Turbolink Servicos de Comunicacoes Ltda",
         "cnpj": 13741450000187,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5363,12 +5532,12 @@
         ]
     },
     {
-        "identifier": "13741450000187-Areial-PB-FRANCISCO ADSON DE MELO SOARES - ME-Pessoa Física",
+        "identifier": "13741450000187-Areial-PB-Turbolink Servicos de Comunicacoes Ltda-Pessoa Física",
         "cidade": "Areial",
         "uf": "PB",
         "latitude": -7.047894,
         "longitude": -35.931324,
-        "empresa": "FRANCISCO ADSON DE MELO SOARES - ME",
+        "empresa": "Turbolink Servicos de Comunicacoes Ltda",
         "cnpj": 13741450000187,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5388,12 +5557,12 @@
         ]
     },
     {
-        "identifier": "13741450000187-Lagoa Seca-PB-FRANCISCO ADSON DE MELO SOARES - ME-Pessoa Física",
+        "identifier": "13741450000187-Lagoa Seca-PB-Turbolink Servicos de Comunicacoes Ltda-Pessoa Física",
         "cidade": "Lagoa Seca",
         "uf": "PB",
         "latitude": -7.155349,
         "longitude": -35.849111,
-        "empresa": "FRANCISCO ADSON DE MELO SOARES - ME",
+        "empresa": "Turbolink Servicos de Comunicacoes Ltda",
         "cnpj": 13741450000187,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5419,12 +5588,12 @@
         ]
     },
     {
-        "identifier": "13741450000187-Matinhas-PB-FRANCISCO ADSON DE MELO SOARES - ME-Pessoa Física",
+        "identifier": "13741450000187-Matinhas-PB-Turbolink Servicos de Comunicacoes Ltda-Pessoa Física",
         "cidade": "Matinhas",
         "uf": "PB",
         "latitude": -7.124856,
         "longitude": -35.766922,
-        "empresa": "FRANCISCO ADSON DE MELO SOARES - ME",
+        "empresa": "Turbolink Servicos de Comunicacoes Ltda",
         "cnpj": 13741450000187,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5438,12 +5607,12 @@
         ]
     },
     {
-        "identifier": "13741450000187-Montadas-PB-FRANCISCO ADSON DE MELO SOARES - ME-Pessoa Física",
+        "identifier": "13741450000187-Montadas-PB-Turbolink Servicos de Comunicacoes Ltda-Pessoa Física",
         "cidade": "Montadas",
         "uf": "PB",
         "latitude": -7.088482,
         "longitude": -35.959198,
-        "empresa": "FRANCISCO ADSON DE MELO SOARES - ME",
+        "empresa": "Turbolink Servicos de Comunicacoes Ltda",
         "cnpj": 13741450000187,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5463,12 +5632,12 @@
         ]
     },
     {
-        "identifier": "13741450000187-Puxinanã-PB-FRANCISCO ADSON DE MELO SOARES - ME-Pessoa Física",
+        "identifier": "13741450000187-Puxinanã-PB-Turbolink Servicos de Comunicacoes Ltda-Pessoa Física",
         "cidade": "Puxinanã",
         "uf": "PB",
         "latitude": -7.154793,
         "longitude": -35.954301,
-        "empresa": "FRANCISCO ADSON DE MELO SOARES - ME",
+        "empresa": "Turbolink Servicos de Comunicacoes Ltda",
         "cnpj": 13741450000187,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5482,12 +5651,12 @@
         ]
     },
     {
-        "identifier": "13741450000187-São Sebastião de Lagoa de Roça-PB-FRANCISCO ADSON DE MELO SOARES - ME-Pessoa Física",
+        "identifier": "13741450000187-São Sebastião de Lagoa de Roça-PB-Turbolink Servicos de Comunicacoes Ltda-Pessoa Física",
         "cidade": "São Sebastião de Lagoa de Roça",
         "uf": "PB",
         "latitude": -7.11034,
         "longitude": -35.867807,
-        "empresa": "FRANCISCO ADSON DE MELO SOARES - ME",
+        "empresa": "Turbolink Servicos de Comunicacoes Ltda",
         "cnpj": 13741450000187,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5582,12 +5751,31 @@
         ]
     },
     {
-        "identifier": "14114779000180-Algodão de Jandaíra-PB-DIEGO EMANUEL RIBEIRO NUNES --Pessoa Física",
+        "identifier": "14091167000110-João Pessoa-PB-WS - COMERCIO E SERVICOS EM SOLUCOES TECNOLOGICAS EIRELI-Pessoa Física",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "WS - COMERCIO E SERVICOS EM SOLUCOES TECNOLOGICAS EIRELI",
+        "cnpj": 14091167000110,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 78
+            }
+        ]
+    },
+    {
+        "identifier": "14114779000180-Algodão de Jandaíra-PB-Diego Emanuel Ribeiro Nunes Ltda-Pessoa Física",
         "cidade": "Algodão de Jandaíra",
         "uf": "PB",
         "latitude": -6.892919,
         "longitude": -36.012861,
-        "empresa": "DIEGO EMANUEL RIBEIRO NUNES -",
+        "empresa": "Diego Emanuel Ribeiro Nunes Ltda",
         "cnpj": 14114779000180,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5607,12 +5795,12 @@
         ]
     },
     {
-        "identifier": "14114779000180-Casserengue-PB-DIEGO EMANUEL RIBEIRO NUNES --Pessoa Física",
+        "identifier": "14114779000180-Casserengue-PB-Diego Emanuel Ribeiro Nunes Ltda-Pessoa Física",
         "cidade": "Casserengue",
         "uf": "PB",
         "latitude": -6.779538,
         "longitude": -35.817875,
-        "empresa": "DIEGO EMANUEL RIBEIRO NUNES -",
+        "empresa": "Diego Emanuel Ribeiro Nunes Ltda",
         "cnpj": 14114779000180,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -6030,6 +6218,94 @@
         ]
     },
     {
+        "identifier": "15028168000182-João Pessoa-PB-HEVERTHON SILVA DE ANDRADE MELO - ME-Pessoa Física",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "HEVERTHON SILVA DE ANDRADE MELO - ME",
+        "cnpj": 15028168000182,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2567
+            }
+        ]
+    },
+    {
+        "identifier": "15055134000187-Bayeux-PB-MARCOS ANTONIO FIRMINO DA SILVA FILHO-Pessoa Física",
+        "cidade": "Bayeux",
+        "uf": "PB",
+        "latitude": -7.123797,
+        "longitude": -34.929336,
+        "empresa": "MARCOS ANTONIO FIRMINO DA SILVA FILHO",
+        "cnpj": 15055134000187,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 46
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 124
+            }
+        ]
+    },
+    {
+        "identifier": "15055134000187-João Pessoa-PB-MARCOS ANTONIO FIRMINO DA SILVA FILHO-Pessoa Física",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "MARCOS ANTONIO FIRMINO DA SILVA FILHO",
+        "cnpj": 15055134000187,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "15055134000187-Santa Rita-PB-MARCOS ANTONIO FIRMINO DA SILVA FILHO-Pessoa Física",
+        "cidade": "Santa Rita",
+        "uf": "PB",
+        "latitude": -7.117242,
+        "longitude": -34.975295,
+        "empresa": "MARCOS ANTONIO FIRMINO DA SILVA FILHO",
+        "cnpj": 15055134000187,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 40
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 137
+            }
+        ]
+    },
+    {
         "identifier": "15368676000100-Sousa-PB-RAPNET COMUNICAÇÃO MULTIMÍDIA LTDA - ME-Pessoa Física",
         "cidade": "Sousa",
         "uf": "PB",
@@ -6064,6 +6340,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 30
+            }
+        ]
+    },
+    {
+        "identifier": "16972299000186-Pitimbu-PB-GILDO CORREIA VELOSO NETO - ME-Pessoa Física",
+        "cidade": "Pitimbu",
+        "uf": "PB",
+        "latitude": -7.466398,
+        "longitude": -34.815133,
+        "empresa": "GILDO CORREIA VELOSO NETO - ME",
+        "cnpj": 16972299000186,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 349
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 106
             }
         ]
     },
@@ -6377,6 +6678,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 49
+            }
+        ]
+    },
+    {
+        "identifier": "17139059000168-João Pessoa-PB-TLINK INTERNET SERVICOS DE COMUNICACAO MULTIMIDIA EIRELI-Pessoa Física",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "TLINK INTERNET SERVICOS DE COMUNICACAO MULTIMIDIA EIRELI",
+        "cnpj": 17139059000168,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 134
             }
         ]
     },
@@ -7527,12 +7847,12 @@
         ]
     },
     {
-        "identifier": "21815008000186-Araçagi-PB-SOLANGE DE SOUZA FELIX - ME-Pessoa Física",
+        "identifier": "21815008000186-Araçagi-PB-PONTOCOM PROVEDOR DE INTERNET LTDA-Pessoa Física",
         "cidade": "Araçagi",
         "uf": "PB",
         "latitude": -6.843739,
         "longitude": -35.373667,
-        "empresa": "SOLANGE DE SOUZA FELIX - ME",
+        "empresa": "PONTOCOM PROVEDOR DE INTERNET LTDA",
         "cnpj": 21815008000186,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -7546,12 +7866,12 @@
         ]
     },
     {
-        "identifier": "21815008000186-Capim-PB-SOLANGE DE SOUZA FELIX - ME-Pessoa Física",
+        "identifier": "21815008000186-Capim-PB-PONTOCOM PROVEDOR DE INTERNET LTDA-Pessoa Física",
         "cidade": "Capim",
         "uf": "PB",
         "latitude": -6.916244,
         "longitude": -35.16725,
-        "empresa": "SOLANGE DE SOUZA FELIX - ME",
+        "empresa": "PONTOCOM PROVEDOR DE INTERNET LTDA",
         "cnpj": 21815008000186,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -7565,12 +7885,12 @@
         ]
     },
     {
-        "identifier": "21815008000186-Cuité de Mamanguape-PB-SOLANGE DE SOUZA FELIX - ME-Pessoa Física",
+        "identifier": "21815008000186-Cuité de Mamanguape-PB-PONTOCOM PROVEDOR DE INTERNET LTDA-Pessoa Física",
         "cidade": "Cuité de Mamanguape",
         "uf": "PB",
         "latitude": -6.912922,
         "longitude": -35.250219,
-        "empresa": "SOLANGE DE SOUZA FELIX - ME",
+        "empresa": "PONTOCOM PROVEDOR DE INTERNET LTDA",
         "cnpj": 21815008000186,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -7584,12 +7904,12 @@
         ]
     },
     {
-        "identifier": "21815008000186-Itapororoca-PB-SOLANGE DE SOUZA FELIX - ME-Pessoa Física",
+        "identifier": "21815008000186-Itapororoca-PB-PONTOCOM PROVEDOR DE INTERNET LTDA-Pessoa Física",
         "cidade": "Itapororoca",
         "uf": "PB",
         "latitude": -6.823738,
         "longitude": -35.240635,
-        "empresa": "SOLANGE DE SOUZA FELIX - ME",
+        "empresa": "PONTOCOM PROVEDOR DE INTERNET LTDA",
         "cnpj": 21815008000186,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -7759,12 +8079,12 @@
         ]
     },
     {
-        "identifier": "22580565000128-São José dos Cordeiros-PB-RAGNER JOSE DE LIMA SILVA EIRELI - ME-Pessoa Física",
+        "identifier": "22580565000128-São José dos Cordeiros-PB-RAGNER JOSE DE LIMA SILVA LTDA-Pessoa Física",
         "cidade": "São José dos Cordeiros",
         "uf": "PB",
         "latitude": -7.387749,
         "longitude": -36.808494,
-        "empresa": "RAGNER JOSE DE LIMA SILVA EIRELI - ME",
+        "empresa": "RAGNER JOSE DE LIMA SILVA LTDA",
         "cnpj": 22580565000128,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -8584,12 +8904,12 @@
         ]
     },
     {
-        "identifier": "24993732000198-Campina Grande-PB-Denys Carvalho de Souza Sistemas de Comunicacao-Pessoa Física",
+        "identifier": "24993732000198-Campina Grande-PB-D C de Souza Sistemas de Comunicacao-Pessoa Física",
         "cidade": "Campina Grande",
         "uf": "PB",
         "latitude": -7.221958,
         "longitude": -35.873144,
-        "empresa": "Denys Carvalho de Souza Sistemas de Comunicacao",
+        "empresa": "D C de Souza Sistemas de Comunicacao",
         "cnpj": 24993732000198,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -8928,12 +9248,12 @@
         ]
     },
     {
-        "identifier": "26743347000118-Conceição-PB-ROSIVALDO CAMILO DE SOUSA- EIRELI - ME-Pessoa Física",
+        "identifier": "26743347000118-Conceição-PB-M2NET TELECOMUNICACOES DO NORDESTE LTDA-Pessoa Física",
         "cidade": "Conceição",
         "uf": "PB",
         "latitude": -7.551063,
         "longitude": -38.501437,
-        "empresa": "ROSIVALDO CAMILO DE SOUSA- EIRELI - ME",
+        "empresa": "M2NET TELECOMUNICACOES DO NORDESTE LTDA",
         "cnpj": 26743347000118,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -8947,12 +9267,12 @@
         ]
     },
     {
-        "identifier": "26743347000118-Itaporanga-PB-ROSIVALDO CAMILO DE SOUSA- EIRELI - ME-Pessoa Física",
+        "identifier": "26743347000118-Itaporanga-PB-M2NET TELECOMUNICACOES DO NORDESTE LTDA-Pessoa Física",
         "cidade": "Itaporanga",
         "uf": "PB",
         "latitude": -7.302021,
         "longitude": -38.150442,
-        "empresa": "ROSIVALDO CAMILO DE SOUSA- EIRELI - ME",
+        "empresa": "M2NET TELECOMUNICACOES DO NORDESTE LTDA",
         "cnpj": 26743347000118,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -8972,12 +9292,12 @@
         ]
     },
     {
-        "identifier": "26743347000118-Santa Inês-PB-ROSIVALDO CAMILO DE SOUSA- EIRELI - ME-Pessoa Física",
+        "identifier": "26743347000118-Santa Inês-PB-M2NET TELECOMUNICACOES DO NORDESTE LTDA-Pessoa Física",
         "cidade": "Santa Inês",
         "uf": "PB",
         "latitude": -7.620999,
         "longitude": -38.553995,
-        "empresa": "ROSIVALDO CAMILO DE SOUSA- EIRELI - ME",
+        "empresa": "M2NET TELECOMUNICACOES DO NORDESTE LTDA",
         "cnpj": 26743347000118,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -8991,12 +9311,12 @@
         ]
     },
     {
-        "identifier": "26743347000118-Serra Grande-PB-ROSIVALDO CAMILO DE SOUSA- EIRELI - ME-Pessoa Física",
+        "identifier": "26743347000118-Serra Grande-PB-M2NET TELECOMUNICACOES DO NORDESTE LTDA-Pessoa Física",
         "cidade": "Serra Grande",
         "uf": "PB",
         "latitude": -7.209574,
         "longitude": -38.364696,
-        "empresa": "ROSIVALDO CAMILO DE SOUSA- EIRELI - ME",
+        "empresa": "M2NET TELECOMUNICACOES DO NORDESTE LTDA",
         "cnpj": 26743347000118,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -9010,12 +9330,12 @@
         ]
     },
     {
-        "identifier": "26743347000118-São José de Caiana-PB-ROSIVALDO CAMILO DE SOUSA- EIRELI - ME-Pessoa Física",
+        "identifier": "26743347000118-São José de Caiana-PB-M2NET TELECOMUNICACOES DO NORDESTE LTDA-Pessoa Física",
         "cidade": "São José de Caiana",
         "uf": "PB",
         "latitude": -7.246359,
         "longitude": -38.298928,
-        "empresa": "ROSIVALDO CAMILO DE SOUSA- EIRELI - ME",
+        "empresa": "M2NET TELECOMUNICACOES DO NORDESTE LTDA",
         "cnpj": 26743347000118,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -9035,12 +9355,12 @@
         ]
     },
     {
-        "identifier": "26743347000118-São José de Piranhas-PB-ROSIVALDO CAMILO DE SOUSA- EIRELI - ME-Pessoa Física",
+        "identifier": "26743347000118-São José de Piranhas-PB-M2NET TELECOMUNICACOES DO NORDESTE LTDA-Pessoa Física",
         "cidade": "São José de Piranhas",
         "uf": "PB",
         "latitude": -7.118704,
         "longitude": -38.50198,
-        "empresa": "ROSIVALDO CAMILO DE SOUSA- EIRELI - ME",
+        "empresa": "M2NET TELECOMUNICACOES DO NORDESTE LTDA",
         "cnpj": 26743347000118,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -10559,6 +10879,56 @@
         ]
     },
     {
+        "identifier": "27371310000179-Santa Cecília-PB-Lindimar & Sayonara Telecom Ltda-Pessoa Física",
+        "cidade": "Santa Cecília",
+        "uf": "PB",
+        "latitude": -7.738901,
+        "longitude": -35.876375,
+        "empresa": "Lindimar & Sayonara Telecom Ltda",
+        "cnpj": 27371310000179,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 146
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 45
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 94
+            }
+        ]
+    },
+    {
+        "identifier": "27379961000105-Sapé-PB-WN NET SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Sapé",
+        "uf": "PB",
+        "latitude": -7.093591,
+        "longitude": -35.227975,
+        "empresa": "WN NET SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 27379961000105,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 115
+            }
+        ]
+    },
+    {
         "identifier": "27762620000114-João Pessoa-PB-JKS TELECOM INTERNET BANDA LARGA EIRELI-Pessoa Física",
         "cidade": "João Pessoa",
         "uf": "PB",
@@ -10685,12 +11055,12 @@
         ]
     },
     {
-        "identifier": "28661317000198-Santa Rita-PB-G&A SERVICOS DE COMUNICACAO E COMERCIO VAREJISTA LTDA-Pessoa Física",
+        "identifier": "28661317000198-Santa Rita-PB-G&a Servicos de Comunicacao e Comercio Varejista Ltda-Pessoa Física",
         "cidade": "Santa Rita",
         "uf": "PB",
         "latitude": -7.117242,
         "longitude": -34.975295,
-        "empresa": "G&A SERVICOS DE COMUNICACAO E COMERCIO VAREJISTA LTDA",
+        "empresa": "G&a Servicos de Comunicacao e Comercio Varejista Ltda",
         "cnpj": 28661317000198,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -10825,6 +11195,100 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 16
+            }
+        ]
+    },
+    {
+        "identifier": "28950055000181-Bom Jesus-PB-J B ALVES BARBOSA-Pessoa Física",
+        "cidade": "Bom Jesus",
+        "uf": "PB",
+        "latitude": -6.81601,
+        "longitude": -38.645344,
+        "empresa": "J B ALVES BARBOSA",
+        "cnpj": 28950055000181,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 35
+            }
+        ]
+    },
+    {
+        "identifier": "28950055000181-Cachoeira dos Índios-PB-J B ALVES BARBOSA-Pessoa Física",
+        "cidade": "Cachoeira dos Índios",
+        "uf": "PB",
+        "latitude": -6.913531,
+        "longitude": -38.67598,
+        "empresa": "J B ALVES BARBOSA",
+        "cnpj": 28950055000181,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 30
+            }
+        ]
+    },
+    {
+        "identifier": "28950055000181-Santa Helena-PB-J B ALVES BARBOSA-Pessoa Física",
+        "cidade": "Santa Helena",
+        "uf": "PB",
+        "latitude": -6.7176,
+        "longitude": -38.6427,
+        "empresa": "J B ALVES BARBOSA",
+        "cnpj": 28950055000181,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 57
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 43
+            }
+        ]
+    },
+    {
+        "identifier": "28950055000181-Triunfo-PB-J B ALVES BARBOSA-Pessoa Física",
+        "cidade": "Triunfo",
+        "uf": "PB",
+        "latitude": -6.571305,
+        "longitude": -38.598579,
+        "empresa": "J B ALVES BARBOSA",
+        "cnpj": 28950055000181,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 140
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 59
             }
         ]
     },
@@ -11766,6 +12230,25 @@
         ]
     },
     {
+        "identifier": "37395336000100-Alagoinha-PB-MEGANET TELECOM SERVICOS DE COMUNICACAO MULTIMIDIA LTDA-Pessoa Física",
+        "cidade": "Alagoinha",
+        "uf": "PB",
+        "latitude": -6.946569,
+        "longitude": -35.533196,
+        "empresa": "MEGANET TELECOM SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
+        "cnpj": 37395336000100,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 85
+            }
+        ]
+    },
+    {
         "identifier": "37776805000131-Soledade-PB-MELO & ALMEIDA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Soledade",
         "uf": "PB",
@@ -11849,6 +12332,106 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 265
+            }
+        ]
+    },
+    {
+        "identifier": "37914032000102-Alagoa Nova-PB-ALBERTIANO MARQUES NUNES-Pessoa Física",
+        "cidade": "Alagoa Nova",
+        "uf": "PB",
+        "latitude": -7.053772,
+        "longitude": -35.759065,
+        "empresa": "ALBERTIANO MARQUES NUNES",
+        "cnpj": 37914032000102,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 30
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 101
+            }
+        ]
+    },
+    {
+        "identifier": "37914032000102-Areia-PB-ALBERTIANO MARQUES NUNES-Pessoa Física",
+        "cidade": "Areia",
+        "uf": "PB",
+        "latitude": -6.963965,
+        "longitude": -35.697731,
+        "empresa": "ALBERTIANO MARQUES NUNES",
+        "cnpj": 37914032000102,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 52
+            }
+        ]
+    },
+    {
+        "identifier": "37914032000102-Remígio-PB-ALBERTIANO MARQUES NUNES-Pessoa Física",
+        "cidade": "Remígio",
+        "uf": "PB",
+        "latitude": -6.949918,
+        "longitude": -35.801124,
+        "empresa": "ALBERTIANO MARQUES NUNES",
+        "cnpj": 37914032000102,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
+        "identifier": "37914032000102-São Sebastião de Lagoa de Roça-PB-ALBERTIANO MARQUES NUNES-Pessoa Física",
+        "cidade": "São Sebastião de Lagoa de Roça",
+        "uf": "PB",
+        "latitude": -7.11034,
+        "longitude": -35.867807,
+        "empresa": "ALBERTIANO MARQUES NUNES",
+        "cnpj": 37914032000102,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 28
             }
         ]
     },
@@ -14166,6 +14749,25 @@
         ]
     },
     {
+        "identifier": "43470161000151-Queimadas-PB-Tda Conexao Ltda-Pessoa Física",
+        "cidade": "Queimadas",
+        "uf": "PB",
+        "latitude": -7.350288,
+        "longitude": -35.903136,
+        "empresa": "Tda Conexao Ltda",
+        "cnpj": 43470161000151,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 51
+            }
+        ]
+    },
+    {
         "identifier": "44025225000178-João Pessoa-PB-Obvious Servicos Digitais Ltda-Pessoa Física",
         "cidade": "João Pessoa",
         "uf": "PB",
@@ -14206,6 +14808,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 35
+            }
+        ]
+    },
+    {
+        "identifier": "44409955000172-Brejo dos Santos-PB-Top Conexoes Ltda-Pessoa Física",
+        "cidade": "Brejo dos Santos",
+        "uf": "PB",
+        "latitude": -6.370652,
+        "longitude": -37.825311,
+        "empresa": "Top Conexoes Ltda",
+        "cnpj": 44409955000172,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
             }
         ]
     },

@@ -1,5 +1,1648 @@
 [
     {
+        "identifier": "336701000104-Amapá-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Amapá",
+        "uf": "AP",
+        "latitude": 2.052669,
+        "longitude": -50.795653,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Calçoene-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Calçoene",
+        "uf": "AP",
+        "latitude": 2.504747,
+        "longitude": -50.951233,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Cutias-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Cutias",
+        "uf": "AP",
+        "latitude": 0.987565,
+        "longitude": -50.799169,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Ferreira Gomes-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Ferreira Gomes",
+        "uf": "AP",
+        "latitude": 0.857256,
+        "longitude": -51.179523,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Itaubal-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Itaubal",
+        "uf": "AP",
+        "latitude": 0.596137,
+        "longitude": -50.670828,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Laranjal do Jari-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Laranjal do Jari",
+        "uf": "AP",
+        "latitude": -0.804911,
+        "longitude": -52.452962,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Macapá-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 85
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Mazagão-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Mazagão",
+        "uf": "AP",
+        "latitude": -0.11336,
+        "longitude": -51.28913,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 24
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Oiapoque-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Oiapoque",
+        "uf": "AP",
+        "latitude": 3.84074,
+        "longitude": -51.833123,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 39
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Pedra Branca do Amapari-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Pedra Branca do Amapari",
+        "uf": "AP",
+        "latitude": -0.949786,
+        "longitude": -51.999564,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Porto Grande-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Porto Grande",
+        "uf": "AP",
+        "latitude": 0.71243,
+        "longitude": -51.415499,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Pracuúba-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Pracuúba",
+        "uf": "AP",
+        "latitude": 1.745427,
+        "longitude": -50.789248,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Santana-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 31
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Serra do Navio-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Serra do Navio",
+        "uf": "AP",
+        "latitude": 0.901357,
+        "longitude": -52.003636,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Tartarugalzinho-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Tartarugalzinho",
+        "uf": "AP",
+        "latitude": 1.506519,
+        "longitude": -50.90874,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 24
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Vitória do Jari-AP-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Vitória do Jari",
+        "uf": "AP",
+        "latitude": -0.938,
+        "longitude": -52.424001,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Amapá-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Amapá",
+        "uf": "AP",
+        "latitude": 2.052669,
+        "longitude": -50.795653,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 41
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Calçoene-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Calçoene",
+        "uf": "AP",
+        "latitude": 2.504747,
+        "longitude": -50.951233,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Cutias-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Cutias",
+        "uf": "AP",
+        "latitude": 0.987565,
+        "longitude": -50.799169,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Ferreira Gomes-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Ferreira Gomes",
+        "uf": "AP",
+        "latitude": 0.857256,
+        "longitude": -51.179523,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Itaubal-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Itaubal",
+        "uf": "AP",
+        "latitude": 0.596137,
+        "longitude": -50.670828,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Laranjal do Jari-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Laranjal do Jari",
+        "uf": "AP",
+        "latitude": -0.804911,
+        "longitude": -52.452962,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 24
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Macapá-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 541
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Mazagão-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Mazagão",
+        "uf": "AP",
+        "latitude": -0.11336,
+        "longitude": -51.28913,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Oiapoque-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Oiapoque",
+        "uf": "AP",
+        "latitude": 3.84074,
+        "longitude": -51.833123,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Pedra Branca do Amapari-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Pedra Branca do Amapari",
+        "uf": "AP",
+        "latitude": -0.949786,
+        "longitude": -51.999564,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Porto Grande-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Porto Grande",
+        "uf": "AP",
+        "latitude": 0.71243,
+        "longitude": -51.415499,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Pracuúba-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Pracuúba",
+        "uf": "AP",
+        "latitude": 1.745427,
+        "longitude": -50.789248,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Santana-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 544
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Serra do Navio-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Serra do Navio",
+        "uf": "AP",
+        "latitude": 0.901357,
+        "longitude": -52.003636,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "2985578000170-Tartarugalzinho-AP-COMPUSERVICE EMPREENDIMENTOS LTDA-Pessoa Jurídica",
+        "cidade": "Tartarugalzinho",
+        "uf": "AP",
+        "latitude": 1.506519,
+        "longitude": -50.90874,
+        "empresa": "COMPUSERVICE EMPREENDIMENTOS LTDA",
+        "cnpj": 2985578000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 42
+            }
+        ]
+    },
+    {
+        "identifier": "3341093000106-Santana-AP-AT&T GLOBAL NETWORK SERVICES BRASIL LTDA-Pessoa Jurídica",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "AT&T GLOBAL NETWORK SERVICES BRASIL LTDA",
+        "cnpj": 3341093000106,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "4668730000116-Macapá-AP-Pinguim Telecom e Tecnologia Ltda-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "Pinguim Telecom e Tecnologia Ltda",
+        "cnpj": 4668730000116,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "5857540000100-Ferreira Gomes-AP-RURALWEB TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
+        "cidade": "Ferreira Gomes",
+        "uf": "AP",
+        "latitude": 0.857256,
+        "longitude": -51.179523,
+        "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
+        "cnpj": 5857540000100,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "7017934000185-Macapá-AP-Vale do Ribeira Internet Ltda-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "Vale do Ribeira Internet Ltda",
+        "cnpj": 7017934000185,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7656757000187-Amapá-AP-Voce Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Amapá",
+        "uf": "AP",
+        "latitude": 2.052669,
+        "longitude": -50.795653,
+        "empresa": "Voce Telecomunicacoes Ltda",
+        "cnpj": 7656757000187,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7656757000187-Calçoene-AP-Voce Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Calçoene",
+        "uf": "AP",
+        "latitude": 2.504747,
+        "longitude": -50.951233,
+        "empresa": "Voce Telecomunicacoes Ltda",
+        "cnpj": 7656757000187,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "7656757000187-Ferreira Gomes-AP-Voce Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Ferreira Gomes",
+        "uf": "AP",
+        "latitude": 0.857256,
+        "longitude": -51.179523,
+        "empresa": "Voce Telecomunicacoes Ltda",
+        "cnpj": 7656757000187,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "7656757000187-Laranjal do Jari-AP-Voce Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Laranjal do Jari",
+        "uf": "AP",
+        "latitude": -0.804911,
+        "longitude": -52.452962,
+        "empresa": "Voce Telecomunicacoes Ltda",
+        "cnpj": 7656757000187,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 73
+            }
+        ]
+    },
+    {
+        "identifier": "7656757000187-Macapá-AP-Voce Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "Voce Telecomunicacoes Ltda",
+        "cnpj": 7656757000187,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1840
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 271
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7656757000187-Mazagão-AP-Voce Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Mazagão",
+        "uf": "AP",
+        "latitude": -0.11336,
+        "longitude": -51.28913,
+        "empresa": "Voce Telecomunicacoes Ltda",
+        "cnpj": 7656757000187,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 37
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7656757000187-Pedra Branca do Amapari-AP-Voce Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Pedra Branca do Amapari",
+        "uf": "AP",
+        "latitude": -0.949786,
+        "longitude": -51.999564,
+        "empresa": "Voce Telecomunicacoes Ltda",
+        "cnpj": 7656757000187,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "7656757000187-Porto Grande-AP-Voce Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Porto Grande",
+        "uf": "AP",
+        "latitude": 0.71243,
+        "longitude": -51.415499,
+        "empresa": "Voce Telecomunicacoes Ltda",
+        "cnpj": 7656757000187,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 41
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "7656757000187-Santana-AP-Voce Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "Voce Telecomunicacoes Ltda",
+        "cnpj": 7656757000187,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 304
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 74
+            }
+        ]
+    },
+    {
+        "identifier": "7656757000187-Tartarugalzinho-AP-Voce Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Tartarugalzinho",
+        "uf": "AP",
+        "latitude": 1.506519,
+        "longitude": -50.90874,
+        "empresa": "Voce Telecomunicacoes Ltda",
+        "cnpj": 7656757000187,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "7656757000187-Vitória do Jari-AP-Voce Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Vitória do Jari",
+        "uf": "AP",
+        "latitude": -0.938,
+        "longitude": -52.424001,
+        "empresa": "Voce Telecomunicacoes Ltda",
+        "cnpj": 7656757000187,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "7695739000104-Amapá-AP-LINX TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
+        "cidade": "Amapá",
+        "uf": "AP",
+        "latitude": 2.052669,
+        "longitude": -50.795653,
+        "empresa": "LINX TELECOMUNICAÇÕES LTDA",
+        "cnpj": 7695739000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7695739000104-Macapá-AP-LINX TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "LINX TELECOMUNICAÇÕES LTDA",
+        "cnpj": 7695739000104,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "7756651000155-Ferreira Gomes-AP-BRASIL TECPAR-Pessoa Jurídica",
+        "cidade": "Ferreira Gomes",
+        "uf": "AP",
+        "latitude": 0.857256,
+        "longitude": -51.179523,
+        "empresa": "BRASIL TECPAR",
+        "cnpj": 7756651000155,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "8219232000147-Macapá-AP-MENDEX NETWORKS TELECOMUNICACOES LTDA - EPP-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "MENDEX NETWORKS TELECOMUNICACOES LTDA - EPP",
+        "cnpj": 8219232000147,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8678016000160-Macapá-AP-Ozonio Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "Ozonio Telecomunicacoes Ltda",
+        "cnpj": 8678016000160,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8678016000160-Santana-AP-Ozonio Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "Ozonio Telecomunicacoes Ltda",
+        "cnpj": 8678016000160,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "9446842000146-Macapá-AP-HIT TELECOMUNICACOES LTDA.-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "HIT TELECOMUNICACOES LTDA.",
+        "cnpj": 9446842000146,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "10329181000158-Amapá-AP-RW SERVICOS DE TELECOMUNICACOES L T D A-Pessoa Jurídica",
+        "cidade": "Amapá",
+        "uf": "AP",
+        "latitude": 2.052669,
+        "longitude": -50.795653,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "10329181000158-Calçoene-AP-RW SERVICOS DE TELECOMUNICACOES L T D A-Pessoa Jurídica",
+        "cidade": "Calçoene",
+        "uf": "AP",
+        "latitude": 2.504747,
+        "longitude": -50.951233,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "10329181000158-Itaubal-AP-RW SERVICOS DE TELECOMUNICACOES L T D A-Pessoa Jurídica",
+        "cidade": "Itaubal",
+        "uf": "AP",
+        "latitude": 0.596137,
+        "longitude": -50.670828,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "10329181000158-Macapá-AP-RW SERVICOS DE TELECOMUNICACOES L T D A-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "10329181000158-Oiapoque-AP-RW SERVICOS DE TELECOMUNICACOES L T D A-Pessoa Jurídica",
+        "cidade": "Oiapoque",
+        "uf": "AP",
+        "latitude": 3.84074,
+        "longitude": -51.833123,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "10329181000158-Santana-AP-RW SERVICOS DE TELECOMUNICACOES L T D A-Pessoa Jurídica",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "12933571000168-Oiapoque-AP-Universosat Holdings Ltda-Pessoa Jurídica",
+        "cidade": "Oiapoque",
+        "uf": "AP",
+        "latitude": 3.84074,
+        "longitude": -51.833123,
+        "empresa": "Universosat Holdings Ltda",
+        "cnpj": 12933571000168,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "14314117000154-Santana-AP-TELEFONICA GLOBAL SOLUTIONS BRASIL LTDA-Pessoa Jurídica",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "TELEFONICA GLOBAL SOLUTIONS BRASIL LTDA",
+        "cnpj": 14314117000154,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "19151627000171-Macapá-AP-R & B SERVIÇOS DE TELECOMUNICAÇÕES LTDA - ME-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "R & B SERVIÇOS DE TELECOMUNICAÇÕES LTDA - ME",
+        "cnpj": 19151627000171,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 13
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 42
+            }
+        ]
+    },
+    {
+        "identifier": "19151627000171-Porto Grande-AP-R & B SERVIÇOS DE TELECOMUNICAÇÕES LTDA - ME-Pessoa Jurídica",
+        "cidade": "Porto Grande",
+        "uf": "AP",
+        "latitude": 0.71243,
+        "longitude": -51.415499,
+        "empresa": "R & B SERVIÇOS DE TELECOMUNICAÇÕES LTDA - ME",
+        "cnpj": 19151627000171,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "20412054000171-Ferreira Gomes-AP-ARAGUARY CELTA CONECT LTDA-ME - ME-Pessoa Jurídica",
+        "cidade": "Ferreira Gomes",
+        "uf": "AP",
+        "latitude": 0.857256,
+        "longitude": -51.179523,
+        "empresa": "ARAGUARY CELTA CONECT LTDA-ME - ME",
+        "cnpj": 20412054000171,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "23841994000174-Macapá-AP-MACAPA TELECOM LTDA - ME-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "MACAPA TELECOM LTDA - ME",
+        "cnpj": 23841994000174,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "24492478000144-Macapá-AP-KORE BRASIL LTDA-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "KORE BRASIL LTDA",
+        "cnpj": 24492478000144,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 215
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Macapá-AP-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "29484413000170-Macapá-AP-COGENT BRASIL TELECOMUNICACOES LTDA.-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "COGENT BRASIL TELECOMUNICACOES LTDA.",
+        "cnpj": 29484413000170,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "33179565000137-Cutias-AP-BT-Pessoa Jurídica",
+        "cidade": "Cutias",
+        "uf": "AP",
+        "latitude": 0.987565,
+        "longitude": -50.799169,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "33179565000137-Ferreira Gomes-AP-BT-Pessoa Jurídica",
+        "cidade": "Ferreira Gomes",
+        "uf": "AP",
+        "latitude": 0.857256,
+        "longitude": -51.179523,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "33179565000137-Laranjal do Jari-AP-BT-Pessoa Jurídica",
+        "cidade": "Laranjal do Jari",
+        "uf": "AP",
+        "latitude": -0.804911,
+        "longitude": -52.452962,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "33179565000137-Macapá-AP-BT-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "33179565000137-Mazagão-AP-BT-Pessoa Jurídica",
+        "cidade": "Mazagão",
+        "uf": "AP",
+        "latitude": -0.11336,
+        "longitude": -51.28913,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "33179565000137-Oiapoque-AP-BT-Pessoa Jurídica",
+        "cidade": "Oiapoque",
+        "uf": "AP",
+        "latitude": 3.84074,
+        "longitude": -51.833123,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "33179565000137-Pedra Branca do Amapari-AP-BT-Pessoa Jurídica",
+        "cidade": "Pedra Branca do Amapari",
+        "uf": "AP",
+        "latitude": -0.949786,
+        "longitude": -51.999564,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "33179565000137-Santana-AP-BT-Pessoa Jurídica",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "33179565000137-Tartarugalzinho-AP-BT-Pessoa Jurídica",
+        "cidade": "Tartarugalzinho",
+        "uf": "AP",
+        "latitude": 1.506519,
+        "longitude": -50.90874,
+        "empresa": "BT",
+        "cnpj": 33179565000137,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "44672924000100-Macapá-AP-Mntox Telecomunicacoes Ltda-Pessoa Jurídica",
         "cidade": "Macapá",
         "uf": "AP",
@@ -14,6 +1657,25 @@
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "74280256000136-Macapá-AP-BT-Pessoa Jurídica",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "BT",
+        "cnpj": 74280256000136,
+        "data-dados": "2023-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "TDMA",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Satélite",
                 "quantidade-acesso": 2
             }
         ]

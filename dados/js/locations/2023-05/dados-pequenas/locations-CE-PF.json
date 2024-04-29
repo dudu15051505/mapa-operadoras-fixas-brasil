@@ -234,6 +234,37 @@
         ]
     },
     {
+        "identifier": "1067762000178-Fortaleza-CE-SECRELNET INFORMATICA EIRELI-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "SECRELNET INFORMATICA EIRELI",
+        "cnpj": 1067762000178,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1417
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 999
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 42
+            }
+        ]
+    },
+    {
         "identifier": "1300487000190-Sobral-CE-SOBRALNET SERVICOS E TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Sobral",
         "uf": "CE",
@@ -423,12 +454,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Acarape-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Acarape-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Acarape",
         "uf": "CE",
         "latitude": -4.220895,
         "longitude": -38.705222,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -442,12 +473,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Amontada-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Amontada-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Amontada",
         "uf": "CE",
         "latitude": -3.360166,
         "longitude": -39.828816,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -467,12 +498,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Aracati-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Aracati-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Aracati",
         "uf": "CE",
         "latitude": -4.558259,
         "longitude": -37.767894,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -492,12 +523,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Aracoiaba-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Aracoiaba-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Aracoiaba",
         "uf": "CE",
         "latitude": -4.36872,
         "longitude": -38.812512,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -517,12 +548,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Baturité-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Baturité-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Baturité",
         "uf": "CE",
         "latitude": -4.325983,
         "longitude": -38.881206,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -536,12 +567,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Beberibe-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Beberibe-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Beberibe",
         "uf": "CE",
         "latitude": -4.177415,
         "longitude": -38.127075,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -555,12 +586,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Bela Cruz-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Bela Cruz-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Bela Cruz",
         "uf": "CE",
         "latitude": -3.049964,
         "longitude": -40.167127,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -580,12 +611,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Cascavel-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Cascavel-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Cascavel",
         "uf": "CE",
         "latitude": -4.129666,
         "longitude": -38.241178,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -599,12 +630,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Caucaia-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Caucaia-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Caucaia",
         "uf": "CE",
         "latitude": -3.727966,
         "longitude": -38.661931,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -618,12 +649,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Chorozinho-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Chorozinho-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Chorozinho",
         "uf": "CE",
         "latitude": -4.28873,
         "longitude": -38.498572,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -637,12 +668,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Cruz-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Cruz-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Cruz",
         "uf": "CE",
         "latitude": -2.918128,
         "longitude": -40.175981,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -662,12 +693,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Forquilha-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Forquilha-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Forquilha",
         "uf": "CE",
         "latitude": -3.799447,
         "longitude": -40.263405,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -681,12 +712,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Fortaleza-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Fortaleza-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Fortaleza",
         "uf": "CE",
         "latitude": -3.716638,
         "longitude": -38.542298,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -700,12 +731,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Fortim-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Fortim-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Fortim",
         "uf": "CE",
         "latitude": -4.451256,
         "longitude": -37.798056,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -719,12 +750,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Guaiúba-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Guaiúba-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Guaiúba",
         "uf": "CE",
         "latitude": -4.040571,
         "longitude": -38.640372,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -738,12 +769,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Icapuí-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Icapuí-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Icapuí",
         "uf": "CE",
         "latitude": -4.712063,
         "longitude": -37.353062,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -757,12 +788,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Itaiçaba-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Itaiçaba-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Itaiçaba",
         "uf": "CE",
         "latitude": -4.671461,
         "longitude": -37.832957,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -782,12 +813,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Itarema-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Itarema-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Itarema",
         "uf": "CE",
         "latitude": -2.924797,
         "longitude": -39.916654,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -807,12 +838,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Jijoca de Jericoacoara-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Jijoca de Jericoacoara-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Jijoca de Jericoacoara",
         "uf": "CE",
         "latitude": -2.793312,
         "longitude": -40.512742,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -832,12 +863,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Maracanaú-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Maracanaú-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Maracanaú",
         "uf": "CE",
         "latitude": -3.86699,
         "longitude": -38.625901,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -851,12 +882,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Massapê-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Massapê-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Massapê",
         "uf": "CE",
         "latitude": -3.523645,
         "longitude": -40.342271,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -870,12 +901,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Morada Nova-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Morada Nova-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Morada Nova",
         "uf": "CE",
         "latitude": -5.09736,
         "longitude": -38.370158,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -895,12 +926,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Morrinhos-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Morrinhos-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Morrinhos",
         "uf": "CE",
         "latitude": -3.234258,
         "longitude": -40.123275,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -914,12 +945,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Ocara-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Ocara-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Ocara",
         "uf": "CE",
         "latitude": -4.48523,
         "longitude": -38.593256,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -939,12 +970,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Pacatuba-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Pacatuba-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Pacatuba",
         "uf": "CE",
         "latitude": -3.978396,
         "longitude": -38.618296,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -958,12 +989,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Palhano-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Palhano-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Palhano",
         "uf": "CE",
         "latitude": -4.736722,
         "longitude": -37.965549,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -977,12 +1008,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Redenção-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Redenção-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Redenção",
         "uf": "CE",
         "latitude": -4.215873,
         "longitude": -38.727719,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -996,12 +1027,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Russas-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Russas-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Russas",
         "uf": "CE",
         "latitude": -4.926727,
         "longitude": -37.972086,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -1015,12 +1046,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Santana do Acaraú-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Santana do Acaraú-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Santana do Acaraú",
         "uf": "CE",
         "latitude": -3.461435,
         "longitude": -40.211827,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -1040,12 +1071,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-São Gonçalo do Amarante-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-São Gonçalo do Amarante-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "São Gonçalo do Amarante",
         "uf": "CE",
         "latitude": -3.605149,
         "longitude": -38.972646,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -1059,12 +1090,12 @@
         ]
     },
     {
-        "identifier": "3125043000191-Viçosa do Ceará-CE-NET ONDA SERVIÇOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "3125043000191-Viçosa do Ceará-CE-Net Onda Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Viçosa do Ceará",
         "uf": "CE",
         "latitude": -3.566703,
         "longitude": -41.091554,
-        "empresa": "NET ONDA SERVIÇOS DE INTERNET EIRELI",
+        "empresa": "Net Onda Servicos de Internet Ltda",
         "cnpj": 3125043000191,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -1491,12 +1522,12 @@
         ]
     },
     {
-        "identifier": "4284545000128-São Gonçalo do Amarante-CE-ANTONIO CLEITON BELISARIO PINHEIRO JUNIOR-ME-Pessoa Física",
+        "identifier": "4284545000128-São Gonçalo do Amarante-CE-INET CONECT TELECOMUNICACOES LTDA-ME-Pessoa Física",
         "cidade": "São Gonçalo do Amarante",
         "uf": "CE",
         "latitude": -3.605149,
         "longitude": -38.972646,
-        "empresa": "ANTONIO CLEITON BELISARIO PINHEIRO JUNIOR-ME",
+        "empresa": "INET CONECT TELECOMUNICACOES LTDA-ME",
         "cnpj": 4284545000128,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2482,12 +2513,12 @@
         ]
     },
     {
-        "identifier": "5772584000137-Alto Santo-CE-ARENAJA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "5772584000137-Alto Santo-CE-ARENA JA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Alto Santo",
         "uf": "CE",
         "latitude": -5.508941,
         "longitude": -38.274318,
-        "empresa": "ARENAJA SERVICOS DE TELECOMUNICACOES LTDA",
+        "empresa": "ARENA JA SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 5772584000137,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2507,12 +2538,12 @@
         ]
     },
     {
-        "identifier": "5772584000137-Ererê-CE-ARENAJA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "5772584000137-Ererê-CE-ARENA JA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Ererê",
         "uf": "CE",
         "latitude": -6.027508,
         "longitude": -38.346113,
-        "empresa": "ARENAJA SERVICOS DE TELECOMUNICACOES LTDA",
+        "empresa": "ARENA JA SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 5772584000137,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2526,12 +2557,12 @@
         ]
     },
     {
-        "identifier": "5772584000137-Iracema-CE-ARENAJA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "5772584000137-Iracema-CE-ARENA JA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Iracema",
         "uf": "CE",
         "latitude": -5.8124,
         "longitude": -38.291943,
-        "empresa": "ARENAJA SERVICOS DE TELECOMUNICACOES LTDA",
+        "empresa": "ARENA JA SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 5772584000137,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2557,12 +2588,12 @@
         ]
     },
     {
-        "identifier": "5772584000137-Jaguaribara-CE-ARENAJA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "5772584000137-Jaguaribara-CE-ARENA JA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Jaguaribara",
         "uf": "CE",
         "latitude": -5.677651,
         "longitude": -38.535878,
-        "empresa": "ARENAJA SERVICOS DE TELECOMUNICACOES LTDA",
+        "empresa": "ARENA JA SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 5772584000137,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2594,12 +2625,12 @@
         ]
     },
     {
-        "identifier": "5772584000137-Limoeiro do Norte-CE-ARENAJA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "5772584000137-Limoeiro do Norte-CE-ARENA JA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Limoeiro do Norte",
         "uf": "CE",
         "latitude": -5.143921,
         "longitude": -38.084693,
-        "empresa": "ARENAJA SERVICOS DE TELECOMUNICACOES LTDA",
+        "empresa": "ARENA JA SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 5772584000137,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2619,12 +2650,12 @@
         ]
     },
     {
-        "identifier": "5772584000137-Pereiro-CE-ARENAJA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "5772584000137-Pereiro-CE-ARENA JA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Pereiro",
         "uf": "CE",
         "latitude": -6.035761,
         "longitude": -38.462397,
-        "empresa": "ARENAJA SERVICOS DE TELECOMUNICACOES LTDA",
+        "empresa": "ARENA JA SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 5772584000137,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2638,12 +2669,12 @@
         ]
     },
     {
-        "identifier": "5772584000137-Potiretama-CE-ARENAJA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "5772584000137-Potiretama-CE-ARENA JA SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Potiretama",
         "uf": "CE",
         "latitude": -5.71287,
         "longitude": -38.157804,
-        "empresa": "ARENAJA SERVICOS DE TELECOMUNICACOES LTDA",
+        "empresa": "ARENA JA SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 5772584000137,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -3028,6 +3059,279 @@
         ]
     },
     {
+        "identifier": "6115921000186-Abaiara-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "cidade": "Abaiara",
+        "uf": "CE",
+        "latitude": -7.345879,
+        "longitude": -39.04159,
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "cnpj": 6115921000186,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "6115921000186-Barbalha-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "cidade": "Barbalha",
+        "uf": "CE",
+        "latitude": -7.298203,
+        "longitude": -39.30208,
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "cnpj": 6115921000186,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 31
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "6115921000186-Brejo Santo-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "cidade": "Brejo Santo",
+        "uf": "CE",
+        "latitude": -7.484686,
+        "longitude": -38.979911,
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "cnpj": 6115921000186,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 52
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 19
+            }
+        ]
+    },
+    {
+        "identifier": "6115921000186-Juazeiro do Norte-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "cidade": "Juazeiro do Norte",
+        "uf": "CE",
+        "latitude": -7.196207,
+        "longitude": -39.307593,
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "cnpj": 6115921000186,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 319
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 71
+            }
+        ]
+    },
+    {
+        "identifier": "6115921000186-Mauriti-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "cidade": "Mauriti",
+        "uf": "CE",
+        "latitude": -7.385974,
+        "longitude": -38.770786,
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "cnpj": 6115921000186,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 179
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 20
+            }
+        ]
+    },
+    {
+        "identifier": "6115921000186-Milagres-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "cidade": "Milagres",
+        "uf": "CE",
+        "latitude": -7.297492,
+        "longitude": -38.937829,
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "cnpj": 6115921000186,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 121
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 79
+            }
+        ]
+    },
+    {
+        "identifier": "6115921000186-Missão Velha-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "cidade": "Missão Velha",
+        "uf": "CE",
+        "latitude": -7.235219,
+        "longitude": -39.143046,
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "cnpj": 6115921000186,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "6115921000186-Penaforte-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "cidade": "Penaforte",
+        "uf": "CE",
+        "latitude": -7.82163,
+        "longitude": -39.070724,
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "cnpj": 6115921000186,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 30
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "6115921000186-Porteiras-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "cidade": "Porteiras",
+        "uf": "CE",
+        "latitude": -7.522647,
+        "longitude": -39.114028,
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "cnpj": 6115921000186,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
         "identifier": "6155330000132-Camocim-CE-GILMAR FONTENELE TREVIA - ME-Pessoa Física",
         "cidade": "Camocim",
         "uf": "CE",
@@ -3087,6 +3391,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "6253027000172-Fortaleza-CE-J.Z. COSTA SILVA-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "J.Z. COSTA SILVA",
+        "cnpj": 6253027000172,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 126
             }
         ]
     },
@@ -4145,12 +4468,12 @@
         ]
     },
     {
-        "identifier": "7700329000104-Croatá-CE-ANTONIO BARBOSA PEREIRA - ME-Pessoa Física",
+        "identifier": "7700329000104-Croatá-CE-LUXTELL TELECOMUNICACAO E MULTIMIDIA LTDA-Pessoa Física",
         "cidade": "Croatá",
         "uf": "CE",
         "latitude": -4.404805,
         "longitude": -40.902228,
-        "empresa": "ANTONIO BARBOSA PEREIRA - ME",
+        "empresa": "LUXTELL TELECOMUNICACAO E MULTIMIDIA LTDA",
         "cnpj": 7700329000104,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -4170,12 +4493,12 @@
         ]
     },
     {
-        "identifier": "7700329000104-Ipueiras-CE-ANTONIO BARBOSA PEREIRA - ME-Pessoa Física",
+        "identifier": "7700329000104-Ipueiras-CE-LUXTELL TELECOMUNICACAO E MULTIMIDIA LTDA-Pessoa Física",
         "cidade": "Ipueiras",
         "uf": "CE",
         "latitude": -4.538021,
         "longitude": -40.711764,
-        "empresa": "ANTONIO BARBOSA PEREIRA - ME",
+        "empresa": "LUXTELL TELECOMUNICACAO E MULTIMIDIA LTDA",
         "cnpj": 7700329000104,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -4329,6 +4652,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "7790233000184-Jucás-CE-PEDRO BENTO DE ARAUJO NETO-Pessoa Física",
+        "cidade": "Jucás",
+        "uf": "CE",
+        "latitude": -6.515229,
+        "longitude": -39.518679,
+        "empresa": "PEDRO BENTO DE ARAUJO NETO",
+        "cnpj": 7790233000184,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 346
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 529
             }
         ]
     },
@@ -4666,6 +5014,267 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 141
+            }
+        ]
+    },
+    {
+        "identifier": "8435682000177-Abaiara-CE-Link Cariri Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Abaiara",
+        "uf": "CE",
+        "latitude": -7.345879,
+        "longitude": -39.04159,
+        "empresa": "Link Cariri Telecomunicacoes Ltda",
+        "cnpj": 8435682000177,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8435682000177-Barbalha-CE-Link Cariri Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Barbalha",
+        "uf": "CE",
+        "latitude": -7.298203,
+        "longitude": -39.30208,
+        "empresa": "Link Cariri Telecomunicacoes Ltda",
+        "cnpj": 8435682000177,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "identifier": "8435682000177-Brejo Santo-CE-Link Cariri Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Brejo Santo",
+        "uf": "CE",
+        "latitude": -7.484686,
+        "longitude": -38.979911,
+        "empresa": "Link Cariri Telecomunicacoes Ltda",
+        "cnpj": 8435682000177,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 44
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 42
+            }
+        ]
+    },
+    {
+        "identifier": "8435682000177-Juazeiro do Norte-CE-Link Cariri Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Juazeiro do Norte",
+        "uf": "CE",
+        "latitude": -7.196207,
+        "longitude": -39.307593,
+        "empresa": "Link Cariri Telecomunicacoes Ltda",
+        "cnpj": 8435682000177,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 311
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 12
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 43
+            }
+        ]
+    },
+    {
+        "identifier": "8435682000177-Mauriti-CE-Link Cariri Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Mauriti",
+        "uf": "CE",
+        "latitude": -7.385974,
+        "longitude": -38.770786,
+        "empresa": "Link Cariri Telecomunicacoes Ltda",
+        "cnpj": 8435682000177,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "8435682000177-Milagres-CE-Link Cariri Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Milagres",
+        "uf": "CE",
+        "latitude": -7.297492,
+        "longitude": -38.937829,
+        "empresa": "Link Cariri Telecomunicacoes Ltda",
+        "cnpj": 8435682000177,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 278
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 105
+            }
+        ]
+    },
+    {
+        "identifier": "8435682000177-Missão Velha-CE-Link Cariri Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Missão Velha",
+        "uf": "CE",
+        "latitude": -7.235219,
+        "longitude": -39.143046,
+        "empresa": "Link Cariri Telecomunicacoes Ltda",
+        "cnpj": 8435682000177,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8435682000177-Penaforte-CE-Link Cariri Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Penaforte",
+        "uf": "CE",
+        "latitude": -7.82163,
+        "longitude": -39.070724,
+        "empresa": "Link Cariri Telecomunicacoes Ltda",
+        "cnpj": 8435682000177,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 79
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 21
+            }
+        ]
+    },
+    {
+        "identifier": "8435682000177-Porteiras-CE-Link Cariri Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Porteiras",
+        "uf": "CE",
+        "latitude": -7.522647,
+        "longitude": -39.114028,
+        "empresa": "Link Cariri Telecomunicacoes Ltda",
+        "cnpj": 8435682000177,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -5030,6 +5639,106 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1552
+            }
+        ]
+    },
+    {
+        "identifier": "9015773000116-Irauçuba-CE-MEGGANET INTERNET E INFORMATICA LTDA-Pessoa Física",
+        "cidade": "Irauçuba",
+        "uf": "CE",
+        "latitude": -3.747367,
+        "longitude": -39.784332,
+        "empresa": "MEGGANET INTERNET E INFORMATICA LTDA",
+        "cnpj": 9015773000116,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 638
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "9015773000116-Itapajé-CE-MEGGANET INTERNET E INFORMATICA LTDA-Pessoa Física",
+        "cidade": "Itapajé",
+        "uf": "CE",
+        "latitude": -3.683137,
+        "longitude": -39.585531,
+        "empresa": "MEGGANET INTERNET E INFORMATICA LTDA",
+        "cnpj": 9015773000116,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 645
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 163
+            }
+        ]
+    },
+    {
+        "identifier": "9015773000116-Tejuçuoca-CE-MEGGANET INTERNET E INFORMATICA LTDA-Pessoa Física",
+        "cidade": "Tejuçuoca",
+        "uf": "CE",
+        "latitude": -3.988307,
+        "longitude": -39.579866,
+        "empresa": "MEGGANET INTERNET E INFORMATICA LTDA",
+        "cnpj": 9015773000116,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 374
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "9015773000116-Uruburetama-CE-MEGGANET INTERNET E INFORMATICA LTDA-Pessoa Física",
+        "cidade": "Uruburetama",
+        "uf": "CE",
+        "latitude": -3.623165,
+        "longitude": -39.510677,
+        "empresa": "MEGGANET INTERNET E INFORMATICA LTDA",
+        "cnpj": 9015773000116,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 54
             }
         ]
     },
@@ -5474,12 +6183,12 @@
         ]
     },
     {
-        "identifier": "10533558000196-Aquiraz-CE-FRANCISCO AFONSO DE PAIVA JUNIOR-Pessoa Física",
+        "identifier": "10533558000196-Aquiraz-CE-JRNET PROVEDOR E SOLUCOES LTDA-Pessoa Física",
         "cidade": "Aquiraz",
         "uf": "CE",
         "latitude": -3.899293,
         "longitude": -38.389563,
-        "empresa": "FRANCISCO AFONSO DE PAIVA JUNIOR",
+        "empresa": "JRNET PROVEDOR E SOLUCOES LTDA",
         "cnpj": 10533558000196,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5505,12 +6214,12 @@
         ]
     },
     {
-        "identifier": "10533558000196-Cascavel-CE-FRANCISCO AFONSO DE PAIVA JUNIOR-Pessoa Física",
+        "identifier": "10533558000196-Cascavel-CE-JRNET PROVEDOR E SOLUCOES LTDA-Pessoa Física",
         "cidade": "Cascavel",
         "uf": "CE",
         "latitude": -4.129666,
         "longitude": -38.241178,
-        "empresa": "FRANCISCO AFONSO DE PAIVA JUNIOR",
+        "empresa": "JRNET PROVEDOR E SOLUCOES LTDA",
         "cnpj": 10533558000196,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5524,12 +6233,12 @@
         ]
     },
     {
-        "identifier": "10533558000196-Pindoretama-CE-FRANCISCO AFONSO DE PAIVA JUNIOR-Pessoa Física",
+        "identifier": "10533558000196-Pindoretama-CE-JRNET PROVEDOR E SOLUCOES LTDA-Pessoa Física",
         "cidade": "Pindoretama",
         "uf": "CE",
         "latitude": -4.015839,
         "longitude": -38.306118,
-        "empresa": "FRANCISCO AFONSO DE PAIVA JUNIOR",
+        "empresa": "JRNET PROVEDOR E SOLUCOES LTDA",
         "cnpj": 10533558000196,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -6920,12 +7629,12 @@
         ]
     },
     {
-        "identifier": "11511940000161-Caririaçu-CE-SANIEL MARTINS DE SOUZA-Pessoa Física",
+        "identifier": "11511940000161-Caririaçu-CE-INFORARTS SERVICOS DE TELECOMUNICACOES EIRELI-Pessoa Física",
         "cidade": "Caririaçu",
         "uf": "CE",
         "latitude": -7.028076,
         "longitude": -39.28276,
-        "empresa": "SANIEL MARTINS DE SOUZA",
+        "empresa": "INFORARTS SERVICOS DE TELECOMUNICACOES EIRELI",
         "cnpj": 11511940000161,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -6951,12 +7660,12 @@
         ]
     },
     {
-        "identifier": "11511940000161-Crato-CE-SANIEL MARTINS DE SOUZA-Pessoa Física",
+        "identifier": "11511940000161-Crato-CE-INFORARTS SERVICOS DE TELECOMUNICACOES EIRELI-Pessoa Física",
         "cidade": "Crato",
         "uf": "CE",
         "latitude": -7.215303,
         "longitude": -39.410299,
-        "empresa": "SANIEL MARTINS DE SOUZA",
+        "empresa": "INFORARTS SERVICOS DE TELECOMUNICACOES EIRELI",
         "cnpj": 11511940000161,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -6982,12 +7691,12 @@
         ]
     },
     {
-        "identifier": "11511940000161-Juazeiro do Norte-CE-SANIEL MARTINS DE SOUZA-Pessoa Física",
+        "identifier": "11511940000161-Juazeiro do Norte-CE-INFORARTS SERVICOS DE TELECOMUNICACOES EIRELI-Pessoa Física",
         "cidade": "Juazeiro do Norte",
         "uf": "CE",
         "latitude": -7.196207,
         "longitude": -39.307593,
-        "empresa": "SANIEL MARTINS DE SOUZA",
+        "empresa": "INFORARTS SERVICOS DE TELECOMUNICACOES EIRELI",
         "cnpj": 11511940000161,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -7013,12 +7722,12 @@
         ]
     },
     {
-        "identifier": "11511940000161-Missão Velha-CE-SANIEL MARTINS DE SOUZA-Pessoa Física",
+        "identifier": "11511940000161-Missão Velha-CE-INFORARTS SERVICOS DE TELECOMUNICACOES EIRELI-Pessoa Física",
         "cidade": "Missão Velha",
         "uf": "CE",
         "latitude": -7.235219,
         "longitude": -39.143046,
-        "empresa": "SANIEL MARTINS DE SOUZA",
+        "empresa": "INFORARTS SERVICOS DE TELECOMUNICACOES EIRELI",
         "cnpj": 11511940000161,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -7125,12 +7834,12 @@
         ]
     },
     {
-        "identifier": "11862585000175-Quixeramobim-CE-CONECTA PROVEDOR DE INTERNET LTDA - ME-Pessoa Física",
+        "identifier": "11862585000175-Quixeramobim-CE-Conecta Provedor de Internet Ltda-Pessoa Física",
         "cidade": "Quixeramobim",
         "uf": "CE",
         "latitude": -5.190672,
         "longitude": -39.288947,
-        "empresa": "CONECTA PROVEDOR DE INTERNET LTDA - ME",
+        "empresa": "Conecta Provedor de Internet Ltda",
         "cnpj": 11862585000175,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -7250,6 +7959,25 @@
         ]
     },
     {
+        "identifier": "12256259000187-Alcântaras-CE-MG Fibra Telecom Ltda-Pessoa Física",
+        "cidade": "Alcântaras",
+        "uf": "CE",
+        "latitude": -3.585369,
+        "longitude": -40.547867,
+        "empresa": "MG Fibra Telecom Ltda",
+        "cnpj": 12256259000187,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 182
+            }
+        ]
+    },
+    {
         "identifier": "12446078000113-Caucaia-CE-CONNEX TELECOM SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Caucaia",
         "uf": "CE",
@@ -7332,12 +8060,69 @@
         ]
     },
     {
-        "identifier": "12717678000179-Acaraú-CE-ELIZIO PEREIRA BRANDAO NETO-Pessoa Física",
+        "identifier": "12661838000105-Tururu-CE-JCNET TELECOM - EIRELI-Pessoa Física",
+        "cidade": "Tururu",
+        "uf": "CE",
+        "latitude": -3.584132,
+        "longitude": -39.429656,
+        "empresa": "JCNET TELECOM - EIRELI",
+        "cnpj": 12661838000105,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 46
+            }
+        ]
+    },
+    {
+        "identifier": "12661838000105-Umirim-CE-JCNET TELECOM - EIRELI-Pessoa Física",
+        "cidade": "Umirim",
+        "uf": "CE",
+        "latitude": -3.676541,
+        "longitude": -39.346513,
+        "empresa": "JCNET TELECOM - EIRELI",
+        "cnpj": 12661838000105,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 60
+            }
+        ]
+    },
+    {
+        "identifier": "12661838000105-Uruburetama-CE-JCNET TELECOM - EIRELI-Pessoa Física",
+        "cidade": "Uruburetama",
+        "uf": "CE",
+        "latitude": -3.623165,
+        "longitude": -39.510677,
+        "empresa": "JCNET TELECOM - EIRELI",
+        "cnpj": 12661838000105,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 38
+            }
+        ]
+    },
+    {
+        "identifier": "12717678000179-Acaraú-CE-Brandaonet Servicos de Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Acaraú",
         "uf": "CE",
         "latitude": -2.887689,
         "longitude": -40.118306,
-        "empresa": "ELIZIO PEREIRA BRANDAO NETO",
+        "empresa": "Brandaonet Servicos de Telecomunicacoes Ltda",
         "cnpj": 12717678000179,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -7351,12 +8136,12 @@
         ]
     },
     {
-        "identifier": "12717678000179-Bela Cruz-CE-ELIZIO PEREIRA BRANDAO NETO-Pessoa Física",
+        "identifier": "12717678000179-Bela Cruz-CE-Brandaonet Servicos de Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Bela Cruz",
         "uf": "CE",
         "latitude": -3.049964,
         "longitude": -40.167127,
-        "empresa": "ELIZIO PEREIRA BRANDAO NETO",
+        "empresa": "Brandaonet Servicos de Telecomunicacoes Ltda",
         "cnpj": 12717678000179,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -7370,12 +8155,12 @@
         ]
     },
     {
-        "identifier": "12717678000179-Cruz-CE-ELIZIO PEREIRA BRANDAO NETO-Pessoa Física",
+        "identifier": "12717678000179-Cruz-CE-Brandaonet Servicos de Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Cruz",
         "uf": "CE",
         "latitude": -2.918128,
         "longitude": -40.175981,
-        "empresa": "ELIZIO PEREIRA BRANDAO NETO",
+        "empresa": "Brandaonet Servicos de Telecomunicacoes Ltda",
         "cnpj": 12717678000179,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -7385,6 +8170,37 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 3620
+            }
+        ]
+    },
+    {
+        "identifier": "13005513000137-Fortaleza-CE-CONEXA TECNOLOGIA DA INFORMACAO EIRELI-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "CONEXA TECNOLOGIA DA INFORMACAO EIRELI",
+        "cnpj": 13005513000137,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 124
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 34
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
             }
         ]
     },
@@ -7672,12 +8488,31 @@
         ]
     },
     {
-        "identifier": "13398709000139-Aracati-CE-J S CAMINHA SERVICOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "13366503000127-Fortaleza-CE-J NET TELECOM LTDA - ME-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "J NET TELECOM LTDA - ME",
+        "cnpj": 13366503000127,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 201
+            }
+        ]
+    },
+    {
+        "identifier": "13398709000139-Aracati-CE-J S CAMINHA SERVICOS DE INTERNET LTDA.-Pessoa Física",
         "cidade": "Aracati",
         "uf": "CE",
         "latitude": -4.558259,
         "longitude": -37.767894,
-        "empresa": "J S CAMINHA SERVICOS DE INTERNET EIRELI",
+        "empresa": "J S CAMINHA SERVICOS DE INTERNET LTDA.",
         "cnpj": 13398709000139,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -7703,12 +8538,12 @@
         ]
     },
     {
-        "identifier": "13398709000139-Itaiçaba-CE-J S CAMINHA SERVICOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "13398709000139-Itaiçaba-CE-J S CAMINHA SERVICOS DE INTERNET LTDA.-Pessoa Física",
         "cidade": "Itaiçaba",
         "uf": "CE",
         "latitude": -4.671461,
         "longitude": -37.832957,
-        "empresa": "J S CAMINHA SERVICOS DE INTERNET EIRELI",
+        "empresa": "J S CAMINHA SERVICOS DE INTERNET LTDA.",
         "cnpj": 13398709000139,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -7734,12 +8569,12 @@
         ]
     },
     {
-        "identifier": "13398709000139-Jaguaruana-CE-J S CAMINHA SERVICOS DE INTERNET EIRELI-Pessoa Física",
+        "identifier": "13398709000139-Jaguaruana-CE-J S CAMINHA SERVICOS DE INTERNET LTDA.-Pessoa Física",
         "cidade": "Jaguaruana",
         "uf": "CE",
         "latitude": -4.831508,
         "longitude": -37.780997,
-        "empresa": "J S CAMINHA SERVICOS DE INTERNET EIRELI",
+        "empresa": "J S CAMINHA SERVICOS DE INTERNET LTDA.",
         "cnpj": 13398709000139,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -8070,6 +8905,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 305
+            }
+        ]
+    },
+    {
+        "identifier": "13903358000176-Fortaleza-CE-LEL LIEBERTHY ARAUJO LIBANIO-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "LEL LIEBERTHY ARAUJO LIBANIO",
+        "cnpj": 13903358000176,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 500
             }
         ]
     },
@@ -8545,12 +9399,12 @@
         ]
     },
     {
-        "identifier": "14756059000119-Barreira-CE-KIM NET SOLUÇÕES EM INTERNET EIRELI-Pessoa Física",
+        "identifier": "14756059000119-Barreira-CE-KIM NET SOLUÇÕES EM INTERNET LIMITADA-Pessoa Física",
         "cidade": "Barreira",
         "uf": "CE",
         "latitude": -4.289206,
         "longitude": -38.64291,
-        "empresa": "KIM NET SOLUÇÕES EM INTERNET EIRELI",
+        "empresa": "KIM NET SOLUÇÕES EM INTERNET LIMITADA",
         "cnpj": 14756059000119,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -8576,12 +9430,12 @@
         ]
     },
     {
-        "identifier": "14756059000119-Cascavel-CE-KIM NET SOLUÇÕES EM INTERNET EIRELI-Pessoa Física",
+        "identifier": "14756059000119-Cascavel-CE-KIM NET SOLUÇÕES EM INTERNET LIMITADA-Pessoa Física",
         "cidade": "Cascavel",
         "uf": "CE",
         "latitude": -4.129666,
         "longitude": -38.241178,
-        "empresa": "KIM NET SOLUÇÕES EM INTERNET EIRELI",
+        "empresa": "KIM NET SOLUÇÕES EM INTERNET LIMITADA",
         "cnpj": 14756059000119,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -8595,12 +9449,12 @@
         ]
     },
     {
-        "identifier": "14756059000119-Fortaleza-CE-KIM NET SOLUÇÕES EM INTERNET EIRELI-Pessoa Física",
+        "identifier": "14756059000119-Fortaleza-CE-KIM NET SOLUÇÕES EM INTERNET LIMITADA-Pessoa Física",
         "cidade": "Fortaleza",
         "uf": "CE",
         "latitude": -3.716638,
         "longitude": -38.542298,
-        "empresa": "KIM NET SOLUÇÕES EM INTERNET EIRELI",
+        "empresa": "KIM NET SOLUÇÕES EM INTERNET LIMITADA",
         "cnpj": 14756059000119,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -8620,12 +9474,12 @@
         ]
     },
     {
-        "identifier": "14756059000119-Horizonte-CE-KIM NET SOLUÇÕES EM INTERNET EIRELI-Pessoa Física",
+        "identifier": "14756059000119-Horizonte-CE-KIM NET SOLUÇÕES EM INTERNET LIMITADA-Pessoa Física",
         "cidade": "Horizonte",
         "uf": "CE",
         "latitude": -4.120896,
         "longitude": -38.470674,
-        "empresa": "KIM NET SOLUÇÕES EM INTERNET EIRELI",
+        "empresa": "KIM NET SOLUÇÕES EM INTERNET LIMITADA",
         "cnpj": 14756059000119,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -8657,12 +9511,12 @@
         ]
     },
     {
-        "identifier": "14756059000119-Pacajus-CE-KIM NET SOLUÇÕES EM INTERNET EIRELI-Pessoa Física",
+        "identifier": "14756059000119-Pacajus-CE-KIM NET SOLUÇÕES EM INTERNET LIMITADA-Pessoa Física",
         "cidade": "Pacajus",
         "uf": "CE",
         "latitude": -4.171073,
         "longitude": -38.464988,
-        "empresa": "KIM NET SOLUÇÕES EM INTERNET EIRELI",
+        "empresa": "KIM NET SOLUÇÕES EM INTERNET LIMITADA",
         "cnpj": 14756059000119,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -8688,12 +9542,12 @@
         ]
     },
     {
-        "identifier": "14756059000119-Pacatuba-CE-KIM NET SOLUÇÕES EM INTERNET EIRELI-Pessoa Física",
+        "identifier": "14756059000119-Pacatuba-CE-KIM NET SOLUÇÕES EM INTERNET LIMITADA-Pessoa Física",
         "cidade": "Pacatuba",
         "uf": "CE",
         "latitude": -3.978396,
         "longitude": -38.618296,
-        "empresa": "KIM NET SOLUÇÕES EM INTERNET EIRELI",
+        "empresa": "KIM NET SOLUÇÕES EM INTERNET LIMITADA",
         "cnpj": 14756059000119,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -8966,6 +9820,25 @@
         ]
     },
     {
+        "identifier": "15305595000160-Maracanaú-CE-R&E TECNOLOGIA E SERVIÇOS LTDA - ME-Pessoa Física",
+        "cidade": "Maracanaú",
+        "uf": "CE",
+        "latitude": -3.86699,
+        "longitude": -38.625901,
+        "empresa": "R&E TECNOLOGIA E SERVIÇOS LTDA - ME",
+        "cnpj": 15305595000160,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 554
+            }
+        ]
+    },
+    {
         "identifier": "15406164000190-Maracanaú-CE-TERA TELECOM LTDA - ME-Pessoa Física",
         "cidade": "Maracanaú",
         "uf": "CE",
@@ -9000,6 +9873,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Cabo Metálico",
                 "quantidade-acesso": 73
+            }
+        ]
+    },
+    {
+        "identifier": "15552978000133-Paracuru-CE-TECNOLINS COMERCIO E SERVIÇOS E TELECOMUNICAÇÕPES LTDA-Pessoa Física",
+        "cidade": "Paracuru",
+        "uf": "CE",
+        "latitude": -3.41436,
+        "longitude": -39.030028,
+        "empresa": "TECNOLINS COMERCIO E SERVIÇOS E TELECOMUNICAÇÕPES LTDA",
+        "cnpj": 15552978000133,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2440
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 14
             }
         ]
     },
@@ -9509,6 +10407,120 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1236
+            }
+        ]
+    },
+    {
+        "identifier": "17901688000183-Nova Russas-CE-PLANETA NET TELECOM E SERVICOS LTDA-Pessoa Física",
+        "cidade": "Nova Russas",
+        "uf": "CE",
+        "latitude": -4.705807,
+        "longitude": -40.562118,
+        "empresa": "PLANETA NET TELECOM E SERVICOS LTDA",
+        "cnpj": 17901688000183,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 367
+            }
+        ]
+    },
+    {
+        "identifier": "17901688000183-Novo Oriente-CE-PLANETA NET TELECOM E SERVICOS LTDA-Pessoa Física",
+        "cidade": "Novo Oriente",
+        "uf": "CE",
+        "latitude": -5.525519,
+        "longitude": -40.771296,
+        "empresa": "PLANETA NET TELECOM E SERVICOS LTDA",
+        "cnpj": 17901688000183,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 304
+            }
+        ]
+    },
+    {
+        "identifier": "17901688000183-Pedra Branca-CE-PLANETA NET TELECOM E SERVICOS LTDA-Pessoa Física",
+        "cidade": "Pedra Branca",
+        "uf": "CE",
+        "latitude": -5.453411,
+        "longitude": -39.707771,
+        "empresa": "PLANETA NET TELECOM E SERVICOS LTDA",
+        "cnpj": 17901688000183,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 64
+            }
+        ]
+    },
+    {
+        "identifier": "17901688000183-Quiterianópolis-CE-PLANETA NET TELECOM E SERVICOS LTDA-Pessoa Física",
+        "cidade": "Quiterianópolis",
+        "uf": "CE",
+        "latitude": -5.842496,
+        "longitude": -40.700217,
+        "empresa": "PLANETA NET TELECOM E SERVICOS LTDA",
+        "cnpj": 17901688000183,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 329
+            }
+        ]
+    },
+    {
+        "identifier": "17901688000183-Tamboril-CE-PLANETA NET TELECOM E SERVICOS LTDA-Pessoa Física",
+        "cidade": "Tamboril",
+        "uf": "CE",
+        "latitude": -4.831364,
+        "longitude": -40.319593,
+        "empresa": "PLANETA NET TELECOM E SERVICOS LTDA",
+        "cnpj": 17901688000183,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 130
+            }
+        ]
+    },
+    {
+        "identifier": "17901688000183-Tauá-CE-PLANETA NET TELECOM E SERVICOS LTDA-Pessoa Física",
+        "cidade": "Tauá",
+        "uf": "CE",
+        "latitude": -5.985853,
+        "longitude": -40.296802,
+        "empresa": "PLANETA NET TELECOM E SERVICOS LTDA",
+        "cnpj": 17901688000183,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 550
             }
         ]
     },
@@ -10586,6 +11598,25 @@
         ]
     },
     {
+        "identifier": "21614487000172-Paraipaba-CE-HIPERLINK PROVEDOR DE INTERNET LTDA-Pessoa Física",
+        "cidade": "Paraipaba",
+        "uf": "CE",
+        "latitude": -3.437987,
+        "longitude": -39.147868,
+        "empresa": "HIPERLINK PROVEDOR DE INTERNET LTDA",
+        "cnpj": 21614487000172,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1126
+            }
+        ]
+    },
+    {
         "identifier": "21653615000197-Morada Nova-CE-Renata da Costa Tavares-Pessoa Física",
         "cidade": "Morada Nova",
         "uf": "CE",
@@ -11235,6 +12266,31 @@
         ]
     },
     {
+        "identifier": "23755570000197-Jardim-CE-ANTONIO FRANCISCO EVANGELISTA FILHO-Pessoa Física",
+        "cidade": "Jardim",
+        "uf": "CE",
+        "latitude": -7.575989,
+        "longitude": -39.28262,
+        "empresa": "ANTONIO FRANCISCO EVANGELISTA FILHO",
+        "cnpj": 23755570000197,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 289
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 257
+            }
+        ]
+    },
+    {
         "identifier": "23866988000171-Quixadá-CE-UPNET TECNOLOGIA & INFORMACAO LTDA - ME-Pessoa Física",
         "cidade": "Quixadá",
         "uf": "CE",
@@ -11293,6 +12349,75 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 146
+            }
+        ]
+    },
+    {
+        "identifier": "23881940000132-Deputado Irapuan Pinheiro-CE-MILHA NET LTDA-Pessoa Física",
+        "cidade": "Deputado Irapuan Pinheiro",
+        "uf": "CE",
+        "latitude": -5.914848,
+        "longitude": -39.25701,
+        "empresa": "MILHA NET LTDA",
+        "cnpj": 23881940000132,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "23881940000132-Milhã-CE-MILHA NET LTDA-Pessoa Física",
+        "cidade": "Milhã",
+        "uf": "CE",
+        "latitude": -5.672525,
+        "longitude": -39.187483,
+        "empresa": "MILHA NET LTDA",
+        "cnpj": 23881940000132,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 144
+            }
+        ]
+    },
+    {
+        "identifier": "23881940000132-Solonópole-CE-MILHA NET LTDA-Pessoa Física",
+        "cidade": "Solonópole",
+        "uf": "CE",
+        "latitude": -5.718936,
+        "longitude": -39.01072,
+        "empresa": "MILHA NET LTDA",
+        "cnpj": 23881940000132,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -11416,6 +12541,31 @@
         ]
     },
     {
+        "identifier": "24142208000103-São João do Jaguaribe-CE-NOKE TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "São João do Jaguaribe",
+        "uf": "CE",
+        "latitude": -5.275164,
+        "longitude": -38.269366,
+        "empresa": "NOKE TELECOMUNICACOES LTDA",
+        "cnpj": 24142208000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 107
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 28
+            }
+        ]
+    },
+    {
         "identifier": "24154920000122-Fortaleza-CE-TURBONET DO BRASIL COMERCIO E SERVICOS LTDA-Pessoa Física",
         "cidade": "Fortaleza",
         "uf": "CE",
@@ -11450,6 +12600,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 366
+            }
+        ]
+    },
+    {
+        "identifier": "24157876000104-Fortaleza-CE-DIEGO FERNANDO SALES FEITOSA-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "DIEGO FERNANDO SALES FEITOSA",
+        "cnpj": 24157876000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 106
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 43
             }
         ]
     },
@@ -12598,12 +13773,12 @@
         ]
     },
     {
-        "identifier": "26242894000110-Aquiraz-CE-MARIA AURELIA VIEIRA-Pessoa Física",
+        "identifier": "26242894000110-Aquiraz-CE-D-NET SOLUCOES EM INTERNET LTDA-Pessoa Física",
         "cidade": "Aquiraz",
         "uf": "CE",
         "latitude": -3.899293,
         "longitude": -38.389563,
-        "empresa": "MARIA AURELIA VIEIRA",
+        "empresa": "D-NET SOLUCOES EM INTERNET LTDA",
         "cnpj": 26242894000110,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -12617,12 +13792,12 @@
         ]
     },
     {
-        "identifier": "26242894000110-Eusébio-CE-MARIA AURELIA VIEIRA-Pessoa Física",
+        "identifier": "26242894000110-Eusébio-CE-D-NET SOLUCOES EM INTERNET LTDA-Pessoa Física",
         "cidade": "Eusébio",
         "uf": "CE",
         "latitude": -3.892501,
         "longitude": -38.455875,
-        "empresa": "MARIA AURELIA VIEIRA",
+        "empresa": "D-NET SOLUCOES EM INTERNET LTDA",
         "cnpj": 26242894000110,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -12642,12 +13817,12 @@
         ]
     },
     {
-        "identifier": "26242894000110-Fortaleza-CE-MARIA AURELIA VIEIRA-Pessoa Física",
+        "identifier": "26242894000110-Fortaleza-CE-D-NET SOLUCOES EM INTERNET LTDA-Pessoa Física",
         "cidade": "Fortaleza",
         "uf": "CE",
         "latitude": -3.716638,
         "longitude": -38.542298,
-        "empresa": "MARIA AURELIA VIEIRA",
+        "empresa": "D-NET SOLUCOES EM INTERNET LTDA",
         "cnpj": 26242894000110,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -12661,12 +13836,12 @@
         ]
     },
     {
-        "identifier": "26242894000110-Itaitinga-CE-MARIA AURELIA VIEIRA-Pessoa Física",
+        "identifier": "26242894000110-Itaitinga-CE-D-NET SOLUCOES EM INTERNET LTDA-Pessoa Física",
         "cidade": "Itaitinga",
         "uf": "CE",
         "latitude": -3.965768,
         "longitude": -38.529763,
-        "empresa": "MARIA AURELIA VIEIRA",
+        "empresa": "D-NET SOLUCOES EM INTERNET LTDA",
         "cnpj": 26242894000110,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -12680,12 +13855,12 @@
         ]
     },
     {
-        "identifier": "26242894000110-Maracanaú-CE-MARIA AURELIA VIEIRA-Pessoa Física",
+        "identifier": "26242894000110-Maracanaú-CE-D-NET SOLUCOES EM INTERNET LTDA-Pessoa Física",
         "cidade": "Maracanaú",
         "uf": "CE",
         "latitude": -3.86699,
         "longitude": -38.625901,
-        "empresa": "MARIA AURELIA VIEIRA",
+        "empresa": "D-NET SOLUCOES EM INTERNET LTDA",
         "cnpj": 26242894000110,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -14417,6 +15592,31 @@
         ]
     },
     {
+        "identifier": "27432922000124-Orós-CE-JORGE PACIFICO NUNES JUNIOR - ME-Pessoa Física",
+        "cidade": "Orós",
+        "uf": "CE",
+        "latitude": -6.251816,
+        "longitude": -38.905264,
+        "empresa": "JORGE PACIFICO NUNES JUNIOR - ME",
+        "cnpj": 27432922000124,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 73
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 327
+            }
+        ]
+    },
+    {
         "identifier": "27476034000103-Jaguaretama-CE-Fradenet Servicos de Comunicacao Multimidia Eireli-Pessoa Física",
         "cidade": "Jaguaretama",
         "uf": "CE",
@@ -14461,6 +15661,81 @@
         ]
     },
     {
+        "identifier": "27763836000102-Caucaia-CE-SECOMUL- SERVICO DE COMUNICACAO MULTIMIDIA LTDA-Pessoa Física",
+        "cidade": "Caucaia",
+        "uf": "CE",
+        "latitude": -3.727966,
+        "longitude": -38.661931,
+        "empresa": "SECOMUL- SERVICO DE COMUNICACAO MULTIMIDIA LTDA",
+        "cnpj": 27763836000102,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 101
+            }
+        ]
+    },
+    {
+        "identifier": "27885620000101-Alcântaras-CE-MARCELO RODRIGUES ANDRE-Pessoa Física",
+        "cidade": "Alcântaras",
+        "uf": "CE",
+        "latitude": -3.585369,
+        "longitude": -40.547867,
+        "empresa": "MARCELO RODRIGUES ANDRE",
+        "cnpj": 27885620000101,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 82
+            }
+        ]
+    },
+    {
+        "identifier": "27945539000170-Fortaleza-CE-JAIR SIMOES DO NASCIMENTO TELECOM-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "JAIR SIMOES DO NASCIMENTO TELECOM",
+        "cnpj": 27945539000170,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Cable Modem",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 223
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "27950498000100-Massapê-CE-MC BARROS CAVALCANTE SERVICOS DE COMUNICACAO LTDA-Pessoa Física",
         "cidade": "Massapê",
         "uf": "CE",
@@ -14476,6 +15751,56 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 697
+            }
+        ]
+    },
+    {
+        "identifier": "28038375000160-Fortaleza-CE-MATUSALEM LIMA DA SILVA - ME-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "MATUSALEM LIMA DA SILVA - ME",
+        "cnpj": 28038375000160,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 32
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 21
+            }
+        ]
+    },
+    {
+        "identifier": "28183061000150-Fortaleza-CE-JC NET TELECOM EIRELI - ME-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "JC NET TELECOM EIRELI - ME",
+        "cnpj": 28183061000150,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 36
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 135
             }
         ]
     },
@@ -14644,6 +15969,75 @@
         ]
     },
     {
+        "identifier": "28950055000181-Baixio-CE-J B ALVES BARBOSA-Pessoa Física",
+        "cidade": "Baixio",
+        "uf": "CE",
+        "latitude": -6.719447,
+        "longitude": -38.713376,
+        "empresa": "J B ALVES BARBOSA",
+        "cnpj": 28950055000181,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 88
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "28950055000181-Ipaumirim-CE-J B ALVES BARBOSA-Pessoa Física",
+        "cidade": "Ipaumirim",
+        "uf": "CE",
+        "latitude": -6.782648,
+        "longitude": -38.717856,
+        "empresa": "J B ALVES BARBOSA",
+        "cnpj": 28950055000181,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 108
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 45
+            }
+        ]
+    },
+    {
+        "identifier": "28950055000181-Umari-CE-J B ALVES BARBOSA-Pessoa Física",
+        "cidade": "Umari",
+        "uf": "CE",
+        "latitude": -6.638926,
+        "longitude": -38.700798,
+        "empresa": "J B ALVES BARBOSA",
+        "cnpj": 28950055000181,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 106
+            }
+        ]
+    },
+    {
         "identifier": "29332118000107-Aracoiaba-CE-J R Net Ltda-Pessoa Física",
         "cidade": "Aracoiaba",
         "uf": "CE",
@@ -14757,12 +16151,12 @@
         ]
     },
     {
-        "identifier": "29583795000190-Fortaleza-CE-INSTALE TELECOM LTDA-Pessoa Física",
+        "identifier": "29583795000190-Fortaleza-CE-Instale Servicos de Internet Ltda-Pessoa Física",
         "cidade": "Fortaleza",
         "uf": "CE",
         "latitude": -3.716638,
         "longitude": -38.542298,
-        "empresa": "INSTALE TELECOM LTDA",
+        "empresa": "Instale Servicos de Internet Ltda",
         "cnpj": 29583795000190,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -15135,6 +16529,25 @@
         ]
     },
     {
+        "identifier": "31146761000180-Fortaleza-CE-H D DE SOUSA PROVEDORES-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "H D DE SOUSA PROVEDORES",
+        "cnpj": 31146761000180,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 67
+            }
+        ]
+    },
+    {
         "identifier": "31159082000145-Beberibe-CE-PROVEDORNET INTERNET SERVIÇOS DE TELECOMUNICAÇÕES LTDA-Pessoa Física",
         "cidade": "Beberibe",
         "uf": "CE",
@@ -15150,6 +16563,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1283
+            }
+        ]
+    },
+    {
+        "identifier": "31380530000136-Caucaia-CE-VAGNET PROVEDOR DE INTERNET LTDA-Pessoa Física",
+        "cidade": "Caucaia",
+        "uf": "CE",
+        "latitude": -3.727966,
+        "longitude": -38.661931,
+        "empresa": "VAGNET PROVEDOR DE INTERNET LTDA",
+        "cnpj": 31380530000136,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 77
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 239
             }
         ]
     },
@@ -15357,6 +16795,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 43
+            }
+        ]
+    },
+    {
+        "identifier": "32497041000121-Fortaleza-CE-L P Fonseca Comunicacoes-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "L P Fonseca Comunicacoes",
+        "cnpj": 32497041000121,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 982
             }
         ]
     },
@@ -15619,6 +17076,25 @@
         ]
     },
     {
+        "identifier": "33935226000133-Maranguape-CE-RONEY JUNIOR DA SILVA LIMA-Pessoa Física",
+        "cidade": "Maranguape",
+        "uf": "CE",
+        "latitude": -3.891432,
+        "longitude": -38.682911,
+        "empresa": "RONEY JUNIOR DA SILVA LIMA",
+        "cnpj": 33935226000133,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 225
+            }
+        ]
+    },
+    {
         "identifier": "33958295000162-Maranguape-CE-FF SERVICOS E COMUNICACOES LTDA-Pessoa Física",
         "cidade": "Maranguape",
         "uf": "CE",
@@ -15634,6 +17110,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 462
+            }
+        ]
+    },
+    {
+        "identifier": "33962442000178-Itapipoca-CE-R Link Telecom Ltda-Pessoa Física",
+        "cidade": "Itapipoca",
+        "uf": "CE",
+        "latitude": -3.499329,
+        "longitude": -39.583571,
+        "empresa": "R Link Telecom Ltda",
+        "cnpj": 33962442000178,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 63
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 53
             }
         ]
     },
@@ -15734,13 +17235,13 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 18
+                "quantidade-acesso": 17
             },
             {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 42
+                "quantidade-acesso": 40
             }
         ]
     },
@@ -15766,6 +17267,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "34141681000120-Maranguape-CE-ANTONIA SUELEN VIEIRA DA SILVA-Pessoa Física",
+        "cidade": "Maranguape",
+        "uf": "CE",
+        "latitude": -3.891432,
+        "longitude": -38.682911,
+        "empresa": "ANTONIA SUELEN VIEIRA DA SILVA",
+        "cnpj": 34141681000120,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 242
             }
         ]
     },
@@ -15920,6 +17440,25 @@
         ]
     },
     {
+        "identifier": "34649907000106-Horizonte-CE-V. A. DE ARAUJO-Pessoa Física",
+        "cidade": "Horizonte",
+        "uf": "CE",
+        "latitude": -4.120896,
+        "longitude": -38.470674,
+        "empresa": "V. A. DE ARAUJO",
+        "cnpj": 34649907000106,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 175
+            }
+        ]
+    },
+    {
         "identifier": "34880439000178-Fortaleza-CE-LCE TELECOM EIRELI-Pessoa Física",
         "cidade": "Fortaleza",
         "uf": "CE",
@@ -16035,6 +17574,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 105
+            }
+        ]
+    },
+    {
+        "identifier": "34936897000181-Aracati-CE-Naiane da Costa Ribeiro 05410500369-Pessoa Física",
+        "cidade": "Aracati",
+        "uf": "CE",
+        "latitude": -4.558259,
+        "longitude": -37.767894,
+        "empresa": "Naiane da Costa Ribeiro 05410500369",
+        "cnpj": 34936897000181,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 130
             }
         ]
     },
@@ -16600,6 +18158,25 @@
         ]
     },
     {
+        "identifier": "37583645000104-Aquiraz-CE-AQUIRAZ SERVICOS DE INTERNET LTDA-Pessoa Física",
+        "cidade": "Aquiraz",
+        "uf": "CE",
+        "latitude": -3.899293,
+        "longitude": -38.389563,
+        "empresa": "AQUIRAZ SERVICOS DE INTERNET LTDA",
+        "cnpj": 37583645000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 379
+            }
+        ]
+    },
+    {
         "identifier": "37699018000133-Frecheirinha-CE-Francisco Lima Pereira-Pessoa Física",
         "cidade": "Frecheirinha",
         "uf": "CE",
@@ -16779,6 +18356,44 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 57
+            }
+        ]
+    },
+    {
+        "identifier": "38392305000169-Assaré-CE-Agamenon Fernandes Nobre-Pessoa Física",
+        "cidade": "Assaré",
+        "uf": "CE",
+        "latitude": -6.866897,
+        "longitude": -39.868872,
+        "empresa": "Agamenon Fernandes Nobre",
+        "cnpj": 38392305000169,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 77
+            }
+        ]
+    },
+    {
+        "identifier": "38493669000135-Cascavel-CE-IPLINK PROVEDORIA EM INTERNET LTDA-Pessoa Física",
+        "cidade": "Cascavel",
+        "uf": "CE",
+        "latitude": -4.129666,
+        "longitude": -38.241178,
+        "empresa": "IPLINK PROVEDORIA EM INTERNET LTDA",
+        "cnpj": 38493669000135,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -18097,6 +19712,342 @@
         ]
     },
     {
+        "identifier": "44409955000172-Abaiara-CE-Top Conexoes Ltda-Pessoa Física",
+        "cidade": "Abaiara",
+        "uf": "CE",
+        "latitude": -7.345879,
+        "longitude": -39.04159,
+        "empresa": "Top Conexoes Ltda",
+        "cnpj": 44409955000172,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "identifier": "44409955000172-Barbalha-CE-Top Conexoes Ltda-Pessoa Física",
+        "cidade": "Barbalha",
+        "uf": "CE",
+        "latitude": -7.298203,
+        "longitude": -39.30208,
+        "empresa": "Top Conexoes Ltda",
+        "cnpj": 44409955000172,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 43
+            }
+        ]
+    },
+    {
+        "identifier": "44409955000172-Brejo Santo-CE-Top Conexoes Ltda-Pessoa Física",
+        "cidade": "Brejo Santo",
+        "uf": "CE",
+        "latitude": -7.484686,
+        "longitude": -38.979911,
+        "empresa": "Top Conexoes Ltda",
+        "cnpj": 44409955000172,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 199
+            }
+        ]
+    },
+    {
+        "identifier": "44409955000172-Crato-CE-Top Conexoes Ltda-Pessoa Física",
+        "cidade": "Crato",
+        "uf": "CE",
+        "latitude": -7.215303,
+        "longitude": -39.410299,
+        "empresa": "Top Conexoes Ltda",
+        "cnpj": 44409955000172,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "44409955000172-Juazeiro do Norte-CE-Top Conexoes Ltda-Pessoa Física",
+        "cidade": "Juazeiro do Norte",
+        "uf": "CE",
+        "latitude": -7.196207,
+        "longitude": -39.307593,
+        "empresa": "Top Conexoes Ltda",
+        "cnpj": 44409955000172,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 194
+            }
+        ]
+    },
+    {
+        "identifier": "44409955000172-Mauriti-CE-Top Conexoes Ltda-Pessoa Física",
+        "cidade": "Mauriti",
+        "uf": "CE",
+        "latitude": -7.385974,
+        "longitude": -38.770786,
+        "empresa": "Top Conexoes Ltda",
+        "cnpj": 44409955000172,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 384
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 205
+            }
+        ]
+    },
+    {
+        "identifier": "44409955000172-Milagres-CE-Top Conexoes Ltda-Pessoa Física",
+        "cidade": "Milagres",
+        "uf": "CE",
+        "latitude": -7.297492,
+        "longitude": -38.937829,
+        "empresa": "Top Conexoes Ltda",
+        "cnpj": 44409955000172,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 357
+            }
+        ]
+    },
+    {
+        "identifier": "44409955000172-Penaforte-CE-Top Conexoes Ltda-Pessoa Física",
+        "cidade": "Penaforte",
+        "uf": "CE",
+        "latitude": -7.82163,
+        "longitude": -39.070724,
+        "empresa": "Top Conexoes Ltda",
+        "cnpj": 44409955000172,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 61
+            }
+        ]
+    },
+    {
+        "identifier": "44409955000172-Porteiras-CE-Top Conexoes Ltda-Pessoa Física",
+        "cidade": "Porteiras",
+        "uf": "CE",
+        "latitude": -7.522647,
+        "longitude": -39.114028,
+        "empresa": "Top Conexoes Ltda",
+        "cnpj": 44409955000172,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "44494332000145-Icó-CE-Armamel Comercio e Servicos de Comunicacoes do Brasil Ltda-Pessoa Física",
+        "cidade": "Icó",
+        "uf": "CE",
+        "latitude": -6.396271,
+        "longitude": -38.855352,
+        "empresa": "Armamel Comercio e Servicos de Comunicacoes do Brasil Ltda",
+        "cnpj": 44494332000145,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 49
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 37
+            }
+        ]
+    },
+    {
+        "identifier": "44494332000145-Iguatu-CE-Armamel Comercio e Servicos de Comunicacoes do Brasil Ltda-Pessoa Física",
+        "cidade": "Iguatu",
+        "uf": "CE",
+        "latitude": -6.362806,
+        "longitude": -39.28915,
+        "empresa": "Armamel Comercio e Servicos de Comunicacoes do Brasil Ltda",
+        "cnpj": 44494332000145,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 52
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 32
+            }
+        ]
+    },
+    {
+        "identifier": "44494332000145-Orós-CE-Armamel Comercio e Servicos de Comunicacoes do Brasil Ltda-Pessoa Física",
+        "cidade": "Orós",
+        "uf": "CE",
+        "latitude": -6.251816,
+        "longitude": -38.905264,
+        "empresa": "Armamel Comercio e Servicos de Comunicacoes do Brasil Ltda",
+        "cnpj": 44494332000145,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 45
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 40
+            }
+        ]
+    },
+    {
         "identifier": "44867115000153-Caucaia-CE-Ricardo Alcantara Gomes-Pessoa Física",
         "cidade": "Caucaia",
         "uf": "CE",
@@ -18948,6 +20899,132 @@
         ]
     },
     {
+        "identifier": "46871189000199-Fortaleza-CE-Link Ceara Telecom Ltda-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "Link Ceara Telecom Ltda",
+        "cnpj": 46871189000199,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2311
+            }
+        ]
+    },
+    {
+        "identifier": "46871189000199-Maracanaú-CE-Link Ceara Telecom Ltda-Pessoa Física",
+        "cidade": "Maracanaú",
+        "uf": "CE",
+        "latitude": -3.86699,
+        "longitude": -38.625901,
+        "empresa": "Link Ceara Telecom Ltda",
+        "cnpj": 46871189000199,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "46871189000199-Maranguape-CE-Link Ceara Telecom Ltda-Pessoa Física",
+        "cidade": "Maranguape",
+        "uf": "CE",
+        "latitude": -3.891432,
+        "longitude": -38.682911,
+        "empresa": "Link Ceara Telecom Ltda",
+        "cnpj": 46871189000199,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 464
+            }
+        ]
+    },
+    {
+        "identifier": "46871189000199-Pacatuba-CE-Link Ceara Telecom Ltda-Pessoa Física",
+        "cidade": "Pacatuba",
+        "uf": "CE",
+        "latitude": -3.978396,
+        "longitude": -38.618296,
+        "empresa": "Link Ceara Telecom Ltda",
+        "cnpj": 46871189000199,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 501
+            }
+        ]
+    },
+    {
+        "identifier": "47157172000137-Camocim-CE-Open Telecom Ltda-Pessoa Física",
+        "cidade": "Camocim",
+        "uf": "CE",
+        "latitude": -2.900499,
+        "longitude": -40.854362,
+        "empresa": "Open Telecom Ltda",
+        "cnpj": 47157172000137,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 27
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 86
+            }
+        ]
+    },
+    {
+        "identifier": "47157172000137-Chaval-CE-Open Telecom Ltda-Pessoa Física",
+        "cidade": "Chaval",
+        "uf": "CE",
+        "latitude": -3.035708,
+        "longitude": -41.24346,
+        "empresa": "Open Telecom Ltda",
+        "cnpj": 47157172000137,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 22
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 103
+            }
+        ]
+    },
+    {
         "identifier": "48557444000159-Forquilha-CE-Lokal Fibra Ltda-Pessoa Física",
         "cidade": "Forquilha",
         "uf": "CE",
@@ -18982,6 +21059,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 34
+            }
+        ]
+    },
+    {
+        "identifier": "50019448000125-Milhã-CE-Marcos A de Andrade-Pessoa Física",
+        "cidade": "Milhã",
+        "uf": "CE",
+        "latitude": -5.672525,
+        "longitude": -39.187483,
+        "empresa": "Marcos A de Andrade",
+        "cnpj": 50019448000125,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 209
             }
         ]
     },
@@ -19311,6 +21407,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "73346421000142-Senador Pompeu-CE-MARIA DE FATIMA SILVA MARCELINO & CIA LTDA ME-Pessoa Física",
+        "cidade": "Senador Pompeu",
+        "uf": "CE",
+        "latitude": -5.582444,
+        "longitude": -39.370369,
+        "empresa": "MARIA DE FATIMA SILVA MARCELINO & CIA LTDA ME",
+        "cnpj": 73346421000142,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 510
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 116
             }
         ]
     },

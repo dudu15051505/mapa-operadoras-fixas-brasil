@@ -13,32 +13,14 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 88
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 10
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 103
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 154
+                "quantidade-acesso": 146
             },
             {
                 "tecnologia": "FR",

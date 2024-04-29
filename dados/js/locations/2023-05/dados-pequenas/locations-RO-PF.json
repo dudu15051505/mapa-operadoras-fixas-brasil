@@ -19,12 +19,12 @@
         ]
     },
     {
-        "identifier": "2072246000102-Nova Mamoré-RO-VIEIRA SALMIM CAMINHA CAO LTDA-Pessoa Física",
+        "identifier": "2072246000102-Nova Mamoré-RO-VIEIRA SALMIM CAMINHA LTDA-Pessoa Física",
         "cidade": "Nova Mamoré",
         "uf": "RO",
         "latitude": -10.407697,
         "longitude": -65.334596,
-        "empresa": "VIEIRA SALMIM CAMINHA CAO LTDA",
+        "empresa": "VIEIRA SALMIM CAMINHA LTDA",
         "cnpj": 2072246000102,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -677,6 +677,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "7970058000107-Ministro Andreazza-RO-L DA SILVA DOS SANTOS INFORMATICA-Pessoa Física",
+        "cidade": "Ministro Andreazza",
+        "uf": "RO",
+        "latitude": -11.19596,
+        "longitude": -61.517437,
+        "empresa": "L DA SILVA DOS SANTOS INFORMATICA",
+        "cnpj": 7970058000107,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 333
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -2297,12 +2322,12 @@
         ]
     },
     {
-        "identifier": "11072400000129-Colorado do Oeste-RO-VANDERLEIA ROSA DEAMBROSIO EIRELI-Pessoa Física",
+        "identifier": "11072400000129-Colorado do Oeste-RO-CPW TELECOM LTDA-Pessoa Física",
         "cidade": "Colorado do Oeste",
         "uf": "RO",
         "latitude": -13.117431,
         "longitude": -60.545428,
-        "empresa": "VANDERLEIA ROSA DEAMBROSIO EIRELI",
+        "empresa": "CPW TELECOM LTDA",
         "cnpj": 11072400000129,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2611,12 +2636,12 @@
         ]
     },
     {
-        "identifier": "12973083000184-Porto Velho-RO-OLLA COMUNICAÇÃO LTDA-Pessoa Física",
+        "identifier": "12973083000184-Porto Velho-RO-OLLA SERVIÇOS & INTERNET LTDA-Pessoa Física",
         "cidade": "Porto Velho",
         "uf": "RO",
         "latitude": -8.760772,
         "longitude": -63.899902,
-        "empresa": "OLLA COMUNICAÇÃO LTDA",
+        "empresa": "OLLA SERVIÇOS & INTERNET LTDA",
         "cnpj": 12973083000184,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2625,13 +2650,19 @@
                 "tecnologia": "FTTB",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 73
+                "quantidade-acesso": 64
             },
             {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 126
+                "quantidade-acesso": 125
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -2736,12 +2767,12 @@
         ]
     },
     {
-        "identifier": "13937361000100-Governador Jorge Teixeira-RO-J. L. PEREIRA-Pessoa Física",
+        "identifier": "13937361000100-Governador Jorge Teixeira-RO-WEB NORTE TELECOM LTDA-Pessoa Física",
         "cidade": "Governador Jorge Teixeira",
         "uf": "RO",
         "latitude": -10.610031,
         "longitude": -62.737071,
-        "empresa": "J. L. PEREIRA",
+        "empresa": "WEB NORTE TELECOM LTDA",
         "cnpj": 13937361000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2755,12 +2786,12 @@
         ]
     },
     {
-        "identifier": "13937361000100-Jaru-RO-J. L. PEREIRA-Pessoa Física",
+        "identifier": "13937361000100-Jaru-RO-WEB NORTE TELECOM LTDA-Pessoa Física",
         "cidade": "Jaru",
         "uf": "RO",
         "latitude": -10.431826,
         "longitude": -62.478769,
-        "empresa": "J. L. PEREIRA",
+        "empresa": "WEB NORTE TELECOM LTDA",
         "cnpj": 13937361000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2780,12 +2811,12 @@
         ]
     },
     {
-        "identifier": "13937361000100-Nova União-RO-J. L. PEREIRA-Pessoa Física",
+        "identifier": "13937361000100-Nova União-RO-WEB NORTE TELECOM LTDA-Pessoa Física",
         "cidade": "Nova União",
         "uf": "RO",
         "latitude": -10.90681,
         "longitude": -62.556368,
-        "empresa": "J. L. PEREIRA",
+        "empresa": "WEB NORTE TELECOM LTDA",
         "cnpj": 13937361000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2805,12 +2836,12 @@
         ]
     },
     {
-        "identifier": "13937361000100-Ouro Preto do Oeste-RO-J. L. PEREIRA-Pessoa Física",
+        "identifier": "13937361000100-Ouro Preto do Oeste-RO-WEB NORTE TELECOM LTDA-Pessoa Física",
         "cidade": "Ouro Preto do Oeste",
         "uf": "RO",
         "latitude": -10.716717,
         "longitude": -62.256532,
-        "empresa": "J. L. PEREIRA",
+        "empresa": "WEB NORTE TELECOM LTDA",
         "cnpj": 13937361000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2830,12 +2861,12 @@
         ]
     },
     {
-        "identifier": "13937361000100-Urupá-RO-J. L. PEREIRA-Pessoa Física",
+        "identifier": "13937361000100-Urupá-RO-WEB NORTE TELECOM LTDA-Pessoa Física",
         "cidade": "Urupá",
         "uf": "RO",
         "latitude": -11.126123,
         "longitude": -62.363895,
-        "empresa": "J. L. PEREIRA",
+        "empresa": "WEB NORTE TELECOM LTDA",
         "cnpj": 13937361000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -3928,6 +3959,25 @@
         ]
     },
     {
+        "identifier": "26677212000100-Nova Mamoré-RO-L.H CORA DA SILVEIRA - ME-Pessoa Física",
+        "cidade": "Nova Mamoré",
+        "uf": "RO",
+        "latitude": -10.407697,
+        "longitude": -65.334596,
+        "empresa": "L.H CORA DA SILVEIRA - ME",
+        "cnpj": 26677212000100,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "27001440000110-Alta Floresta D'Oeste-RO-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
         "cidade": "Alta Floresta D'Oeste",
         "uf": "RO",
@@ -4679,12 +4729,12 @@
         ]
     },
     {
-        "identifier": "30606499000146-Nova Mamoré-RO-Rocha, Vieira e Caminha Ltda-Pessoa Física",
+        "identifier": "30606499000146-Nova Mamoré-RO-ROCHA E CAMINHA LTDA.-Pessoa Física",
         "cidade": "Nova Mamoré",
         "uf": "RO",
         "latitude": -10.407697,
         "longitude": -65.334596,
-        "empresa": "Rocha, Vieira e Caminha Ltda",
+        "empresa": "ROCHA E CAMINHA LTDA.",
         "cnpj": 30606499000146,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -4710,12 +4760,12 @@
         ]
     },
     {
-        "identifier": "30606499000146-Porto Velho-RO-Rocha, Vieira e Caminha Ltda-Pessoa Física",
+        "identifier": "30606499000146-Porto Velho-RO-ROCHA E CAMINHA LTDA.-Pessoa Física",
         "cidade": "Porto Velho",
         "uf": "RO",
         "latitude": -8.760772,
         "longitude": -63.899902,
-        "empresa": "Rocha, Vieira e Caminha Ltda",
+        "empresa": "ROCHA E CAMINHA LTDA.",
         "cnpj": 30606499000146,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -4741,12 +4791,12 @@
         ]
     },
     {
-        "identifier": "30606499000146-São Miguel do Guaporé-RO-Rocha, Vieira e Caminha Ltda-Pessoa Física",
+        "identifier": "30606499000146-São Miguel do Guaporé-RO-ROCHA E CAMINHA LTDA.-Pessoa Física",
         "cidade": "São Miguel do Guaporé",
         "uf": "RO",
         "latitude": -11.69527,
         "longitude": -62.719222,
-        "empresa": "Rocha, Vieira e Caminha Ltda",
+        "empresa": "ROCHA E CAMINHA LTDA.",
         "cnpj": 30606499000146,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -4799,13 +4849,13 @@
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 63
+                "quantidade-acesso": 61
             },
             {
                 "tecnologia": "Wi-Fi",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 250
+                "quantidade-acesso": 251
             }
         ]
     },
@@ -5105,12 +5155,12 @@
         ]
     },
     {
-        "identifier": "38162884000153-Jaru-RO-N S TELECOM LTDA-Pessoa Física",
+        "identifier": "38162884000153-Jaru-RO-N S SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Jaru",
         "uf": "RO",
         "latitude": -10.431826,
         "longitude": -62.478769,
-        "empresa": "N S TELECOM LTDA",
+        "empresa": "N S SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 38162884000153,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5483,12 +5533,12 @@
         ]
     },
     {
-        "identifier": "84591775000179-Alta Floresta D'Oeste-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Física",
+        "identifier": "84591775000179-Alta Floresta D'Oeste-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Física",
         "cidade": "Alta Floresta D'Oeste",
         "uf": "RO",
         "latitude": -11.928669,
         "longitude": -61.99875,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5502,12 +5552,12 @@
         ]
     },
     {
-        "identifier": "84591775000179-Alto Alegre dos Parecis-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Física",
+        "identifier": "84591775000179-Alto Alegre dos Parecis-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Física",
         "cidade": "Alto Alegre dos Parecis",
         "uf": "RO",
         "latitude": -12.131955,
         "longitude": -61.834979,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5521,12 +5571,12 @@
         ]
     },
     {
-        "identifier": "84591775000179-Machadinho D'Oeste-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Física",
+        "identifier": "84591775000179-Machadinho D'Oeste-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Física",
         "cidade": "Machadinho D'Oeste",
         "uf": "RO",
         "latitude": -9.443158,
         "longitude": -61.996396,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5540,12 +5590,12 @@
         ]
     },
     {
-        "identifier": "84591775000179-Pimenta Bueno-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Física",
+        "identifier": "84591775000179-Pimenta Bueno-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Física",
         "cidade": "Pimenta Bueno",
         "uf": "RO",
         "latitude": -11.671959,
         "longitude": -61.197963,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5565,12 +5615,12 @@
         ]
     },
     {
-        "identifier": "84591775000179-São Francisco do Guaporé-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Física",
+        "identifier": "84591775000179-São Francisco do Guaporé-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Física",
         "cidade": "São Francisco do Guaporé",
         "uf": "RO",
         "latitude": -12.051977,
         "longitude": -63.567968,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5584,12 +5634,12 @@
         ]
     },
     {
-        "identifier": "84591775000179-São Miguel do Guaporé-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Física",
+        "identifier": "84591775000179-São Miguel do Guaporé-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Física",
         "cidade": "São Miguel do Guaporé",
         "uf": "RO",
         "latitude": -11.69527,
         "longitude": -62.719222,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5609,12 +5659,12 @@
         ]
     },
     {
-        "identifier": "84591775000179-Vale do Anari-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Física",
+        "identifier": "84591775000179-Vale do Anari-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Física",
         "cidade": "Vale do Anari",
         "uf": "RO",
         "latitude": -9.862155,
         "longitude": -62.187649,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",

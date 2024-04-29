@@ -14,7 +14,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -71,7 +71,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 27
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -90,26 +90,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 12
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Araguanã-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Araguanã",
-        "uf": "TO",
-        "latitude": -6.582247,
-        "longitude": -48.639542,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -185,7 +166,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 69
+                "quantidade-acesso": 12
             }
         ]
     },
@@ -204,7 +185,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 20
+                "quantidade-acesso": 10
             }
         ]
     },
@@ -223,7 +204,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 36
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -242,7 +223,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 29
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -299,7 +280,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 18
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -323,25 +304,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Brasilândia do Tocantins-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Brasilândia do Tocantins",
-        "uf": "TO",
-        "latitude": -8.389182,
-        "longitude": -48.482213,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Buriti do Tocantins-TO-HUGHES-Pessoa Jurídica",
         "cidade": "Buriti do Tocantins",
         "uf": "TO",
@@ -357,25 +319,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
                 "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Carmolândia-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Carmolândia",
-        "uf": "TO",
-        "latitude": -7.032616,
-        "longitude": -48.397809,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
             }
         ]
     },
@@ -399,63 +342,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Caseara-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Caseara",
-        "uf": "TO",
-        "latitude": -9.276121,
-        "longitude": -49.952123,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 22
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Centenário-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Centenário",
-        "uf": "TO",
-        "latitude": -8.961031,
-        "longitude": -47.330382,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Chapada da Natividade-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Chapada da Natividade",
-        "uf": "TO",
-        "latitude": -11.617507,
-        "longitude": -47.748614,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Colinas do Tocantins-TO-HUGHES-Pessoa Jurídica",
         "cidade": "Colinas do Tocantins",
         "uf": "TO",
@@ -470,26 +356,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Colméia-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Colméia",
-        "uf": "TO",
-        "latitude": -8.724627,
-        "longitude": -48.763753,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 13
+                "quantidade-acesso": 6
             }
         ]
     },
@@ -513,25 +380,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Conceição do Tocantins-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Conceição do Tocantins",
-        "uf": "TO",
-        "latitude": -12.220874,
-        "longitude": -47.295103,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 25
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Couto Magalhães-TO-HUGHES-Pessoa Jurídica",
         "cidade": "Couto Magalhães",
         "uf": "TO",
@@ -546,7 +394,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 16
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -565,7 +413,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 23
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -603,7 +451,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 15
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -622,7 +470,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 34
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -684,25 +532,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Fortaleza do Tabocão-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Fortaleza do Tabocão",
-        "uf": "TO",
-        "latitude": -9.056106,
-        "longitude": -48.520563,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Goianorte-TO-HUGHES-Pessoa Jurídica",
         "cidade": "Goianorte",
         "uf": "TO",
@@ -717,7 +546,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 24
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -779,25 +608,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Ipueiras-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Ipueiras",
-        "uf": "TO",
-        "latitude": -11.2329,
-        "longitude": -48.460024,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Itacajá-TO-HUGHES-Pessoa Jurídica",
         "cidade": "Itacajá",
         "uf": "TO",
@@ -812,7 +622,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 59
+                "quantidade-acesso": 37
             }
         ]
     },
@@ -850,64 +660,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 21
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Itaporã do Tocantins-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Itaporã do Tocantins",
-        "uf": "TO",
-        "latitude": -8.571722,
-        "longitude": -48.689481,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Juarina-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Juarina",
-        "uf": "TO",
-        "latitude": -8.119507,
-        "longitude": -49.064347,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Lagoa do Tocantins-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Lagoa do Tocantins",
-        "uf": "TO",
-        "latitude": -10.367977,
-        "longitude": -47.537979,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -926,26 +679,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 15
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Lavandeira-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Lavandeira",
-        "uf": "TO",
-        "latitude": -12.78473,
-        "longitude": -46.509894,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -964,7 +698,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -983,7 +717,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1059,7 +793,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 22
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -1078,7 +812,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1097,7 +831,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 22
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1135,7 +869,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 21
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -1154,7 +888,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -1173,7 +907,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 11
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -1211,7 +945,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 36
+                "quantidade-acesso": 15
             }
         ]
     },
@@ -1230,7 +964,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 122
+                "quantidade-acesso": 10
             }
         ]
     },
@@ -1254,25 +988,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Pau D'Arco-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Pau D'Arco",
-        "uf": "TO",
-        "latitude": -7.539109,
-        "longitude": -49.067282,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Pedro Afonso-TO-HUGHES-Pessoa Jurídica",
         "cidade": "Pedro Afonso",
         "uf": "TO",
@@ -1292,25 +1007,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Pequizeiro-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Pequizeiro",
-        "uf": "TO",
-        "latitude": -8.593204,
-        "longitude": -48.93269,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Pindorama do Tocantins-TO-HUGHES-Pessoa Jurídica",
         "cidade": "Pindorama do Tocantins",
         "uf": "TO",
@@ -1325,7 +1021,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 11
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -1344,7 +1040,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -1363,7 +1059,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 11
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1382,26 +1078,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 32
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Porto Alegre do Tocantins-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Porto Alegre do Tocantins",
-        "uf": "TO",
-        "latitude": -11.61797,
-        "longitude": -47.062126,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -1458,7 +1135,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -1477,26 +1154,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 12
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Riachinho-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Riachinho",
-        "uf": "TO",
-        "latitude": -6.440054,
-        "longitude": -48.137056,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -1515,7 +1173,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 45
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -1534,7 +1192,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -1553,7 +1211,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 20
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -1572,26 +1230,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 12
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Santa Rosa do Tocantins-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Santa Rosa do Tocantins",
-        "uf": "TO",
-        "latitude": -11.447392,
-        "longitude": -48.121627,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1610,7 +1249,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -1629,7 +1268,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -1672,25 +1311,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-São Salvador do Tocantins-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "São Salvador do Tocantins",
-        "uf": "TO",
-        "latitude": -12.745754,
-        "longitude": -48.235157,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-São Valério-TO-HUGHES-Pessoa Jurídica",
         "cidade": "São Valério",
         "uf": "TO",
@@ -1705,7 +1325,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -1743,26 +1363,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 36
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Taipas do Tocantins-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Taipas do Tocantins",
-        "uf": "TO",
-        "latitude": -12.187341,
-        "longitude": -46.979681,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 10
             }
         ]
     },
@@ -1824,25 +1425,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Tupiratins-TO-HUGHES-Pessoa Jurídica",
-        "cidade": "Tupiratins",
-        "uf": "TO",
-        "latitude": -8.39388,
-        "longitude": -48.127744,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Wanderlândia-TO-HUGHES-Pessoa Jurídica",
         "cidade": "Wanderlândia",
         "uf": "TO",
@@ -1857,7 +1439,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 14
+                "quantidade-acesso": 4
             }
         ]
     },

@@ -1,5 +1,68 @@
 [
     {
+        "identifier": "4101555000180-Bujari-AC-Staff Computer - Eireli-Pessoa Física",
+        "cidade": "Bujari",
+        "uf": "AC",
+        "latitude": -9.815277,
+        "longitude": -67.955029,
+        "empresa": "Staff Computer - Eireli",
+        "cnpj": 4101555000180,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 74
+            }
+        ]
+    },
+    {
+        "identifier": "4101555000180-Rio Branco-AC-Staff Computer - Eireli-Pessoa Física",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "Staff Computer - Eireli",
+        "cnpj": 4101555000180,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1723
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 70
+            }
+        ]
+    },
+    {
+        "identifier": "4101555000180-Senador Guiomard-AC-Staff Computer - Eireli-Pessoa Física",
+        "cidade": "Senador Guiomard",
+        "uf": "AC",
+        "latitude": -10.149686,
+        "longitude": -67.736185,
+        "empresa": "Staff Computer - Eireli",
+        "cnpj": 4101555000180,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 239
+            }
+        ]
+    },
+    {
         "identifier": "4420736000170-Tarauacá-AC-D. S. da Costa-Pessoa Física",
         "cidade": "Tarauacá",
         "uf": "AC",

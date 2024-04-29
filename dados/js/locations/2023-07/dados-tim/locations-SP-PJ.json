@@ -32,14 +32,8 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -63,25 +57,6 @@
         ]
     },
     {
-        "identifier": "2421421000111-Arujá-SP-TIM-Pessoa Jurídica",
-        "cidade": "Arujá",
-        "uf": "SP",
-        "latitude": -23.396476,
-        "longitude": -46.319983,
-        "empresa": "TIM",
-        "cnpj": 2421421000111,
-        "data-dados": "2023-07",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
         "identifier": "2421421000111-Barueri-SP-TIM-Pessoa Jurídica",
         "cidade": "Barueri",
         "uf": "SP",
@@ -95,26 +70,20 @@
             {
                 "tecnologia": "ATM",
                 "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 79
+                "quantidade-acesso": 80
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 218
+                "quantidade-acesso": 234
             }
         ]
     },
@@ -151,7 +120,7 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Rádio",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             }
         ]
@@ -189,14 +158,8 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 1
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -239,32 +202,14 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 5
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 66
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 73
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 16
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 20
             },
             {
                 "tecnologia": "FTTH",
@@ -326,7 +271,7 @@
             {
                 "tecnologia": "ATM",
                 "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 3
             },
             {
@@ -339,26 +284,7 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 53
-            }
-        ]
-    },
-    {
-        "identifier": "2421421000111-Cubatão-SP-TIM-Pessoa Jurídica",
-        "cidade": "Cubatão",
-        "uf": "SP",
-        "latitude": -23.891121,
-        "longitude": -46.423968,
-        "empresa": "TIM",
-        "cnpj": 2421421000111,
-        "data-dados": "2023-07",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 59
             }
         ]
     },
@@ -377,7 +303,7 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 13
+                "quantidade-acesso": 23
             },
             {
                 "tecnologia": "ETHERNET",
@@ -407,7 +333,7 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Rádio",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 2
             }
         ]
@@ -426,14 +352,8 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -476,7 +396,7 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             },
             {
@@ -526,25 +446,6 @@
         ]
     },
     {
-        "identifier": "2421421000111-Guarujá-SP-TIM-Pessoa Jurídica",
-        "cidade": "Guarujá",
-        "uf": "SP",
-        "latitude": -23.988798,
-        "longitude": -46.257959,
-        "empresa": "TIM",
-        "cnpj": 2421421000111,
-        "data-dados": "2023-07",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
         "identifier": "2421421000111-Guarulhos-SP-TIM-Pessoa Jurídica",
         "cidade": "Guarulhos",
         "uf": "SP",
@@ -558,20 +459,14 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 28
+                "quantidade-acesso": 22
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 3
             },
             {
                 "tecnologia": "FR",
@@ -584,25 +479,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 113
-            }
-        ]
-    },
-    {
-        "identifier": "2421421000111-Guará-SP-TIM-Pessoa Jurídica",
-        "cidade": "Guará",
-        "uf": "SP",
-        "latitude": -20.430162,
-        "longitude": -47.823626,
-        "empresa": "TIM",
-        "cnpj": 2421421000111,
-        "data-dados": "2023-07",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
             }
         ]
     },
@@ -621,19 +497,13 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 7
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 8
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 13
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -746,14 +616,8 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -790,7 +654,7 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             }
         ]
@@ -816,13 +680,13 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 21
+                "quantidade-acesso": 22
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -867,12 +731,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 4
-            },
-            {
-                "tecnologia": "FR",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
             },
             {
                 "tecnologia": "FTTH",
@@ -927,26 +785,14 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 31
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 35
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 30
+                "quantidade-acesso": 37
             },
             {
                 "tecnologia": "FR",
@@ -989,7 +835,7 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Rádio",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             }
         ]
@@ -1028,7 +874,7 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 8
             }
         ]
     },
@@ -1048,6 +894,12 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
             },
             {
                 "tecnologia": "FTTH",
@@ -1087,6 +939,12 @@
         "data-dados": "2023-07",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
+            {
+                "tecnologia": "ATM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
@@ -1128,25 +986,19 @@
             {
                 "tecnologia": "ATM",
                 "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 10
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             }
         ]
@@ -1203,7 +1055,7 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             }
         ]
@@ -1222,20 +1074,14 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 14
+                "quantidade-acesso": 16
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 25
+                "quantidade-acesso": 24
             }
         ]
     },
@@ -1253,20 +1099,14 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 24
+                "quantidade-acesso": 28
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 31
+                "quantidade-acesso": 25
             }
         ]
     },
@@ -1291,7 +1131,7 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 10
+                "quantidade-acesso": 9
             }
         ]
     },
@@ -1334,12 +1174,6 @@
             {
                 "tecnologia": "ATM",
                 "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ATM",
-                "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             },
@@ -1365,7 +1199,7 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             },
             {
@@ -1397,13 +1231,13 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 22
+                "quantidade-acesso": 23
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 11
+                "quantidade-acesso": 5
             },
             {
                 "tecnologia": "FR",
@@ -1427,14 +1261,8 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 5
             },
             {
                 "tecnologia": "ETHERNET",
@@ -1459,7 +1287,7 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1475,12 +1303,6 @@
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
-                "tecnologia": "ATM",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 8
-            },
-            {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
@@ -1490,7 +1312,7 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 36
+                "quantidade-acesso": 35
             }
         ]
     },
@@ -1508,20 +1330,8 @@
             {
                 "tecnologia": "ATM",
                 "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            },
-            {
-                "tecnologia": "ATM",
-                "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 23
-            },
-            {
-                "tecnologia": "ATM",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 36
             },
             {
                 "tecnologia": "ETHERNET",
@@ -1533,43 +1343,25 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 26
+                "quantidade-acesso": 1
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1134
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 7
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 1159
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 582
-            },
-            {
-                "tecnologia": "FR",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 576
             },
             {
                 "tecnologia": "FR",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 24
+                "quantidade-acesso": 28
             },
             {
                 "tecnologia": "FTTH",
@@ -1601,12 +1393,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
             }
         ]
     },
@@ -1631,7 +1417,7 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 1
             },
             {
                 "tecnologia": "FTTH",
@@ -1657,12 +1443,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
             }
         ]
     },

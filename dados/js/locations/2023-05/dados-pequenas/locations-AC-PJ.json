@@ -1,5 +1,495 @@
 [
     {
+        "identifier": "336701000104-Acrelândia-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Acrelândia",
+        "uf": "AC",
+        "latitude": -9.825808,
+        "longitude": -66.897166,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Assis Brasil-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Assis Brasil",
+        "uf": "AC",
+        "latitude": -10.929765,
+        "longitude": -69.573794,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Brasiléia-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Brasiléia",
+        "uf": "AC",
+        "latitude": -10.994994,
+        "longitude": -68.749696,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 27
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Bujari-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Bujari",
+        "uf": "AC",
+        "latitude": -9.815277,
+        "longitude": -67.955029,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Capixaba-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Capixaba",
+        "uf": "AC",
+        "latitude": -10.566031,
+        "longitude": -67.686006,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Cruzeiro do Sul-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Cruzeiro do Sul",
+        "uf": "AC",
+        "latitude": -7.627625,
+        "longitude": -72.675582,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 81
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Epitaciolândia-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Epitaciolândia",
+        "uf": "AC",
+        "latitude": -11.018771,
+        "longitude": -68.734109,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Feijó-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Feijó",
+        "uf": "AC",
+        "latitude": -8.170536,
+        "longitude": -70.350973,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 39
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Jordão-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Jordão",
+        "uf": "AC",
+        "latitude": -9.430912,
+        "longitude": -71.897391,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 16
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Manoel Urbano-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Manoel Urbano",
+        "uf": "AC",
+        "latitude": -8.832911,
+        "longitude": -69.267862,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Marechal Thaumaturgo-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Marechal Thaumaturgo",
+        "uf": "AC",
+        "latitude": -8.938983,
+        "longitude": -72.799704,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 31
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Mâncio Lima-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Mâncio Lima",
+        "uf": "AC",
+        "latitude": -7.616575,
+        "longitude": -72.899708,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 15
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Plácido de Castro-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Plácido de Castro",
+        "uf": "AC",
+        "latitude": -10.28064,
+        "longitude": -67.137133,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 25
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Porto Acre-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Porto Acre",
+        "uf": "AC",
+        "latitude": -9.581378,
+        "longitude": -67.547815,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 34
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Porto Walter-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Porto Walter",
+        "uf": "AC",
+        "latitude": -8.263233,
+        "longitude": -72.753747,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Rio Branco-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 92
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Rodrigues Alves-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Rodrigues Alves",
+        "uf": "AC",
+        "latitude": -7.738638,
+        "longitude": -72.661015,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 40
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Santa Rosa do Purus-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Santa Rosa do Purus",
+        "uf": "AC",
+        "latitude": -9.446515,
+        "longitude": -70.49025,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 19
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Sena Madureira-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Sena Madureira",
+        "uf": "AC",
+        "latitude": -9.063499,
+        "longitude": -68.671278,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 40
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Senador Guiomard-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Senador Guiomard",
+        "uf": "AC",
+        "latitude": -10.149686,
+        "longitude": -67.736185,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 21
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Tarauacá-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Tarauacá",
+        "uf": "AC",
+        "latitude": -8.156975,
+        "longitude": -70.772154,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 38
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Xapuri-AC-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Xapuri",
+        "uf": "AC",
+        "latitude": -10.651598,
+        "longitude": -68.496857,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
         "identifier": "357038000116-Rio Branco-AC-CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A-Pessoa Jurídica",
         "cidade": "Rio Branco",
         "uf": "AC",
@@ -84,6 +574,50 @@
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "4101555000180-Rio Branco-AC-Staff Computer - Eireli-Pessoa Jurídica",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "Staff Computer - Eireli",
+        "cnpj": 4101555000180,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 142
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "4101555000180-Senador Guiomard-AC-Staff Computer - Eireli-Pessoa Jurídica",
+        "cidade": "Senador Guiomard",
+        "uf": "AC",
+        "latitude": -10.149686,
+        "longitude": -67.736185,
+        "empresa": "Staff Computer - Eireli",
+        "cnpj": 4101555000180,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12
             }
         ]
     },
@@ -1247,12 +1781,12 @@
         ]
     },
     {
-        "identifier": "24996988000159-Rio Branco-AC-TELXE DO BRASIL TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "identifier": "24996988000159-Rio Branco-AC-RH ATIVA SERVIÇOS ESPECIALIZADOS LTDA.-Pessoa Jurídica",
         "cidade": "Rio Branco",
         "uf": "AC",
         "latitude": -9.97499,
         "longitude": -67.824348,
-        "empresa": "TELXE DO BRASIL TELECOMUNICACOES LTDA",
+        "empresa": "RH ATIVA SERVIÇOS ESPECIALIZADOS LTDA.",
         "cnpj": 24996988000159,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",

@@ -14,7 +14,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -33,7 +33,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 13
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -52,7 +52,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -90,7 +90,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 23
+                "quantidade-acesso": 10
             }
         ]
     },
@@ -109,7 +109,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -128,7 +128,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -147,7 +147,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 41
+                "quantidade-acesso": 8
             }
         ]
     },
@@ -166,7 +166,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -204,7 +204,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 17
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -223,7 +223,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -266,63 +266,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Armazém-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Armazém",
-        "uf": "SC",
-        "latitude": -28.244812,
-        "longitude": -49.021506,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Arvoredo-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Arvoredo",
-        "uf": "SC",
-        "latitude": -27.074816,
-        "longitude": -52.45426,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Ascurra-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Ascurra",
-        "uf": "SC",
-        "latitude": -26.954821,
-        "longitude": -49.37828,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Atalanta-SC-HUGHES-Pessoa Jurídica",
         "cidade": "Atalanta",
         "uf": "SC",
@@ -356,7 +299,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -375,7 +318,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -437,25 +380,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Bandeirante-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Bandeirante",
-        "uf": "SC",
-        "latitude": -26.770499,
-        "longitude": -53.641326,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Barra Bonita-SC-HUGHES-Pessoa Jurídica",
         "cidade": "Barra Bonita",
         "uf": "SC",
@@ -470,7 +394,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -489,7 +413,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 28
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -508,7 +432,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -527,7 +451,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -584,7 +508,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 42
+                "quantidade-acesso": 10
             }
         ]
     },
@@ -603,7 +527,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 23
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -622,7 +546,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -660,7 +584,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 22
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -736,7 +660,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -793,7 +717,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 12
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -831,7 +755,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 18
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -850,7 +774,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 17
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -869,7 +793,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -964,26 +888,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 57
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Caxambu do Sul-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Caxambu do Sul",
-        "uf": "SC",
-        "latitude": -27.162401,
-        "longitude": -52.880718,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -1007,25 +912,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Celso Ramos-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Celso Ramos",
-        "uf": "SC",
-        "latitude": -27.632708,
-        "longitude": -51.335003,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Cerro Negro-SC-HUGHES-Pessoa Jurídica",
         "cidade": "Cerro Negro",
         "uf": "SC",
@@ -1040,7 +926,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 30
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -1059,7 +945,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 24
+                "quantidade-acesso": 23
             }
         ]
     },
@@ -1154,7 +1040,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -1230,7 +1116,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -1254,25 +1140,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Descanso-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Descanso",
-        "uf": "SC",
-        "latitude": -26.826971,
-        "longitude": -53.503395,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Dionísio Cerqueira-SC-HUGHES-Pessoa Jurídica",
         "cidade": "Dionísio Cerqueira",
         "uf": "SC",
@@ -1292,68 +1159,11 @@
         ]
     },
     {
-        "identifier": "5206385000161-Dona Emma-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Dona Emma",
-        "uf": "SC",
-        "latitude": -26.980975,
-        "longitude": -49.726142,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Doutor Pedrinho-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Doutor Pedrinho",
-        "uf": "SC",
-        "latitude": -26.71737,
-        "longitude": -49.479495,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 16
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Entre Rios-SC-HUGHES-Pessoa Jurídica",
         "cidade": "Entre Rios",
         "uf": "SC",
         "latitude": -26.722474,
         "longitude": -52.558504,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Erval Velho-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Erval Velho",
-        "uf": "SC",
-        "latitude": -27.274321,
-        "longitude": -51.44299,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -1373,25 +1183,6 @@
         "uf": "SC",
         "latitude": -26.845104,
         "longitude": -52.259624,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 15
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Flor do Sertão-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Flor do Sertão",
-        "uf": "SC",
-        "latitude": -26.781143,
-        "longitude": -53.350522,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -1477,26 +1268,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 15
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Galvão-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Galvão",
-        "uf": "SC",
-        "latitude": -26.454934,
-        "longitude": -52.687528,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -1516,25 +1288,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
                 "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Garuva-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Garuva",
-        "uf": "SC",
-        "latitude": -26.029185,
-        "longitude": -48.852026,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
             }
         ]
     },
@@ -1577,25 +1330,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Grão Pará-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Grão Pará",
-        "uf": "SC",
-        "latitude": -28.180903,
-        "longitude": -49.225194,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Guabiruba-SC-HUGHES-Pessoa Jurídica",
         "cidade": "Guabiruba",
         "uf": "SC",
@@ -1629,7 +1363,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1667,7 +1401,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -1696,44 +1430,6 @@
         "uf": "SC",
         "latitude": -27.184658,
         "longitude": -51.235154,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Ibicaré-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Ibicaré",
-        "uf": "SC",
-        "latitude": -27.088141,
-        "longitude": -51.368101,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Ibirama-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Ibirama",
-        "uf": "SC",
-        "latitude": -27.054665,
-        "longitude": -49.519314,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -1781,7 +1477,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -1805,25 +1501,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Imbuia-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Imbuia",
-        "uf": "SC",
-        "latitude": -27.49082,
-        "longitude": -49.421766,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Indaial-SC-HUGHES-Pessoa Jurídica",
         "cidade": "Indaial",
         "uf": "SC",
@@ -1838,45 +1515,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Iomerê-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Iomerê",
-        "uf": "SC",
-        "latitude": -27.00192,
-        "longitude": -51.244227,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Iporã do Oeste-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Iporã do Oeste",
-        "uf": "SC",
-        "latitude": -26.985396,
-        "longitude": -53.535483,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -1895,7 +1534,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 20
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -1914,7 +1553,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 15
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -1933,7 +1572,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 11
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1952,7 +1591,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 20
+                "quantidade-acesso": 8
             }
         ]
     },
@@ -1990,7 +1629,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 54
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -2066,7 +1705,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -2085,7 +1724,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -2142,7 +1781,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -2161,7 +1800,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -2180,7 +1819,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -2242,25 +1881,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-José Boiteux-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "José Boiteux",
-        "uf": "SC",
-        "latitude": -26.956568,
-        "longitude": -49.62863,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 11
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Lages-SC-HUGHES-Pessoa Jurídica",
         "cidade": "Lages",
         "uf": "SC",
@@ -2299,25 +1919,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Laurentino-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Laurentino",
-        "uf": "SC",
-        "latitude": -27.217295,
-        "longitude": -49.733119,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Lauro Muller-SC-HUGHES-Pessoa Jurídica",
         "cidade": "Lauro Muller",
         "uf": "SC",
@@ -2332,7 +1933,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -2351,7 +1952,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 92
+                "quantidade-acesso": 16
             }
         ]
     },
@@ -2370,7 +1971,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -2389,7 +1990,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -2408,7 +2009,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 13
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -2427,7 +2028,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -2465,7 +2066,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 15
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -2484,7 +2085,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 15
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -2541,7 +2142,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 12
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -2560,7 +2161,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -2579,7 +2180,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -2598,7 +2199,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -2617,7 +2218,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -2636,7 +2237,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 14
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -2712,7 +2313,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -2731,7 +2332,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 17
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -2741,25 +2342,6 @@
         "uf": "SC",
         "latitude": -28.633772,
         "longitude": -49.505541,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Novo Horizonte-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Novo Horizonte",
-        "uf": "SC",
-        "latitude": -26.444218,
-        "longitude": -52.828104,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -2826,7 +2408,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -2845,7 +2427,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 28
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -2883,7 +2465,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 22
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -2902,7 +2484,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 29
+                "quantidade-acesso": 6
             }
         ]
     },
@@ -2921,26 +2503,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 18
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Paraíso-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Paraíso",
-        "uf": "SC",
-        "latitude": -26.620024,
-        "longitude": -53.671595,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -2959,7 +2522,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 67
+                "quantidade-acesso": 25
             }
         ]
     },
@@ -2997,7 +2560,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -3035,26 +2598,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Petrolândia-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Petrolândia",
-        "uf": "SC",
-        "latitude": -27.53463,
-        "longitude": -49.693747,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -3111,7 +2655,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 8
             }
         ]
     },
@@ -3130,7 +2674,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 27
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -3149,7 +2693,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -3168,7 +2712,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 24
+                "quantidade-acesso": 12
             }
         ]
     },
@@ -3225,45 +2769,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Praia Grande-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Praia Grande",
-        "uf": "SC",
-        "latitude": -29.191846,
-        "longitude": -49.952503,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Presidente Castello Branco-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Presidente Castello Branco",
-        "uf": "SC",
-        "latitude": -27.221742,
-        "longitude": -52.252792,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -3282,26 +2788,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Presidente Nereu-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Presidente Nereu",
-        "uf": "SC",
-        "latitude": -27.27683,
-        "longitude": -49.388938,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -3339,7 +2826,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -3358,7 +2845,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 14
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -3377,7 +2864,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -3396,7 +2883,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -3406,44 +2893,6 @@
         "uf": "SC",
         "latitude": -27.859191,
         "longitude": -49.775373,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Rio das Antas-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Rio das Antas",
-        "uf": "SC",
-        "latitude": -26.894615,
-        "longitude": -51.067414,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Rio do Campo-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Rio do Campo",
-        "uf": "SC",
-        "latitude": -26.945181,
-        "longitude": -50.136021,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -3491,26 +2940,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 24
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Rodeio-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Rodeio",
-        "uf": "SC",
-        "latitude": -26.924349,
-        "longitude": -49.36491,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 6
             }
         ]
     },
@@ -3520,25 +2950,6 @@
         "uf": "SC",
         "latitude": -26.680888,
         "longitude": -53.317193,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Salete-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Salete",
-        "uf": "SC",
-        "latitude": -26.97978,
-        "longitude": -49.998811,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -3558,25 +2969,6 @@
         "uf": "SC",
         "latitude": -26.604932,
         "longitude": -53.057763,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Sangão-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Sangão",
-        "uf": "SC",
-        "latitude": -28.632638,
-        "longitude": -49.132181,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -3624,7 +3016,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -3662,7 +3054,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -3681,7 +3073,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -3700,7 +3092,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -3757,7 +3149,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -3795,7 +3187,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -3833,7 +3225,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 26
+                "quantidade-acesso": 8
             }
         ]
     },
@@ -3909,7 +3301,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -3928,7 +3320,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 36
+                "quantidade-acesso": 9
             }
         ]
     },
@@ -3966,26 +3358,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-São João do Oeste-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "São João do Oeste",
-        "uf": "SC",
-        "latitude": -27.098353,
-        "longitude": -53.597657,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -4047,25 +3420,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-São Miguel da Boa Vista-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "São Miguel da Boa Vista",
-        "uf": "SC",
-        "latitude": -26.686961,
-        "longitude": -53.251107,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-São Miguel do Oeste-SC-HUGHES-Pessoa Jurídica",
         "cidade": "São Miguel do Oeste",
         "uf": "SC",
@@ -4118,7 +3472,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -4137,26 +3491,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 11
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Tigrinhos-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Tigrinhos",
-        "uf": "SC",
-        "latitude": -26.68761,
-        "longitude": -53.154529,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 10
             }
         ]
     },
@@ -4194,7 +3529,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -4232,7 +3567,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 42
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -4289,7 +3624,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -4332,25 +3667,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Turvo-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Turvo",
-        "uf": "SC",
-        "latitude": -28.927169,
-        "longitude": -49.683067,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Urubici-SC-HUGHES-Pessoa Jurídica",
         "cidade": "Urubici",
         "uf": "SC",
@@ -4365,7 +3681,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 49
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -4384,7 +3700,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 11
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -4408,25 +3724,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Vargem-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Vargem",
-        "uf": "SC",
-        "latitude": -27.486714,
-        "longitude": -50.972355,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Vargem Bonita-SC-HUGHES-Pessoa Jurídica",
         "cidade": "Vargem Bonita",
         "uf": "SC",
@@ -4441,7 +3738,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -4460,7 +3757,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 18
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -4479,7 +3776,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -4499,44 +3796,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
                 "quantidade-acesso": 4
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Vitor Meireles-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Vitor Meireles",
-        "uf": "SC",
-        "latitude": -26.878152,
-        "longitude": -49.832787,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Witmarsum-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Witmarsum",
-        "uf": "SC",
-        "latitude": -26.927487,
-        "longitude": -49.794675,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
             }
         ]
     },
@@ -4574,7 +3833,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -4612,26 +3871,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 50
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Águas Frias-SC-HUGHES-Pessoa Jurídica",
-        "cidade": "Águas Frias",
-        "uf": "SC",
-        "latitude": -26.879377,
-        "longitude": -52.856773,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 15
             }
         ]
     },
@@ -4669,7 +3909,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 1
             }
         ]
     }

@@ -33,13 +33,7 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -177,7 +171,7 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Rádio",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             }
         ]
@@ -291,38 +285,20 @@
             {
                 "tecnologia": "ATM",
                 "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ATM",
-                "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 8
-            },
-            {
-                "tecnologia": "ATM",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 10
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 1
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 52
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 56
             },
             {
                 "tecnologia": "ETHERNET",
@@ -447,7 +423,7 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Rádio",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             }
         ]

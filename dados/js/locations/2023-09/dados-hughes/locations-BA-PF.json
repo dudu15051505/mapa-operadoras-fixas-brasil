@@ -14,7 +14,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 34
+                "quantidade-acesso": 40
             }
         ]
     },
@@ -71,7 +71,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 9
             }
         ]
     },
@@ -109,7 +109,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 92
+                "quantidade-acesso": 218
             }
         ]
     },
@@ -185,7 +185,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 12
+                "quantidade-acesso": 14
             }
         ]
     },
@@ -261,7 +261,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -271,6 +271,25 @@
         "uf": "BA",
         "latitude": -10.385621,
         "longitude": -38.340118,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Antônio Cardoso-BA-HUGHES-Pessoa Física",
+        "cidade": "Antônio Cardoso",
+        "uf": "BA",
+        "latitude": -12.433493,
+        "longitude": -39.117555,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -299,7 +318,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -318,7 +337,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 17
+                "quantidade-acesso": 25
             }
         ]
     },
@@ -356,7 +375,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 9
             }
         ]
     },
@@ -375,7 +394,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 22
+                "quantidade-acesso": 37
             }
         ]
     },
@@ -394,7 +413,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 11
             }
         ]
     },
@@ -413,7 +432,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 79
+                "quantidade-acesso": 134
             }
         ]
     },
@@ -437,6 +456,25 @@
         ]
     },
     {
+        "identifier": "5206385000161-Baianópolis-BA-HUGHES-Pessoa Física",
+        "cidade": "Baianópolis",
+        "uf": "BA",
+        "latitude": -12.301641,
+        "longitude": -44.538829,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
         "identifier": "5206385000161-Baixa Grande-BA-HUGHES-Pessoa Física",
         "cidade": "Baixa Grande",
         "uf": "BA",
@@ -451,7 +489,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 21
+                "quantidade-acesso": 28
             }
         ]
     },
@@ -470,7 +508,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
+                "quantidade-acesso": 9
             }
         ]
     },
@@ -489,7 +527,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 11
             }
         ]
     },
@@ -527,7 +565,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 69
+                "quantidade-acesso": 173
             }
         ]
     },
@@ -546,7 +584,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
+                "quantidade-acesso": 20
             }
         ]
     },
@@ -584,7 +622,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -603,7 +641,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 41
+                "quantidade-acesso": 52
             }
         ]
     },
@@ -641,7 +679,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -660,7 +698,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 8
             }
         ]
     },
@@ -679,7 +717,45 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 81
+                "quantidade-acesso": 161
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Bom Jesus da Serra-BA-HUGHES-Pessoa Física",
+        "cidade": "Bom Jesus da Serra",
+        "uf": "BA",
+        "latitude": -14.366312,
+        "longitude": -40.512556,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Boninal-BA-HUGHES-Pessoa Física",
+        "cidade": "Boninal",
+        "uf": "BA",
+        "latitude": -12.706887,
+        "longitude": -41.828604,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -698,7 +774,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Brejolândia-BA-HUGHES-Pessoa Física",
+        "cidade": "Brejolândia",
+        "uf": "BA",
+        "latitude": -12.481547,
+        "longitude": -43.967855,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -717,7 +812,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 14
             }
         ]
     },
@@ -793,7 +888,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
+                "quantidade-acesso": 17
             }
         ]
     },
@@ -813,6 +908,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
                 "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Caetanos-BA-HUGHES-Pessoa Física",
+        "cidade": "Caetanos",
+        "uf": "BA",
+        "latitude": -14.334745,
+        "longitude": -40.917506,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -850,7 +964,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
+                "quantidade-acesso": 12
             }
         ]
     },
@@ -869,7 +983,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -907,7 +1021,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 43
+                "quantidade-acesso": 44
             }
         ]
     },
@@ -926,7 +1040,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 146
+                "quantidade-acesso": 205
             }
         ]
     },
@@ -945,7 +1059,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 40
+                "quantidade-acesso": 42
             }
         ]
     },
@@ -983,7 +1097,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 18
             }
         ]
     },
@@ -1078,7 +1192,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1097,7 +1211,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 65
+                "quantidade-acesso": 108
             }
         ]
     },
@@ -1135,7 +1249,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 59
+                "quantidade-acesso": 96
             }
         ]
     },
@@ -1178,6 +1292,25 @@
         ]
     },
     {
+        "identifier": "5206385000161-Caturama-BA-HUGHES-Pessoa Física",
+        "cidade": "Caturama",
+        "uf": "BA",
+        "latitude": -13.323938,
+        "longitude": -42.290385,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
         "identifier": "5206385000161-Caém-BA-HUGHES-Pessoa Física",
         "cidade": "Caém",
         "uf": "BA",
@@ -1192,7 +1325,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 9
             }
         ]
     },
@@ -1211,7 +1344,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -1344,7 +1477,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 76
+                "quantidade-acesso": 83
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Contendas do Sincorá-BA-HUGHES-Pessoa Física",
+        "cidade": "Contendas do Sincorá",
+        "uf": "BA",
+        "latitude": -13.75369,
+        "longitude": -41.047953,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -1363,7 +1515,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Cordeiros-BA-HUGHES-Pessoa Física",
+        "cidade": "Cordeiros",
+        "uf": "BA",
+        "latitude": -15.035641,
+        "longitude": -41.930796,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1382,7 +1553,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 17
             }
         ]
     },
@@ -1420,7 +1591,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 20
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Cristópolis-BA-HUGHES-Pessoa Física",
+        "cidade": "Cristópolis",
+        "uf": "BA",
+        "latitude": -12.224899,
+        "longitude": -44.421358,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1439,7 +1629,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1553,7 +1743,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
+                "quantidade-acesso": 17
             }
         ]
     },
@@ -1610,7 +1800,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 212
+                "quantidade-acesso": 213
             }
         ]
     },
@@ -1629,7 +1819,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 94
+                "quantidade-acesso": 95
             }
         ]
     },
@@ -1648,7 +1838,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 21
+                "quantidade-acesso": 29
             }
         ]
     },
@@ -1686,7 +1876,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Filadélfia-BA-HUGHES-Pessoa Física",
+        "cidade": "Filadélfia",
+        "uf": "BA",
+        "latitude": -10.740475,
+        "longitude": -40.14371,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -1705,7 +1914,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 10
             }
         ]
     },
@@ -1724,7 +1933,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 19
+                "quantidade-acesso": 36
             }
         ]
     },
@@ -1800,7 +2009,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 17
             }
         ]
     },
@@ -1819,7 +2028,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 11
             }
         ]
     },
@@ -1838,7 +2047,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 13
+                "quantidade-acesso": 17
             }
         ]
     },
@@ -1914,7 +2123,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
+                "quantidade-acesso": 12
             }
         ]
     },
@@ -1933,7 +2142,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 31
+                "quantidade-acesso": 44
             }
         ]
     },
@@ -1943,6 +2152,25 @@
         "uf": "BA",
         "latitude": -11.643775,
         "longitude": -42.019515,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Ibipitanga-BA-HUGHES-Pessoa Física",
+        "cidade": "Ibipitanga",
+        "uf": "BA",
+        "latitude": -12.880435,
+        "longitude": -42.485568,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -1971,7 +2199,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 21
+                "quantidade-acesso": 29
             }
         ]
     },
@@ -2009,7 +2237,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 55
+                "quantidade-acesso": 99
             }
         ]
     },
@@ -2047,7 +2275,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 14
+                "quantidade-acesso": 77
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Ibititá-BA-HUGHES-Pessoa Física",
+        "cidade": "Ibititá",
+        "uf": "BA",
+        "latitude": -11.541426,
+        "longitude": -41.97481,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -2066,7 +2313,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 29
+                "quantidade-acesso": 37
             }
         ]
     },
@@ -2142,7 +2389,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -2199,7 +2446,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 146
+                "quantidade-acesso": 155
             }
         ]
     },
@@ -2218,7 +2465,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -2237,7 +2484,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 21
+                "quantidade-acesso": 34
             }
         ]
     },
@@ -2256,7 +2503,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 20
             }
         ]
     },
@@ -2351,7 +2598,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 103
+                "quantidade-acesso": 203
             }
         ]
     },
@@ -2370,7 +2617,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -2465,7 +2712,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 14
             }
         ]
     },
@@ -2560,7 +2807,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 22
+                "quantidade-acesso": 31
             }
         ]
     },
@@ -2617,7 +2864,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 14
             }
         ]
     },
@@ -2693,7 +2940,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 18
+                "quantidade-acesso": 28
             }
         ]
     },
@@ -2712,7 +2959,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
+                "quantidade-acesso": 23
             }
         ]
     },
@@ -2750,7 +2997,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -2770,6 +3017,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
                 "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Itiúba-BA-HUGHES-Pessoa Física",
+        "cidade": "Itiúba",
+        "uf": "BA",
+        "latitude": -10.694761,
+        "longitude": -39.844616,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -2831,6 +3097,25 @@
         ]
     },
     {
+        "identifier": "5206385000161-Jacaraci-BA-HUGHES-Pessoa Física",
+        "cidade": "Jacaraci",
+        "uf": "BA",
+        "latitude": -14.85409,
+        "longitude": -42.432878,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "5206385000161-Jacobina-BA-HUGHES-Pessoa Física",
         "cidade": "Jacobina",
         "uf": "BA",
@@ -2883,7 +3168,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 25
             }
         ]
     },
@@ -2902,7 +3187,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 11
+                "quantidade-acesso": 27
             }
         ]
     },
@@ -2940,7 +3225,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 16
+                "quantidade-acesso": 29
             }
         ]
     },
@@ -2959,7 +3244,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 9
             }
         ]
     },
@@ -2978,7 +3263,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
+                "quantidade-acesso": 24
             }
         ]
     },
@@ -3016,7 +3301,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 13
             }
         ]
     },
@@ -3054,7 +3339,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 11
             }
         ]
     },
@@ -3073,7 +3358,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 21
+                "quantidade-acesso": 32
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Lagoa Real-BA-HUGHES-Pessoa Física",
+        "cidade": "Lagoa Real",
+        "uf": "BA",
+        "latitude": -14.033443,
+        "longitude": -42.132764,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -3092,7 +3396,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
+                "quantidade-acesso": 11
             }
         ]
     },
@@ -3111,7 +3415,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 18
             }
         ]
     },
@@ -3130,7 +3434,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 11
             }
         ]
     },
@@ -3149,7 +3453,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 11
             }
         ]
     },
@@ -3206,7 +3510,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 48
+                "quantidade-acesso": 75
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Licínio de Almeida-BA-HUGHES-Pessoa Física",
+        "cidade": "Licínio de Almeida",
+        "uf": "BA",
+        "latitude": -14.684215,
+        "longitude": -42.509527,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -3244,7 +3567,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 27
+                "quantidade-acesso": 33
             }
         ]
     },
@@ -3273,6 +3596,25 @@
         "uf": "BA",
         "latitude": -9.162258,
         "longitude": -39.051784,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Madre de Deus-BA-HUGHES-Pessoa Física",
+        "cidade": "Madre de Deus",
+        "uf": "BA",
+        "latitude": -12.744621,
+        "longitude": -38.615316,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -3320,7 +3662,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -3358,7 +3700,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 6
             }
         ]
     },
@@ -3377,7 +3719,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 11
+                "quantidade-acesso": 39
             }
         ]
     },
@@ -3434,7 +3776,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 120
+                "quantidade-acesso": 223
             }
         ]
     },
@@ -3453,7 +3795,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 12
+                "quantidade-acesso": 17
             }
         ]
     },
@@ -3472,7 +3814,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 23
             }
         ]
     },
@@ -3548,7 +3890,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -3567,7 +3909,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 21
+                "quantidade-acesso": 33
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Monte Santo-BA-HUGHES-Pessoa Física",
+        "cidade": "Monte Santo",
+        "uf": "BA",
+        "latitude": -10.437413,
+        "longitude": -39.332077,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -3586,7 +3947,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 51
+                "quantidade-acesso": 78
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Mucugê-BA-HUGHES-Pessoa Física",
+        "cidade": "Mucugê",
+        "uf": "BA",
+        "latitude": -13.0053,
+        "longitude": -41.370271,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -3643,7 +4023,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 65
+                "quantidade-acesso": 113
             }
         ]
     },
@@ -3662,7 +4042,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 11
             }
         ]
     },
@@ -3681,7 +4061,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 14
             }
         ]
     },
@@ -3719,7 +4099,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 17
             }
         ]
     },
@@ -3738,7 +4118,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 16
             }
         ]
     },
@@ -3757,7 +4137,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -3776,7 +4156,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 13
             }
         ]
     },
@@ -3795,7 +4175,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 6
             }
         ]
     },
@@ -3814,7 +4194,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
+                "quantidade-acesso": 12
             }
         ]
     },
@@ -3852,7 +4232,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 6
             }
         ]
     },
@@ -3871,7 +4251,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -3909,7 +4289,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -3928,7 +4308,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 11
+                "quantidade-acesso": 13
             }
         ]
     },
@@ -3947,7 +4327,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Paramirim-BA-HUGHES-Pessoa Física",
+        "cidade": "Paramirim",
+        "uf": "BA",
+        "latitude": -13.438849,
+        "longitude": -42.239502,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -3985,7 +4384,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 41
+                "quantidade-acesso": 74
             }
         ]
     },
@@ -4023,7 +4422,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 12
             }
         ]
     },
@@ -4042,7 +4441,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Piatã-BA-HUGHES-Pessoa Física",
+        "cidade": "Piatã",
+        "uf": "BA",
+        "latitude": -13.146549,
+        "longitude": -41.770177,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -4052,6 +4470,44 @@
         "uf": "BA",
         "latitude": -11.811712,
         "longitude": -39.900859,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Piraí do Norte-BA-HUGHES-Pessoa Física",
+        "cidade": "Piraí do Norte",
+        "uf": "BA",
+        "latitude": -13.758962,
+        "longitude": -39.383592,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Piripá-BA-HUGHES-Pessoa Física",
+        "cidade": "Piripá",
+        "uf": "BA",
+        "latitude": -14.944379,
+        "longitude": -41.716841,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -4099,7 +4555,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 8
             }
         ]
     },
@@ -4118,7 +4574,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -4156,7 +4612,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 95
+                "quantidade-acesso": 96
             }
         ]
     },
@@ -4175,7 +4631,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -4213,7 +4669,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 42
+                "quantidade-acesso": 123
             }
         ]
     },
@@ -4232,7 +4688,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 26
+                "quantidade-acesso": 27
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Presidente Jânio Quadros-BA-HUGHES-Pessoa Física",
+        "cidade": "Presidente Jânio Quadros",
+        "uf": "BA",
+        "latitude": -14.688485,
+        "longitude": -41.679792,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -4242,6 +4717,25 @@
         "uf": "BA",
         "latitude": -13.447064,
         "longitude": -39.420267,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Queimadas-BA-HUGHES-Pessoa Física",
+        "cidade": "Queimadas",
+        "uf": "BA",
+        "latitude": -10.973561,
+        "longitude": -39.629347,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -4308,7 +4802,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 12
+                "quantidade-acesso": 64
             }
         ]
     },
@@ -4346,7 +4840,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 9
+                "quantidade-acesso": 11
             }
         ]
     },
@@ -4384,7 +4878,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 11
             }
         ]
     },
@@ -4460,7 +4954,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 6
             }
         ]
     },
@@ -4479,7 +4973,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 17
             }
         ]
     },
@@ -4555,7 +5049,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 42
+                "quantidade-acesso": 53
             }
         ]
     },
@@ -4593,7 +5087,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 87
+                "quantidade-acesso": 88
             }
         ]
     },
@@ -4613,6 +5107,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
                 "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Santanópolis-BA-HUGHES-Pessoa Física",
+        "cidade": "Santanópolis",
+        "uf": "BA",
+        "latitude": -12.031109,
+        "longitude": -38.869372,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -4688,7 +5201,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Saúde-BA-HUGHES-Pessoa Física",
+        "cidade": "Saúde",
+        "uf": "BA",
+        "latitude": -10.94279,
+        "longitude": -40.415458,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -4707,7 +5239,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 13
+                "quantidade-acesso": 35
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Sebastião Laranjeiras-BA-HUGHES-Pessoa Física",
+        "cidade": "Sebastião Laranjeiras",
+        "uf": "BA",
+        "latitude": -14.571002,
+        "longitude": -42.943438,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -4745,7 +5296,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 6
             }
         ]
     },
@@ -4821,7 +5372,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 15
+                "quantidade-acesso": 28
             }
         ]
     },
@@ -4840,7 +5391,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 42
+                "quantidade-acesso": 159
             }
         ]
     },
@@ -4916,7 +5467,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 18
+                "quantidade-acesso": 27
             }
         ]
     },
@@ -4954,7 +5505,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 24
+                "quantidade-acesso": 43
             }
         ]
     },
@@ -4992,7 +5543,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -5016,6 +5567,25 @@
         ]
     },
     {
+        "identifier": "5206385000161-Tanquinho-BA-HUGHES-Pessoa Física",
+        "cidade": "Tanquinho",
+        "uf": "BA",
+        "latitude": -11.967965,
+        "longitude": -39.103312,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "5206385000161-Taperoá-BA-HUGHES-Pessoa Física",
         "cidade": "Taperoá",
         "uf": "BA",
@@ -5030,7 +5600,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 25
+                "quantidade-acesso": 47
             }
         ]
     },
@@ -5087,7 +5657,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 15
+                "quantidade-acesso": 20
             }
         ]
     },
@@ -5125,7 +5695,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -5144,7 +5714,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 11
             }
         ]
     },
@@ -5163,7 +5733,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 18
+                "quantidade-acesso": 21
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Uauá-BA-HUGHES-Pessoa Física",
+        "cidade": "Uauá",
+        "uf": "BA",
+        "latitude": -9.833247,
+        "longitude": -39.479396,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -5220,7 +5809,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 14
+                "quantidade-acesso": 37
             }
         ]
     },
@@ -5239,7 +5828,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -5258,7 +5847,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 193
+                "quantidade-acesso": 304
             }
         ]
     },
@@ -5391,7 +5980,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 12
             }
         ]
     },
@@ -5429,7 +6018,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -5467,7 +6056,26 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Wanderley-BA-HUGHES-Pessoa Física",
+        "cidade": "Wanderley",
+        "uf": "BA",
+        "latitude": -12.114375,
+        "longitude": -43.895787,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -5486,7 +6094,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 12
             }
         ]
     },
@@ -5506,6 +6114,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
                 "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Érico Cardoso-BA-HUGHES-Pessoa Física",
+        "cidade": "Érico Cardoso",
+        "uf": "BA",
+        "latitude": -13.421467,
+        "longitude": -42.1352,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
             }
         ]
     }

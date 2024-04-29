@@ -208,12 +208,12 @@
         ]
     },
     {
-        "identifier": "5781156000170-Aragominas-TO-Diginet Tecnologia Ltda-Pessoa Física",
+        "identifier": "5781156000170-Aragominas-TO-Mutum Fibra Ltda-Pessoa Física",
         "cidade": "Aragominas",
         "uf": "TO",
         "latitude": -7.160051,
         "longitude": -48.529096,
-        "empresa": "Diginet Tecnologia Ltda",
+        "empresa": "Mutum Fibra Ltda",
         "cnpj": 5781156000170,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -336,6 +336,245 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "7154539000144-Bom Jesus do Tocantins-TO-SIM & PA PROVEDOR LTDA-Pessoa Física",
+        "cidade": "Bom Jesus do Tocantins",
+        "uf": "TO",
+        "latitude": -8.96306,
+        "longitude": -48.165043,
+        "empresa": "SIM & PA PROVEDOR LTDA",
+        "cnpj": 7154539000144,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 31
+            }
+        ]
+    },
+    {
+        "identifier": "7154539000144-Pedro Afonso-TO-SIM & PA PROVEDOR LTDA-Pessoa Física",
+        "cidade": "Pedro Afonso",
+        "uf": "TO",
+        "latitude": -8.970341,
+        "longitude": -48.172942,
+        "empresa": "SIM & PA PROVEDOR LTDA",
+        "cnpj": 7154539000144,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 458
+            }
+        ]
+    },
+    {
+        "identifier": "7154539000144-Tupirama-TO-SIM & PA PROVEDOR LTDA-Pessoa Física",
+        "cidade": "Tupirama",
+        "uf": "TO",
+        "latitude": -8.971676,
+        "longitude": -48.188324,
+        "empresa": "SIM & PA PROVEDOR LTDA",
+        "cnpj": 7154539000144,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 51
+            }
+        ]
+    },
+    {
+        "identifier": "7650444000111-Brejinho de Nazaré-TO-Sim Internet Ltda-Pessoa Física",
+        "cidade": "Brejinho de Nazaré",
+        "uf": "TO",
+        "latitude": -11.005754,
+        "longitude": -48.568278,
+        "empresa": "Sim Internet Ltda",
+        "cnpj": 7650444000111,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7650444000111-Lajeado-TO-Sim Internet Ltda-Pessoa Física",
+        "cidade": "Lajeado",
+        "uf": "TO",
+        "latitude": -9.749956,
+        "longitude": -48.356482,
+        "empresa": "Sim Internet Ltda",
+        "cnpj": 7650444000111,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 101
+            }
+        ]
+    },
+    {
+        "identifier": "7650444000111-Miracema do Tocantins-TO-Sim Internet Ltda-Pessoa Física",
+        "cidade": "Miracema do Tocantins",
+        "uf": "TO",
+        "latitude": -9.565556,
+        "longitude": -48.39298,
+        "empresa": "Sim Internet Ltda",
+        "cnpj": 7650444000111,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 82
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "identifier": "7650444000111-Miranorte-TO-Sim Internet Ltda-Pessoa Física",
+        "cidade": "Miranorte",
+        "uf": "TO",
+        "latitude": -9.529068,
+        "longitude": -48.592222,
+        "empresa": "Sim Internet Ltda",
+        "cnpj": 7650444000111,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "7650444000111-Palmas-TO-Sim Internet Ltda-Pessoa Física",
+        "cidade": "Palmas",
+        "uf": "TO",
+        "latitude": -10.239973,
+        "longitude": -48.355751,
+        "empresa": "Sim Internet Ltda",
+        "cnpj": 7650444000111,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2183
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 56
+            }
+        ]
+    },
+    {
+        "identifier": "7650444000111-Paraíso do Tocantins-TO-Sim Internet Ltda-Pessoa Física",
+        "cidade": "Paraíso do Tocantins",
+        "uf": "TO",
+        "latitude": -10.174998,
+        "longitude": -48.882269,
+        "empresa": "Sim Internet Ltda",
+        "cnpj": 7650444000111,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7650444000111-Pedro Afonso-TO-Sim Internet Ltda-Pessoa Física",
+        "cidade": "Pedro Afonso",
+        "uf": "TO",
+        "latitude": -8.970341,
+        "longitude": -48.172942,
+        "empresa": "Sim Internet Ltda",
+        "cnpj": 7650444000111,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7790859000190-Mateiros-TO-BRASIL PROVEDOR DE INTERNET LTDA ME-Pessoa Física",
+        "cidade": "Mateiros",
+        "uf": "TO",
+        "latitude": -10.546379,
+        "longitude": -46.416758,
+        "empresa": "BRASIL PROVEDOR DE INTERNET LTDA ME",
+        "cnpj": 7790859000190,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -656,6 +895,44 @@
         ]
     },
     {
+        "identifier": "8778322000178-Rio dos Bois-TO-Nova Telecom Ltda-Pessoa Física",
+        "cidade": "Rio dos Bois",
+        "uf": "TO",
+        "latitude": -9.344254,
+        "longitude": -48.524518,
+        "empresa": "Nova Telecom Ltda",
+        "cnpj": 8778322000178,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8778322000178-Silvanópolis-TO-Nova Telecom Ltda-Pessoa Física",
+        "cidade": "Silvanópolis",
+        "uf": "TO",
+        "latitude": -11.147099,
+        "longitude": -48.16937,
+        "empresa": "Nova Telecom Ltda",
+        "cnpj": 8778322000178,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "9022737000180-Xambioá-TO-WORLDXAMBIOA INFORMATICA LTDA-Pessoa Física",
         "cidade": "Xambioá",
         "uf": "TO",
@@ -839,12 +1116,12 @@
         ]
     },
     {
-        "identifier": "9363864000142-Araguaçu-TO-MEGA NET SERVIÇOS DE COMUNICAÇAO MULTIMIDIA LTDA-Pessoa Física",
+        "identifier": "9363864000142-Araguaçu-TO-Mega Net Servios de Comunicao Multimdia Ltda-Pessoa Física",
         "cidade": "Araguaçu",
         "uf": "TO",
         "latitude": -12.928934,
         "longitude": -49.823134,
-        "empresa": "MEGA NET SERVIÇOS DE COMUNICAÇAO MULTIMIDIA LTDA",
+        "empresa": "Mega Net Servios de Comunicao Multimdia Ltda",
         "cnpj": 9363864000142,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -1781,12 +2058,12 @@
         ]
     },
     {
-        "identifier": "13225154000123-Nazaré-TO-DATA NET INFORMATICA E TECNOLOGIA - EIRELI - ME-Pessoa Física",
+        "identifier": "13225154000123-Nazaré-TO-DATANET TELECOMUNICACOES E INFORMATICA LTDA-Pessoa Física",
         "cidade": "Nazaré",
         "uf": "TO",
         "latitude": -6.37496,
         "longitude": -47.664299,
-        "empresa": "DATA NET INFORMATICA E TECNOLOGIA - EIRELI - ME",
+        "empresa": "DATANET TELECOMUNICACOES E INFORMATICA LTDA",
         "cnpj": 13225154000123,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -1800,12 +2077,12 @@
         ]
     },
     {
-        "identifier": "13225154000123-Santa Terezinha do Tocantins-TO-DATA NET INFORMATICA E TECNOLOGIA - EIRELI - ME-Pessoa Física",
+        "identifier": "13225154000123-Santa Terezinha do Tocantins-TO-DATANET TELECOMUNICACOES E INFORMATICA LTDA-Pessoa Física",
         "cidade": "Santa Terezinha do Tocantins",
         "uf": "TO",
         "latitude": -6.44438,
         "longitude": -47.668393,
-        "empresa": "DATA NET INFORMATICA E TECNOLOGIA - EIRELI - ME",
+        "empresa": "DATANET TELECOMUNICACOES E INFORMATICA LTDA",
         "cnpj": 13225154000123,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -1819,12 +2096,12 @@
         ]
     },
     {
-        "identifier": "13225154000123-Tocantinópolis-TO-DATA NET INFORMATICA E TECNOLOGIA - EIRELI - ME-Pessoa Física",
+        "identifier": "13225154000123-Tocantinópolis-TO-DATANET TELECOMUNICACOES E INFORMATICA LTDA-Pessoa Física",
         "cidade": "Tocantinópolis",
         "uf": "TO",
         "latitude": -6.324474,
         "longitude": -47.4224,
-        "empresa": "DATA NET INFORMATICA E TECNOLOGIA - EIRELI - ME",
+        "empresa": "DATANET TELECOMUNICACOES E INFORMATICA LTDA",
         "cnpj": 13225154000123,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -1929,6 +2206,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "15280400000175-Colinas do Tocantins-TO-SIM COLINAS PROVEDOR DE INTERNET LTDA-Pessoa Física",
+        "cidade": "Colinas do Tocantins",
+        "uf": "TO",
+        "latitude": -8.05764,
+        "longitude": -48.475728,
+        "empresa": "SIM COLINAS PROVEDOR DE INTERNET LTDA",
+        "cnpj": 15280400000175,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 402
             }
         ]
     },
@@ -4613,12 +4909,12 @@
         ]
     },
     {
-        "identifier": "28641032000195-Campos Lindos-TO-MARIA DAS NEVES FERREIRA DA SILVA - ME-Pessoa Física",
+        "identifier": "28641032000195-Campos Lindos-TO-FLASHNET TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Campos Lindos",
         "uf": "TO",
         "latitude": -7.989563,
         "longitude": -46.864473,
-        "empresa": "MARIA DAS NEVES FERREIRA DA SILVA - ME",
+        "empresa": "FLASHNET TELECOMUNICACOES LTDA",
         "cnpj": 28641032000195,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -4628,6 +4924,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "28778758000174-Palmas-TO-SIM PMW SUL PROVEDOR DE ACESSO AS REDES DE COMUNICACOES LTDA ME-Pessoa Física",
+        "cidade": "Palmas",
+        "uf": "TO",
+        "latitude": -10.239973,
+        "longitude": -48.355751,
+        "empresa": "SIM PMW SUL PROVEDOR DE ACESSO AS REDES DE COMUNICACOES LTDA ME",
+        "cnpj": 28778758000174,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4032
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -5136,6 +5457,44 @@
         ]
     },
     {
+        "identifier": "37552558000190-Porto Nacional-TO-SIM PORTO PROVEDOR DE ACESSO AS REDES DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Porto Nacional",
+        "uf": "TO",
+        "latitude": -10.702705,
+        "longitude": -48.408008,
+        "empresa": "SIM PORTO PROVEDOR DE ACESSO AS REDES DE COMUNICACOES LTDA",
+        "cnpj": 37552558000190,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 461
+            }
+        ]
+    },
+    {
+        "identifier": "37578162000111-Gurupi-TO-SIM GURUPI PROVEDOR DE ACESSO AS REDES DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Gurupi",
+        "uf": "TO",
+        "latitude": -11.72794,
+        "longitude": -49.068046,
+        "empresa": "SIM GURUPI PROVEDOR DE ACESSO AS REDES DE COMUNICACOES LTDA",
+        "cnpj": 37578162000111,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 702
+            }
+        ]
+    },
+    {
         "identifier": "37943995000134-Bom Jesus do Tocantins-TO-ISABELA SOUSA ROCHA BRITO LEMES-Pessoa Física",
         "cidade": "Bom Jesus do Tocantins",
         "uf": "TO",
@@ -5351,12 +5710,12 @@
         ]
     },
     {
-        "identifier": "45979752000184-Jaú do Tocantins-TO-Integrato Telecomunicacoes Ltda-Pessoa Física",
+        "identifier": "45979752000184-Jaú do Tocantins-TO-Integrato Fibra Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Jaú do Tocantins",
         "uf": "TO",
         "latitude": -12.650908,
         "longitude": -48.588989,
-        "empresa": "Integrato Telecomunicacoes Ltda",
+        "empresa": "Integrato Fibra Telecomunicacoes Ltda",
         "cnpj": 45979752000184,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -5370,12 +5729,12 @@
         ]
     },
     {
-        "identifier": "45979752000184-Palmeirópolis-TO-Integrato Telecomunicacoes Ltda-Pessoa Física",
+        "identifier": "45979752000184-Palmeirópolis-TO-Integrato Fibra Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Palmeirópolis",
         "uf": "TO",
         "latitude": -13.044718,
         "longitude": -48.402589,
-        "empresa": "Integrato Telecomunicacoes Ltda",
+        "empresa": "Integrato Fibra Telecomunicacoes Ltda",
         "cnpj": 45979752000184,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",

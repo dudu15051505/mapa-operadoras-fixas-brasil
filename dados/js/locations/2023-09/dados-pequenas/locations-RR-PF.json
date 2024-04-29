@@ -1,5 +1,1214 @@
 [
     {
+        "identifier": "5640560000124-Boa Vista-RR-RORAIMANET TECNOLOGIA E TELECOMUNICAÇÕES LTDA - ME-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "RORAIMANET TECNOLOGIA E TELECOMUNICAÇÕES LTDA - ME",
+        "cnpj": 5640560000124,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 434
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 175
+            }
+        ]
+    },
+    {
+        "identifier": "5640560000124-Cantá-RR-RORAIMANET TECNOLOGIA E TELECOMUNICAÇÕES LTDA - ME-Pessoa Física",
+        "cidade": "Cantá",
+        "uf": "RR",
+        "latitude": 2.60994,
+        "longitude": -60.605827,
+        "empresa": "RORAIMANET TECNOLOGIA E TELECOMUNICAÇÕES LTDA - ME",
+        "cnpj": 5640560000124,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "5640560000124-Mucajaí-RR-RORAIMANET TECNOLOGIA E TELECOMUNICAÇÕES LTDA - ME-Pessoa Física",
+        "cidade": "Mucajaí",
+        "uf": "RR",
+        "latitude": 2.439982,
+        "longitude": -60.909619,
+        "empresa": "RORAIMANET TECNOLOGIA E TELECOMUNICAÇÕES LTDA - ME",
+        "cnpj": 5640560000124,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 352
+            }
+        ]
+    },
+    {
+        "identifier": "5640560000124-Rorainópolis-RR-RORAIMANET TECNOLOGIA E TELECOMUNICAÇÕES LTDA - ME-Pessoa Física",
+        "cidade": "Rorainópolis",
+        "uf": "RR",
+        "latitude": 0.939956,
+        "longitude": -60.438923,
+        "empresa": "RORAIMANET TECNOLOGIA E TELECOMUNICAÇÕES LTDA - ME",
+        "cnpj": 5640560000124,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 412
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 29
+            }
+        ]
+    },
+    {
+        "identifier": "7872397000150-Alto Alegre-RR-GRZ SERVICOS E TECNOLOGIAS LTDA-Pessoa Física",
+        "cidade": "Alto Alegre",
+        "uf": "RR",
+        "latitude": 2.98858,
+        "longitude": -61.307167,
+        "empresa": "GRZ SERVICOS E TECNOLOGIAS LTDA",
+        "cnpj": 7872397000150,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 61
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 35
+            }
+        ]
+    },
+    {
+        "identifier": "7872397000150-Amajari-RR-GRZ SERVICOS E TECNOLOGIAS LTDA-Pessoa Física",
+        "cidade": "Amajari",
+        "uf": "RR",
+        "latitude": 3.645714,
+        "longitude": -61.369245,
+        "empresa": "GRZ SERVICOS E TECNOLOGIAS LTDA",
+        "cnpj": 7872397000150,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "7872397000150-Boa Vista-RR-GRZ SERVICOS E TECNOLOGIAS LTDA-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "GRZ SERVICOS E TECNOLOGIAS LTDA",
+        "cnpj": 7872397000150,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 383
+            }
+        ]
+    },
+    {
+        "identifier": "7872397000150-Bonfim-RR-GRZ SERVICOS E TECNOLOGIAS LTDA-Pessoa Física",
+        "cidade": "Bonfim",
+        "uf": "RR",
+        "latitude": 3.361614,
+        "longitude": -59.8333,
+        "empresa": "GRZ SERVICOS E TECNOLOGIAS LTDA",
+        "cnpj": 7872397000150,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 57
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "7872397000150-Cantá-RR-GRZ SERVICOS E TECNOLOGIAS LTDA-Pessoa Física",
+        "cidade": "Cantá",
+        "uf": "RR",
+        "latitude": 2.60994,
+        "longitude": -60.605827,
+        "empresa": "GRZ SERVICOS E TECNOLOGIAS LTDA",
+        "cnpj": 7872397000150,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 55
+            }
+        ]
+    },
+    {
+        "identifier": "7872397000150-Caracaraí-RR-GRZ SERVICOS E TECNOLOGIAS LTDA-Pessoa Física",
+        "cidade": "Caracaraí",
+        "uf": "RR",
+        "latitude": 1.827659,
+        "longitude": -61.130378,
+        "empresa": "GRZ SERVICOS E TECNOLOGIAS LTDA",
+        "cnpj": 7872397000150,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 31
+            }
+        ]
+    },
+    {
+        "identifier": "7872397000150-Iracema-RR-GRZ SERVICOS E TECNOLOGIAS LTDA-Pessoa Física",
+        "cidade": "Iracema",
+        "uf": "RR",
+        "latitude": 2.183046,
+        "longitude": -61.041546,
+        "empresa": "GRZ SERVICOS E TECNOLOGIAS LTDA",
+        "cnpj": 7872397000150,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 34
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "identifier": "7872397000150-Mucajaí-RR-GRZ SERVICOS E TECNOLOGIAS LTDA-Pessoa Física",
+        "cidade": "Mucajaí",
+        "uf": "RR",
+        "latitude": 2.439982,
+        "longitude": -60.909619,
+        "empresa": "GRZ SERVICOS E TECNOLOGIAS LTDA",
+        "cnpj": 7872397000150,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 37
+            }
+        ]
+    },
+    {
+        "identifier": "7872397000150-Normandia-RR-GRZ SERVICOS E TECNOLOGIAS LTDA-Pessoa Física",
+        "cidade": "Normandia",
+        "uf": "RR",
+        "latitude": 3.885305,
+        "longitude": -59.620402,
+        "empresa": "GRZ SERVICOS E TECNOLOGIAS LTDA",
+        "cnpj": 7872397000150,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 61
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "7872397000150-Pacaraima-RR-GRZ SERVICOS E TECNOLOGIAS LTDA-Pessoa Física",
+        "cidade": "Pacaraima",
+        "uf": "RR",
+        "latitude": 4.479895,
+        "longitude": -61.147695,
+        "empresa": "GRZ SERVICOS E TECNOLOGIAS LTDA",
+        "cnpj": 7872397000150,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 47
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 35
+            }
+        ]
+    },
+    {
+        "identifier": "7872397000150-Rorainópolis-RR-GRZ SERVICOS E TECNOLOGIAS LTDA-Pessoa Física",
+        "cidade": "Rorainópolis",
+        "uf": "RR",
+        "latitude": 0.939956,
+        "longitude": -60.438923,
+        "empresa": "GRZ SERVICOS E TECNOLOGIAS LTDA",
+        "cnpj": 7872397000150,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 84
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "7872397000150-Uiramutã-RR-GRZ SERVICOS E TECNOLOGIAS LTDA-Pessoa Física",
+        "cidade": "Uiramutã",
+        "uf": "RR",
+        "latitude": 4.603144,
+        "longitude": -60.181464,
+        "empresa": "GRZ SERVICOS E TECNOLOGIAS LTDA",
+        "cnpj": 7872397000150,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "9525706000141-Rorainópolis-RR-C S Vieira-Pessoa Física",
+        "cidade": "Rorainópolis",
+        "uf": "RR",
+        "latitude": 0.939956,
+        "longitude": -60.438923,
+        "empresa": "C S Vieira",
+        "cnpj": 9525706000141,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "10329181000158-Amajari-RR-RW SERVICOS DE TELECOMUNICACOES L T D A-Pessoa Física",
+        "cidade": "Amajari",
+        "uf": "RR",
+        "latitude": 3.645714,
+        "longitude": -61.369245,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "10329181000158-Boa Vista-RR-RW SERVICOS DE TELECOMUNICACOES L T D A-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 31
+            }
+        ]
+    },
+    {
+        "identifier": "10329181000158-Cantá-RR-RW SERVICOS DE TELECOMUNICACOES L T D A-Pessoa Física",
+        "cidade": "Cantá",
+        "uf": "RR",
+        "latitude": 2.60994,
+        "longitude": -60.605827,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "10329181000158-Mucajaí-RR-RW SERVICOS DE TELECOMUNICACOES L T D A-Pessoa Física",
+        "cidade": "Mucajaí",
+        "uf": "RR",
+        "latitude": 2.439982,
+        "longitude": -60.909619,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "10329181000158-Rorainópolis-RR-RW SERVICOS DE TELECOMUNICACOES L T D A-Pessoa Física",
+        "cidade": "Rorainópolis",
+        "uf": "RR",
+        "latitude": 0.939956,
+        "longitude": -60.438923,
+        "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
+        "cnpj": 10329181000158,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "13224973000156-Boa Vista-RR-TECHWEB PROVEDOR DE INTERNET LTDA-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "TECHWEB PROVEDOR DE INTERNET LTDA",
+        "cnpj": 13224973000156,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 83
+            }
+        ]
+    },
+    {
+        "identifier": "13426254000118-Uiramutã-RR-Edson A Reis-Pessoa Física",
+        "cidade": "Uiramutã",
+        "uf": "RR",
+        "latitude": 4.603144,
+        "longitude": -60.181464,
+        "empresa": "Edson A Reis",
+        "cnpj": 13426254000118,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 39
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 70
+            }
+        ]
+    },
+    {
+        "identifier": "17489755000102-Caroebe-RR-G. TEIXEIRA SOUSA-Pessoa Física",
+        "cidade": "Caroebe",
+        "uf": "RR",
+        "latitude": 0.884203,
+        "longitude": -59.695886,
+        "empresa": "G. TEIXEIRA SOUSA",
+        "cnpj": 17489755000102,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 51
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "18019255000161-Boa Vista-RR-TURBONET SERVIÇOS DE COMUNICAÇÃO MULTIMÍDIA LTDA.-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "TURBONET SERVIÇOS DE COMUNICAÇÃO MULTIMÍDIA LTDA.",
+        "cnpj": 18019255000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 57
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 301
+            }
+        ]
+    },
+    {
+        "identifier": "18919956000157-Boa Vista-RR-VICNET TELECOM LTDA-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "VICNET TELECOM LTDA",
+        "cnpj": 18919956000157,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "20769622000196-Boa Vista-RR-A DA R CORDEIRO-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "A DA R CORDEIRO",
+        "cnpj": 20769622000196,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 93
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 21
+            }
+        ]
+    },
+    {
+        "identifier": "21648941000106-Amajari-RR-INFORR COMERCIO E SERVICOS LTDA-Pessoa Física",
+        "cidade": "Amajari",
+        "uf": "RR",
+        "latitude": 3.645714,
+        "longitude": -61.369245,
+        "empresa": "INFORR COMERCIO E SERVICOS LTDA",
+        "cnpj": 21648941000106,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "21648941000106-Boa Vista-RR-INFORR COMERCIO E SERVICOS LTDA-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "INFORR COMERCIO E SERVICOS LTDA",
+        "cnpj": 21648941000106,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 172
+            }
+        ]
+    },
+    {
+        "identifier": "22624672000100-Boa Vista-RR-4W NET ES TELECOMUNICAÇÕES LTDA-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "4W NET ES TELECOMUNICAÇÕES LTDA",
+        "cnpj": 22624672000100,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "23150425000182-Boa Vista-RR-Allfiber Telecom - Servicos de Telecomunicacoes - Ltda-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "Allfiber Telecom - Servicos de Telecomunicacoes - Ltda",
+        "cnpj": 23150425000182,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3070
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 26
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "23474251000103-Boa Vista-RR-VIA NET INFORMATICA LTDA - ME-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "VIA NET INFORMATICA LTDA - ME",
+        "cnpj": 23474251000103,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 36
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 25
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Alto Alegre-RR-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Alto Alegre",
+        "uf": "RR",
+        "latitude": 2.98858,
+        "longitude": -61.307167,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Amajari-RR-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Amajari",
+        "uf": "RR",
+        "latitude": 3.645714,
+        "longitude": -61.369245,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Boa Vista-RR-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Bonfim-RR-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Bonfim",
+        "uf": "RR",
+        "latitude": 3.361614,
+        "longitude": -59.8333,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Cantá-RR-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Cantá",
+        "uf": "RR",
+        "latitude": 2.60994,
+        "longitude": -60.605827,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Caracaraí-RR-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Caracaraí",
+        "uf": "RR",
+        "latitude": 1.827659,
+        "longitude": -61.130378,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Caroebe-RR-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Caroebe",
+        "uf": "RR",
+        "latitude": 0.884203,
+        "longitude": -59.695886,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Iracema-RR-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Iracema",
+        "uf": "RR",
+        "latitude": 2.183046,
+        "longitude": -61.041546,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Mucajaí-RR-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Mucajaí",
+        "uf": "RR",
+        "latitude": 2.439982,
+        "longitude": -60.909619,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Pacaraima-RR-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Pacaraima",
+        "uf": "RR",
+        "latitude": 4.479895,
+        "longitude": -61.147695,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Rorainópolis-RR-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Rorainópolis",
+        "uf": "RR",
+        "latitude": 0.939956,
+        "longitude": -60.438923,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "27001440000110-Uiramutã-RR-VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Uiramutã",
+        "uf": "RR",
+        "latitude": 4.603144,
+        "longitude": -60.181464,
+        "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 27001440000110,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "27953969000133-Boa Vista-RR-GOCAST SERVICOS DE COMUNICACAO LTDA.-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "GOCAST SERVICOS DE COMUNICACAO LTDA.",
+        "cnpj": 27953969000133,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 220
+            }
+        ]
+    },
+    {
+        "identifier": "28399307000126-Boa Vista-RR-Webfiber Telecomunicacao Ltda-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "Webfiber Telecomunicacao Ltda",
+        "cnpj": 28399307000126,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 18
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "28399307000126-Caracaraí-RR-Webfiber Telecomunicacao Ltda-Pessoa Física",
+        "cidade": "Caracaraí",
+        "uf": "RR",
+        "latitude": 1.827659,
+        "longitude": -61.130378,
+        "empresa": "Webfiber Telecomunicacao Ltda",
+        "cnpj": 28399307000126,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "28399307000126-Iracema-RR-Webfiber Telecomunicacao Ltda-Pessoa Física",
+        "cidade": "Iracema",
+        "uf": "RR",
+        "latitude": 2.183046,
+        "longitude": -61.041546,
+        "empresa": "Webfiber Telecomunicacao Ltda",
+        "cnpj": 28399307000126,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "28399307000126-Mucajaí-RR-Webfiber Telecomunicacao Ltda-Pessoa Física",
+        "cidade": "Mucajaí",
+        "uf": "RR",
+        "latitude": 2.439982,
+        "longitude": -60.909619,
+        "empresa": "Webfiber Telecomunicacao Ltda",
+        "cnpj": 28399307000126,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "29479878000133-São Luiz-RR-Fixtell Telecom Ne Ltda-Pessoa Física",
+        "cidade": "São Luiz",
+        "uf": "RR",
+        "latitude": 1.010193,
+        "longitude": -60.041894,
+        "empresa": "Fixtell Telecom Ne Ltda",
+        "cnpj": 29479878000133,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "35343561000178-Boa Vista-RR-Z M Lisboa dos Santos Ltda-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "Z M Lisboa dos Santos Ltda",
+        "cnpj": 35343561000178,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 362
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 20
+            }
+        ]
+    },
+    {
+        "identifier": "37571949000151-Rorainópolis-RR-A. RIBEIRO GONZAGA LTDA-Pessoa Física",
+        "cidade": "Rorainópolis",
+        "uf": "RR",
+        "latitude": 0.939956,
+        "longitude": -60.438923,
+        "empresa": "A. RIBEIRO GONZAGA LTDA",
+        "cnpj": 37571949000151,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 154
+            }
+        ]
+    },
+    {
+        "identifier": "37571949000151-São Luiz-RR-A. RIBEIRO GONZAGA LTDA-Pessoa Física",
+        "cidade": "São Luiz",
+        "uf": "RR",
+        "latitude": 1.010193,
+        "longitude": -60.041894,
+        "empresa": "A. RIBEIRO GONZAGA LTDA",
+        "cnpj": 37571949000151,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 49
+            }
+        ]
+    },
+    {
+        "identifier": "40975398000104-Caracaraí-RR-R N da Silva-Pessoa Física",
+        "cidade": "Caracaraí",
+        "uf": "RR",
+        "latitude": 1.827659,
+        "longitude": -61.130378,
+        "empresa": "R N da Silva",
+        "cnpj": 40975398000104,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 56
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 33
+            }
+        ]
+    },
+    {
+        "identifier": "42363342000116-Cantá-RR-S de O Farias-Pessoa Física",
+        "cidade": "Cantá",
+        "uf": "RR",
+        "latitude": 2.60994,
+        "longitude": -60.605827,
+        "empresa": "S de O Farias",
+        "cnpj": 42363342000116,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "WIMAX",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 120
+            }
+        ]
+    },
+    {
+        "identifier": "43267979000171-Boa Vista-RR-Dm - Servicos de Telecomunicacao Ltda-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "Dm - Servicos de Telecomunicacao Ltda",
+        "cnpj": 43267979000171,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 62
+            }
+        ]
+    },
+    {
         "identifier": "44025225000178-Boa Vista-RR-Obvious Servicos Digitais Ltda-Pessoa Física",
         "cidade": "Boa Vista",
         "uf": "RR",
@@ -15,6 +1224,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 161
+            }
+        ]
+    },
+    {
+        "identifier": "47542461000150-Boa Vista-RR-Pronet Telecom RR Comunicacao Ltda-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "Pronet Telecom RR Comunicacao Ltda",
+        "cnpj": 47542461000150,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 310
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 328
             }
         ]
     }

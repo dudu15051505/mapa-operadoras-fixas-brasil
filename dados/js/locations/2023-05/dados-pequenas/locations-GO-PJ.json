@@ -19,6 +19,2289 @@
         ]
     },
     {
+        "identifier": "336701000104-Abadia de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Abadia de Goiás",
+        "uf": "GO",
+        "latitude": -16.757326,
+        "longitude": -49.441156,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Acreúna-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Acreúna",
+        "uf": "GO",
+        "latitude": -17.39599,
+        "longitude": -50.374903,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Alexânia-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Alexânia",
+        "uf": "GO",
+        "latitude": -16.083405,
+        "longitude": -48.507609,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Alto Horizonte-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Alto Horizonte",
+        "uf": "GO",
+        "latitude": -14.197811,
+        "longitude": -49.337836,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Alto Paraíso de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Alto Paraíso de Goiás",
+        "uf": "GO",
+        "latitude": -14.130478,
+        "longitude": -47.510016,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 13
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Alvorada do Norte-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Alvorada do Norte",
+        "uf": "GO",
+        "latitude": -14.479688,
+        "longitude": -46.491036,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Amaralina-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Amaralina",
+        "uf": "GO",
+        "latitude": -13.92362,
+        "longitude": -49.296241,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Anicuns-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Anicuns",
+        "uf": "GO",
+        "latitude": -16.464164,
+        "longitude": -49.961695,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Anápolis-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Anápolis",
+        "uf": "GO",
+        "latitude": -16.328095,
+        "longitude": -48.952958,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Aparecida de Goiânia-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Aparecida de Goiânia",
+        "uf": "GO",
+        "latitude": -16.819804,
+        "longitude": -49.246856,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Aragarças-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Aragarças",
+        "uf": "GO",
+        "latitude": -15.89546,
+        "longitude": -52.237231,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Araguapaz-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Araguapaz",
+        "uf": "GO",
+        "latitude": -15.090853,
+        "longitude": -50.631511,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Arenópolis-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Arenópolis",
+        "uf": "GO",
+        "latitude": -16.383726,
+        "longitude": -51.55628,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Avelinópolis-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Avelinópolis",
+        "uf": "GO",
+        "latitude": -16.467241,
+        "longitude": -49.757866,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Barro Alto-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Barro Alto",
+        "uf": "GO",
+        "latitude": -14.965817,
+        "longitude": -48.908586,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Bela Vista de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Bela Vista de Goiás",
+        "uf": "GO",
+        "latitude": -16.969295,
+        "longitude": -48.951307,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Bonópolis-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Bonópolis",
+        "uf": "GO",
+        "latitude": -13.632893,
+        "longitude": -49.810639,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Caiapônia-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Caiapônia",
+        "uf": "GO",
+        "latitude": -16.953878,
+        "longitude": -51.809076,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Caldas Novas-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Caldas Novas",
+        "uf": "GO",
+        "latitude": -17.74406,
+        "longitude": -48.624579,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Campos Belos-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Campos Belos",
+        "uf": "GO",
+        "latitude": -13.034984,
+        "longitude": -46.768112,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Catalão-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Catalão",
+        "uf": "GO",
+        "latitude": -18.165633,
+        "longitude": -47.944043,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Cavalcante-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Cavalcante",
+        "uf": "GO",
+        "latitude": -13.797564,
+        "longitude": -47.45659,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Caçu-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Caçu",
+        "uf": "GO",
+        "latitude": -18.559382,
+        "longitude": -51.132798,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Ceres-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Ceres",
+        "uf": "GO",
+        "latitude": -15.306109,
+        "longitude": -49.600006,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Chapadão do Céu-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Chapadão do Céu",
+        "uf": "GO",
+        "latitude": -18.407326,
+        "longitude": -52.548986,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Cidade Ocidental-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Cidade Ocidental",
+        "uf": "GO",
+        "latitude": -16.076469,
+        "longitude": -47.925211,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Cocalzinho de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Cocalzinho de Goiás",
+        "uf": "GO",
+        "latitude": -15.791438,
+        "longitude": -48.774742,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Colinas do Sul-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Colinas do Sul",
+        "uf": "GO",
+        "latitude": -14.152816,
+        "longitude": -48.075988,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Corumbá de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Corumbá de Goiás",
+        "uf": "GO",
+        "latitude": -15.924473,
+        "longitude": -48.811706,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Cristalina-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Cristalina",
+        "uf": "GO",
+        "latitude": -16.767608,
+        "longitude": -47.613128,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Crixás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Crixás",
+        "uf": "GO",
+        "latitude": -14.541194,
+        "longitude": -49.973977,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Damianópolis-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Damianópolis",
+        "uf": "GO",
+        "latitude": -14.560381,
+        "longitude": -46.178024,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Divinópolis de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Divinópolis de Goiás",
+        "uf": "GO",
+        "latitude": -13.285314,
+        "longitude": -46.399879,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Faina-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Faina",
+        "uf": "GO",
+        "latitude": -15.447297,
+        "longitude": -50.362205,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Flores de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Flores de Goiás",
+        "uf": "GO",
+        "latitude": -14.445115,
+        "longitude": -47.041694,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Formosa-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Formosa",
+        "uf": "GO",
+        "latitude": -15.539991,
+        "longitude": -47.336999,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Gameleira de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Gameleira de Goiás",
+        "uf": "GO",
+        "latitude": -16.483064,
+        "longitude": -48.644369,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Goianira-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Goianira",
+        "uf": "GO",
+        "latitude": -16.494746,
+        "longitude": -49.426998,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Goianésia-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Goianésia",
+        "uf": "GO",
+        "latitude": -15.311827,
+        "longitude": -49.1162,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Goiatuba-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Goiatuba",
+        "uf": "GO",
+        "latitude": -18.010531,
+        "longitude": -49.365807,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Goiás",
+        "uf": "GO",
+        "latitude": -15.933305,
+        "longitude": -50.139963,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Goiânia-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "latitude": -16.686439,
+        "longitude": -49.264346,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Heitoraí-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Heitoraí",
+        "uf": "GO",
+        "latitude": -15.718986,
+        "longitude": -49.826826,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Iaciara-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Iaciara",
+        "uf": "GO",
+        "latitude": -14.101101,
+        "longitude": -46.633452,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Inhumas-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Inhumas",
+        "uf": "GO",
+        "latitude": -16.361057,
+        "longitude": -49.500111,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Ipameri-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Ipameri",
+        "uf": "GO",
+        "latitude": -17.721544,
+        "longitude": -48.158118,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Iporá-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Iporá",
+        "uf": "GO",
+        "latitude": -16.439764,
+        "longitude": -51.118049,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Itaberaí-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Itaberaí",
+        "uf": "GO",
+        "latitude": -16.020551,
+        "longitude": -49.806034,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Itapuranga-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Itapuranga",
+        "uf": "GO",
+        "latitude": -15.560589,
+        "longitude": -49.948957,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Itumbiara-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Itumbiara",
+        "uf": "GO",
+        "latitude": -18.409267,
+        "longitude": -49.215845,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Ivolândia-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Ivolândia",
+        "uf": "GO",
+        "latitude": -16.599526,
+        "longitude": -50.792076,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Jandaia-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Jandaia",
+        "uf": "GO",
+        "latitude": -17.048144,
+        "longitude": -50.145322,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Jaraguá-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Jaraguá",
+        "uf": "GO",
+        "latitude": -15.752948,
+        "longitude": -49.334428,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Jataí-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Jataí",
+        "uf": "GO",
+        "latitude": -17.878383,
+        "longitude": -51.720424,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Jussara-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Jussara",
+        "uf": "GO",
+        "latitude": -15.865877,
+        "longitude": -50.866818,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Leopoldo de Bulhões-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Leopoldo de Bulhões",
+        "uf": "GO",
+        "latitude": -16.619048,
+        "longitude": -48.742755,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Luziânia-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Luziânia",
+        "uf": "GO",
+        "latitude": -16.253,
+        "longitude": -47.95,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Mambaí-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Mambaí",
+        "uf": "GO",
+        "latitude": -14.482291,
+        "longitude": -46.116491,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Minaçu-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Minaçu",
+        "uf": "GO",
+        "latitude": -13.530413,
+        "longitude": -48.22058,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Mineiros-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Mineiros",
+        "uf": "GO",
+        "latitude": -17.565388,
+        "longitude": -52.553672,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Moiporá-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Moiporá",
+        "uf": "GO",
+        "latitude": -16.543374,
+        "longitude": -50.73904,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Monte Alegre de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Monte Alegre de Goiás",
+        "uf": "GO",
+        "latitude": -13.255206,
+        "longitude": -46.892813,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Montes Claros de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Montes Claros de Goiás",
+        "uf": "GO",
+        "latitude": -16.005946,
+        "longitude": -51.397878,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Montividiu do Norte-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Montividiu do Norte",
+        "uf": "GO",
+        "latitude": -13.348471,
+        "longitude": -48.685316,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Morrinhos-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Morrinhos",
+        "uf": "GO",
+        "latitude": -17.733369,
+        "longitude": -49.105908,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Mossâmedes-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Mossâmedes",
+        "uf": "GO",
+        "latitude": -16.123982,
+        "longitude": -50.213615,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Mundo Novo-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Mundo Novo",
+        "uf": "GO",
+        "latitude": -13.772943,
+        "longitude": -50.281378,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Niquelândia-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Niquelândia",
+        "uf": "GO",
+        "latitude": -14.466192,
+        "longitude": -48.459887,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Nova Crixás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Nova Crixás",
+        "uf": "GO",
+        "latitude": -14.095676,
+        "longitude": -50.32996,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Nova Glória-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Nova Glória",
+        "uf": "GO",
+        "latitude": -15.144957,
+        "longitude": -49.573713,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Orizona-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Orizona",
+        "uf": "GO",
+        "latitude": -17.033356,
+        "longitude": -48.29641,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Padre Bernardo-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Padre Bernardo",
+        "uf": "GO",
+        "latitude": -15.160492,
+        "longitude": -48.283303,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Palmeiras de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Palmeiras de Goiás",
+        "uf": "GO",
+        "latitude": -16.804446,
+        "longitude": -49.924029,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Palminópolis-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Palminópolis",
+        "uf": "GO",
+        "latitude": -16.79243,
+        "longitude": -50.16524,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Panamá-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Panamá",
+        "uf": "GO",
+        "latitude": -18.178264,
+        "longitude": -49.354994,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Piracanjuba-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Piracanjuba",
+        "uf": "GO",
+        "latitude": -17.302038,
+        "longitude": -49.01701,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Pirenópolis-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Pirenópolis",
+        "uf": "GO",
+        "latitude": -15.8507,
+        "longitude": -48.95843,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Pires do Rio-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Pires do Rio",
+        "uf": "GO",
+        "latitude": -17.301901,
+        "longitude": -48.276756,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Planaltina-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Planaltina",
+        "uf": "GO",
+        "latitude": -15.452033,
+        "longitude": -47.608885,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Pontalina-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Pontalina",
+        "uf": "GO",
+        "latitude": -17.522513,
+        "longitude": -49.44894,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Porangatu-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Porangatu",
+        "uf": "GO",
+        "latitude": -13.439102,
+        "longitude": -49.150282,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Posse-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Posse",
+        "uf": "GO",
+        "latitude": -14.085943,
+        "longitude": -46.370407,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Quirinópolis-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Quirinópolis",
+        "uf": "GO",
+        "latitude": -18.447186,
+        "longitude": -50.454698,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Rialma-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Rialma",
+        "uf": "GO",
+        "latitude": -15.314482,
+        "longitude": -49.581399,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Rio Verde-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Rio Verde",
+        "uf": "GO",
+        "latitude": -17.792266,
+        "longitude": -50.919195,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Rubiataba-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Rubiataba",
+        "uf": "GO",
+        "latitude": -15.161744,
+        "longitude": -49.804792,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Santa Helena de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Santa Helena de Goiás",
+        "uf": "GO",
+        "latitude": -17.81152,
+        "longitude": -50.597664,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Santa Rita do Araguaia-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Santa Rita do Araguaia",
+        "uf": "GO",
+        "latitude": -17.32691,
+        "longitude": -53.201236,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Santo Antônio do Descoberto-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Santo Antônio do Descoberto",
+        "uf": "GO",
+        "latitude": -15.941247,
+        "longitude": -48.257761,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Senador Canedo-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Senador Canedo",
+        "uf": "GO",
+        "latitude": -16.708401,
+        "longitude": -49.091398,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Silvânia-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Silvânia",
+        "uf": "GO",
+        "latitude": -16.659972,
+        "longitude": -48.608326,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-São João d'Aliança-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "São João d'Aliança",
+        "uf": "GO",
+        "latitude": -14.704297,
+        "longitude": -47.525448,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-São Luís de Montes Belos-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "São Luís de Montes Belos",
+        "uf": "GO",
+        "latitude": -16.521064,
+        "longitude": -50.372628,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-São Miguel do Araguaia-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "São Miguel do Araguaia",
+        "uf": "GO",
+        "latitude": -13.27305,
+        "longitude": -50.163402,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-São Patrício-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "São Patrício",
+        "uf": "GO",
+        "latitude": -15.35,
+        "longitude": -49.818,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-São Simão-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "São Simão",
+        "uf": "GO",
+        "latitude": -18.99603,
+        "longitude": -50.546968,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Trindade-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Trindade",
+        "uf": "GO",
+        "latitude": -16.651708,
+        "longitude": -49.492667,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Uruaçu-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Uruaçu",
+        "uf": "GO",
+        "latitude": -14.52384,
+        "longitude": -49.139633,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Valparaíso de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Valparaíso de Goiás",
+        "uf": "GO",
+        "latitude": -16.065078,
+        "longitude": -47.975675,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Varjão-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Varjão",
+        "uf": "GO",
+        "latitude": -17.047062,
+        "longitude": -49.631229,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Vianópolis-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Vianópolis",
+        "uf": "GO",
+        "latitude": -16.740532,
+        "longitude": -48.515914,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Vila Boa-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Vila Boa",
+        "uf": "GO",
+        "latitude": -15.038705,
+        "longitude": -47.052029,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Vila Propício-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Vila Propício",
+        "uf": "GO",
+        "latitude": -15.454161,
+        "longitude": -48.88191,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Água Fria de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Água Fria de Goiás",
+        "uf": "GO",
+        "latitude": -14.977837,
+        "longitude": -47.78229,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Águas Lindas de Goiás-GO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Águas Lindas de Goiás",
+        "uf": "GO",
+        "latitude": -15.761746,
+        "longitude": -48.281611,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
         "identifier": "407396000196-Anápolis-GO-A L A INFORMATICA LTDA-Pessoa Jurídica",
         "cidade": "Anápolis",
         "uf": "GO",
@@ -145,12 +2428,12 @@
         ]
     },
     {
-        "identifier": "512342000190-Goiânia-GO-LUIS GUSTAVO ZUCCOLOTTO DE ASSIS-Pessoa Jurídica",
+        "identifier": "512342000190-Goiânia-GO-Luis Gustavo Zuccolotto de Assis-Pessoa Jurídica",
         "cidade": "Goiânia",
         "uf": "GO",
         "latitude": -16.686439,
         "longitude": -49.264346,
-        "empresa": "LUIS GUSTAVO ZUCCOLOTTO DE ASSIS",
+        "empresa": "Luis Gustavo Zuccolotto de Assis",
         "cnpj": 512342000190,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2433,12 +4716,12 @@
         ]
     },
     {
-        "identifier": "3092172000120-Adelândia-GO-HELP DESK NET TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "identifier": "3092172000120-Adelândia-GO-Help Desk Net Telecomunicacoes Ltda-Pessoa Jurídica",
         "cidade": "Adelândia",
         "uf": "GO",
         "latitude": -16.4127,
         "longitude": -50.165699,
-        "empresa": "HELP DESK NET TELECOMUNICACOES LTDA",
+        "empresa": "Help Desk Net Telecomunicacoes Ltda",
         "cnpj": 3092172000120,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2452,12 +4735,12 @@
         ]
     },
     {
-        "identifier": "3092172000120-Americano do Brasil-GO-HELP DESK NET TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "identifier": "3092172000120-Americano do Brasil-GO-Help Desk Net Telecomunicacoes Ltda-Pessoa Jurídica",
         "cidade": "Americano do Brasil",
         "uf": "GO",
         "latitude": -16.251449,
         "longitude": -49.983129,
-        "empresa": "HELP DESK NET TELECOMUNICACOES LTDA",
+        "empresa": "Help Desk Net Telecomunicacoes Ltda",
         "cnpj": 3092172000120,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2471,12 +4754,12 @@
         ]
     },
     {
-        "identifier": "3092172000120-Anicuns-GO-HELP DESK NET TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "identifier": "3092172000120-Anicuns-GO-Help Desk Net Telecomunicacoes Ltda-Pessoa Jurídica",
         "cidade": "Anicuns",
         "uf": "GO",
         "latitude": -16.464164,
         "longitude": -49.961695,
-        "empresa": "HELP DESK NET TELECOMUNICACOES LTDA",
+        "empresa": "Help Desk Net Telecomunicacoes Ltda",
         "cnpj": 3092172000120,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2490,12 +4773,12 @@
         ]
     },
     {
-        "identifier": "3092172000120-Avelinópolis-GO-HELP DESK NET TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "identifier": "3092172000120-Avelinópolis-GO-Help Desk Net Telecomunicacoes Ltda-Pessoa Jurídica",
         "cidade": "Avelinópolis",
         "uf": "GO",
         "latitude": -16.467241,
         "longitude": -49.757866,
-        "empresa": "HELP DESK NET TELECOMUNICACOES LTDA",
+        "empresa": "Help Desk Net Telecomunicacoes Ltda",
         "cnpj": 3092172000120,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2509,12 +4792,12 @@
         ]
     },
     {
-        "identifier": "3092172000120-Nazário-GO-HELP DESK NET TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "identifier": "3092172000120-Nazário-GO-Help Desk Net Telecomunicacoes Ltda-Pessoa Jurídica",
         "cidade": "Nazário",
         "uf": "GO",
         "latitude": -16.580769,
         "longitude": -49.881671,
-        "empresa": "HELP DESK NET TELECOMUNICACOES LTDA",
+        "empresa": "Help Desk Net Telecomunicacoes Ltda",
         "cnpj": 3092172000120,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2528,12 +4811,12 @@
         ]
     },
     {
-        "identifier": "3092172000120-Santa Bárbara de Goiás-GO-HELP DESK NET TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "identifier": "3092172000120-Santa Bárbara de Goiás-GO-Help Desk Net Telecomunicacoes Ltda-Pessoa Jurídica",
         "cidade": "Santa Bárbara de Goiás",
         "uf": "GO",
         "latitude": -16.571363,
         "longitude": -49.695385,
-        "empresa": "HELP DESK NET TELECOMUNICACOES LTDA",
+        "empresa": "Help Desk Net Telecomunicacoes Ltda",
         "cnpj": 3092172000120,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2892,12 +5175,12 @@
         ]
     },
     {
-        "identifier": "3577867000100-Anhanguera-GO-WGO TELECOMUNICACOES LTDA-ME-Pessoa Jurídica",
+        "identifier": "3577867000100-Anhanguera-GO-WGO TELECOMUNICACOES LTDA.-Pessoa Jurídica",
         "cidade": "Anhanguera",
         "uf": "GO",
         "latitude": -18.333875,
         "longitude": -48.220363,
-        "empresa": "WGO TELECOMUNICACOES LTDA-ME",
+        "empresa": "WGO TELECOMUNICACOES LTDA.",
         "cnpj": 3577867000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2917,12 +5200,12 @@
         ]
     },
     {
-        "identifier": "3577867000100-Catalão-GO-WGO TELECOMUNICACOES LTDA-ME-Pessoa Jurídica",
+        "identifier": "3577867000100-Catalão-GO-WGO TELECOMUNICACOES LTDA.-Pessoa Jurídica",
         "cidade": "Catalão",
         "uf": "GO",
         "latitude": -18.165633,
         "longitude": -47.944043,
-        "empresa": "WGO TELECOMUNICACOES LTDA-ME",
+        "empresa": "WGO TELECOMUNICACOES LTDA.",
         "cnpj": 3577867000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2942,12 +5225,12 @@
         ]
     },
     {
-        "identifier": "3577867000100-Davinópolis-GO-WGO TELECOMUNICACOES LTDA-ME-Pessoa Jurídica",
+        "identifier": "3577867000100-Davinópolis-GO-WGO TELECOMUNICACOES LTDA.-Pessoa Jurídica",
         "cidade": "Davinópolis",
         "uf": "GO",
         "latitude": -18.150084,
         "longitude": -47.556795,
-        "empresa": "WGO TELECOMUNICACOES LTDA-ME",
+        "empresa": "WGO TELECOMUNICACOES LTDA.",
         "cnpj": 3577867000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2967,12 +5250,12 @@
         ]
     },
     {
-        "identifier": "3577867000100-Goiandira-GO-WGO TELECOMUNICACOES LTDA-ME-Pessoa Jurídica",
+        "identifier": "3577867000100-Goiandira-GO-WGO TELECOMUNICACOES LTDA.-Pessoa Jurídica",
         "cidade": "Goiandira",
         "uf": "GO",
         "latitude": -18.135158,
         "longitude": -48.087453,
-        "empresa": "WGO TELECOMUNICACOES LTDA-ME",
+        "empresa": "WGO TELECOMUNICACOES LTDA.",
         "cnpj": 3577867000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2992,12 +5275,12 @@
         ]
     },
     {
-        "identifier": "3577867000100-Ouvidor-GO-WGO TELECOMUNICACOES LTDA-ME-Pessoa Jurídica",
+        "identifier": "3577867000100-Ouvidor-GO-WGO TELECOMUNICACOES LTDA.-Pessoa Jurídica",
         "cidade": "Ouvidor",
         "uf": "GO",
         "latitude": -18.227669,
         "longitude": -47.83548,
-        "empresa": "WGO TELECOMUNICACOES LTDA-ME",
+        "empresa": "WGO TELECOMUNICACOES LTDA.",
         "cnpj": 3577867000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -3017,12 +5300,12 @@
         ]
     },
     {
-        "identifier": "3577867000100-Urutaí-GO-WGO TELECOMUNICACOES LTDA-ME-Pessoa Jurídica",
+        "identifier": "3577867000100-Urutaí-GO-WGO TELECOMUNICACOES LTDA.-Pessoa Jurídica",
         "cidade": "Urutaí",
         "uf": "GO",
         "latitude": -17.465097,
         "longitude": -48.201481,
-        "empresa": "WGO TELECOMUNICACOES LTDA-ME",
+        "empresa": "WGO TELECOMUNICACOES LTDA.",
         "cnpj": 3577867000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -3144,6 +5427,25 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "4106713000195-Alexânia-GO-OYAMA BAHIA DA SILVA-Pessoa Jurídica",
+        "cidade": "Alexânia",
+        "uf": "GO",
+        "latitude": -16.083405,
+        "longitude": -48.507609,
+        "empresa": "OYAMA BAHIA DA SILVA",
+        "cnpj": 4106713000195,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             }
         ]
@@ -3338,12 +5640,12 @@
         ]
     },
     {
-        "identifier": "4912330000104-Aparecida de Goiânia-GO-PONTO NET TELECOM EIRELI-Pessoa Jurídica",
+        "identifier": "4912330000104-Aparecida de Goiânia-GO-PONTO NET TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Aparecida de Goiânia",
         "uf": "GO",
         "latitude": -16.819804,
         "longitude": -49.246856,
-        "empresa": "PONTO NET TELECOM EIRELI",
+        "empresa": "PONTO NET TELECOM LTDA",
         "cnpj": 4912330000104,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -3357,12 +5659,12 @@
         ]
     },
     {
-        "identifier": "4912330000104-Caldas Novas-GO-PONTO NET TELECOM EIRELI-Pessoa Jurídica",
+        "identifier": "4912330000104-Caldas Novas-GO-PONTO NET TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Caldas Novas",
         "uf": "GO",
         "latitude": -17.74406,
         "longitude": -48.624579,
-        "empresa": "PONTO NET TELECOM EIRELI",
+        "empresa": "PONTO NET TELECOM LTDA",
         "cnpj": 4912330000104,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -3376,12 +5678,12 @@
         ]
     },
     {
-        "identifier": "4912330000104-Corumbaíba-GO-PONTO NET TELECOM EIRELI-Pessoa Jurídica",
+        "identifier": "4912330000104-Corumbaíba-GO-PONTO NET TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Corumbaíba",
         "uf": "GO",
         "latitude": -18.141487,
         "longitude": -48.562607,
-        "empresa": "PONTO NET TELECOM EIRELI",
+        "empresa": "PONTO NET TELECOM LTDA",
         "cnpj": 4912330000104,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -3401,12 +5703,12 @@
         ]
     },
     {
-        "identifier": "4912330000104-Goiânia-GO-PONTO NET TELECOM EIRELI-Pessoa Jurídica",
+        "identifier": "4912330000104-Goiânia-GO-PONTO NET TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Goiânia",
         "uf": "GO",
         "latitude": -16.686439,
         "longitude": -49.264346,
-        "empresa": "PONTO NET TELECOM EIRELI",
+        "empresa": "PONTO NET TELECOM LTDA",
         "cnpj": 4912330000104,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -3420,12 +5722,12 @@
         ]
     },
     {
-        "identifier": "4912330000104-Ipameri-GO-PONTO NET TELECOM EIRELI-Pessoa Jurídica",
+        "identifier": "4912330000104-Ipameri-GO-PONTO NET TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Ipameri",
         "uf": "GO",
         "latitude": -17.721544,
         "longitude": -48.158118,
-        "empresa": "PONTO NET TELECOM EIRELI",
+        "empresa": "PONTO NET TELECOM LTDA",
         "cnpj": 4912330000104,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -3439,12 +5741,12 @@
         ]
     },
     {
-        "identifier": "4912330000104-Marzagão-GO-PONTO NET TELECOM EIRELI-Pessoa Jurídica",
+        "identifier": "4912330000104-Marzagão-GO-PONTO NET TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Marzagão",
         "uf": "GO",
         "latitude": -17.982978,
         "longitude": -48.641519,
-        "empresa": "PONTO NET TELECOM EIRELI",
+        "empresa": "PONTO NET TELECOM LTDA",
         "cnpj": 4912330000104,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -3458,12 +5760,12 @@
         ]
     },
     {
-        "identifier": "4912330000104-Panamá-GO-PONTO NET TELECOM EIRELI-Pessoa Jurídica",
+        "identifier": "4912330000104-Panamá-GO-PONTO NET TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Panamá",
         "uf": "GO",
         "latitude": -18.178264,
         "longitude": -49.354994,
-        "empresa": "PONTO NET TELECOM EIRELI",
+        "empresa": "PONTO NET TELECOM LTDA",
         "cnpj": 4912330000104,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -3477,12 +5779,12 @@
         ]
     },
     {
-        "identifier": "4912330000104-Água Limpa-GO-PONTO NET TELECOM EIRELI-Pessoa Jurídica",
+        "identifier": "4912330000104-Água Limpa-GO-PONTO NET TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Água Limpa",
         "uf": "GO",
         "latitude": -18.077082,
         "longitude": -48.760304,
-        "empresa": "PONTO NET TELECOM EIRELI",
+        "empresa": "PONTO NET TELECOM LTDA",
         "cnpj": 4912330000104,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -4008,12 +6310,12 @@
         ]
     },
     {
-        "identifier": "5889474000150-Guarinos-GO-EDSON R. DE OLIVEIRA JUNIOR-Pessoa Jurídica",
+        "identifier": "5889474000150-Guarinos-GO-ITAOL TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Guarinos",
         "uf": "GO",
         "latitude": -14.729215,
         "longitude": -49.700609,
-        "empresa": "EDSON R. DE OLIVEIRA JUNIOR",
+        "empresa": "ITAOL TELECOM LTDA",
         "cnpj": 5889474000150,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -4033,12 +6335,12 @@
         ]
     },
     {
-        "identifier": "5889474000150-Itapaci-GO-EDSON R. DE OLIVEIRA JUNIOR-Pessoa Jurídica",
+        "identifier": "5889474000150-Itapaci-GO-ITAOL TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Itapaci",
         "uf": "GO",
         "latitude": -14.952235,
         "longitude": -49.551122,
-        "empresa": "EDSON R. DE OLIVEIRA JUNIOR",
+        "empresa": "ITAOL TELECOM LTDA",
         "cnpj": 5889474000150,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -4064,12 +6366,12 @@
         ]
     },
     {
-        "identifier": "5889474000150-São Luiz do Norte-GO-EDSON R. DE OLIVEIRA JUNIOR-Pessoa Jurídica",
+        "identifier": "5889474000150-São Luiz do Norte-GO-ITAOL TELECOM LTDA-Pessoa Jurídica",
         "cidade": "São Luiz do Norte",
         "uf": "GO",
         "latitude": -14.860444,
         "longitude": -49.825166,
-        "empresa": "EDSON R. DE OLIVEIRA JUNIOR",
+        "empresa": "ITAOL TELECOM LTDA",
         "cnpj": 5889474000150,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -4311,6 +6613,25 @@
                 "tecnologia": "Wi-Fi",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "6226061000158-Goiânia-GO-HZ TELECOMUNICACOES E INFORMATICA LTDA-Pessoa Jurídica",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "latitude": -16.686439,
+        "longitude": -49.264346,
+        "empresa": "HZ TELECOMUNICACOES E INFORMATICA LTDA",
+        "cnpj": 6226061000158,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
                 "quantidade-acesso": 1
             }
         ]
@@ -4612,12 +6933,12 @@
         ]
     },
     {
-        "identifier": "7229330000100-Cachoeira Dourada-GO-PONTOVIVO INFORMATICA & COMUNICACOES EIRELI-Pessoa Jurídica",
+        "identifier": "7229330000100-Cachoeira Dourada-GO-PONTOVIVO INFORMATICA & COMUNICACOES LTDA.-Pessoa Jurídica",
         "cidade": "Cachoeira Dourada",
         "uf": "GO",
         "latitude": -18.485893,
         "longitude": -49.476603,
-        "empresa": "PONTOVIVO INFORMATICA & COMUNICACOES EIRELI",
+        "empresa": "PONTOVIVO INFORMATICA & COMUNICACOES LTDA.",
         "cnpj": 7229330000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -4631,12 +6952,12 @@
         ]
     },
     {
-        "identifier": "7229330000100-Itumbiara-GO-PONTOVIVO INFORMATICA & COMUNICACOES EIRELI-Pessoa Jurídica",
+        "identifier": "7229330000100-Itumbiara-GO-PONTOVIVO INFORMATICA & COMUNICACOES LTDA.-Pessoa Jurídica",
         "cidade": "Itumbiara",
         "uf": "GO",
         "latitude": -18.409267,
         "longitude": -49.215845,
-        "empresa": "PONTOVIVO INFORMATICA & COMUNICACOES EIRELI",
+        "empresa": "PONTOVIVO INFORMATICA & COMUNICACOES LTDA.",
         "cnpj": 7229330000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -8393,6 +10714,31 @@
         ]
     },
     {
+        "identifier": "8889675000145-Alexânia-GO-TECH-NET LTDA-Pessoa Jurídica",
+        "cidade": "Alexânia",
+        "uf": "GO",
+        "latitude": -16.083405,
+        "longitude": -48.507609,
+        "empresa": "TECH-NET LTDA",
+        "cnpj": 8889675000145,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 45
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
         "identifier": "8900654000183-Nerópolis-GO-RODRIGUES E NECKEL LTDA - ME-Pessoa Jurídica",
         "cidade": "Nerópolis",
         "uf": "GO",
@@ -8702,12 +11048,12 @@
         ]
     },
     {
-        "identifier": "9178684000190-Planaltina-GO-A & G SERVIÇOS EM TI LTDA-Pessoa Jurídica",
+        "identifier": "9178684000190-Planaltina-GO-A & G Servicos em Ti Ltda-Pessoa Jurídica",
         "cidade": "Planaltina",
         "uf": "GO",
         "latitude": -15.452033,
         "longitude": -47.608885,
-        "empresa": "A & G SERVIÇOS EM TI LTDA",
+        "empresa": "A & G Servicos em Ti Ltda",
         "cnpj": 9178684000190,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -8954,12 +11300,12 @@
         ]
     },
     {
-        "identifier": "9363864000142-São Miguel do Araguaia-GO-MEGA NET SERVIÇOS DE COMUNICAÇAO MULTIMIDIA LTDA-Pessoa Jurídica",
+        "identifier": "9363864000142-São Miguel do Araguaia-GO-Mega Net Servios de Comunicao Multimdia Ltda-Pessoa Jurídica",
         "cidade": "São Miguel do Araguaia",
         "uf": "GO",
         "latitude": -13.27305,
         "longitude": -50.163402,
-        "empresa": "MEGA NET SERVIÇOS DE COMUNICAÇAO MULTIMIDIA LTDA",
+        "empresa": "Mega Net Servios de Comunicao Multimdia Ltda",
         "cnpj": 9363864000142,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -9208,6 +11554,44 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 23
+            }
+        ]
+    },
+    {
+        "identifier": "9459768000100-Barro Alto-GO-M. P. TELECOM LTDA ME-Pessoa Jurídica",
+        "cidade": "Barro Alto",
+        "uf": "GO",
+        "latitude": -14.965817,
+        "longitude": -48.908586,
+        "empresa": "M. P. TELECOM LTDA ME",
+        "cnpj": 9459768000100,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 115
+            }
+        ]
+    },
+    {
+        "identifier": "9459768000100-Goianésia-GO-M. P. TELECOM LTDA ME-Pessoa Jurídica",
+        "cidade": "Goianésia",
+        "uf": "GO",
+        "latitude": -15.311827,
+        "longitude": -49.1162,
+        "empresa": "M. P. TELECOM LTDA ME",
+        "cnpj": 9459768000100,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1173
             }
         ]
     },
@@ -9661,6 +12045,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "10303252000143-Aparecida de Goiânia-GO-Portal Net Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Aparecida de Goiânia",
+        "uf": "GO",
+        "latitude": -16.819804,
+        "longitude": -49.246856,
+        "empresa": "Portal Net Telecomunicacoes Ltda",
+        "cnpj": 10303252000143,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 55
             }
         ]
     },
@@ -11361,12 +13764,12 @@
         ]
     },
     {
-        "identifier": "10970190000123-Goiânia-GO-1TOC INFORMÁTICA LTDA-Pessoa Jurídica",
+        "identifier": "10970190000123-Goiânia-GO-1toc Informatica Ltda-Pessoa Jurídica",
         "cidade": "Goiânia",
         "uf": "GO",
         "latitude": -16.686439,
         "longitude": -49.264346,
-        "empresa": "1TOC INFORMÁTICA LTDA",
+        "empresa": "1toc Informatica Ltda",
         "cnpj": 10970190000123,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -11376,6 +13779,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "11056700000114-Aparecida de Goiânia-GO-REINALTO RODRIGUES DA SILVA - DATINET - ME-Pessoa Jurídica",
+        "cidade": "Aparecida de Goiânia",
+        "uf": "GO",
+        "latitude": -16.819804,
+        "longitude": -49.246856,
+        "empresa": "REINALTO RODRIGUES DA SILVA - DATINET - ME",
+        "cnpj": 11056700000114,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 23
             }
         ]
     },
@@ -11493,12 +13915,12 @@
         ]
     },
     {
-        "identifier": "11278588000166-Anápolis-GO-Sothis Técnologia e Serviços de Telecomunicações Ltda-Pessoa Jurídica",
+        "identifier": "11278588000166-Anápolis-GO-Sothis Tecnologia e Serviços de Telecomunicações Ltda-Pessoa Jurídica",
         "cidade": "Anápolis",
         "uf": "GO",
         "latitude": -16.328095,
         "longitude": -48.952958,
-        "empresa": "Sothis Técnologia e Serviços de Telecomunicações Ltda",
+        "empresa": "Sothis Tecnologia e Serviços de Telecomunicações Ltda",
         "cnpj": 11278588000166,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -12418,6 +14840,81 @@
         ]
     },
     {
+        "identifier": "12208380000133-Alto Horizonte-GO-OLHAR DIGITAL TECNOLOGIA LTDA - ME-Pessoa Jurídica",
+        "cidade": "Alto Horizonte",
+        "uf": "GO",
+        "latitude": -14.197811,
+        "longitude": -49.337836,
+        "empresa": "OLHAR DIGITAL TECNOLOGIA LTDA - ME",
+        "cnpj": 12208380000133,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "12208380000133-Campinorte-GO-OLHAR DIGITAL TECNOLOGIA LTDA - ME-Pessoa Jurídica",
+        "cidade": "Campinorte",
+        "uf": "GO",
+        "latitude": -14.31367,
+        "longitude": -49.151093,
+        "empresa": "OLHAR DIGITAL TECNOLOGIA LTDA - ME",
+        "cnpj": 12208380000133,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 19
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "12208380000133-Uruaçu-GO-OLHAR DIGITAL TECNOLOGIA LTDA - ME-Pessoa Jurídica",
+        "cidade": "Uruaçu",
+        "uf": "GO",
+        "latitude": -14.52384,
+        "longitude": -49.139633,
+        "empresa": "OLHAR DIGITAL TECNOLOGIA LTDA - ME",
+        "cnpj": 12208380000133,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "12621414000117-Goiânia-GO-P S TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Goiânia",
         "uf": "GO",
@@ -12898,12 +15395,12 @@
         ]
     },
     {
-        "identifier": "13121485000113-Nerópolis-GO-ULISSYS FERNANDES STIVAL-Pessoa Jurídica",
+        "identifier": "13121485000113-Nerópolis-GO-Suport Telecom Ltda-Pessoa Jurídica",
         "cidade": "Nerópolis",
         "uf": "GO",
         "latitude": -16.404708,
         "longitude": -49.222708,
-        "empresa": "ULISSYS FERNANDES STIVAL",
+        "empresa": "Suport Telecom Ltda",
         "cnpj": 13121485000113,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -13966,12 +16463,12 @@
         ]
     },
     {
-        "identifier": "16943267000152-Jussara-GO-SMA NETCOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "16943267000152-Jussara-GO-Sma Netcom Ltda-Pessoa Jurídica",
         "cidade": "Jussara",
         "uf": "GO",
         "latitude": -15.865877,
         "longitude": -50.866818,
-        "empresa": "SMA NETCOM LTDA - ME",
+        "empresa": "Sma Netcom Ltda",
         "cnpj": 16943267000152,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14211,6 +16708,69 @@
         "info-tecnologia": [
             {
                 "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "17273468000152-Abadia de Goiás-GO-CYBERLINE COMUNICAÇÕES E SERVIÇOS LTDA - ME-Pessoa Jurídica",
+        "cidade": "Abadia de Goiás",
+        "uf": "GO",
+        "latitude": -16.757326,
+        "longitude": -49.441156,
+        "empresa": "CYBERLINE COMUNICAÇÕES E SERVIÇOS LTDA - ME",
+        "cnpj": 17273468000152,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
+        "identifier": "17273468000152-Aparecida de Goiânia-GO-CYBERLINE COMUNICAÇÕES E SERVIÇOS LTDA - ME-Pessoa Jurídica",
+        "cidade": "Aparecida de Goiânia",
+        "uf": "GO",
+        "latitude": -16.819804,
+        "longitude": -49.246856,
+        "empresa": "CYBERLINE COMUNICAÇÕES E SERVIÇOS LTDA - ME",
+        "cnpj": 17273468000152,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
+        "identifier": "17273468000152-Goiânia-GO-CYBERLINE COMUNICAÇÕES E SERVIÇOS LTDA - ME-Pessoa Jurídica",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "latitude": -16.686439,
+        "longitude": -49.264346,
+        "empresa": "CYBERLINE COMUNICAÇÕES E SERVIÇOS LTDA - ME",
+        "cnpj": 17273468000152,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 19
+            },
+            {
+                "tecnologia": "Wi-Fi",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
@@ -14670,12 +17230,12 @@
         ]
     },
     {
-        "identifier": "17989219000168-Goiânia-GO-WILLIAM HENRIQUE GARCIA - ME-Pessoa Jurídica",
+        "identifier": "17989219000168-Goiânia-GO-William Henrique Garcia-Pessoa Jurídica",
         "cidade": "Goiânia",
         "uf": "GO",
         "latitude": -16.686439,
         "longitude": -49.264346,
-        "empresa": "WILLIAM HENRIQUE GARCIA - ME",
+        "empresa": "William Henrique Garcia",
         "cnpj": 17989219000168,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14947,12 +17507,12 @@
         ]
     },
     {
-        "identifier": "18534998000170-Corumbaíba-GO-GLOBAL TELECOM LTDA.-Pessoa Jurídica",
+        "identifier": "18534998000170-Corumbaíba-GO-Global Telecom Ltda-Pessoa Jurídica",
         "cidade": "Corumbaíba",
         "uf": "GO",
         "latitude": -18.141487,
         "longitude": -48.562607,
-        "empresa": "GLOBAL TELECOM LTDA.",
+        "empresa": "Global Telecom Ltda",
         "cnpj": 18534998000170,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -15436,12 +17996,12 @@
         ]
     },
     {
-        "identifier": "19438160000145-Bela Vista de Goiás-GO-PULSE TELECOM EIRELI-Pessoa Jurídica",
+        "identifier": "19438160000145-Bela Vista de Goiás-GO-PULSE TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Bela Vista de Goiás",
         "uf": "GO",
         "latitude": -16.969295,
         "longitude": -48.951307,
-        "empresa": "PULSE TELECOM EIRELI",
+        "empresa": "PULSE TELECOM LTDA",
         "cnpj": 19438160000145,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -15461,12 +18021,12 @@
         ]
     },
     {
-        "identifier": "19438160000145-Caldazinha-GO-PULSE TELECOM EIRELI-Pessoa Jurídica",
+        "identifier": "19438160000145-Caldazinha-GO-PULSE TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Caldazinha",
         "uf": "GO",
         "latitude": -16.711665,
         "longitude": -49.00126,
-        "empresa": "PULSE TELECOM EIRELI",
+        "empresa": "PULSE TELECOM LTDA",
         "cnpj": 19438160000145,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -15492,12 +18052,12 @@
         ]
     },
     {
-        "identifier": "19438160000145-Silvânia-GO-PULSE TELECOM EIRELI-Pessoa Jurídica",
+        "identifier": "19438160000145-Silvânia-GO-PULSE TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Silvânia",
         "uf": "GO",
         "latitude": -16.659972,
         "longitude": -48.608326,
-        "empresa": "PULSE TELECOM EIRELI",
+        "empresa": "PULSE TELECOM LTDA",
         "cnpj": 19438160000145,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -15745,12 +18305,12 @@
         ]
     },
     {
-        "identifier": "19965685000139-Jussara-GO-WELITON DE SOUZA-Pessoa Jurídica",
+        "identifier": "19965685000139-Jussara-GO-WELITON DE SOUZA LTDA.-Pessoa Jurídica",
         "cidade": "Jussara",
         "uf": "GO",
         "latitude": -15.865877,
         "longitude": -50.866818,
-        "empresa": "WELITON DE SOUZA",
+        "empresa": "WELITON DE SOUZA LTDA.",
         "cnpj": 19965685000139,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -15770,12 +18330,12 @@
         ]
     },
     {
-        "identifier": "19965685000139-Montes Claros de Goiás-GO-WELITON DE SOUZA-Pessoa Jurídica",
+        "identifier": "19965685000139-Montes Claros de Goiás-GO-WELITON DE SOUZA LTDA.-Pessoa Jurídica",
         "cidade": "Montes Claros de Goiás",
         "uf": "GO",
         "latitude": -16.005946,
         "longitude": -51.397878,
-        "empresa": "WELITON DE SOUZA",
+        "empresa": "WELITON DE SOUZA LTDA.",
         "cnpj": 19965685000139,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -15789,12 +18349,12 @@
         ]
     },
     {
-        "identifier": "19965685000139-Santa Fé de Goiás-GO-WELITON DE SOUZA-Pessoa Jurídica",
+        "identifier": "19965685000139-Santa Fé de Goiás-GO-WELITON DE SOUZA LTDA.-Pessoa Jurídica",
         "cidade": "Santa Fé de Goiás",
         "uf": "GO",
         "latitude": -15.766426,
         "longitude": -51.103706,
-        "empresa": "WELITON DE SOUZA",
+        "empresa": "WELITON DE SOUZA LTDA.",
         "cnpj": 19965685000139,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -17039,6 +19599,25 @@
         ]
     },
     {
+        "identifier": "20764476000106-Goiânia-GO-Sam Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "latitude": -16.686439,
+        "longitude": -49.264346,
+        "empresa": "Sam Telecomunicacoes Ltda",
+        "cnpj": 20764476000106,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "21126447000181-Campo Limpo de Goiás-GO-H C TELECOM PROVEDOR DE INTERNET LTDA - ME-Pessoa Jurídica",
         "cidade": "Campo Limpo de Goiás",
         "uf": "GO",
@@ -17203,12 +19782,12 @@
         ]
     },
     {
-        "identifier": "22299932000110-Chapadão do Céu-GO-N3 SOLUCOES TECNOLOGICAS LTDA - ME-Pessoa Jurídica",
+        "identifier": "22299932000110-Chapadão do Céu-GO-N3 SOLUCOES TECNOLOGICAS LTDA.-Pessoa Jurídica",
         "cidade": "Chapadão do Céu",
         "uf": "GO",
         "latitude": -18.407326,
         "longitude": -52.548986,
-        "empresa": "N3 SOLUCOES TECNOLOGICAS LTDA - ME",
+        "empresa": "N3 SOLUCOES TECNOLOGICAS LTDA.",
         "cnpj": 22299932000110,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -17281,196 +19860,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "22506325000183-Alexânia-GO-AMERICA NET-Pessoa Jurídica",
-        "cidade": "Alexânia",
-        "uf": "GO",
-        "latitude": -16.083405,
-        "longitude": -48.507609,
-        "empresa": "AMERICA NET",
-        "cnpj": 22506325000183,
-        "data-dados": "2023-05",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "22506325000183-Caldas Novas-GO-AMERICA NET-Pessoa Jurídica",
-        "cidade": "Caldas Novas",
-        "uf": "GO",
-        "latitude": -17.74406,
-        "longitude": -48.624579,
-        "empresa": "AMERICA NET",
-        "cnpj": 22506325000183,
-        "data-dados": "2023-05",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "22506325000183-Campo Alegre de Goiás-GO-AMERICA NET-Pessoa Jurídica",
-        "cidade": "Campo Alegre de Goiás",
-        "uf": "GO",
-        "latitude": -17.636346,
-        "longitude": -47.776815,
-        "empresa": "AMERICA NET",
-        "cnpj": 22506325000183,
-        "data-dados": "2023-05",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "22506325000183-Catalão-GO-AMERICA NET-Pessoa Jurídica",
-        "cidade": "Catalão",
-        "uf": "GO",
-        "latitude": -18.165633,
-        "longitude": -47.944043,
-        "empresa": "AMERICA NET",
-        "cnpj": 22506325000183,
-        "data-dados": "2023-05",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "22506325000183-Cristalina-GO-AMERICA NET-Pessoa Jurídica",
-        "cidade": "Cristalina",
-        "uf": "GO",
-        "latitude": -16.767608,
-        "longitude": -47.613128,
-        "empresa": "AMERICA NET",
-        "cnpj": 22506325000183,
-        "data-dados": "2023-05",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "22506325000183-Ipameri-GO-AMERICA NET-Pessoa Jurídica",
-        "cidade": "Ipameri",
-        "uf": "GO",
-        "latitude": -17.721544,
-        "longitude": -48.158118,
-        "empresa": "AMERICA NET",
-        "cnpj": 22506325000183,
-        "data-dados": "2023-05",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "22506325000183-Itumbiara-GO-AMERICA NET-Pessoa Jurídica",
-        "cidade": "Itumbiara",
-        "uf": "GO",
-        "latitude": -18.409267,
-        "longitude": -49.215845,
-        "empresa": "AMERICA NET",
-        "cnpj": 22506325000183,
-        "data-dados": "2023-05",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "22506325000183-Luziânia-GO-AMERICA NET-Pessoa Jurídica",
-        "cidade": "Luziânia",
-        "uf": "GO",
-        "latitude": -16.253,
-        "longitude": -47.95,
-        "empresa": "AMERICA NET",
-        "cnpj": 22506325000183,
-        "data-dados": "2023-05",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "22506325000183-Ouvidor-GO-AMERICA NET-Pessoa Jurídica",
-        "cidade": "Ouvidor",
-        "uf": "GO",
-        "latitude": -18.227669,
-        "longitude": -47.83548,
-        "empresa": "AMERICA NET",
-        "cnpj": 22506325000183,
-        "data-dados": "2023-05",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "22506325000183-Valparaíso de Goiás-GO-AMERICA NET-Pessoa Jurídica",
-        "cidade": "Valparaíso de Goiás",
-        "uf": "GO",
-        "latitude": -16.065078,
-        "longitude": -47.975675,
-        "empresa": "AMERICA NET",
-        "cnpj": 22506325000183,
-        "data-dados": "2023-05",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
             }
         ]
     },
@@ -17683,12 +20072,12 @@
         ]
     },
     {
-        "identifier": "23150425000182-Goiânia-GO-ALLFIBER TELECOM - SERVICOS DE TELECOMUNICACOES - LTDA-Pessoa Jurídica",
+        "identifier": "23150425000182-Goiânia-GO-Allfiber Telecom - Servicos de Telecomunicacoes - Ltda-Pessoa Jurídica",
         "cidade": "Goiânia",
         "uf": "GO",
         "latitude": -16.686439,
         "longitude": -49.264346,
-        "empresa": "ALLFIBER TELECOM - SERVICOS DE TELECOMUNICACOES - LTDA",
+        "empresa": "Allfiber Telecom - Servicos de Telecomunicacoes - Ltda",
         "cnpj": 23150425000182,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -17910,12 +20299,107 @@
         ]
     },
     {
-        "identifier": "24348810000100-Aragarças-GO-A A P D Carvalho Alves de Castro Internet Eireli-Pessoa Jurídica",
+        "identifier": "24274947000159-Jesúpolis-GO-ARAUJO & SILVA LTDA - ME-Pessoa Jurídica",
+        "cidade": "Jesúpolis",
+        "uf": "GO",
+        "latitude": -15.948362,
+        "longitude": -49.373942,
+        "empresa": "ARAUJO & SILVA LTDA - ME",
+        "cnpj": 24274947000159,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 39
+            }
+        ]
+    },
+    {
+        "identifier": "24274947000159-Ouro Verde de Goiás-GO-ARAUJO & SILVA LTDA - ME-Pessoa Jurídica",
+        "cidade": "Ouro Verde de Goiás",
+        "uf": "GO",
+        "latitude": -16.218107,
+        "longitude": -49.194154,
+        "empresa": "ARAUJO & SILVA LTDA - ME",
+        "cnpj": 24274947000159,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 19
+            }
+        ]
+    },
+    {
+        "identifier": "24274947000159-Petrolina de Goiás-GO-ARAUJO & SILVA LTDA - ME-Pessoa Jurídica",
+        "cidade": "Petrolina de Goiás",
+        "uf": "GO",
+        "latitude": -16.096849,
+        "longitude": -49.336371,
+        "empresa": "ARAUJO & SILVA LTDA - ME",
+        "cnpj": 24274947000159,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "24274947000159-Santa Rosa de Goiás-GO-ARAUJO & SILVA LTDA - ME-Pessoa Jurídica",
+        "cidade": "Santa Rosa de Goiás",
+        "uf": "GO",
+        "latitude": -16.083983,
+        "longitude": -49.495326,
+        "empresa": "ARAUJO & SILVA LTDA - ME",
+        "cnpj": 24274947000159,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "24274947000159-São Francisco de Goiás-GO-ARAUJO & SILVA LTDA - ME-Pessoa Jurídica",
+        "cidade": "São Francisco de Goiás",
+        "uf": "GO",
+        "latitude": -15.925646,
+        "longitude": -49.260519,
+        "empresa": "ARAUJO & SILVA LTDA - ME",
+        "cnpj": 24274947000159,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            }
+        ]
+    },
+    {
+        "identifier": "24348810000100-Aragarças-GO-CINE NET TELECOM LTDA.-Pessoa Jurídica",
         "cidade": "Aragarças",
         "uf": "GO",
         "latitude": -15.89546,
         "longitude": -52.237231,
-        "empresa": "A A P D Carvalho Alves de Castro Internet Eireli",
+        "empresa": "CINE NET TELECOM LTDA.",
         "cnpj": 24348810000100,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18217,6 +20701,25 @@
         ]
     },
     {
+        "identifier": "24609549000146-Luziânia-GO-Topgnet Telecom e Informatica Ltda-Pessoa Jurídica",
+        "cidade": "Luziânia",
+        "uf": "GO",
+        "latitude": -16.253,
+        "longitude": -47.95,
+        "empresa": "Topgnet Telecom e Informatica Ltda",
+        "cnpj": 24609549000146,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
         "identifier": "24821995000110-Goiânia-GO-T & I TELECOMUNICACOES LTDA - ME-Pessoa Jurídica",
         "cidade": "Goiânia",
         "uf": "GO",
@@ -18337,12 +20840,12 @@
         ]
     },
     {
-        "identifier": "24996988000159-Goiás-GO-TELXE DO BRASIL TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "identifier": "24996988000159-Goiás-GO-RH ATIVA SERVIÇOS ESPECIALIZADOS LTDA.-Pessoa Jurídica",
         "cidade": "Goiás",
         "uf": "GO",
         "latitude": -15.933305,
         "longitude": -50.139963,
-        "empresa": "TELXE DO BRASIL TELECOMUNICACOES LTDA",
+        "empresa": "RH ATIVA SERVIÇOS ESPECIALIZADOS LTDA.",
         "cnpj": 24996988000159,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18495,12 +20998,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Abadia de Goiás-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Abadia de Goiás-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Abadia de Goiás",
         "uf": "GO",
         "latitude": -16.757326,
         "longitude": -49.441156,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18514,12 +21017,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Abadiânia-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Abadiânia-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Abadiânia",
         "uf": "GO",
         "latitude": -16.196973,
         "longitude": -48.705672,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18533,12 +21036,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Acreúna-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Acreúna-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Acreúna",
         "uf": "GO",
         "latitude": -17.39599,
         "longitude": -50.374903,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18552,12 +21055,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Alexânia-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Alexânia-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Alexânia",
         "uf": "GO",
         "latitude": -16.083405,
         "longitude": -48.507609,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18571,12 +21074,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Anicuns-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Anicuns-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Anicuns",
         "uf": "GO",
         "latitude": -16.464164,
         "longitude": -49.961695,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18590,12 +21093,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Anápolis-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Anápolis-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Anápolis",
         "uf": "GO",
         "latitude": -16.328095,
         "longitude": -48.952958,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18615,12 +21118,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Aparecida de Goiânia-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Aparecida de Goiânia-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Aparecida de Goiânia",
         "uf": "GO",
         "latitude": -16.819804,
         "longitude": -49.246856,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18640,12 +21143,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Aparecida do Rio Doce-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Aparecida do Rio Doce-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Aparecida do Rio Doce",
         "uf": "GO",
         "latitude": -18.294071,
         "longitude": -51.151606,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18659,12 +21162,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Aragarças-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Aragarças-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Aragarças",
         "uf": "GO",
         "latitude": -15.89546,
         "longitude": -52.237231,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18678,12 +21181,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Bela Vista de Goiás-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Bela Vista de Goiás-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Bela Vista de Goiás",
         "uf": "GO",
         "latitude": -16.969295,
         "longitude": -48.951307,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18703,12 +21206,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Cachoeira Alta-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Cachoeira Alta-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Cachoeira Alta",
         "uf": "GO",
         "latitude": -18.761827,
         "longitude": -50.943243,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18722,12 +21225,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Caldas Novas-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Caldas Novas-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Caldas Novas",
         "uf": "GO",
         "latitude": -17.74406,
         "longitude": -48.624579,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18747,12 +21250,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Catalão-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Catalão-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Catalão",
         "uf": "GO",
         "latitude": -18.165633,
         "longitude": -47.944043,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18772,12 +21275,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Caçu-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Caçu-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Caçu",
         "uf": "GO",
         "latitude": -18.559382,
         "longitude": -51.132798,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18791,12 +21294,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Ceres-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Ceres-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Ceres",
         "uf": "GO",
         "latitude": -15.306109,
         "longitude": -49.600006,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18816,12 +21319,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Cristalina-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Cristalina-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Cristalina",
         "uf": "GO",
         "latitude": -16.767608,
         "longitude": -47.613128,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18835,12 +21338,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Formosa-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Formosa-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Formosa",
         "uf": "GO",
         "latitude": -15.539991,
         "longitude": -47.336999,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18854,12 +21357,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Goianira-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Goianira-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Goianira",
         "uf": "GO",
         "latitude": -16.494746,
         "longitude": -49.426998,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18873,12 +21376,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Goiatuba-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Goiatuba-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Goiatuba",
         "uf": "GO",
         "latitude": -18.010531,
         "longitude": -49.365807,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18898,12 +21401,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Goiânia-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Goiânia-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Goiânia",
         "uf": "GO",
         "latitude": -16.686439,
         "longitude": -49.264346,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18923,12 +21426,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Guapó-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Guapó-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Guapó",
         "uf": "GO",
         "latitude": -16.829656,
         "longitude": -49.534531,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18942,12 +21445,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Hidrolândia-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Hidrolândia-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Hidrolândia",
         "uf": "GO",
         "latitude": -16.962587,
         "longitude": -49.226535,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18967,12 +21470,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Inhumas-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Inhumas-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Inhumas",
         "uf": "GO",
         "latitude": -16.361057,
         "longitude": -49.500111,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -18992,12 +21495,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Ipameri-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Ipameri-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Ipameri",
         "uf": "GO",
         "latitude": -17.721544,
         "longitude": -48.158118,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19011,12 +21514,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Iporá-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Iporá-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Iporá",
         "uf": "GO",
         "latitude": -16.439764,
         "longitude": -51.118049,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19030,12 +21533,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Itarumã-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Itarumã-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Itarumã",
         "uf": "GO",
         "latitude": -18.764553,
         "longitude": -51.348516,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19049,12 +21552,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Itauçu-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Itauçu-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Itauçu",
         "uf": "GO",
         "latitude": -16.202899,
         "longitude": -49.610929,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19068,12 +21571,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Itumbiara-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Itumbiara-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Itumbiara",
         "uf": "GO",
         "latitude": -18.409267,
         "longitude": -49.215845,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19093,12 +21596,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Jaraguá-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Jaraguá-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Jaraguá",
         "uf": "GO",
         "latitude": -15.752948,
         "longitude": -49.334428,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19112,12 +21615,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Jataí-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Jataí-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Jataí",
         "uf": "GO",
         "latitude": -17.878383,
         "longitude": -51.720424,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19131,12 +21634,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Jussara-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Jussara-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Jussara",
         "uf": "GO",
         "latitude": -15.865877,
         "longitude": -50.866818,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19150,12 +21653,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Luziânia-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Luziânia-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Luziânia",
         "uf": "GO",
         "latitude": -16.253,
         "longitude": -47.95,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19169,12 +21672,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Mineiros-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Mineiros-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Mineiros",
         "uf": "GO",
         "latitude": -17.565388,
         "longitude": -52.553672,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19194,12 +21697,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Morrinhos-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Morrinhos-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Morrinhos",
         "uf": "GO",
         "latitude": -17.733369,
         "longitude": -49.105908,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19213,12 +21716,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Nerópolis-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Nerópolis-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Nerópolis",
         "uf": "GO",
         "latitude": -16.404708,
         "longitude": -49.222708,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19238,12 +21741,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Palmeiras de Goiás-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Palmeiras de Goiás-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Palmeiras de Goiás",
         "uf": "GO",
         "latitude": -16.804446,
         "longitude": -49.924029,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19263,12 +21766,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Paranaiguara-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Paranaiguara-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Paranaiguara",
         "uf": "GO",
         "latitude": -18.914055,
         "longitude": -50.653928,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19282,12 +21785,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Paraúna-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Paraúna-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Paraúna",
         "uf": "GO",
         "latitude": -16.946259,
         "longitude": -50.448357,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19301,12 +21804,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Piracanjuba-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Piracanjuba-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Piracanjuba",
         "uf": "GO",
         "latitude": -17.302038,
         "longitude": -49.01701,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19320,12 +21823,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Pirenópolis-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Pirenópolis-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Pirenópolis",
         "uf": "GO",
         "latitude": -15.8507,
         "longitude": -48.95843,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19339,12 +21842,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Pires do Rio-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Pires do Rio-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Pires do Rio",
         "uf": "GO",
         "latitude": -17.301901,
         "longitude": -48.276756,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19358,12 +21861,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Planaltina-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Planaltina-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Planaltina",
         "uf": "GO",
         "latitude": -15.452033,
         "longitude": -47.608885,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19377,12 +21880,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Pontalina-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Pontalina-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Pontalina",
         "uf": "GO",
         "latitude": -17.522513,
         "longitude": -49.44894,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19396,12 +21899,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Porangatu-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Porangatu-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Porangatu",
         "uf": "GO",
         "latitude": -13.439102,
         "longitude": -49.150282,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19421,12 +21924,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Quirinópolis-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Quirinópolis-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Quirinópolis",
         "uf": "GO",
         "latitude": -18.447186,
         "longitude": -50.454698,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19446,12 +21949,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Rio Quente-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Rio Quente-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Rio Quente",
         "uf": "GO",
         "latitude": -17.773988,
         "longitude": -48.772462,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19465,12 +21968,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Rio Verde-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Rio Verde-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Rio Verde",
         "uf": "GO",
         "latitude": -17.792266,
         "longitude": -50.919195,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19490,12 +21993,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Santa Bárbara de Goiás-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Santa Bárbara de Goiás-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Santa Bárbara de Goiás",
         "uf": "GO",
         "latitude": -16.571363,
         "longitude": -49.695385,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19509,12 +22012,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Santa Helena de Goiás-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Santa Helena de Goiás-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Santa Helena de Goiás",
         "uf": "GO",
         "latitude": -17.81152,
         "longitude": -50.597664,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19534,12 +22037,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Santa Rita do Araguaia-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Santa Rita do Araguaia-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Santa Rita do Araguaia",
         "uf": "GO",
         "latitude": -17.32691,
         "longitude": -53.201236,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19553,12 +22056,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Santo Antônio do Descoberto-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Santo Antônio do Descoberto-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Santo Antônio do Descoberto",
         "uf": "GO",
         "latitude": -15.941247,
         "longitude": -48.257761,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19572,12 +22075,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Senador Canedo-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Senador Canedo-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Senador Canedo",
         "uf": "GO",
         "latitude": -16.708401,
         "longitude": -49.091398,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19597,12 +22100,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-São João da Paraúna-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-São João da Paraúna-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "São João da Paraúna",
         "uf": "GO",
         "latitude": -16.812622,
         "longitude": -50.409243,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19616,12 +22119,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-São Luís de Montes Belos-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-São Luís de Montes Belos-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "São Luís de Montes Belos",
         "uf": "GO",
         "latitude": -16.521064,
         "longitude": -50.372628,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19641,12 +22144,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Trindade-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Trindade-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Trindade",
         "uf": "GO",
         "latitude": -16.651708,
         "longitude": -49.492667,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -19666,12 +22169,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Uruaçu-GO-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Uruaçu-GO-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Uruaçu",
         "uf": "GO",
         "latitude": -14.52384,
         "longitude": -49.139633,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -20118,6 +22621,25 @@
         ]
     },
     {
+        "identifier": "26478880000108-Nerópolis-GO-Obanet Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Nerópolis",
+        "uf": "GO",
+        "latitude": -16.404708,
+        "longitude": -49.222708,
+        "empresa": "Obanet Telecomunicacoes Ltda",
+        "cnpj": 26478880000108,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 153
+            }
+        ]
+    },
+    {
         "identifier": "26592622000140-Catalão-GO-Wd Telecom Solucoes em Telecomunicacoes e Seguranca Ltda-Pessoa Jurídica",
         "cidade": "Catalão",
         "uf": "GO",
@@ -20363,12 +22885,12 @@
         ]
     },
     {
-        "identifier": "26927024000184-Marzagão-GO-NETSUL INFORMÁTICA EIRELI-Pessoa Jurídica",
+        "identifier": "26927024000184-Marzagão-GO-Netsul Informatica Ltda-Pessoa Jurídica",
         "cidade": "Marzagão",
         "uf": "GO",
         "latitude": -17.982978,
         "longitude": -48.641519,
-        "empresa": "NETSUL INFORMÁTICA EIRELI",
+        "empresa": "Netsul Informatica Ltda",
         "cnpj": 26927024000184,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -20382,12 +22904,12 @@
         ]
     },
     {
-        "identifier": "26927024000184-Água Limpa-GO-NETSUL INFORMÁTICA EIRELI-Pessoa Jurídica",
+        "identifier": "26927024000184-Água Limpa-GO-Netsul Informatica Ltda-Pessoa Jurídica",
         "cidade": "Água Limpa",
         "uf": "GO",
         "latitude": -18.077082,
         "longitude": -48.760304,
-        "empresa": "NETSUL INFORMÁTICA EIRELI",
+        "empresa": "Netsul Informatica Ltda",
         "cnpj": 26927024000184,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -20401,12 +22923,12 @@
         ]
     },
     {
-        "identifier": "26961509000194-Vianópolis-GO-CH2 TELECOM LTDA-Pessoa Jurídica",
+        "identifier": "26961509000194-Vianópolis-GO-Ch2 Telecom Ltda-Pessoa Jurídica",
         "cidade": "Vianópolis",
         "uf": "GO",
         "latitude": -16.740532,
         "longitude": -48.515914,
-        "empresa": "CH2 TELECOM LTDA",
+        "empresa": "Ch2 Telecom Ltda",
         "cnpj": 26961509000194,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -21406,6 +23928,101 @@
         ]
     },
     {
+        "identifier": "28250046000188-Abadiânia-GO-LIVE TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Abadiânia",
+        "uf": "GO",
+        "latitude": -16.196973,
+        "longitude": -48.705672,
+        "empresa": "LIVE TELECOMUNICACOES LTDA",
+        "cnpj": 28250046000188,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "28250046000188-Anápolis-GO-LIVE TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Anápolis",
+        "uf": "GO",
+        "latitude": -16.328095,
+        "longitude": -48.952958,
+        "empresa": "LIVE TELECOMUNICACOES LTDA",
+        "cnpj": 28250046000188,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 42
+            }
+        ]
+    },
+    {
+        "identifier": "28250046000188-Campo Limpo de Goiás-GO-LIVE TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Campo Limpo de Goiás",
+        "uf": "GO",
+        "latitude": -16.302822,
+        "longitude": -49.079073,
+        "empresa": "LIVE TELECOMUNICACOES LTDA",
+        "cnpj": 28250046000188,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "28250046000188-Nerópolis-GO-LIVE TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Nerópolis",
+        "uf": "GO",
+        "latitude": -16.404708,
+        "longitude": -49.222708,
+        "empresa": "LIVE TELECOMUNICACOES LTDA",
+        "cnpj": 28250046000188,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "28250046000188-Silvânia-GO-LIVE TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Silvânia",
+        "uf": "GO",
+        "latitude": -16.659972,
+        "longitude": -48.608326,
+        "empresa": "LIVE TELECOMUNICACOES LTDA",
+        "cnpj": 28250046000188,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "28313483000101-Formosa-GO-ELEVEL TECNOLOGIA LTDA-Pessoa Jurídica",
         "cidade": "Formosa",
         "uf": "GO",
@@ -21520,12 +24137,12 @@
         ]
     },
     {
-        "identifier": "28872165000172-Palmeiras de Goiás-GO-G. M. de Almeida Junior Servicos-Pessoa Jurídica",
+        "identifier": "28872165000172-Palmeiras de Goiás-GO-PALMEIRAS TELECOM & SERVICOS LTDA.-Pessoa Jurídica",
         "cidade": "Palmeiras de Goiás",
         "uf": "GO",
         "latitude": -16.804446,
         "longitude": -49.924029,
-        "empresa": "G. M. de Almeida Junior Servicos",
+        "empresa": "PALMEIRAS TELECOM & SERVICOS LTDA.",
         "cnpj": 28872165000172,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -21577,12 +24194,12 @@
         ]
     },
     {
-        "identifier": "29253091000159-Rio Verde-GO-TURBONET SERVICOS DE COMUNICACAO EIRELI - ME-Pessoa Jurídica",
+        "identifier": "29253091000159-Rio Verde-GO-Turbonet Servicos de Comunicacao Ltda-Pessoa Jurídica",
         "cidade": "Rio Verde",
         "uf": "GO",
         "latitude": -17.792266,
         "longitude": -50.919195,
-        "empresa": "TURBONET SERVICOS DE COMUNICACAO EIRELI - ME",
+        "empresa": "Turbonet Servicos de Comunicacao Ltda",
         "cnpj": 29253091000159,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -21918,6 +24535,25 @@
         ]
     },
     {
+        "identifier": "30106127000150-Águas Lindas de Goiás-GO-ISANET TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Águas Lindas de Goiás",
+        "uf": "GO",
+        "latitude": -15.761746,
+        "longitude": -48.281611,
+        "empresa": "ISANET TELECOM LTDA",
+        "cnpj": 30106127000150,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
         "identifier": "30390947000117-Trindade-GO-Bmva Tecnologia de Provedor de Internet Ltda-Pessoa Jurídica",
         "cidade": "Trindade",
         "uf": "GO",
@@ -22226,12 +24862,12 @@
         ]
     },
     {
-        "identifier": "32200588000113-Campo Alegre de Goiás-GO-TEK TELECOM LTDA-Pessoa Jurídica",
+        "identifier": "32200588000113-Campo Alegre de Goiás-GO-Tek Telecom Ltda-Pessoa Jurídica",
         "cidade": "Campo Alegre de Goiás",
         "uf": "GO",
         "latitude": -17.636346,
         "longitude": -47.776815,
-        "empresa": "TEK TELECOM LTDA",
+        "empresa": "Tek Telecom Ltda",
         "cnpj": 32200588000113,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -22245,12 +24881,12 @@
         ]
     },
     {
-        "identifier": "32200588000113-Catalão-GO-TEK TELECOM LTDA-Pessoa Jurídica",
+        "identifier": "32200588000113-Catalão-GO-Tek Telecom Ltda-Pessoa Jurídica",
         "cidade": "Catalão",
         "uf": "GO",
         "latitude": -18.165633,
         "longitude": -47.944043,
-        "empresa": "TEK TELECOM LTDA",
+        "empresa": "Tek Telecom Ltda",
         "cnpj": 32200588000113,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -22270,12 +24906,12 @@
         ]
     },
     {
-        "identifier": "32200588000113-Ipameri-GO-TEK TELECOM LTDA-Pessoa Jurídica",
+        "identifier": "32200588000113-Ipameri-GO-Tek Telecom Ltda-Pessoa Jurídica",
         "cidade": "Ipameri",
         "uf": "GO",
         "latitude": -17.721544,
         "longitude": -48.158118,
-        "empresa": "TEK TELECOM LTDA",
+        "empresa": "Tek Telecom Ltda",
         "cnpj": 32200588000113,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -22308,12 +24944,12 @@
         ]
     },
     {
-        "identifier": "32223300000126-Goiás-GO-JC GONZAGA CARDOSO EIRELI-Pessoa Jurídica",
+        "identifier": "32223300000126-Goiás-GO-Jc Gonzaga Cardoso Ltda-Pessoa Jurídica",
         "cidade": "Goiás",
         "uf": "GO",
         "latitude": -15.933305,
         "longitude": -50.139963,
-        "empresa": "JC GONZAGA CARDOSO EIRELI",
+        "empresa": "Jc Gonzaga Cardoso Ltda",
         "cnpj": 32223300000126,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -22472,12 +25108,12 @@
         ]
     },
     {
-        "identifier": "32574695000101-Caldas Novas-GO-NEW FIBRA TELECOM - INTERNET FIBRA OPTICA EIRELI-Pessoa Jurídica",
+        "identifier": "32574695000101-Caldas Novas-GO-NEW FIBRA TELECOM - INTERNET FIBRA OPTICA LTDA-Pessoa Jurídica",
         "cidade": "Caldas Novas",
         "uf": "GO",
         "latitude": -17.74406,
         "longitude": -48.624579,
-        "empresa": "NEW FIBRA TELECOM - INTERNET FIBRA OPTICA EIRELI",
+        "empresa": "NEW FIBRA TELECOM - INTERNET FIBRA OPTICA LTDA",
         "cnpj": 32574695000101,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -23663,12 +26299,12 @@
         ]
     },
     {
-        "identifier": "33117686000154-Trindade-GO-Akc Provedores de Acesso As Redes de Telecomunicacoes e Informatica - Eireli-Pessoa Jurídica",
+        "identifier": "33117686000154-Trindade-GO-Opyt Trindade Provedores de Acesso As Redes de Comunicacao e Informatica Ltda-Pessoa Jurídica",
         "cidade": "Trindade",
         "uf": "GO",
         "latitude": -16.651708,
         "longitude": -49.492667,
-        "empresa": "Akc Provedores de Acesso As Redes de Telecomunicacoes e Informatica - Eireli",
+        "empresa": "Opyt Trindade Provedores de Acesso As Redes de Comunicacao e Informatica Ltda",
         "cnpj": 33117686000154,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -28296,12 +30932,12 @@
         ]
     },
     {
-        "identifier": "33424962000127-Goiânia-GO-R.P.L.S. PROVEDOR DE INTERNET EIRELI-Pessoa Jurídica",
+        "identifier": "33424962000127-Goiânia-GO-R.p.l.s. Provedor de Internet Ltda-Pessoa Jurídica",
         "cidade": "Goiânia",
         "uf": "GO",
         "latitude": -16.686439,
         "longitude": -49.264346,
-        "empresa": "R.P.L.S. PROVEDOR DE INTERNET EIRELI",
+        "empresa": "R.p.l.s. Provedor de Internet Ltda",
         "cnpj": 33424962000127,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -29141,6 +31777,25 @@
         ]
     },
     {
+        "identifier": "35366473000191-Goiânia-GO-Sim Goias Telecomunicacoes Ltda-Pessoa Jurídica",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "latitude": -16.686439,
+        "longitude": -49.264346,
+        "empresa": "Sim Goias Telecomunicacoes Ltda",
+        "cnpj": 35366473000191,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3048
+            }
+        ]
+    },
+    {
         "identifier": "35448970000139-Ceres-GO-MENDANHA E GOMIDES LTDA-Pessoa Jurídica",
         "cidade": "Ceres",
         "uf": "GO",
@@ -29520,12 +32175,12 @@
         ]
     },
     {
-        "identifier": "39774551000148-Luziânia-GO-JS-FIBRANET EIRELI-Pessoa Jurídica",
+        "identifier": "39774551000148-Luziânia-GO-Js-fibranet Ltda-Pessoa Jurídica",
         "cidade": "Luziânia",
         "uf": "GO",
         "latitude": -16.253,
         "longitude": -47.95,
-        "empresa": "JS-FIBRANET EIRELI",
+        "empresa": "Js-fibranet Ltda",
         "cnpj": 39774551000148,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -29952,6 +32607,44 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "41933751000148-Goiatuba-GO-Conecta Agro Servicos de Comunicacao Multimidia Ltda.-Pessoa Jurídica",
+        "cidade": "Goiatuba",
+        "uf": "GO",
+        "latitude": -18.010531,
+        "longitude": -49.365807,
+        "empresa": "Conecta Agro Servicos de Comunicacao Multimidia Ltda.",
+        "cnpj": 41933751000148,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "41933751000148-Jataí-GO-Conecta Agro Servicos de Comunicacao Multimidia Ltda.-Pessoa Jurídica",
+        "cidade": "Jataí",
+        "uf": "GO",
+        "latitude": -17.878383,
+        "longitude": -51.720424,
+        "empresa": "Conecta Agro Servicos de Comunicacao Multimidia Ltda.",
+        "cnpj": 41933751000148,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -30681,6 +33374,25 @@
         ]
     },
     {
+        "identifier": "45750472000108-Serranópolis-GO-Netfibra Br Ltda-Pessoa Jurídica",
+        "cidade": "Serranópolis",
+        "uf": "GO",
+        "latitude": -18.306722,
+        "longitude": -51.958637,
+        "empresa": "Netfibra Br Ltda",
+        "cnpj": 45750472000108,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "45948777000110-Bom Jesus de Goiás-GO-Cnx Telecomunicacoes Ltda-Pessoa Jurídica",
         "cidade": "Bom Jesus de Goiás",
         "uf": "GO",
@@ -30850,6 +33562,25 @@
             },
             {
                 "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "48509405000186-Santa Helena de Goiás-GO-Netfibra Goias Comunicacao Ltda-Pessoa Jurídica",
+        "cidade": "Santa Helena de Goiás",
+        "uf": "GO",
+        "latitude": -17.81152,
+        "longitude": -50.597664,
+        "empresa": "Netfibra Goias Comunicacao Ltda",
+        "cnpj": 48509405000186,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
