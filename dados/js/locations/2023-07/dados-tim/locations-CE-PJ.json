@@ -32,7 +32,7 @@
             {
                 "tecnologia": "ATM",
                 "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 2
             },
             {
@@ -57,38 +57,20 @@
             {
                 "tecnologia": "ATM",
                 "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ATM",
-                "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
                 "quantidade-acesso": 3
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 82
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 87
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 18
+                "quantidade-acesso": 17
             }
         ]
     },

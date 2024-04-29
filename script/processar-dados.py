@@ -6,7 +6,7 @@ import shutil
 from concurrent.futures import ThreadPoolExecutor
 from concurrent.futures import ProcessPoolExecutor
 
-anos = ["2021", "2022" , "2023"]
+anos = ["2021", "2022" , "2023", "2024"]
 meses = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]
 
 def process_data(ano, mes):
@@ -127,9 +127,9 @@ def process_data(ano, mes):
     # Converte o dicionário em uma lista para gerar a saída JSON
     output_list = list(output_data.values())
 
-    # Criar dicionários separados para armazenar dados por empresa e tipo de pessoa
-    output_data_by_company = {}
-       
+    # Dicionário para manter os dados temporários
+    data_store = {}
+    
     # Cria os arquivos JSON
     for data in output_list:
         empresa = data['empresa']
@@ -137,30 +137,30 @@ def process_data(ano, mes):
             company_folder = special_companies[empresa]
         else:
             company_folder = 'dados-pequenas'
-           
+        
+        json_path = os.path.join(output_folder, company_folder)
+        
+        # Cria o diretório se necessário (aqui apenas garantimos que o caminho existe)
+        os.makedirs(json_path, exist_ok=True)
+
         if data['pf-ou-pj'] == 'Pessoa Física':
             json_filename = f'locations-{data["uf"]}-PF.json'
         elif data['pf-ou-pj'] == 'Pessoa Jurídica':
             json_filename = f'locations-{data["uf"]}-PJ.json'
         else:
             json_filename = f'locations-{data["uf"]}-outras.json'
-            
-        json_path = os.path.join(output_folder, company_folder, json_filename)
-            
-        if empresa not in output_data_by_company:
-            output_data_by_company[empresa] = {}
-           
-        if json_path not in output_data_by_company[empresa]:
-            output_data_by_company[empresa][json_path] = []
-            
-        output_data_by_company[empresa][json_path].append(data)
+        
+        full_path = os.path.join(json_path, json_filename)
 
-    # Loop para gravar os arquivos JSON
-    for empresa, file_data in output_data_by_company.items():
-        for json_path, data_list in file_data.items():
-            os.makedirs(os.path.dirname(json_path), exist_ok=True)
-            with open(json_path, 'w', encoding='utf-8') as json_file:
-                json.dump(data_list, json_file, ensure_ascii=False, indent=4)
+        # Adiciona dados ao dicionário, agrupando por caminho completo do arquivo
+        if full_path not in data_store:
+            data_store[full_path] = []
+        data_store[full_path].append(data)
+
+    # Escrever os dados acumulados nos respectivos arquivos JSON
+    for path, contents in data_store.items():
+        with io.open(path, 'w', encoding='utf-8') as json_file:
+            json.dump(contents, json_file, ensure_ascii=False, indent=4)
 
     print(f'Arquivos JSON criados/atualizados com sucesso! ano {selecionar_data}')
 

@@ -14,7 +14,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 20
+                "quantidade-acesso": 40
             }
         ]
     },
@@ -52,7 +52,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 52
+                "quantidade-acesso": 90
             }
         ]
     },
@@ -128,7 +128,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 62
+                "quantidade-acesso": 116
             }
         ]
     },
@@ -166,7 +166,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 98
+                "quantidade-acesso": 217
             }
         ]
     },
@@ -204,7 +204,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -261,7 +261,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 106
+                "quantidade-acesso": 107
             }
         ]
     },
@@ -280,7 +280,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 25
+                "quantidade-acesso": 45
             }
         ]
     },
@@ -299,7 +299,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 21
+                "quantidade-acesso": 44
             }
         ]
     },
@@ -337,7 +337,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 20
+                "quantidade-acesso": 70
             }
         ]
     },
@@ -356,7 +356,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 16
+                "quantidade-acesso": 20
             }
         ]
     },
@@ -375,7 +375,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 12
             }
         ]
     },
@@ -413,7 +413,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 34
+                "quantidade-acesso": 135
             }
         ]
     },
@@ -451,7 +451,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 226
+                "quantidade-acesso": 440
             }
         ]
     },
@@ -470,7 +470,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 47
+                "quantidade-acesso": 94
             }
         ]
     },
@@ -489,7 +489,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
+                "quantidade-acesso": 26
             }
         ]
     },
@@ -565,7 +565,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 14
+                "quantidade-acesso": 36
             }
         ]
     },
@@ -603,7 +603,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 17
+                "quantidade-acesso": 35
             }
         ]
     },
@@ -622,7 +622,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 14
+                "quantidade-acesso": 32
             }
         ]
     },
@@ -642,6 +642,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
                 "quantidade-acesso": 137
+            }
+        ]
+    },
+    {
+        "identifier": "5206385000161-Rio Branco-MT-HUGHES-Pessoa Física",
+        "cidade": "Rio Branco",
+        "uf": "MT",
+        "latitude": -15.248331,
+        "longitude": -58.125892,
+        "empresa": "HUGHES",
+        "cnpj": 5206385000161,
+        "data-dados": "2023-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -679,7 +698,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 71
+                "quantidade-acesso": 210
             }
         ]
     },
@@ -698,7 +717,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -717,7 +736,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 25
+                "quantidade-acesso": 65
             }
         ]
     },
@@ -736,7 +755,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 9
             }
         ]
     },
@@ -755,7 +774,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 122
+                "quantidade-acesso": 239
             }
         ]
     },
@@ -774,7 +793,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 48
+                "quantidade-acesso": 50
             }
         ]
     },
@@ -812,7 +831,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 8
             }
         ]
     },

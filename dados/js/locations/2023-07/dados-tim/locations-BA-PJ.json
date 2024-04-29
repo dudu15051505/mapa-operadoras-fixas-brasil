@@ -76,25 +76,6 @@
         ]
     },
     {
-        "identifier": "2421421000111-Caculé-BA-TIM-Pessoa Jurídica",
-        "cidade": "Caculé",
-        "uf": "BA",
-        "latitude": -14.500281,
-        "longitude": -42.222872,
-        "empresa": "TIM",
-        "cnpj": 2421421000111,
-        "data-dados": "2023-07",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
         "identifier": "2421421000111-Camaçari-BA-TIM-Pessoa Jurídica",
         "cidade": "Camaçari",
         "uf": "BA",
@@ -108,26 +89,14 @@
             {
                 "tecnologia": "ATM",
                 "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ATM",
-                "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 3
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 5
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 3
             },
             {
                 "tecnologia": "FTTH",
@@ -246,32 +215,13 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 1
             },
             {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 305
-            }
-        ]
-    },
-    {
-        "identifier": "2421421000111-Mata de São João-BA-TIM-Pessoa Jurídica",
-        "cidade": "Mata de São João",
-        "uf": "BA",
-        "latitude": -12.530685,
-        "longitude": -38.300898,
-        "empresa": "TIM",
-        "cnpj": 2421421000111,
-        "data-dados": "2023-07",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
             }
         ]
     },
@@ -308,38 +258,20 @@
             {
                 "tecnologia": "ATM",
                 "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "ATM",
-                "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 4
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 7
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 39
+                "quantidade-acesso": 44
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 68
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 62
             },
             {
                 "tecnologia": "FR",

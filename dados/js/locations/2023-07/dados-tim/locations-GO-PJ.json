@@ -77,7 +77,7 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 2
             },
             {
                 "tecnologia": "FTTH",
@@ -120,26 +120,20 @@
             {
                 "tecnologia": "ATM",
                 "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ATM",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 1
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 22
+                "quantidade-acesso": 24
             },
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 3
             },
             {
                 "tecnologia": "FTTH",
@@ -201,7 +195,26 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Valparaíso de Goiás-GO-TIM-Pessoa Jurídica",
+        "cidade": "Valparaíso de Goiás",
+        "uf": "GO",
+        "latitude": -16.065078,
+        "longitude": -47.975675,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2023-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
             }
         ]

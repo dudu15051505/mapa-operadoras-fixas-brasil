@@ -1,5 +1,42 @@
 [
     {
+        "identifier": "336701000104-Brasília-DF-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 30
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 23
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 46
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 64
+            }
+        ]
+    },
+    {
         "identifier": "357038000116-Brasília-DF-CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
@@ -321,12 +358,12 @@
         ]
     },
     {
-        "identifier": "5781156000170-Brasília-DF-Diginet Tecnologia Ltda-Pessoa Jurídica",
+        "identifier": "5781156000170-Brasília-DF-Mutum Fibra Ltda-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "Diginet Tecnologia Ltda",
+        "empresa": "Mutum Fibra Ltda",
         "cnpj": 5781156000170,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -667,12 +704,12 @@
         ]
     },
     {
-        "identifier": "9178684000190-Brasília-DF-A & G SERVIÇOS EM TI LTDA-Pessoa Jurídica",
+        "identifier": "9178684000190-Brasília-DF-A & G Servicos em Ti Ltda-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "A & G SERVIÇOS EM TI LTDA",
+        "empresa": "A & G Servicos em Ti Ltda",
         "cnpj": 9178684000190,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -711,12 +748,12 @@
         ]
     },
     {
-        "identifier": "9363864000142-Brasília-DF-MEGA NET SERVIÇOS DE COMUNICAÇAO MULTIMIDIA LTDA-Pessoa Jurídica",
+        "identifier": "9363864000142-Brasília-DF-Mega Net Servios de Comunicao Multimdia Ltda-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "MEGA NET SERVIÇOS DE COMUNICAÇAO MULTIMIDIA LTDA",
+        "empresa": "Mega Net Servios de Comunicao Multimdia Ltda",
         "cnpj": 9363864000142,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -1157,12 +1194,12 @@
         ]
     },
     {
-        "identifier": "11278588000166-Brasília-DF-Sothis Técnologia e Serviços de Telecomunicações Ltda-Pessoa Jurídica",
+        "identifier": "11278588000166-Brasília-DF-Sothis Tecnologia e Serviços de Telecomunicações Ltda-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "Sothis Técnologia e Serviços de Telecomunicações Ltda",
+        "empresa": "Sothis Tecnologia e Serviços de Telecomunicações Ltda",
         "cnpj": 11278588000166,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -1636,6 +1673,25 @@
         ]
     },
     {
+        "identifier": "17273468000152-Brasília-DF-CYBERLINE COMUNICAÇÕES E SERVIÇOS LTDA - ME-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CYBERLINE COMUNICAÇÕES E SERVIÇOS LTDA - ME",
+        "cnpj": 17273468000152,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "17792959000100-Brasília-DF-CONCOURSE TELECOMUNICACOES BRASIL LTDA.-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
@@ -1655,12 +1711,12 @@
         ]
     },
     {
-        "identifier": "17869823000150-Brasília-DF-SOFTDADOS TELECOMUNICACOES EIRELI-Pessoa Jurídica",
+        "identifier": "17869823000150-Brasília-DF-SOFTDADOS TELECOMUNICACOES LTDA-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "SOFTDADOS TELECOMUNICACOES EIRELI",
+        "empresa": "SOFTDADOS TELECOMUNICACOES LTDA",
         "cnpj": 17869823000150,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -1919,21 +1975,21 @@
         ]
     },
     {
-        "identifier": "22506325000183-Brasília-DF-AMERICA NET-Pessoa Jurídica",
+        "identifier": "22729028000105-Brasília-DF-Vitrineweb Host Servicos de Internet Ltda-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "AMERICA NET",
-        "cnpj": 22506325000183,
+        "empresa": "Vitrineweb Host Servicos de Internet Ltda",
+        "cnpj": 22729028000105,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -2052,12 +2108,12 @@
         ]
     },
     {
-        "identifier": "24996988000159-Brasília-DF-TELXE DO BRASIL TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "identifier": "24996988000159-Brasília-DF-RH ATIVA SERVIÇOS ESPECIALIZADOS LTDA.-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "TELXE DO BRASIL TELECOMUNICACOES LTDA",
+        "empresa": "RH ATIVA SERVIÇOS ESPECIALIZADOS LTDA.",
         "cnpj": 24996988000159,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2147,12 +2203,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Brasília-DF-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Brasília-DF-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2329,12 +2385,12 @@
         ]
     },
     {
-        "identifier": "26813654000128-Brasília-DF-PNTI - PONTO NET TECNOLOGIA EM INTERNET LTDA - ME-Pessoa Jurídica",
+        "identifier": "26813654000128-Brasília-DF-Robusta Ponto Net Tecnologia em Internet Pnti Ltda-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "PNTI - PONTO NET TECNOLOGIA EM INTERNET LTDA - ME",
+        "empresa": "Robusta Ponto Net Tecnologia em Internet Pnti Ltda",
         "cnpj": 26813654000128,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2411,12 +2467,12 @@
         ]
     },
     {
-        "identifier": "28097989000112-Brasília-DF-CAMOA TELECOMUNICACOES, COMERCIO DE INFORMATICA E SERVICOS DIGITAIS LTDA-Pessoa Jurídica",
+        "identifier": "28097989000112-Brasília-DF-Camoa Servicos Telecom Ltda-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "CAMOA TELECOMUNICACOES, COMERCIO DE INFORMATICA E SERVICOS DIGITAIS LTDA",
+        "empresa": "Camoa Servicos Telecom Ltda",
         "cnpj": 28097989000112,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2828,12 +2884,12 @@
         ]
     },
     {
-        "identifier": "32843281000130-Brasília-DF-LSA TELCOM EIRELI-Pessoa Jurídica",
+        "identifier": "32843281000130-Brasília-DF-LSA TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "LSA TELCOM EIRELI",
+        "empresa": "LSA TELECOM LTDA",
         "cnpj": 32843281000130,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2991,12 +3047,12 @@
         ]
     },
     {
-        "identifier": "33846928000140-Brasília-DF-CANAA SERVICOS DE TELECOMUNICACAO LTDA-Pessoa Jurídica",
+        "identifier": "33846928000140-Brasília-DF-Canaa Servicos de Telecomunicacao Ltda-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "CANAA SERVICOS DE TELECOMUNICACAO LTDA",
+        "empresa": "Canaa Servicos de Telecomunicacao Ltda",
         "cnpj": 33846928000140,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -3174,12 +3230,56 @@
         ]
     },
     {
-        "identifier": "36230547000120-Brasília-DF-Age Telecomunicacoes Ltda-Pessoa Jurídica",
+        "identifier": "35470356000173-Brasília-DF-M.j. Gomes Xavier Telecomunicacoes-Pessoa Jurídica",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "Age Telecomunicacoes Ltda",
+        "empresa": "M.j. Gomes Xavier Telecomunicacoes",
+        "cnpj": 35470356000173,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 27
+            }
+        ]
+    },
+    {
+        "identifier": "35823096000172-Brasília-DF-Nw Servicos de Comunicacao Multimidia Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Nw Servicos de Comunicacao Multimidia Ltda",
+        "cnpj": 35823096000172,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 73
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "36230547000120-Brasília-DF-Age Telecomunicacoes S.A.-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Age Telecomunicacoes S.A.",
         "cnpj": 36230547000120,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -3189,6 +3289,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1362
+            }
+        ]
+    },
+    {
+        "identifier": "36531693000196-Brasília-DF-Wintell Telecom Provedor e Servicos de Internet Ltda-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Wintell Telecom Provedor e Servicos de Internet Ltda",
+        "cnpj": 36531693000196,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -3258,6 +3377,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 209
+            }
+        ]
+    },
+    {
+        "identifier": "37796052000126-Brasília-DF-VRA SERVICOS DE TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "VRA SERVICOS DE TELECOM LTDA",
+        "cnpj": 37796052000126,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 90
             }
         ]
     },

@@ -179,7 +179,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	}
 
 	async function loadDataList() {
-		fetch('./js/locations-data-lista.json')
+		fetch('./js/locations-data-lista-min.json')
 			.then(response => {
 				if (!response.ok) {
 					throw new Error('Erro ao carregar lista de dados passados.');

@@ -77,7 +77,7 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 13
+                "quantidade-acesso": 14
             }
         ]
     },
@@ -115,13 +115,7 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -140,26 +134,7 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 4
-            }
-        ]
-    },
-    {
-        "identifier": "2421421000111-Oriximiná-PA-TIM-Pessoa Jurídica",
-        "cidade": "Oriximiná",
-        "uf": "PA",
-        "latitude": -1.759888,
-        "longitude": -55.857937,
-        "empresa": "TIM",
-        "cnpj": 2421421000111,
-        "data-dados": "2023-07",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 3
             }
         ]
     },

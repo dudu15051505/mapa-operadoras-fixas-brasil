@@ -126,12 +126,12 @@
         ]
     },
     {
-        "identifier": "5578337000102-Lábrea-AM-NARI EQUIPAMENTOS DE COMUNICACAO LTDA-Pessoa Física",
+        "identifier": "5578337000102-Lábrea-AM-Nari Equipamentos de Comunicacao Ltda-Pessoa Física",
         "cidade": "Lábrea",
         "uf": "AM",
         "latitude": -7.264133,
         "longitude": -64.794765,
-        "empresa": "NARI EQUIPAMENTOS DE COMUNICACAO LTDA",
+        "empresa": "Nari Equipamentos de Comunicacao Ltda",
         "cnpj": 5578337000102,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -235,6 +235,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "7330819000166-Coari-AM-R. GEUCIANY B. DE OLIVEIRA - ME-Pessoa Física",
+        "cidade": "Coari",
+        "uf": "AM",
+        "latitude": -4.094121,
+        "longitude": -63.144091,
+        "empresa": "R. GEUCIANY B. DE OLIVEIRA - ME",
+        "cnpj": 7330819000166,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 70
             }
         ]
     },
@@ -2657,12 +2676,12 @@
         ]
     },
     {
-        "identifier": "27967261000131-Manaus-AM-V L C DE MACEDO TELECOMUNICACOES - ME-Pessoa Física",
+        "identifier": "27967261000131-Manaus-AM-V L C SERVICOS DE TELECOMUNICACAO LTDA-Pessoa Física",
         "cidade": "Manaus",
         "uf": "AM",
         "latitude": -3.118662,
         "longitude": -60.02123,
-        "empresa": "V L C DE MACEDO TELECOMUNICACOES - ME",
+        "empresa": "V L C SERVICOS DE TELECOMUNICACAO LTDA",
         "cnpj": 27967261000131,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Física",
@@ -2896,6 +2915,44 @@
         ]
     },
     {
+        "identifier": "30970665000199-Manaus-AM-LOBATO - SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "LOBATO - SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 30970665000199,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 136
+            }
+        ]
+    },
+    {
+        "identifier": "32482975000190-Manaus-AM-WALLACE DE AGUIAR SOBREIRA 92616925249-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "WALLACE DE AGUIAR SOBREIRA 92616925249",
+        "cnpj": 32482975000190,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 94
+            }
+        ]
+    },
+    {
         "identifier": "32507370000106-Beruri-AM-ZAIHARA DE OLIVEIRA DIAS-Pessoa Física",
         "cidade": "Beruri",
         "uf": "AM",
@@ -3105,6 +3162,25 @@
         ]
     },
     {
+        "identifier": "37027691000127-Manaus-AM-Firenetwork Ltda-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "Firenetwork Ltda",
+        "cnpj": 37027691000127,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 24
+            }
+        ]
+    },
+    {
         "identifier": "37571949000151-Manaus-AM-A. RIBEIRO GONZAGA LTDA-Pessoa Física",
         "cidade": "Manaus",
         "uf": "AM",
@@ -3177,6 +3253,44 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 374
+            }
+        ]
+    },
+    {
+        "identifier": "39489017000190-Eirunepé-AM-Netsat da Amazonia Eireli-Pessoa Física",
+        "cidade": "Eirunepé",
+        "uf": "AM",
+        "latitude": -6.656767,
+        "longitude": -69.86616,
+        "empresa": "Netsat da Amazonia Eireli",
+        "cnpj": 39489017000190,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 99
+            }
+        ]
+    },
+    {
+        "identifier": "39489017000190-Envira-AM-Netsat da Amazonia Eireli-Pessoa Física",
+        "cidade": "Envira",
+        "uf": "AM",
+        "latitude": -7.437889,
+        "longitude": -70.028143,
+        "empresa": "Netsat da Amazonia Eireli",
+        "cnpj": 39489017000190,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 29
             }
         ]
     },

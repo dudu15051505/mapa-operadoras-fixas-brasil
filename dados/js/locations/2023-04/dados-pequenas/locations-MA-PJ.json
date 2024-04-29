@@ -5778,12 +5778,12 @@
         ]
     },
     {
-        "identifier": "5781156000170-Balsas-MA-Diginet Tecnologia Ltda-Pessoa Jurídica",
+        "identifier": "5781156000170-Balsas-MA-Mutum Fibra Ltda-Pessoa Jurídica",
         "cidade": "Balsas",
         "uf": "MA",
         "latitude": -7.53214,
         "longitude": -46.037163,
-        "empresa": "Diginet Tecnologia Ltda",
+        "empresa": "Mutum Fibra Ltda",
         "cnpj": 5781156000170,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -8641,12 +8641,12 @@
         ]
     },
     {
-        "identifier": "10600665000190-Timon-MA-VIVEIROS E SOARES TELECOM LTDA-Pessoa Jurídica",
+        "identifier": "10600665000190-Timon-MA-VIVEIROS TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Timon",
         "uf": "MA",
         "latitude": -5.097692,
         "longitude": -42.83292,
-        "empresa": "VIVEIROS E SOARES TELECOM LTDA",
+        "empresa": "VIVEIROS TELECOM LTDA",
         "cnpj": 10600665000190,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -8889,6 +8889,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 144
+            }
+        ]
+    },
+    {
+        "identifier": "10816834000123-Presidente Dutra-MA-R. N. P. DE SOUSA LTDA.-Pessoa Jurídica",
+        "cidade": "Presidente Dutra",
+        "uf": "MA",
+        "latitude": -5.289801,
+        "longitude": -44.49498,
+        "empresa": "R. N. P. DE SOUSA LTDA.",
+        "cnpj": 10816834000123,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12
             }
         ]
     },
@@ -10920,6 +10939,25 @@
         ]
     },
     {
+        "identifier": "13010843000110-Imperatriz-MA-JR INFORMÁTICA LTDA - ME-Pessoa Jurídica",
+        "cidade": "Imperatriz",
+        "uf": "MA",
+        "latitude": -5.518471,
+        "longitude": -47.477726,
+        "empresa": "JR INFORMÁTICA LTDA - ME",
+        "cnpj": 13010843000110,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "13133062000113-Brejo-MA-G3 TELECOM EIRELI-Pessoa Jurídica",
         "cidade": "Brejo",
         "uf": "MA",
@@ -11393,12 +11431,12 @@
         ]
     },
     {
-        "identifier": "15263327000123-Colinas-MA-PRISMA TELECOMUNICACOES LTDA. - EPP-Pessoa Jurídica",
+        "identifier": "15263327000123-Colinas-MA-Prisma Telecomunicacoes Ltda.-Pessoa Jurídica",
         "cidade": "Colinas",
         "uf": "MA",
         "latitude": -6.031986,
         "longitude": -44.254345,
-        "empresa": "PRISMA TELECOMUNICACOES LTDA. - EPP",
+        "empresa": "Prisma Telecomunicacoes Ltda.",
         "cnpj": 15263327000123,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -11412,12 +11450,12 @@
         ]
     },
     {
-        "identifier": "15263327000123-Jatobá-MA-PRISMA TELECOMUNICACOES LTDA. - EPP-Pessoa Jurídica",
+        "identifier": "15263327000123-Jatobá-MA-Prisma Telecomunicacoes Ltda.-Pessoa Jurídica",
         "cidade": "Jatobá",
         "uf": "MA",
         "latitude": -5.822821,
         "longitude": -44.215325,
-        "empresa": "PRISMA TELECOMUNICACOES LTDA. - EPP",
+        "empresa": "Prisma Telecomunicacoes Ltda.",
         "cnpj": 15263327000123,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -11431,12 +11469,12 @@
         ]
     },
     {
-        "identifier": "15263327000123-Mirador-MA-PRISMA TELECOMUNICACOES LTDA. - EPP-Pessoa Jurídica",
+        "identifier": "15263327000123-Mirador-MA-Prisma Telecomunicacoes Ltda.-Pessoa Jurídica",
         "cidade": "Mirador",
         "uf": "MA",
         "latitude": -6.374543,
         "longitude": -44.368276,
-        "empresa": "PRISMA TELECOMUNICACOES LTDA. - EPP",
+        "empresa": "Prisma Telecomunicacoes Ltda.",
         "cnpj": 15263327000123,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -11879,12 +11917,12 @@
         ]
     },
     {
-        "identifier": "18064661000146-Imperatriz-MA-LYTUX SERVICOS EM TELECOMUNICAÇÕES, REDES E TREINAMENTOS EIRELI-Pessoa Jurídica",
+        "identifier": "18064661000146-Imperatriz-MA-LYTUX SERVICOS EM TELECOMUNICAÇÕES, REDES E TREINAMENTOS LTDA-Pessoa Jurídica",
         "cidade": "Imperatriz",
         "uf": "MA",
         "latitude": -5.518471,
         "longitude": -47.477726,
-        "empresa": "LYTUX SERVICOS EM TELECOMUNICAÇÕES, REDES E TREINAMENTOS EIRELI",
+        "empresa": "LYTUX SERVICOS EM TELECOMUNICAÇÕES, REDES E TREINAMENTOS LTDA",
         "cnpj": 18064661000146,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -11898,12 +11936,12 @@
         ]
     },
     {
-        "identifier": "18064661000146-São Luís-MA-LYTUX SERVICOS EM TELECOMUNICAÇÕES, REDES E TREINAMENTOS EIRELI-Pessoa Jurídica",
+        "identifier": "18064661000146-São Luís-MA-LYTUX SERVICOS EM TELECOMUNICAÇÕES, REDES E TREINAMENTOS LTDA-Pessoa Jurídica",
         "cidade": "São Luís",
         "uf": "MA",
         "latitude": -2.538742,
         "longitude": -44.282513,
-        "empresa": "LYTUX SERVICOS EM TELECOMUNICAÇÕES, REDES E TREINAMENTOS EIRELI",
+        "empresa": "LYTUX SERVICOS EM TELECOMUNICAÇÕES, REDES E TREINAMENTOS LTDA",
         "cnpj": 18064661000146,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -12266,6 +12304,63 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "19994513000193-Bom Jardim-MA-Buriticupu Conexoes e Provedores de Internet Ltda-Pessoa Jurídica",
+        "cidade": "Bom Jardim",
+        "uf": "MA",
+        "latitude": -3.54129,
+        "longitude": -45.606004,
+        "empresa": "Buriticupu Conexoes e Provedores de Internet Ltda",
+        "cnpj": 19994513000193,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "19994513000193-Bom Jesus das Selvas-MA-Buriticupu Conexoes e Provedores de Internet Ltda-Pessoa Jurídica",
+        "cidade": "Bom Jesus das Selvas",
+        "uf": "MA",
+        "latitude": -4.476382,
+        "longitude": -46.864118,
+        "empresa": "Buriticupu Conexoes e Provedores de Internet Ltda",
+        "cnpj": 19994513000193,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "19994513000193-Buriticupu-MA-Buriticupu Conexoes e Provedores de Internet Ltda-Pessoa Jurídica",
+        "cidade": "Buriticupu",
+        "uf": "MA",
+        "latitude": -4.323755,
+        "longitude": -46.440883,
+        "empresa": "Buriticupu Conexoes e Provedores de Internet Ltda",
+        "cnpj": 19994513000193,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 60
             }
         ]
     },
@@ -13440,6 +13535,25 @@
         ]
     },
     {
+        "identifier": "23233440000194-Imperatriz-MA-NETFY TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
+        "cidade": "Imperatriz",
+        "uf": "MA",
+        "latitude": -5.518471,
+        "longitude": -47.477726,
+        "empresa": "NETFY TELECOMUNICAÇÕES LTDA",
+        "cnpj": 23233440000194,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
         "identifier": "23264916000154-Barreirinhas-MA-NEWINFOR TECNOLOGIA EIRELI-Pessoa Jurídica",
         "cidade": "Barreirinhas",
         "uf": "MA",
@@ -13695,6 +13809,88 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 1139
+            }
+        ]
+    },
+    {
+        "identifier": "24377272000173-Icatu-MA-ZAP TELECOM LTDA.-Pessoa Jurídica",
+        "cidade": "Icatu",
+        "uf": "MA",
+        "latitude": -2.772065,
+        "longitude": -44.050061,
+        "empresa": "ZAP TELECOM LTDA.",
+        "cnpj": 24377272000173,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "24377272000173-Paço do Lumiar-MA-ZAP TELECOM LTDA.-Pessoa Jurídica",
+        "cidade": "Paço do Lumiar",
+        "uf": "MA",
+        "latitude": -2.516573,
+        "longitude": -44.101886,
+        "empresa": "ZAP TELECOM LTDA.",
+        "cnpj": 24377272000173,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "24377272000173-São José de Ribamar-MA-ZAP TELECOM LTDA.-Pessoa Jurídica",
+        "cidade": "São José de Ribamar",
+        "uf": "MA",
+        "latitude": -2.54704,
+        "longitude": -44.059745,
+        "empresa": "ZAP TELECOM LTDA.",
+        "cnpj": 24377272000173,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "24377272000173-São Luís-MA-ZAP TELECOM LTDA.-Pessoa Jurídica",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "latitude": -2.538742,
+        "longitude": -44.282513,
+        "empresa": "ZAP TELECOM LTDA.",
+        "cnpj": 24377272000173,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -14014,12 +14210,12 @@
         ]
     },
     {
-        "identifier": "25533855000109-Apicum-Açu-MA-JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES-Pessoa Jurídica",
+        "identifier": "25533855000109-Apicum-Açu-MA-NANDO NET LTDA-Pessoa Jurídica",
         "cidade": "Apicum-Açu",
         "uf": "MA",
         "latitude": -1.458622,
         "longitude": -45.08645,
-        "empresa": "JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES",
+        "empresa": "NANDO NET LTDA",
         "cnpj": 25533855000109,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14033,12 +14229,12 @@
         ]
     },
     {
-        "identifier": "25533855000109-Bacuri-MA-JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES-Pessoa Jurídica",
+        "identifier": "25533855000109-Bacuri-MA-NANDO NET LTDA-Pessoa Jurídica",
         "cidade": "Bacuri",
         "uf": "MA",
         "latitude": -1.696501,
         "longitude": -45.132839,
-        "empresa": "JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES",
+        "empresa": "NANDO NET LTDA",
         "cnpj": 25533855000109,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14058,12 +14254,12 @@
         ]
     },
     {
-        "identifier": "25533855000109-Centro do Guilherme-MA-JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES-Pessoa Jurídica",
+        "identifier": "25533855000109-Centro do Guilherme-MA-NANDO NET LTDA-Pessoa Jurídica",
         "cidade": "Centro do Guilherme",
         "uf": "MA",
         "latitude": -2.448908,
         "longitude": -46.034486,
-        "empresa": "JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES",
+        "empresa": "NANDO NET LTDA",
         "cnpj": 25533855000109,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14077,12 +14273,12 @@
         ]
     },
     {
-        "identifier": "25533855000109-Cururupu-MA-JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES-Pessoa Jurídica",
+        "identifier": "25533855000109-Cururupu-MA-NANDO NET LTDA-Pessoa Jurídica",
         "cidade": "Cururupu",
         "uf": "MA",
         "latitude": -1.814746,
         "longitude": -44.864433,
-        "empresa": "JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES",
+        "empresa": "NANDO NET LTDA",
         "cnpj": 25533855000109,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14096,12 +14292,12 @@
         ]
     },
     {
-        "identifier": "25533855000109-Guimarães-MA-JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES-Pessoa Jurídica",
+        "identifier": "25533855000109-Guimarães-MA-NANDO NET LTDA-Pessoa Jurídica",
         "cidade": "Guimarães",
         "uf": "MA",
         "latitude": -2.127551,
         "longitude": -44.60199,
-        "empresa": "JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES",
+        "empresa": "NANDO NET LTDA",
         "cnpj": 25533855000109,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14115,12 +14311,12 @@
         ]
     },
     {
-        "identifier": "25533855000109-Maracaçumé-MA-JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES-Pessoa Jurídica",
+        "identifier": "25533855000109-Maracaçumé-MA-NANDO NET LTDA-Pessoa Jurídica",
         "cidade": "Maracaçumé",
         "uf": "MA",
         "latitude": -2.049177,
         "longitude": -45.958734,
-        "empresa": "JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES",
+        "empresa": "NANDO NET LTDA",
         "cnpj": 25533855000109,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14134,12 +14330,12 @@
         ]
     },
     {
-        "identifier": "25533855000109-Santa Helena-MA-JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES-Pessoa Jurídica",
+        "identifier": "25533855000109-Santa Helena-MA-NANDO NET LTDA-Pessoa Jurídica",
         "cidade": "Santa Helena",
         "uf": "MA",
         "latitude": -2.244263,
         "longitude": -45.289976,
-        "empresa": "JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES",
+        "empresa": "NANDO NET LTDA",
         "cnpj": 25533855000109,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14153,12 +14349,12 @@
         ]
     },
     {
-        "identifier": "25533855000109-Serrano do Maranhão-MA-JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES-Pessoa Jurídica",
+        "identifier": "25533855000109-Serrano do Maranhão-MA-NANDO NET LTDA-Pessoa Jurídica",
         "cidade": "Serrano do Maranhão",
         "uf": "MA",
         "latitude": -1.852285,
         "longitude": -45.120735,
-        "empresa": "JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES",
+        "empresa": "NANDO NET LTDA",
         "cnpj": 25533855000109,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14172,12 +14368,12 @@
         ]
     },
     {
-        "identifier": "25533855000109-Turiaçu-MA-JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES-Pessoa Jurídica",
+        "identifier": "25533855000109-Turiaçu-MA-NANDO NET LTDA-Pessoa Jurídica",
         "cidade": "Turiaçu",
         "uf": "MA",
         "latitude": -1.658925,
         "longitude": -45.379791,
-        "empresa": "JONATHAN F C SOUSA INFORMATICA E TELECOMUNICACOES",
+        "empresa": "NANDO NET LTDA",
         "cnpj": 25533855000109,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14669,12 +14865,12 @@
         ]
     },
     {
-        "identifier": "28200440000101-Altamira do Maranhão-MA-R N V DA COSTA JUNIOR EIRELI-Pessoa Jurídica",
+        "identifier": "28200440000101-Altamira do Maranhão-MA-R N V DA COSTA JUNIOR LTDA.-Pessoa Jurídica",
         "cidade": "Altamira do Maranhão",
         "uf": "MA",
         "latitude": -4.16598,
         "longitude": -45.470616,
-        "empresa": "R N V DA COSTA JUNIOR EIRELI",
+        "empresa": "R N V DA COSTA JUNIOR LTDA.",
         "cnpj": 28200440000101,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14688,12 +14884,12 @@
         ]
     },
     {
-        "identifier": "28200440000101-Brejo de Areia-MA-R N V DA COSTA JUNIOR EIRELI-Pessoa Jurídica",
+        "identifier": "28200440000101-Brejo de Areia-MA-R N V DA COSTA JUNIOR LTDA.-Pessoa Jurídica",
         "cidade": "Brejo de Areia",
         "uf": "MA",
         "latitude": -4.334,
         "longitude": -45.581,
-        "empresa": "R N V DA COSTA JUNIOR EIRELI",
+        "empresa": "R N V DA COSTA JUNIOR LTDA.",
         "cnpj": 28200440000101,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14707,12 +14903,12 @@
         ]
     },
     {
-        "identifier": "28200440000101-Vitorino Freire-MA-R N V DA COSTA JUNIOR EIRELI-Pessoa Jurídica",
+        "identifier": "28200440000101-Vitorino Freire-MA-R N V DA COSTA JUNIOR LTDA.-Pessoa Jurídica",
         "cidade": "Vitorino Freire",
         "uf": "MA",
         "latitude": -4.281836,
         "longitude": -45.250524,
-        "empresa": "R N V DA COSTA JUNIOR EIRELI",
+        "empresa": "R N V DA COSTA JUNIOR LTDA.",
         "cnpj": 28200440000101,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -14732,12 +14928,12 @@
         ]
     },
     {
-        "identifier": "28641032000195-Balsas-MA-MARIA DAS NEVES FERREIRA DA SILVA - ME-Pessoa Jurídica",
+        "identifier": "28641032000195-Balsas-MA-FLASHNET TELECOMUNICACOES LTDA-Pessoa Jurídica",
         "cidade": "Balsas",
         "uf": "MA",
         "latitude": -7.53214,
         "longitude": -46.037163,
-        "empresa": "MARIA DAS NEVES FERREIRA DA SILVA - ME",
+        "empresa": "FLASHNET TELECOMUNICACOES LTDA",
         "cnpj": 28641032000195,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -20030,6 +20226,25 @@
         ]
     },
     {
+        "identifier": "36890254000170-Parnarama-MA-ANTONIO NETO DA COSTA-Pessoa Jurídica",
+        "cidade": "Parnarama",
+        "uf": "MA",
+        "latitude": -5.673646,
+        "longitude": -43.101096,
+        "empresa": "ANTONIO NETO DA COSTA",
+        "cnpj": 36890254000170,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "37792628000187-Caxias-MA-Richad T. Lopes Junior-Pessoa Jurídica",
         "cidade": "Caxias",
         "uf": "MA",
@@ -20296,6 +20511,25 @@
         ]
     },
     {
+        "identifier": "44878256000171-Buriticupu-MA-D C Rocha e Cia Ltda-Pessoa Jurídica",
+        "cidade": "Buriticupu",
+        "uf": "MA",
+        "latitude": -4.323755,
+        "longitude": -46.440883,
+        "empresa": "D C Rocha e Cia Ltda",
+        "cnpj": 44878256000171,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
         "identifier": "45003946000140-Apicum-Açu-MA-D R dos Santos Pinheiro-Pessoa Jurídica",
         "cidade": "Apicum-Açu",
         "uf": "MA",
@@ -20355,6 +20589,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "46014732000131-São José de Ribamar-MA-W C Oliveira Telecom Ltda-Pessoa Jurídica",
+        "cidade": "São José de Ribamar",
+        "uf": "MA",
+        "latitude": -2.54704,
+        "longitude": -44.059745,
+        "empresa": "W C Oliveira Telecom Ltda",
+        "cnpj": 46014732000131,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
             }
         ]
     },

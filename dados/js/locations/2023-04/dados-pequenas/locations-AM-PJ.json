@@ -1647,6 +1647,25 @@
         ]
     },
     {
+        "identifier": "4859842000154-Manaus-AM-SYSCOM TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "SYSCOM TELECOM LTDA",
+        "cnpj": 4859842000154,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
         "identifier": "5033272000101-Manaus-AM-W. DE L. CAVALCANTE-Pessoa Jurídica",
         "cidade": "Manaus",
         "uf": "AM",
@@ -5059,6 +5078,25 @@
         ]
     },
     {
+        "identifier": "14864957000190-São Sebastião do Uatumã-AM-INFO JR TELECOM SERVICOS DE COMUNICACAO LTDA-Pessoa Jurídica",
+        "cidade": "São Sebastião do Uatumã",
+        "uf": "AM",
+        "latitude": -2.559147,
+        "longitude": -57.873049,
+        "empresa": "INFO JR TELECOM SERVICOS DE COMUNICACAO LTDA",
+        "cnpj": 14864957000190,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 60
+            }
+        ]
+    },
+    {
         "identifier": "14968157000110-Manacapuru-AM-I K M DE LIMA-Pessoa Jurídica",
         "cidade": "Manacapuru",
         "uf": "AM",
@@ -5758,12 +5796,12 @@
         ]
     },
     {
-        "identifier": "24996988000159-Manaus-AM-TELXE DO BRASIL TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "identifier": "24996988000159-Manaus-AM-RH ATIVA SERVIÇOS ESPECIALIZADOS LTDA.-Pessoa Jurídica",
         "cidade": "Manaus",
         "uf": "AM",
         "latitude": -3.118662,
         "longitude": -60.02123,
-        "empresa": "TELXE DO BRASIL TELECOMUNICACOES LTDA",
+        "empresa": "RH ATIVA SERVIÇOS ESPECIALIZADOS LTDA.",
         "cnpj": 24996988000159,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -5815,12 +5853,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Manaus-AM-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Manaus-AM-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Manaus",
         "uf": "AM",
         "latitude": -3.118662,
         "longitude": -60.02123,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Jurídica",

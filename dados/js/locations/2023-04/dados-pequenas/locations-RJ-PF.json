@@ -621,6 +621,31 @@
         ]
     },
     {
+        "identifier": "2745538000150-Itaguaí-RJ-C A V NAZARIO TELECOMUNICACAO - ME-Pessoa Física",
+        "cidade": "Itaguaí",
+        "uf": "RJ",
+        "latitude": -22.863566,
+        "longitude": -43.779821,
+        "empresa": "C A V NAZARIO TELECOMUNICACAO - ME",
+        "cnpj": 2745538000150,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 172
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 95
+            }
+        ]
+    },
+    {
         "identifier": "2838416000109-Areal-RJ-Easy Fibra Telecomunicacoes Limitada-Pessoa Física",
         "cidade": "Areal",
         "uf": "RJ",
@@ -875,6 +900,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "4647527000163-São João da Barra-RJ-ARTHSON ALMEIDA INFORMATICA LTDA-Pessoa Física",
+        "cidade": "São João da Barra",
+        "uf": "RJ",
+        "latitude": -21.638009,
+        "longitude": -41.044582,
+        "empresa": "ARTHSON ALMEIDA INFORMATICA LTDA",
+        "cnpj": 4647527000163,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 178
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 13
             }
         ]
     },
@@ -2368,12 +2418,12 @@
         ]
     },
     {
-        "identifier": "6933700000115-Belford Roxo-RJ-LINXLI TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "6933700000115-Belford Roxo-RJ-LINKLI TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Belford Roxo",
         "uf": "RJ",
         "latitude": -22.764042,
         "longitude": -43.39921,
-        "empresa": "LINXLI TELECOMUNICACOES LTDA",
+        "empresa": "LINKLI TELECOMUNICACOES LTDA",
         "cnpj": 6933700000115,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -2387,12 +2437,12 @@
         ]
     },
     {
-        "identifier": "6933700000115-Conceição de Macabu-RJ-LINXLI TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "6933700000115-Conceição de Macabu-RJ-LINKLI TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Conceição de Macabu",
         "uf": "RJ",
         "latitude": -22.08337,
         "longitude": -41.871878,
-        "empresa": "LINXLI TELECOMUNICACOES LTDA",
+        "empresa": "LINKLI TELECOMUNICACOES LTDA",
         "cnpj": 6933700000115,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -2406,12 +2456,12 @@
         ]
     },
     {
-        "identifier": "6933700000115-Duque de Caxias-RJ-LINXLI TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "6933700000115-Duque de Caxias-RJ-LINKLI TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Duque de Caxias",
         "uf": "RJ",
         "latitude": -22.785801,
         "longitude": -43.304895,
-        "empresa": "LINXLI TELECOMUNICACOES LTDA",
+        "empresa": "LINKLI TELECOMUNICACOES LTDA",
         "cnpj": 6933700000115,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -2425,12 +2475,12 @@
         ]
     },
     {
-        "identifier": "6933700000115-Rio de Janeiro-RJ-LINXLI TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "6933700000115-Rio de Janeiro-RJ-LINKLI TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
         "latitude": -22.912897,
         "longitude": -43.200295,
-        "empresa": "LINXLI TELECOMUNICACOES LTDA",
+        "empresa": "LINKLI TELECOMUNICACOES LTDA",
         "cnpj": 6933700000115,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -2444,12 +2494,12 @@
         ]
     },
     {
-        "identifier": "6933700000115-São João de Meriti-RJ-LINXLI TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "6933700000115-São João de Meriti-RJ-LINKLI TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "São João de Meriti",
         "uf": "RJ",
         "latitude": -22.805776,
         "longitude": -43.37292,
-        "empresa": "LINXLI TELECOMUNICACOES LTDA",
+        "empresa": "LINKLI TELECOMUNICACOES LTDA",
         "cnpj": 6933700000115,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -2501,12 +2551,12 @@
         ]
     },
     {
-        "identifier": "7103828000114-São João da Barra-RJ-SIC INFORMÁTICA E TECNOLOGIA LTDA-Pessoa Física",
+        "identifier": "7103828000114-São João da Barra-RJ-Sic Informatica e Tecnologia Ltda-Pessoa Física",
         "cidade": "São João da Barra",
         "uf": "RJ",
         "latitude": -21.638009,
         "longitude": -41.044582,
-        "empresa": "SIC INFORMÁTICA E TECNOLOGIA LTDA",
+        "empresa": "Sic Informatica e Tecnologia Ltda",
         "cnpj": 7103828000114,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -4290,12 +4340,12 @@
         ]
     },
     {
-        "identifier": "9586049000142-Casimiro de Abreu-RJ-F S DIAS COMERCIO E SERVICO EIRELI-Pessoa Física",
+        "identifier": "9586049000142-Casimiro de Abreu-RJ-F S DIAS COMERCIO E SERVICO LTDA-Pessoa Física",
         "cidade": "Casimiro de Abreu",
         "uf": "RJ",
         "latitude": -22.481235,
         "longitude": -42.206589,
-        "empresa": "F S DIAS COMERCIO E SERVICO EIRELI",
+        "empresa": "F S DIAS COMERCIO E SERVICO LTDA",
         "cnpj": 9586049000142,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -4561,12 +4611,12 @@
         ]
     },
     {
-        "identifier": "10418083000197-Rio de Janeiro-RJ-NORTENET TELECOMUNICACOES DO BRASIL LTDA-Pessoa Física",
+        "identifier": "10418083000197-Rio de Janeiro-RJ-Nortenet Telecomunicacoes do Brasil Ltda-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
         "latitude": -22.912897,
         "longitude": -43.200295,
-        "empresa": "NORTENET TELECOMUNICACOES DO BRASIL LTDA",
+        "empresa": "Nortenet Telecomunicacoes do Brasil Ltda",
         "cnpj": 10418083000197,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -4706,12 +4756,12 @@
         ]
     },
     {
-        "identifier": "10491714000101-Duque de Caxias-RJ-J C 2000 TELECOMUNICACOES LTDA - ME-Pessoa Física",
+        "identifier": "10491714000101-Duque de Caxias-RJ-ALL FAST NETWORK LTDA-Pessoa Física",
         "cidade": "Duque de Caxias",
         "uf": "RJ",
         "latitude": -22.785801,
         "longitude": -43.304895,
-        "empresa": "J C 2000 TELECOMUNICACOES LTDA - ME",
+        "empresa": "ALL FAST NETWORK LTDA",
         "cnpj": 10491714000101,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -4849,12 +4899,12 @@
         ]
     },
     {
-        "identifier": "10683377000146-Duque de Caxias-RJ-CALM BERNARDO SERVICOS E TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "10683377000146-Duque de Caxias-RJ-Calm Bernardo Servicos e Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Duque de Caxias",
         "uf": "RJ",
         "latitude": -22.785801,
         "longitude": -43.304895,
-        "empresa": "CALM BERNARDO SERVICOS E TELECOMUNICACOES LTDA",
+        "empresa": "Calm Bernardo Servicos e Telecomunicacoes Ltda",
         "cnpj": 10683377000146,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -4868,12 +4918,12 @@
         ]
     },
     {
-        "identifier": "10683377000146-Petrópolis-RJ-CALM BERNARDO SERVICOS E TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "10683377000146-Petrópolis-RJ-Calm Bernardo Servicos e Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Petrópolis",
         "uf": "RJ",
         "latitude": -22.519963,
         "longitude": -43.192613,
-        "empresa": "CALM BERNARDO SERVICOS E TELECOMUNICACOES LTDA",
+        "empresa": "Calm Bernardo Servicos e Telecomunicacoes Ltda",
         "cnpj": 10683377000146,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -5044,12 +5094,12 @@
         ]
     },
     {
-        "identifier": "10894650000181-Barra Mansa-RJ-E. Serv Comunicacao Ltda-Pessoa Física",
+        "identifier": "10894650000181-Barra Mansa-RJ-e Telecom Comunicacoes Ltda-Pessoa Física",
         "cidade": "Barra Mansa",
         "uf": "RJ",
         "latitude": -22.548084,
         "longitude": -44.175241,
-        "empresa": "E. Serv Comunicacao Ltda",
+        "empresa": "e Telecom Comunicacoes Ltda",
         "cnpj": 10894650000181,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -5063,12 +5113,12 @@
         ]
     },
     {
-        "identifier": "10894650000181-Barra do Piraí-RJ-E. Serv Comunicacao Ltda-Pessoa Física",
+        "identifier": "10894650000181-Barra do Piraí-RJ-e Telecom Comunicacoes Ltda-Pessoa Física",
         "cidade": "Barra do Piraí",
         "uf": "RJ",
         "latitude": -22.471531,
         "longitude": -43.826918,
-        "empresa": "E. Serv Comunicacao Ltda",
+        "empresa": "e Telecom Comunicacoes Ltda",
         "cnpj": 10894650000181,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -5082,12 +5132,12 @@
         ]
     },
     {
-        "identifier": "10894650000181-Valença-RJ-E. Serv Comunicacao Ltda-Pessoa Física",
+        "identifier": "10894650000181-Valença-RJ-e Telecom Comunicacoes Ltda-Pessoa Física",
         "cidade": "Valença",
         "uf": "RJ",
         "latitude": -22.244496,
         "longitude": -43.71288,
-        "empresa": "E. Serv Comunicacao Ltda",
+        "empresa": "e Telecom Comunicacoes Ltda",
         "cnpj": 10894650000181,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -5589,6 +5639,56 @@
         ]
     },
     {
+        "identifier": "11220856000199-Campos dos Goytacazes-RJ-Link Web Telecom Ltda-Pessoa Física",
+        "cidade": "Campos dos Goytacazes",
+        "uf": "RJ",
+        "latitude": -21.762171,
+        "longitude": -41.318055,
+        "empresa": "Link Web Telecom Ltda",
+        "cnpj": 11220856000199,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Cable Modem",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 401
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 535
+            }
+        ]
+    },
+    {
+        "identifier": "11220856000199-São João da Barra-RJ-Link Web Telecom Ltda-Pessoa Física",
+        "cidade": "São João da Barra",
+        "uf": "RJ",
+        "latitude": -21.638009,
+        "longitude": -41.044582,
+        "empresa": "Link Web Telecom Ltda",
+        "cnpj": 11220856000199,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Cable Modem",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 147
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 431
+            }
+        ]
+    },
+    {
         "identifier": "11228932000102-Campos dos Goytacazes-RJ-CARDOSONET INTERNET E SERVICOS DE INFORMATICA LTDA.-Pessoa Física",
         "cidade": "Campos dos Goytacazes",
         "uf": "RJ",
@@ -5764,12 +5864,12 @@
         ]
     },
     {
-        "identifier": "11703500000106-Campos dos Goytacazes-RJ-NEW-NET INFORMÁTICA E TELECOMUNICAÇÕES LTDA-Pessoa Física",
+        "identifier": "11703500000106-Campos dos Goytacazes-RJ-NEW NET INFORMATICA E TELECOMUNICACOES LTDA.-Pessoa Física",
         "cidade": "Campos dos Goytacazes",
         "uf": "RJ",
         "latitude": -21.762171,
         "longitude": -41.318055,
-        "empresa": "NEW-NET INFORMÁTICA E TELECOMUNICAÇÕES LTDA",
+        "empresa": "NEW NET INFORMATICA E TELECOMUNICACOES LTDA.",
         "cnpj": 11703500000106,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -5991,12 +6091,12 @@
         ]
     },
     {
-        "identifier": "12157713000142-Duque de Caxias-RJ-NET FLEX LTDA-Pessoa Física",
+        "identifier": "12157713000142-Duque de Caxias-RJ-Net Flex Ltda-Pessoa Física",
         "cidade": "Duque de Caxias",
         "uf": "RJ",
         "latitude": -22.785801,
         "longitude": -43.304895,
-        "empresa": "NET FLEX LTDA",
+        "empresa": "Net Flex Ltda",
         "cnpj": 12157713000142,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -6166,12 +6266,12 @@
         ]
     },
     {
-        "identifier": "12349560000135-Rio de Janeiro-RJ-V L DA S RODRIGUES INFORMATICA-Pessoa Física",
+        "identifier": "12349560000135-Rio de Janeiro-RJ-V L da S Rodrigues Informatica-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
         "latitude": -22.912897,
         "longitude": -43.200295,
-        "empresa": "V L DA S RODRIGUES INFORMATICA",
+        "empresa": "V L da S Rodrigues Informatica",
         "cnpj": 12349560000135,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -6644,12 +6744,12 @@
         ]
     },
     {
-        "identifier": "12548212000197-Nova Iguaçu-RJ-TCL CORTEZ SERVICOS EM TELECOMUNICACOES LTDA.-Pessoa Física",
+        "identifier": "12548212000197-Nova Iguaçu-RJ-Tcl Cortez Servicos em Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Nova Iguaçu",
         "uf": "RJ",
         "latitude": -22.755635,
         "longitude": -43.460325,
-        "empresa": "TCL CORTEZ SERVICOS EM TELECOMUNICACOES LTDA.",
+        "empresa": "Tcl Cortez Servicos em Telecomunicacoes Ltda",
         "cnpj": 12548212000197,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -6815,13 +6915,13 @@
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 390
+                "quantidade-acesso": 329
             },
             {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 193
+                "quantidade-acesso": 162
             }
         ]
     },
@@ -7311,12 +7411,12 @@
         ]
     },
     {
-        "identifier": "13340894000100-Nova Iguaçu-RJ-START NET TELECOM LTDA-Pessoa Física",
+        "identifier": "13340894000100-Nova Iguaçu-RJ-Start Net Telecom Ltda-Pessoa Física",
         "cidade": "Nova Iguaçu",
         "uf": "RJ",
         "latitude": -22.755635,
         "longitude": -43.460325,
-        "empresa": "START NET TELECOM LTDA",
+        "empresa": "Start Net Telecom Ltda",
         "cnpj": 13340894000100,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -8526,12 +8626,12 @@
         ]
     },
     {
-        "identifier": "15803597000180-Campos dos Goytacazes-RJ-VOLTEC SERVIÇOS DE AUTOMAÇÃO TELECOMUNICAÇÃO E EMPREENDIMENTOS LTDA - ME-Pessoa Física",
+        "identifier": "15803597000180-Campos dos Goytacazes-RJ-Voltec Servicos de Automacao Telecomunicacao e Empreendimentos Ltda-Pessoa Física",
         "cidade": "Campos dos Goytacazes",
         "uf": "RJ",
         "latitude": -21.762171,
         "longitude": -41.318055,
-        "empresa": "VOLTEC SERVIÇOS DE AUTOMAÇÃO TELECOMUNICAÇÃO E EMPREENDIMENTOS LTDA - ME",
+        "empresa": "Voltec Servicos de Automacao Telecomunicacao e Empreendimentos Ltda",
         "cnpj": 15803597000180,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -8770,12 +8870,12 @@
         ]
     },
     {
-        "identifier": "17283016000151-Rio de Janeiro-RJ-GARDEN SAT PROVEDOR DE INTERNET LTDA - ME-Pessoa Física",
+        "identifier": "17283016000151-Rio de Janeiro-RJ-Giga Sinal Telecom Ltda-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
         "latitude": -22.912897,
         "longitude": -43.200295,
-        "empresa": "GARDEN SAT PROVEDOR DE INTERNET LTDA - ME",
+        "empresa": "Giga Sinal Telecom Ltda",
         "cnpj": 17283016000151,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -9577,12 +9677,12 @@
         ]
     },
     {
-        "identifier": "19279906000115-Belford Roxo-RJ-L DA COSTA SILVA COMUNICACOES - ME-Pessoa Física",
+        "identifier": "19279906000115-Belford Roxo-RJ-L DA COSTA SILVA COMUNICACOES-Pessoa Física",
         "cidade": "Belford Roxo",
         "uf": "RJ",
         "latitude": -22.764042,
         "longitude": -43.39921,
-        "empresa": "L DA COSTA SILVA COMUNICACOES - ME",
+        "empresa": "L DA COSTA SILVA COMUNICACOES",
         "cnpj": 19279906000115,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -9596,12 +9696,12 @@
         ]
     },
     {
-        "identifier": "19279906000115-Nova Iguaçu-RJ-L DA COSTA SILVA COMUNICACOES - ME-Pessoa Física",
+        "identifier": "19279906000115-Nova Iguaçu-RJ-L DA COSTA SILVA COMUNICACOES-Pessoa Física",
         "cidade": "Nova Iguaçu",
         "uf": "RJ",
         "latitude": -22.755635,
         "longitude": -43.460325,
-        "empresa": "L DA COSTA SILVA COMUNICACOES - ME",
+        "empresa": "L DA COSTA SILVA COMUNICACOES",
         "cnpj": 19279906000115,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -10094,12 +10194,12 @@
         ]
     },
     {
-        "identifier": "21083891000167-Petrópolis-RJ-FSI TELECOM LTDA - ME-Pessoa Física",
+        "identifier": "21083891000167-Petrópolis-RJ-Fsi Telecom Ltda-Pessoa Física",
         "cidade": "Petrópolis",
         "uf": "RJ",
         "latitude": -22.519963,
         "longitude": -43.192613,
-        "empresa": "FSI TELECOM LTDA - ME",
+        "empresa": "Fsi Telecom Ltda",
         "cnpj": 21083891000167,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -10390,6 +10490,25 @@
         ]
     },
     {
+        "identifier": "22500082000176-Barra Mansa-RJ-TURBO NET TELECOM SERVICOS E VENDAS DE EQUIPAMENTOS DE INFORMATICA LTDA-Pessoa Física",
+        "cidade": "Barra Mansa",
+        "uf": "RJ",
+        "latitude": -22.548084,
+        "longitude": -44.175241,
+        "empresa": "TURBO NET TELECOM SERVICOS E VENDAS DE EQUIPAMENTOS DE INFORMATICA LTDA",
+        "cnpj": 22500082000176,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 163
+            }
+        ]
+    },
+    {
         "identifier": "22551249000128-Armação dos Búzios-RJ-GABRIELA DA S DE ALMEIDA-Pessoa Física",
         "cidade": "Armação dos Búzios",
         "uf": "RJ",
@@ -10609,12 +10728,12 @@
         ]
     },
     {
-        "identifier": "23190268000139-Rio de Janeiro-RJ-FMNET SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "identifier": "23190268000139-Rio de Janeiro-RJ-Fmnet Servicos de Comunicacoes Ltda-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
         "latitude": -22.912897,
         "longitude": -43.200295,
-        "empresa": "FMNET SERVICOS DE COMUNICACOES LTDA",
+        "empresa": "Fmnet Servicos de Comunicacoes Ltda",
         "cnpj": 23190268000139,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -11287,12 +11406,12 @@
         ]
     },
     {
-        "identifier": "25019168000170-Resende-RJ-WEB SUL TELECOM LTDA - ME-Pessoa Física",
+        "identifier": "25019168000170-Resende-RJ-Web Sul Telecom Ltda-Pessoa Física",
         "cidade": "Resende",
         "uf": "RJ",
         "latitude": -22.470473,
         "longitude": -44.45091,
-        "empresa": "WEB SUL TELECOM LTDA - ME",
+        "empresa": "Web Sul Telecom Ltda",
         "cnpj": 25019168000170,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -12162,12 +12281,12 @@
         ]
     },
     {
-        "identifier": "27681171000180-Magé-RJ-ULTRA LINK SOLUCOES EM INTERNET LTDA-Pessoa Física",
+        "identifier": "27681171000180-Magé-RJ-Ultra Link Solucoes em Internet Ltda-Pessoa Física",
         "cidade": "Magé",
         "uf": "RJ",
         "latitude": -22.663151,
         "longitude": -43.031483,
-        "empresa": "ULTRA LINK SOLUCOES EM INTERNET LTDA",
+        "empresa": "Ultra Link Solucoes em Internet Ltda",
         "cnpj": 27681171000180,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -12381,6 +12500,31 @@
         ]
     },
     {
+        "identifier": "27930904000172-Rio de Janeiro-RJ-NETFUSION INTERNET LTDA - ME-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "NETFUSION INTERNET LTDA - ME",
+        "cnpj": 27930904000172,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 14
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "27986060000181-Duque de Caxias-RJ-REDE ATIVA BR LTDA-Pessoa Física",
         "cidade": "Duque de Caxias",
         "uf": "RJ",
@@ -12421,6 +12565,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 6125
+            }
+        ]
+    },
+    {
+        "identifier": "27999437000137-Rio de Janeiro-RJ-AC Telecom Ltda-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "AC Telecom Ltda",
+        "cnpj": 27999437000137,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -13116,6 +13279,31 @@
         ]
     },
     {
+        "identifier": "29327139000126-Magé-RJ-FIBRALINK INTERNET E TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Magé",
+        "uf": "RJ",
+        "latitude": -22.663151,
+        "longitude": -43.031483,
+        "empresa": "FIBRALINK INTERNET E TELECOMUNICACOES LTDA",
+        "cnpj": 29327139000126,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1031
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 183
+            }
+        ]
+    },
+    {
         "identifier": "29342533000133-Rio de Janeiro-RJ-VIBER TELECOM SERVIÇOS E TELECOMUNICAÇÃO LTDA-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
@@ -13562,6 +13750,31 @@
         ]
     },
     {
+        "identifier": "31317508000141-Nova Iguaçu-RJ-JA NETWORK TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Nova Iguaçu",
+        "uf": "RJ",
+        "latitude": -22.755635,
+        "longitude": -43.460325,
+        "empresa": "JA NETWORK TELECOMUNICACOES LTDA",
+        "cnpj": 31317508000141,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 568
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 355
+            }
+        ]
+    },
+    {
         "identifier": "31359056000160-Itaboraí-RJ-Corplink Servicos de Telecom Eireli-Pessoa Física",
         "cidade": "Itaboraí",
         "uf": "RJ",
@@ -13707,12 +13920,12 @@
         ]
     },
     {
-        "identifier": "31590302000190-Angra dos Reis-RJ-ALFA TELECOM LTDA-Pessoa Física",
+        "identifier": "31590302000190-Angra dos Reis-RJ-Alfa Telecom Ltda-Pessoa Física",
         "cidade": "Angra dos Reis",
         "uf": "RJ",
         "latitude": -23.001074,
         "longitude": -44.31956,
-        "empresa": "ALFA TELECOM LTDA",
+        "empresa": "Alfa Telecom Ltda",
         "cnpj": 31590302000190,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -13972,12 +14185,12 @@
         ]
     },
     {
-        "identifier": "31961772000113-Rio de Janeiro-RJ-AAM_NET COMUNICACOES LTDA-Pessoa Física",
+        "identifier": "31961772000113-Rio de Janeiro-RJ-Aam_net Comunicacoes Ltda-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
         "latitude": -22.912897,
         "longitude": -43.200295,
-        "empresa": "AAM_NET COMUNICACOES LTDA",
+        "empresa": "Aam_net Comunicacoes Ltda",
         "cnpj": 31961772000113,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -14092,12 +14305,31 @@
         ]
     },
     {
-        "identifier": "32303543000174-Belford Roxo-RJ-Lognet Servicos Telecomunicacoes Ltda-Pessoa Física",
+        "identifier": "32285377000120-Nova Iguaçu-RJ-UTRA NET TELECOM SERVICO DE PROVEDOR DE INTERNET LTDA-Pessoa Física",
+        "cidade": "Nova Iguaçu",
+        "uf": "RJ",
+        "latitude": -22.755635,
+        "longitude": -43.460325,
+        "empresa": "UTRA NET TELECOM SERVICO DE PROVEDOR DE INTERNET LTDA",
+        "cnpj": 32285377000120,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 275
+            }
+        ]
+    },
+    {
+        "identifier": "32303543000174-Belford Roxo-RJ-BRLOGNET TELECOMUNICAÇÔES LTDA-Pessoa Física",
         "cidade": "Belford Roxo",
         "uf": "RJ",
         "latitude": -22.764042,
         "longitude": -43.39921,
-        "empresa": "Lognet Servicos Telecomunicacoes Ltda",
+        "empresa": "BRLOGNET TELECOMUNICAÇÔES LTDA",
         "cnpj": 32303543000174,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -14111,12 +14343,12 @@
         ]
     },
     {
-        "identifier": "32303543000174-Nova Iguaçu-RJ-Lognet Servicos Telecomunicacoes Ltda-Pessoa Física",
+        "identifier": "32303543000174-Nova Iguaçu-RJ-BRLOGNET TELECOMUNICAÇÔES LTDA-Pessoa Física",
         "cidade": "Nova Iguaçu",
         "uf": "RJ",
         "latitude": -22.755635,
         "longitude": -43.460325,
-        "empresa": "Lognet Servicos Telecomunicacoes Ltda",
+        "empresa": "BRLOGNET TELECOMUNICAÇÔES LTDA",
         "cnpj": 32303543000174,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -14130,12 +14362,12 @@
         ]
     },
     {
-        "identifier": "32303543000174-Rio de Janeiro-RJ-Lognet Servicos Telecomunicacoes Ltda-Pessoa Física",
+        "identifier": "32303543000174-Rio de Janeiro-RJ-BRLOGNET TELECOMUNICAÇÔES LTDA-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
         "latitude": -22.912897,
         "longitude": -43.200295,
-        "empresa": "Lognet Servicos Telecomunicacoes Ltda",
+        "empresa": "BRLOGNET TELECOMUNICAÇÔES LTDA",
         "cnpj": 32303543000174,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -14199,12 +14431,12 @@
         ]
     },
     {
-        "identifier": "32611781000147-Teresópolis-RJ-New Connect Provedor de Teresopolis Ltda-Pessoa Física",
+        "identifier": "32611781000147-Teresópolis-RJ-ELLO TECNOLOGY LTDA-Pessoa Física",
         "cidade": "Teresópolis",
         "uf": "RJ",
         "latitude": -22.416464,
         "longitude": -42.97519,
-        "empresa": "New Connect Provedor de Teresopolis Ltda",
+        "empresa": "ELLO TECNOLOGY LTDA",
         "cnpj": 32611781000147,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -14376,12 +14608,12 @@
         ]
     },
     {
-        "identifier": "32907224000178-Duque de Caxias-RJ-TOP FLASH TELECOM LTDA.-Pessoa Física",
+        "identifier": "32907224000178-Duque de Caxias-RJ-Top Flash Telecom Ltda-Pessoa Física",
         "cidade": "Duque de Caxias",
         "uf": "RJ",
         "latitude": -22.785801,
         "longitude": -43.304895,
-        "empresa": "TOP FLASH TELECOM LTDA.",
+        "empresa": "Top Flash Telecom Ltda",
         "cnpj": 32907224000178,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -14716,12 +14948,12 @@
         ]
     },
     {
-        "identifier": "34102450000107-Cabo Frio-RJ-PSV SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "34102450000107-Cabo Frio-RJ-RM TELECOMUNICACOES E SERVICOS LTDA-Pessoa Física",
         "cidade": "Cabo Frio",
         "uf": "RJ",
         "latitude": -22.88943,
         "longitude": -42.028595,
-        "empresa": "PSV SERVICOS DE TELECOMUNICACOES LTDA",
+        "empresa": "RM TELECOMUNICACOES E SERVICOS LTDA",
         "cnpj": 34102450000107,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -14892,12 +15124,12 @@
         ]
     },
     {
-        "identifier": "34597640000142-Angra dos Reis-RJ-MSFIBRA COMERCIO E SERVICOS DE INFORMATICA EIRELI-Pessoa Física",
+        "identifier": "34597640000142-Angra dos Reis-RJ-MSFIBRA COMERCIO E SERVICOS DE INFORMATICA LTDA.-Pessoa Física",
         "cidade": "Angra dos Reis",
         "uf": "RJ",
         "latitude": -23.001074,
         "longitude": -44.31956,
-        "empresa": "MSFIBRA COMERCIO E SERVICOS DE INFORMATICA EIRELI",
+        "empresa": "MSFIBRA COMERCIO E SERVICOS DE INFORMATICA LTDA.",
         "cnpj": 34597640000142,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -15652,12 +15884,12 @@
         ]
     },
     {
-        "identifier": "37088116000134-Itaboraí-RJ-NOVAWEBNET SERVICOS DE ACESSO A INTERNET LTDA-Pessoa Física",
+        "identifier": "37088116000134-Itaboraí-RJ-NET SOLAR INSTALAÇÃO E MANUTENÇÃO ELÉTRICA LTDA-Pessoa Física",
         "cidade": "Itaboraí",
         "uf": "RJ",
         "latitude": -22.756504,
         "longitude": -42.863905,
-        "empresa": "NOVAWEBNET SERVICOS DE ACESSO A INTERNET LTDA",
+        "empresa": "NET SOLAR INSTALAÇÃO E MANUTENÇÃO ELÉTRICA LTDA",
         "cnpj": 37088116000134,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -15705,6 +15937,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "37149268000108-Rio de Janeiro-RJ-NNN NET TELECOM SERVICOS LTDA-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "NNN NET TELECOM SERVICOS LTDA",
+        "cnpj": 37149268000108,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 95
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
             }
         ]
     },
@@ -15860,12 +16117,12 @@
         ]
     },
     {
-        "identifier": "37511571000109-Rio de Janeiro-RJ-S.M.O. TELECOMUNICACAO EIRELI-Pessoa Física",
+        "identifier": "37511571000109-Rio de Janeiro-RJ-S.M.O. TELECOMUNICACAO LTDA-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
         "latitude": -22.912897,
         "longitude": -43.200295,
-        "empresa": "S.M.O. TELECOMUNICACAO EIRELI",
+        "empresa": "S.M.O. TELECOMUNICACAO LTDA",
         "cnpj": 37511571000109,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -15879,12 +16136,12 @@
         ]
     },
     {
-        "identifier": "37566125000193-Nova Iguaçu-RJ-D&B PROVEDOR DE SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "37566125000193-Nova Iguaçu-RJ-D&b Provedor de Servicos de Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Nova Iguaçu",
         "uf": "RJ",
         "latitude": -22.755635,
         "longitude": -43.460325,
-        "empresa": "D&B PROVEDOR DE SERVICOS DE TELECOMUNICACOES LTDA",
+        "empresa": "D&b Provedor de Servicos de Telecomunicacoes Ltda",
         "cnpj": 37566125000193,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -16018,12 +16275,12 @@
         ]
     },
     {
-        "identifier": "38026038000106-Rio de Janeiro-RJ-APARECIDA DE FATIMA LOPES SOARES-Pessoa Física",
+        "identifier": "38026038000106-Rio de Janeiro-RJ-Chl Soares Ltda-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
         "latitude": -22.912897,
         "longitude": -43.200295,
-        "empresa": "APARECIDA DE FATIMA LOPES SOARES",
+        "empresa": "Chl Soares Ltda",
         "cnpj": 38026038000106,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -16328,12 +16585,12 @@
         ]
     },
     {
-        "identifier": "39584308000167-Rio das Flores-RJ-Luciane da Silva Barreto-Pessoa Física",
+        "identifier": "39584308000167-Rio das Flores-RJ-ADEXXIN CONNECT CO. LTDA-Pessoa Física",
         "cidade": "Rio das Flores",
         "uf": "RJ",
         "latitude": -22.169184,
         "longitude": -43.585632,
-        "empresa": "Luciane da Silva Barreto",
+        "empresa": "ADEXXIN CONNECT CO. LTDA",
         "cnpj": 39584308000167,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -16347,12 +16604,12 @@
         ]
     },
     {
-        "identifier": "39584308000167-São Fidélis-RJ-Luciane da Silva Barreto-Pessoa Física",
+        "identifier": "39584308000167-São Fidélis-RJ-ADEXXIN CONNECT CO. LTDA-Pessoa Física",
         "cidade": "São Fidélis",
         "uf": "RJ",
         "latitude": -21.655119,
         "longitude": -41.756041,
-        "empresa": "Luciane da Silva Barreto",
+        "empresa": "ADEXXIN CONNECT CO. LTDA",
         "cnpj": 39584308000167,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -16555,12 +16812,12 @@
         ]
     },
     {
-        "identifier": "40287856000104-Rio de Janeiro-RJ-WORK 349 INTERNET PROVEDORES LTDA - ME-Pessoa Física",
+        "identifier": "40287856000104-Rio de Janeiro-RJ-Work 349 Internet Provedores Ltda-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
         "latitude": -22.912897,
         "longitude": -43.200295,
-        "empresa": "WORK 349 INTERNET PROVEDORES LTDA - ME",
+        "empresa": "Work 349 Internet Provedores Ltda",
         "cnpj": 40287856000104,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -17280,12 +17537,12 @@
         ]
     },
     {
-        "identifier": "42762858000133-Rio de Janeiro-RJ-PONTO FIBER SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "identifier": "42762858000133-Rio de Janeiro-RJ-Ponto Fiber Servicos de Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
         "latitude": -22.912897,
         "longitude": -43.200295,
-        "empresa": "PONTO FIBER SERVICOS DE TELECOMUNICACOES LTDA",
+        "empresa": "Ponto Fiber Servicos de Telecomunicacoes Ltda",
         "cnpj": 42762858000133,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -18141,6 +18398,44 @@
         ]
     },
     {
+        "identifier": "44188776000152-Bom Jesus do Itabapoana-RJ-Henrique Freire e Souza Telecom Ltda-Pessoa Física",
+        "cidade": "Bom Jesus do Itabapoana",
+        "uf": "RJ",
+        "latitude": -21.144851,
+        "longitude": -41.682222,
+        "empresa": "Henrique Freire e Souza Telecom Ltda",
+        "cnpj": 44188776000152,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "44188776000152-Campos dos Goytacazes-RJ-Henrique Freire e Souza Telecom Ltda-Pessoa Física",
+        "cidade": "Campos dos Goytacazes",
+        "uf": "RJ",
+        "latitude": -21.762171,
+        "longitude": -41.318055,
+        "empresa": "Henrique Freire e Souza Telecom Ltda",
+        "cnpj": 44188776000152,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 38
+            }
+        ]
+    },
+    {
         "identifier": "44258148000104-Niterói-RJ-Pronet Servicos de Comunicacoes Multimidia Ltda-Pessoa Física",
         "cidade": "Niterói",
         "uf": "RJ",
@@ -18477,6 +18772,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 101
+            }
+        ]
+    },
+    {
+        "identifier": "45597639000134-Miracema-RJ-Unidos Net Provedor Ltda-Pessoa Física",
+        "cidade": "Miracema",
+        "uf": "RJ",
+        "latitude": -21.414848,
+        "longitude": -42.193832,
+        "empresa": "Unidos Net Provedor Ltda",
+        "cnpj": 45597639000134,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 146
             }
         ]
     },

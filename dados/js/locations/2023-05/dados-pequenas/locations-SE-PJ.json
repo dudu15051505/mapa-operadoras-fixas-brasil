@@ -1,5 +1,1443 @@
 [
     {
+        "identifier": "336701000104-Amparo de São Francisco-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Amparo de São Francisco",
+        "uf": "SE",
+        "latitude": -10.134842,
+        "longitude": -36.934993,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Aquidabã-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Aquidabã",
+        "uf": "SE",
+        "latitude": -10.278043,
+        "longitude": -37.014768,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Aracaju-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Arauá-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Arauá",
+        "uf": "SE",
+        "latitude": -11.261391,
+        "longitude": -37.620058,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Areia Branca-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Areia Branca",
+        "uf": "SE",
+        "latitude": -10.758005,
+        "longitude": -37.325063,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Barra dos Coqueiros-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Barra dos Coqueiros",
+        "uf": "SE",
+        "latitude": -10.899623,
+        "longitude": -37.032317,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Boquim-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Boquim",
+        "uf": "SE",
+        "latitude": -11.13972,
+        "longitude": -37.619466,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Brejo Grande-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Brejo Grande",
+        "uf": "SE",
+        "latitude": -10.429713,
+        "longitude": -36.461102,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Campo do Brito-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Campo do Brito",
+        "uf": "SE",
+        "latitude": -10.739248,
+        "longitude": -37.495369,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Canhoba-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Canhoba",
+        "uf": "SE",
+        "latitude": -10.136465,
+        "longitude": -36.980639,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Canindé de São Francisco-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Canindé de São Francisco",
+        "uf": "SE",
+        "latitude": -9.648823,
+        "longitude": -37.792294,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Capela-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Capela",
+        "uf": "SE",
+        "latitude": -10.506928,
+        "longitude": -37.062847,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Carira-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Carira",
+        "uf": "SE",
+        "latitude": -10.352361,
+        "longitude": -37.700241,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Carmópolis-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Carmópolis",
+        "uf": "SE",
+        "latitude": -10.644869,
+        "longitude": -36.988742,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Cedro de São João-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Cedro de São João",
+        "uf": "SE",
+        "latitude": -10.253441,
+        "longitude": -36.885641,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Cumbe-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Cumbe",
+        "uf": "SE",
+        "latitude": -10.351979,
+        "longitude": -37.184622,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Divina Pastora-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Divina Pastora",
+        "uf": "SE",
+        "latitude": -10.678161,
+        "longitude": -37.150557,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Estância-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Estância",
+        "uf": "SE",
+        "latitude": -11.265922,
+        "longitude": -37.448381,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Frei Paulo-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Frei Paulo",
+        "uf": "SE",
+        "latitude": -10.551292,
+        "longitude": -37.527934,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Gararu-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Gararu",
+        "uf": "SE",
+        "latitude": -9.972202,
+        "longitude": -37.086921,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-General Maynard-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "General Maynard",
+        "uf": "SE",
+        "latitude": -10.683471,
+        "longitude": -36.983758,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Graccho Cardoso-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Graccho Cardoso",
+        "uf": "SE",
+        "latitude": -10.225233,
+        "longitude": -37.200559,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Ilha das Flores-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Ilha das Flores",
+        "uf": "SE",
+        "latitude": -10.442506,
+        "longitude": -36.547935,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Indiaroba-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Indiaroba",
+        "uf": "SE",
+        "latitude": -11.515746,
+        "longitude": -37.514979,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Itabaiana-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Itabaiana",
+        "uf": "SE",
+        "latitude": -10.682555,
+        "longitude": -37.427287,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Itabaianinha-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Itabaianinha",
+        "uf": "SE",
+        "latitude": -11.269268,
+        "longitude": -37.787505,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Itabi-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Itabi",
+        "uf": "SE",
+        "latitude": -10.124808,
+        "longitude": -37.105558,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Itaporanga d'Ajuda-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Itaporanga d'Ajuda",
+        "uf": "SE",
+        "latitude": -10.987899,
+        "longitude": -37.313586,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Japaratuba-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Japaratuba",
+        "uf": "SE",
+        "latitude": -10.584913,
+        "longitude": -36.941765,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Japoatã-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Japoatã",
+        "uf": "SE",
+        "latitude": -10.347719,
+        "longitude": -36.804504,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Lagarto-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Lagarto",
+        "uf": "SE",
+        "latitude": -10.913628,
+        "longitude": -37.668948,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 31
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Laranjeiras-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Laranjeiras",
+        "uf": "SE",
+        "latitude": -10.798121,
+        "longitude": -37.173123,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Macambira-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Macambira",
+        "uf": "SE",
+        "latitude": -10.661871,
+        "longitude": -37.541303,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Malhada dos Bois-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Malhada dos Bois",
+        "uf": "SE",
+        "latitude": -10.341837,
+        "longitude": -36.925188,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Malhador-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Malhador",
+        "uf": "SE",
+        "latitude": -10.664926,
+        "longitude": -37.300437,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Maruim-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Maruim",
+        "uf": "SE",
+        "latitude": -10.730762,
+        "longitude": -37.085598,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Moita Bonita-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Moita Bonita",
+        "uf": "SE",
+        "latitude": -10.576908,
+        "longitude": -37.35121,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Monte Alegre de Sergipe-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Monte Alegre de Sergipe",
+        "uf": "SE",
+        "latitude": -10.025574,
+        "longitude": -37.561605,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Muribeca-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Muribeca",
+        "uf": "SE",
+        "latitude": -10.427146,
+        "longitude": -36.95882,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Neópolis-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Neópolis",
+        "uf": "SE",
+        "latitude": -10.321503,
+        "longitude": -36.584952,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Nossa Senhora Aparecida-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Nossa Senhora Aparecida",
+        "uf": "SE",
+        "latitude": -10.394387,
+        "longitude": -37.451699,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Nossa Senhora da Glória-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Nossa Senhora da Glória",
+        "uf": "SE",
+        "latitude": -10.215809,
+        "longitude": -37.421125,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Nossa Senhora das Dores-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Nossa Senhora das Dores",
+        "uf": "SE",
+        "latitude": -10.48536,
+        "longitude": -37.196285,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Nossa Senhora de Lourdes-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Nossa Senhora de Lourdes",
+        "uf": "SE",
+        "latitude": -10.077168,
+        "longitude": -37.061528,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Nossa Senhora do Socorro-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Nossa Senhora do Socorro",
+        "uf": "SE",
+        "latitude": -10.846822,
+        "longitude": -37.123113,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Pacatuba-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Pacatuba",
+        "uf": "SE",
+        "latitude": -10.453811,
+        "longitude": -36.653078,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Pedra Mole-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Pedra Mole",
+        "uf": "SE",
+        "latitude": -10.613439,
+        "longitude": -37.692189,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Pedrinhas-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Pedrinhas",
+        "uf": "SE",
+        "latitude": -11.190174,
+        "longitude": -37.67749,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Pirambu-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Pirambu",
+        "uf": "SE",
+        "latitude": -10.721516,
+        "longitude": -36.854427,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Porto da Folha-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Porto da Folha",
+        "uf": "SE",
+        "latitude": -9.916264,
+        "longitude": -37.284233,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 20
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Poço Redondo-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Poço Redondo",
+        "uf": "SE",
+        "latitude": -9.806155,
+        "longitude": -37.683263,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 16
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Poço Verde-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Poço Verde",
+        "uf": "SE",
+        "latitude": -10.715129,
+        "longitude": -38.181294,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Propriá-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Propriá",
+        "uf": "SE",
+        "latitude": -10.213773,
+        "longitude": -36.844153,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Riachão do Dantas-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Riachão do Dantas",
+        "uf": "SE",
+        "latitude": -11.072904,
+        "longitude": -37.730985,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Ribeirópolis-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Ribeirópolis",
+        "uf": "SE",
+        "latitude": -10.535669,
+        "longitude": -37.438035,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Rosário do Catete-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Rosário do Catete",
+        "uf": "SE",
+        "latitude": -10.690432,
+        "longitude": -37.03569,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Salgado-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Salgado",
+        "uf": "SE",
+        "latitude": -11.028833,
+        "longitude": -37.480385,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Santa Luzia do Itanhy-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Santa Luzia do Itanhy",
+        "uf": "SE",
+        "latitude": -11.353596,
+        "longitude": -37.458642,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Santa Rosa de Lima-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Santa Rosa de Lima",
+        "uf": "SE",
+        "latitude": -10.643362,
+        "longitude": -37.193123,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Santana do São Francisco-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Santana do São Francisco",
+        "uf": "SE",
+        "latitude": -10.292233,
+        "longitude": -36.610539,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Santo Amaro das Brotas-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Santo Amaro das Brotas",
+        "uf": "SE",
+        "latitude": -10.789225,
+        "longitude": -37.05643,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Simão Dias-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Simão Dias",
+        "uf": "SE",
+        "latitude": -10.738652,
+        "longitude": -37.809746,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Siriri-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Siriri",
+        "uf": "SE",
+        "latitude": -10.596488,
+        "longitude": -37.113068,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-São Cristóvão-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "São Cristóvão",
+        "uf": "SE",
+        "latitude": -11.008443,
+        "longitude": -37.20436,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-São Domingos-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "São Domingos",
+        "uf": "SE",
+        "latitude": -10.791613,
+        "longitude": -37.568515,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-São Miguel do Aleixo-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "São Miguel do Aleixo",
+        "uf": "SE",
+        "latitude": -10.384662,
+        "longitude": -37.38356,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Telha-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Telha",
+        "uf": "SE",
+        "latitude": -10.206424,
+        "longitude": -36.881778,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Tobias Barreto-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Tobias Barreto",
+        "uf": "SE",
+        "latitude": -11.179799,
+        "longitude": -37.999451,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Tomar do Geru-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Tomar do Geru",
+        "uf": "SE",
+        "latitude": -11.369391,
+        "longitude": -37.843338,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Umbaúba-SE-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Umbaúba",
+        "uf": "SE",
+        "latitude": -11.380921,
+        "longitude": -37.662347,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
         "identifier": "3052673000183-Nossa Senhora do Socorro-SE-ELETRONET S.A-Pessoa Jurídica",
         "cidade": "Nossa Senhora do Socorro",
         "uf": "SE",
@@ -1256,12 +2694,12 @@
         ]
     },
     {
-        "identifier": "7565239000158-Aracaju-SE-Infotec - Servicos de Provedor da Internet Eireli-Pessoa Jurídica",
+        "identifier": "7565239000158-Aracaju-SE-Infotec - Servicos de Provedor da Internet Ltda-Pessoa Jurídica",
         "cidade": "Aracaju",
         "uf": "SE",
         "latitude": -10.909133,
         "longitude": -37.06766,
-        "empresa": "Infotec - Servicos de Provedor da Internet Eireli",
+        "empresa": "Infotec - Servicos de Provedor da Internet Ltda",
         "cnpj": 7565239000158,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -1275,12 +2713,12 @@
         ]
     },
     {
-        "identifier": "7565239000158-Arauá-SE-Infotec - Servicos de Provedor da Internet Eireli-Pessoa Jurídica",
+        "identifier": "7565239000158-Arauá-SE-Infotec - Servicos de Provedor da Internet Ltda-Pessoa Jurídica",
         "cidade": "Arauá",
         "uf": "SE",
         "latitude": -11.261391,
         "longitude": -37.620058,
-        "empresa": "Infotec - Servicos de Provedor da Internet Eireli",
+        "empresa": "Infotec - Servicos de Provedor da Internet Ltda",
         "cnpj": 7565239000158,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -1300,12 +2738,12 @@
         ]
     },
     {
-        "identifier": "7565239000158-Cristinápolis-SE-Infotec - Servicos de Provedor da Internet Eireli-Pessoa Jurídica",
+        "identifier": "7565239000158-Cristinápolis-SE-Infotec - Servicos de Provedor da Internet Ltda-Pessoa Jurídica",
         "cidade": "Cristinápolis",
         "uf": "SE",
         "latitude": -11.466778,
         "longitude": -37.758494,
-        "empresa": "Infotec - Servicos de Provedor da Internet Eireli",
+        "empresa": "Infotec - Servicos de Provedor da Internet Ltda",
         "cnpj": 7565239000158,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -1319,12 +2757,12 @@
         ]
     },
     {
-        "identifier": "7565239000158-Indiaroba-SE-Infotec - Servicos de Provedor da Internet Eireli-Pessoa Jurídica",
+        "identifier": "7565239000158-Indiaroba-SE-Infotec - Servicos de Provedor da Internet Ltda-Pessoa Jurídica",
         "cidade": "Indiaroba",
         "uf": "SE",
         "latitude": -11.515746,
         "longitude": -37.514979,
-        "empresa": "Infotec - Servicos de Provedor da Internet Eireli",
+        "empresa": "Infotec - Servicos de Provedor da Internet Ltda",
         "cnpj": 7565239000158,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -1344,12 +2782,12 @@
         ]
     },
     {
-        "identifier": "7565239000158-Umbaúba-SE-Infotec - Servicos de Provedor da Internet Eireli-Pessoa Jurídica",
+        "identifier": "7565239000158-Umbaúba-SE-Infotec - Servicos de Provedor da Internet Ltda-Pessoa Jurídica",
         "cidade": "Umbaúba",
         "uf": "SE",
         "latitude": -11.380921,
         "longitude": -37.662347,
-        "empresa": "Infotec - Servicos de Provedor da Internet Eireli",
+        "empresa": "Infotec - Servicos de Provedor da Internet Ltda",
         "cnpj": 7565239000158,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -2637,6 +4075,333 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Aracaju-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Campo do Brito-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Campo do Brito",
+        "uf": "SE",
+        "latitude": -10.739248,
+        "longitude": -37.495369,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Canindé de São Francisco-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Canindé de São Francisco",
+        "uf": "SE",
+        "latitude": -9.648823,
+        "longitude": -37.792294,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Carira-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Carira",
+        "uf": "SE",
+        "latitude": -10.352361,
+        "longitude": -37.700241,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Carmópolis-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Carmópolis",
+        "uf": "SE",
+        "latitude": -10.644869,
+        "longitude": -36.988742,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Itaporanga d'Ajuda-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Itaporanga d'Ajuda",
+        "uf": "SE",
+        "latitude": -10.987899,
+        "longitude": -37.313586,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Lagarto-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Lagarto",
+        "uf": "SE",
+        "latitude": -10.913628,
+        "longitude": -37.668948,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 445
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Laranjeiras-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Laranjeiras",
+        "uf": "SE",
+        "latitude": -10.798121,
+        "longitude": -37.173123,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Nossa Senhora do Socorro-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Nossa Senhora do Socorro",
+        "uf": "SE",
+        "latitude": -10.846822,
+        "longitude": -37.123113,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Porto da Folha-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Porto da Folha",
+        "uf": "SE",
+        "latitude": -9.916264,
+        "longitude": -37.284233,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Poço Verde-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Poço Verde",
+        "uf": "SE",
+        "latitude": -10.715129,
+        "longitude": -38.181294,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Salgado-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Salgado",
+        "uf": "SE",
+        "latitude": -11.028833,
+        "longitude": -37.480385,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 28
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Santo Amaro das Brotas-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Santo Amaro das Brotas",
+        "uf": "SE",
+        "latitude": -10.789225,
+        "longitude": -37.05643,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-Simão Dias-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "Simão Dias",
+        "uf": "SE",
+        "latitude": -10.738652,
+        "longitude": -37.809746,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 20
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "12022934000103-São Cristóvão-SE-MINAS TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "cidade": "São Cristóvão",
+        "uf": "SE",
+        "latitude": -11.008443,
+        "longitude": -37.20436,
+        "empresa": "MINAS TELECOMUNICACOES LTDA",
+        "cnpj": 12022934000103,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -4130,12 +5895,12 @@
         ]
     },
     {
-        "identifier": "17869823000150-Aracaju-SE-SOFTDADOS TELECOMUNICACOES EIRELI-Pessoa Jurídica",
+        "identifier": "17869823000150-Aracaju-SE-SOFTDADOS TELECOMUNICACOES LTDA-Pessoa Jurídica",
         "cidade": "Aracaju",
         "uf": "SE",
         "latitude": -10.909133,
         "longitude": -37.06766,
-        "empresa": "SOFTDADOS TELECOMUNICACOES EIRELI",
+        "empresa": "SOFTDADOS TELECOMUNICACOES LTDA",
         "cnpj": 17869823000150,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -4155,12 +5920,12 @@
         ]
     },
     {
-        "identifier": "17869823000150-Ribeirópolis-SE-SOFTDADOS TELECOMUNICACOES EIRELI-Pessoa Jurídica",
+        "identifier": "17869823000150-Ribeirópolis-SE-SOFTDADOS TELECOMUNICACOES LTDA-Pessoa Jurídica",
         "cidade": "Ribeirópolis",
         "uf": "SE",
         "latitude": -10.535669,
         "longitude": -37.438035,
-        "empresa": "SOFTDADOS TELECOMUNICACOES EIRELI",
+        "empresa": "SOFTDADOS TELECOMUNICACOES LTDA",
         "cnpj": 17869823000150,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -4452,6 +6217,25 @@
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "M2M",
                 "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "22761991000168-Aracaju-SE-HUP TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "HUP TELECOM LTDA",
+        "cnpj": 22761991000168,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
                 "quantidade-acesso": 1
             }
         ]
@@ -4911,6 +6695,25 @@
         ]
     },
     {
+        "identifier": "25530936000155-Boquim-SE-INOVAR TELECOM LTDA.-Pessoa Jurídica",
+        "cidade": "Boquim",
+        "uf": "SE",
+        "latitude": -11.13972,
+        "longitude": -37.619466,
+        "empresa": "INOVAR TELECOM LTDA.",
+        "cnpj": 25530936000155,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
         "identifier": "26080615000169-Aracaju-SE-REDE FIBRA TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Aracaju",
         "uf": "SE",
@@ -4930,12 +6733,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Aracaju-SE-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Aracaju-SE-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Aracaju",
         "uf": "SE",
         "latitude": -10.909133,
         "longitude": -37.06766,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -4955,12 +6758,12 @@
         ]
     },
     {
-        "identifier": "26110878000173-Nossa Senhora do Socorro-SE-MULTICAST TELECOM LTDA - ME-Pessoa Jurídica",
+        "identifier": "26110878000173-Nossa Senhora do Socorro-SE-MULTICAST TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Nossa Senhora do Socorro",
         "uf": "SE",
         "latitude": -10.846822,
         "longitude": -37.123113,
-        "empresa": "MULTICAST TELECOM LTDA - ME",
+        "empresa": "MULTICAST TELECOM LTDA",
         "cnpj": 26110878000173,
         "data-dados": "2023-05",
         "pf-ou-pj": "Pessoa Jurídica",
@@ -5475,6 +7278,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "31634820000169-Aracaju-SE-NET X SERVICOS DE COMUNICACAO EIRELI-Pessoa Jurídica",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "NET X SERVICOS DE COMUNICACAO EIRELI",
+        "cnpj": 31634820000169,
+        "data-dados": "2023-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
             }
         ]
     },

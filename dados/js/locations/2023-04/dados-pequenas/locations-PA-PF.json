@@ -1143,12 +1143,12 @@
         ]
     },
     {
-        "identifier": "4568900000190-Marituba-PA-GOVTI CONEXÃO E SOLUÇÃO EIRELI-Pessoa Física",
+        "identifier": "4568900000190-Marituba-PA-GOVTI CONEXÃO E SOLUÇÃO LTDA-Pessoa Física",
         "cidade": "Marituba",
         "uf": "PA",
         "latitude": -1.36002,
         "longitude": -48.342064,
-        "empresa": "GOVTI CONEXÃO E SOLUÇÃO EIRELI",
+        "empresa": "GOVTI CONEXÃO E SOLUÇÃO LTDA",
         "cnpj": 4568900000190,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -1548,12 +1548,12 @@
         ]
     },
     {
-        "identifier": "5762861000120-São Félix do Xingu-PA-S.O.S. TELECOM LTDA.-Pessoa Física",
+        "identifier": "5762861000120-São Félix do Xingu-PA-S.O.S. TELECOM - LTDA.-Pessoa Física",
         "cidade": "São Félix do Xingu",
         "uf": "PA",
         "latitude": -6.642535,
         "longitude": -51.990382,
-        "empresa": "S.O.S. TELECOM LTDA.",
+        "empresa": "S.O.S. TELECOM - LTDA.",
         "cnpj": 5762861000120,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -1573,12 +1573,12 @@
         ]
     },
     {
-        "identifier": "5762861000120-Tucumã-PA-S.O.S. TELECOM LTDA.-Pessoa Física",
+        "identifier": "5762861000120-Tucumã-PA-S.O.S. TELECOM - LTDA.-Pessoa Física",
         "cidade": "Tucumã",
         "uf": "PA",
         "latitude": -6.746874,
         "longitude": -51.162613,
-        "empresa": "S.O.S. TELECOM LTDA.",
+        "empresa": "S.O.S. TELECOM - LTDA.",
         "cnpj": 5762861000120,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -1598,12 +1598,12 @@
         ]
     },
     {
-        "identifier": "5762861000120-Xinguara-PA-S.O.S. TELECOM LTDA.-Pessoa Física",
+        "identifier": "5762861000120-Xinguara-PA-S.O.S. TELECOM - LTDA.-Pessoa Física",
         "cidade": "Xinguara",
         "uf": "PA",
         "latitude": -7.098301,
         "longitude": -49.943672,
-        "empresa": "S.O.S. TELECOM LTDA.",
+        "empresa": "S.O.S. TELECOM - LTDA.",
         "cnpj": 5762861000120,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -1617,12 +1617,12 @@
         ]
     },
     {
-        "identifier": "5762861000120-Água Azul do Norte-PA-S.O.S. TELECOM LTDA.-Pessoa Física",
+        "identifier": "5762861000120-Água Azul do Norte-PA-S.O.S. TELECOM - LTDA.-Pessoa Física",
         "cidade": "Água Azul do Norte",
         "uf": "PA",
         "latitude": -6.790534,
         "longitude": -50.479068,
-        "empresa": "S.O.S. TELECOM LTDA.",
+        "empresa": "S.O.S. TELECOM - LTDA.",
         "cnpj": 5762861000120,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -2650,6 +2650,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 90
+            }
+        ]
+    },
+    {
+        "identifier": "8872215000104-Portel-PA-B S COMERCIO E SERVICOS EM INFORMATICA LTDA-Pessoa Física",
+        "cidade": "Portel",
+        "uf": "PA",
+        "latitude": -1.936388,
+        "longitude": -50.81942,
+        "empresa": "B S COMERCIO E SERVICOS EM INFORMATICA LTDA",
+        "cnpj": 8872215000104,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
             }
         ]
     },
@@ -3760,12 +3779,12 @@
         ]
     },
     {
-        "identifier": "10548603000186-Itaituba-PA-ZUM SERVICOS DE TELECOMUNICACOES EIRELI ME-Pessoa Física",
+        "identifier": "10548603000186-Itaituba-PA-ZUM SERVICOS DE TELECOMUNICACOES LTDA ME-Pessoa Física",
         "cidade": "Itaituba",
         "uf": "PA",
         "latitude": -4.266696,
         "longitude": -55.99264,
-        "empresa": "ZUM SERVICOS DE TELECOMUNICACOES EIRELI ME",
+        "empresa": "ZUM SERVICOS DE TELECOMUNICACOES LTDA ME",
         "cnpj": 10548603000186,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -3785,12 +3804,12 @@
         ]
     },
     {
-        "identifier": "10548603000186-Santarém-PA-ZUM SERVICOS DE TELECOMUNICACOES EIRELI ME-Pessoa Física",
+        "identifier": "10548603000186-Santarém-PA-ZUM SERVICOS DE TELECOMUNICACOES LTDA ME-Pessoa Física",
         "cidade": "Santarém",
         "uf": "PA",
         "latitude": -2.438489,
         "longitude": -54.699611,
-        "empresa": "ZUM SERVICOS DE TELECOMUNICACOES EIRELI ME",
+        "empresa": "ZUM SERVICOS DE TELECOMUNICACOES LTDA ME",
         "cnpj": 10548603000186,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -3861,12 +3880,107 @@
         ]
     },
     {
-        "identifier": "10668463000180-Altamira-PA-NOVANET - PROVEDOR E WEB LTDA - EPP-Pessoa Física",
+        "identifier": "10642041000135-Castanhal-PA-LINKNET TELECOMUNICAÇÕES LTDA.-Pessoa Física",
+        "cidade": "Castanhal",
+        "uf": "PA",
+        "latitude": -1.297971,
+        "longitude": -47.916742,
+        "empresa": "LINKNET TELECOMUNICAÇÕES LTDA.",
+        "cnpj": 10642041000135,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 570
+            }
+        ]
+    },
+    {
+        "identifier": "10642041000135-Curuçá-PA-LINKNET TELECOMUNICAÇÕES LTDA.-Pessoa Física",
+        "cidade": "Curuçá",
+        "uf": "PA",
+        "latitude": -0.733214,
+        "longitude": -47.85148,
+        "empresa": "LINKNET TELECOMUNICAÇÕES LTDA.",
+        "cnpj": 10642041000135,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 18
+            }
+        ]
+    },
+    {
+        "identifier": "10642041000135-Inhangapi-PA-LINKNET TELECOMUNICAÇÕES LTDA.-Pessoa Física",
+        "cidade": "Inhangapi",
+        "uf": "PA",
+        "latitude": -1.434897,
+        "longitude": -47.911393,
+        "empresa": "LINKNET TELECOMUNICAÇÕES LTDA.",
+        "cnpj": 10642041000135,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "10642041000135-São Francisco do Pará-PA-LINKNET TELECOMUNICAÇÕES LTDA.-Pessoa Física",
+        "cidade": "São Francisco do Pará",
+        "uf": "PA",
+        "latitude": -1.169632,
+        "longitude": -47.791676,
+        "empresa": "LINKNET TELECOMUNICAÇÕES LTDA.",
+        "cnpj": 10642041000135,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "10642041000135-Terra Alta-PA-LINKNET TELECOMUNICAÇÕES LTDA.-Pessoa Física",
+        "cidade": "Terra Alta",
+        "uf": "PA",
+        "latitude": -1.029627,
+        "longitude": -47.900433,
+        "empresa": "LINKNET TELECOMUNICAÇÕES LTDA.",
+        "cnpj": 10642041000135,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 24
+            }
+        ]
+    },
+    {
+        "identifier": "10668463000180-Altamira-PA-NOVANET - PROVEDOR E WEB LTDA-Pessoa Física",
         "cidade": "Altamira",
         "uf": "PA",
         "latitude": -3.204065,
         "longitude": -52.209961,
-        "empresa": "NOVANET - PROVEDOR E WEB LTDA - EPP",
+        "empresa": "NOVANET - PROVEDOR E WEB LTDA",
         "cnpj": 10668463000180,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -3880,12 +3994,12 @@
         ]
     },
     {
-        "identifier": "10668463000180-Novo Progresso-PA-NOVANET - PROVEDOR E WEB LTDA - EPP-Pessoa Física",
+        "identifier": "10668463000180-Novo Progresso-PA-NOVANET - PROVEDOR E WEB LTDA-Pessoa Física",
         "cidade": "Novo Progresso",
         "uf": "PA",
         "latitude": -7.143465,
         "longitude": -55.378591,
-        "empresa": "NOVANET - PROVEDOR E WEB LTDA - EPP",
+        "empresa": "NOVANET - PROVEDOR E WEB LTDA",
         "cnpj": 10668463000180,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -3899,12 +4013,12 @@
         ]
     },
     {
-        "identifier": "10668463000180-Trairão-PA-NOVANET - PROVEDOR E WEB LTDA - EPP-Pessoa Física",
+        "identifier": "10668463000180-Trairão-PA-NOVANET - PROVEDOR E WEB LTDA-Pessoa Física",
         "cidade": "Trairão",
         "uf": "PA",
         "latitude": -4.573474,
         "longitude": -55.942859,
-        "empresa": "NOVANET - PROVEDOR E WEB LTDA - EPP",
+        "empresa": "NOVANET - PROVEDOR E WEB LTDA",
         "cnpj": 10668463000180,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -5634,12 +5748,12 @@
         ]
     },
     {
-        "identifier": "14125874000180-Belém-PA-IGOR MURILO BASTOS DIAS-Pessoa Física",
+        "identifier": "14125874000180-Belém-PA-CONNECT TECNOLOGIA LTDA-Pessoa Física",
         "cidade": "Belém",
         "uf": "PA",
         "latitude": -1.455396,
         "longitude": -48.489756,
-        "empresa": "IGOR MURILO BASTOS DIAS",
+        "empresa": "CONNECT TECNOLOGIA LTDA",
         "cnpj": 14125874000180,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -5772,12 +5886,12 @@
         ]
     },
     {
-        "identifier": "14529540000171-Paragominas-PA-P P NASCIMENTO ALVES TELECOMUNICACAO EIRELI-Pessoa Física",
+        "identifier": "14529540000171-Paragominas-PA-REDE SHOPPING TELECOM LTDA-Pessoa Física",
         "cidade": "Paragominas",
         "uf": "PA",
         "latitude": -3.002116,
         "longitude": -47.352692,
-        "empresa": "P P NASCIMENTO ALVES TELECOMUNICACAO EIRELI",
+        "empresa": "REDE SHOPPING TELECOM LTDA",
         "cnpj": 14529540000171,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -5841,12 +5955,12 @@
         ]
     },
     {
-        "identifier": "15407584000191-Tomé-Açu-PA-R & A PROVEDOR DE INTERNET E COMERCIO LTDA-Pessoa Física",
+        "identifier": "15407584000191-Tomé-Açu-PA-UNIVERSO NET - PROVEDOR DE INTERNET E COMERCIO LTDA-Pessoa Física",
         "cidade": "Tomé-Açu",
         "uf": "PA",
         "latitude": -2.418028,
         "longitude": -48.1541,
-        "empresa": "R & A PROVEDOR DE INTERNET E COMERCIO LTDA",
+        "empresa": "UNIVERSO NET - PROVEDOR DE INTERNET E COMERCIO LTDA",
         "cnpj": 15407584000191,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -6036,12 +6150,12 @@
         ]
     },
     {
-        "identifier": "17174507000164-São Geraldo do Araguaia-PA-J B MONTEIRO DA SILVA PROVEDOR EIRELI-Pessoa Física",
+        "identifier": "17174507000164-São Geraldo do Araguaia-PA-BRASNETT FIBRA TELECOM LTDA-Pessoa Física",
         "cidade": "São Geraldo do Araguaia",
         "uf": "PA",
         "latitude": -6.394715,
         "longitude": -48.559169,
-        "empresa": "J B MONTEIRO DA SILVA PROVEDOR EIRELI",
+        "empresa": "BRASNETT FIBRA TELECOM LTDA",
         "cnpj": 17174507000164,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -6993,6 +7107,31 @@
         ]
     },
     {
+        "identifier": "20647927000125-Canaã dos Carajás-PA-LINK PRIME TECNOLOGIA LTDA - EPP-Pessoa Física",
+        "cidade": "Canaã dos Carajás",
+        "uf": "PA",
+        "latitude": -6.496594,
+        "longitude": -49.877612,
+        "empresa": "LINK PRIME TECNOLOGIA LTDA - EPP",
+        "cnpj": 20647927000125,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 102
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
         "identifier": "20665441000110-Belém-PA-CLICK SPEED SERVIÇOS DE TELECOMUNICAÇÕES EIRELI-Pessoa Física",
         "cidade": "Belém",
         "uf": "PA",
@@ -7031,12 +7170,12 @@
         ]
     },
     {
-        "identifier": "21227406000181-Tucuruí-PA-HASC TELECOM-Pessoa Física",
+        "identifier": "21227406000181-Tucuruí-PA-HASC TELECOM LTDA.-Pessoa Física",
         "cidade": "Tucuruí",
         "uf": "PA",
         "latitude": -3.765702,
         "longitude": -49.677336,
-        "empresa": "HASC TELECOM",
+        "empresa": "HASC TELECOM LTDA.",
         "cnpj": 21227406000181,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -7285,6 +7424,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "22699686000193-Castanhal-PA-R DOS S SOARES SERVICOS DE TELECOMUNICACOES-Pessoa Física",
+        "cidade": "Castanhal",
+        "uf": "PA",
+        "latitude": -1.297971,
+        "longitude": -47.916742,
+        "empresa": "R DOS S SOARES SERVICOS DE TELECOMUNICACOES",
+        "cnpj": 22699686000193,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 77
             }
         ]
     },
@@ -7697,12 +7855,12 @@
         ]
     },
     {
-        "identifier": "24722273000108-Santarém-PA-e F Silveira Comunicacao Multimidia Eireli-Pessoa Física",
+        "identifier": "24722273000108-Santarém-PA-L G C COMUNICACAO MULTIMIDIA LTDA-Pessoa Física",
         "cidade": "Santarém",
         "uf": "PA",
         "latitude": -2.438489,
         "longitude": -54.699611,
-        "empresa": "e F Silveira Comunicacao Multimidia Eireli",
+        "empresa": "L G C COMUNICACAO MULTIMIDIA LTDA",
         "cnpj": 24722273000108,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -7817,12 +7975,12 @@
         ]
     },
     {
-        "identifier": "25021521000156-Augusto Corrêa-PA-JOAQUIM DE LIMA CORREA JUNIOR EIRELI-Pessoa Física",
+        "identifier": "25021521000156-Augusto Corrêa-PA-Connect Fibra Comercio e Servicos Ltda-Pessoa Física",
         "cidade": "Augusto Corrêa",
         "uf": "PA",
         "latitude": -1.021634,
         "longitude": -46.645551,
-        "empresa": "JOAQUIM DE LIMA CORREA JUNIOR EIRELI",
+        "empresa": "Connect Fibra Comercio e Servicos Ltda",
         "cnpj": 25021521000156,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -7836,12 +7994,12 @@
         ]
     },
     {
-        "identifier": "25021521000156-Bragança-PA-JOAQUIM DE LIMA CORREA JUNIOR EIRELI-Pessoa Física",
+        "identifier": "25021521000156-Bragança-PA-Connect Fibra Comercio e Servicos Ltda-Pessoa Física",
         "cidade": "Bragança",
         "uf": "PA",
         "latitude": -1.061263,
         "longitude": -46.7826,
-        "empresa": "JOAQUIM DE LIMA CORREA JUNIOR EIRELI",
+        "empresa": "Connect Fibra Comercio e Servicos Ltda",
         "cnpj": 25021521000156,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -7855,12 +8013,12 @@
         ]
     },
     {
-        "identifier": "25021521000156-Viseu-PA-JOAQUIM DE LIMA CORREA JUNIOR EIRELI-Pessoa Física",
+        "identifier": "25021521000156-Viseu-PA-Connect Fibra Comercio e Servicos Ltda-Pessoa Física",
         "cidade": "Viseu",
         "uf": "PA",
         "latitude": -1.19124,
         "longitude": -46.139906,
-        "empresa": "JOAQUIM DE LIMA CORREA JUNIOR EIRELI",
+        "empresa": "Connect Fibra Comercio e Servicos Ltda",
         "cnpj": 25021521000156,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -9029,12 +9187,12 @@
         ]
     },
     {
-        "identifier": "27786443000106-Curionópolis-PA-WANDERSON DA S LIMA - ME-Pessoa Física",
+        "identifier": "27786443000106-Curionópolis-PA-ZAX TELECOM E SOLUÇÕES LTDA-Pessoa Física",
         "cidade": "Curionópolis",
         "uf": "PA",
         "latitude": -6.099654,
         "longitude": -49.606795,
-        "empresa": "WANDERSON DA S LIMA - ME",
+        "empresa": "ZAX TELECOM E SOLUÇÕES LTDA",
         "cnpj": 27786443000106,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -9220,6 +9378,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 49
+            }
+        ]
+    },
+    {
+        "identifier": "28296600000168-Itaituba-PA-LENILSON FERREIRA DOS SANTOS - ME-Pessoa Física",
+        "cidade": "Itaituba",
+        "uf": "PA",
+        "latitude": -4.266696,
+        "longitude": -55.99264,
+        "empresa": "LENILSON FERREIRA DOS SANTOS - ME",
+        "cnpj": 28296600000168,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 81
             }
         ]
     },
@@ -11023,12 +11200,12 @@
         ]
     },
     {
-        "identifier": "40494710000130-Ananindeua-PA-C. A. C Soares Atividades de Telecomunicacoes-Pessoa Física",
+        "identifier": "40494710000130-Ananindeua-PA-C. A. C Servicos de Internet Banda Larga Ltda-Pessoa Física",
         "cidade": "Ananindeua",
         "uf": "PA",
         "latitude": -1.363914,
         "longitude": -48.374298,
-        "empresa": "C. A. C Soares Atividades de Telecomunicacoes",
+        "empresa": "C. A. C Servicos de Internet Banda Larga Ltda",
         "cnpj": 40494710000130,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -11099,12 +11276,12 @@
         ]
     },
     {
-        "identifier": "41708324000166-Parauapebas-PA-Crd Telecom Eireli-Pessoa Física",
+        "identifier": "41708324000166-Parauapebas-PA-Crd Telecom Ltda-Pessoa Física",
         "cidade": "Parauapebas",
         "uf": "PA",
         "latitude": -6.067812,
         "longitude": -49.903733,
-        "empresa": "Crd Telecom Eireli",
+        "empresa": "Crd Telecom Ltda",
         "cnpj": 41708324000166,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -11275,12 +11452,12 @@
         ]
     },
     {
-        "identifier": "42890726000197-Altamira-PA-I Gomes do Nascimento Eireli-Pessoa Física",
+        "identifier": "42890726000197-Altamira-PA-XT FIBRA LTDA-Pessoa Física",
         "cidade": "Altamira",
         "uf": "PA",
         "latitude": -3.204065,
         "longitude": -52.209961,
-        "empresa": "I Gomes do Nascimento Eireli",
+        "empresa": "XT FIBRA LTDA",
         "cnpj": 42890726000197,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -11306,12 +11483,12 @@
         ]
     },
     {
-        "identifier": "42890726000197-Brasil Novo-PA-I Gomes do Nascimento Eireli-Pessoa Física",
+        "identifier": "42890726000197-Brasil Novo-PA-XT FIBRA LTDA-Pessoa Física",
         "cidade": "Brasil Novo",
         "uf": "PA",
         "latitude": -3.297922,
         "longitude": -52.534021,
-        "empresa": "I Gomes do Nascimento Eireli",
+        "empresa": "XT FIBRA LTDA",
         "cnpj": 42890726000197,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -11325,12 +11502,12 @@
         ]
     },
     {
-        "identifier": "42890726000197-Medicilândia-PA-I Gomes do Nascimento Eireli-Pessoa Física",
+        "identifier": "42890726000197-Medicilândia-PA-XT FIBRA LTDA-Pessoa Física",
         "cidade": "Medicilândia",
         "uf": "PA",
         "latitude": -3.446375,
         "longitude": -52.88748,
-        "empresa": "I Gomes do Nascimento Eireli",
+        "empresa": "XT FIBRA LTDA",
         "cnpj": 42890726000197,
         "data-dados": "2023-04",
         "pf-ou-pj": "Pessoa Física",
@@ -11492,6 +11669,69 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "45188649000116-Faro-PA-J L Comunicacao e Multimidia - Scm Ltda-Pessoa Física",
+        "cidade": "Faro",
+        "uf": "PA",
+        "latitude": -2.168047,
+        "longitude": -56.740498,
+        "empresa": "J L Comunicacao e Multimidia - Scm Ltda",
+        "cnpj": 45188649000116,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "45188649000116-São Caetano de Odivelas-PA-J L Comunicacao e Multimidia - Scm Ltda-Pessoa Física",
+        "cidade": "São Caetano de Odivelas",
+        "uf": "PA",
+        "latitude": -0.747293,
+        "longitude": -48.024622,
+        "empresa": "J L Comunicacao e Multimidia - Scm Ltda",
+        "cnpj": 45188649000116,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "45188649000116-Vigia-PA-J L Comunicacao e Multimidia - Scm Ltda-Pessoa Física",
+        "cidade": "Vigia",
+        "uf": "PA",
+        "latitude": -0.861194,
+        "longitude": -48.138649,
+        "empresa": "J L Comunicacao e Multimidia - Scm Ltda",
+        "cnpj": 45188649000116,
+        "data-dados": "2023-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 113
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
             }
         ]
     },

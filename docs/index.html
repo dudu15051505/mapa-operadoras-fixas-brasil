@@ -19,6 +19,7 @@
 			}
 
 			const urlBaseJSON = 'https://raw.githubusercontent.com/dudu15051505/mapa-operadoras-fixas-brasil/main/dados';
+			//const urlBaseJSON = '/dados';
 			const verOperadora = new URLSearchParams(window.location.search).get("operadora");
 			let verPeriudo = new URLSearchParams(window.location.search).get("periudo");
 			let verTudo = false;
@@ -92,7 +93,7 @@
 			
 			});
 		</script>
-		<link rel="preload" href="./js/locations-data-lista.json" as="fetch" crossorigin="anonymous">
+		<link rel="preload" href="./js/locations-data-lista-min.json" as="fetch" crossorigin="anonymous">
 		<link rel="prefetch" as="script" type="text/javascript" href="./js/leaflet/leaflet.js" />
 		<!--<link rel="preload" as="script" type="text/javascript" href="./js/script-min.js" />-->
 		<link rel="preload" as="image" type="image/png" href="./img/marker-icon-black.png" />
@@ -112,8 +113,8 @@
 		<link rel="stylesheet" href="./js/leaflet/leaflet-min.css" />
 		<link rel="stylesheet" href="./css/css-min.css" />
 		<script type="text/javascript" src="./js/leaflet/leaflet.js" defer></script>
-		<!--<script type="text/javascript" src="./js/script-min.js" defer></script>-->
-		<script type="text/javascript" src="./js/script.js" defer></script>
+		<script type="text/javascript" src="./js/script-min.js" defer></script>
+		<!--<script type="text/javascript" src="./js/script.js" defer></script>-->
 		<link rel="icon" type="image/x-icon" href="./favicon.ico">
 	</head>
 	<body>

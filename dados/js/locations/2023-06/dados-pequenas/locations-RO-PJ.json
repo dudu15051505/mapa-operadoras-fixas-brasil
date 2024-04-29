@@ -1,5 +1,1160 @@
 [
     {
+        "identifier": "336701000104-Alta Floresta D'Oeste-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Alta Floresta D'Oeste",
+        "uf": "RO",
+        "latitude": -11.928669,
+        "longitude": -61.99875,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 20
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Alto Alegre dos Parecis-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Alto Alegre dos Parecis",
+        "uf": "RO",
+        "latitude": -12.131955,
+        "longitude": -61.834979,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Alto Paraíso-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Alto Paraíso",
+        "uf": "RO",
+        "latitude": -9.714294,
+        "longitude": -63.318834,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Alvorada D'Oeste-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Alvorada D'Oeste",
+        "uf": "RO",
+        "latitude": -11.34497,
+        "longitude": -62.302461,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Ariquemes-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Buritis-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Buritis",
+        "uf": "RO",
+        "latitude": -10.194272,
+        "longitude": -63.832438,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Cabixi-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Cabixi",
+        "uf": "RO",
+        "latitude": -13.494479,
+        "longitude": -60.552032,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Cacaulândia-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Cacaulândia",
+        "uf": "RO",
+        "latitude": -10.348981,
+        "longitude": -62.904328,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Cacoal-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 26
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Campo Novo de Rondônia-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Campo Novo de Rondônia",
+        "uf": "RO",
+        "latitude": -10.57125,
+        "longitude": -63.626551,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Candeias do Jamari-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Candeias do Jamari",
+        "uf": "RO",
+        "latitude": -8.790696,
+        "longitude": -63.700502,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 20
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Castanheiras-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Castanheiras",
+        "uf": "RO",
+        "latitude": -11.425304,
+        "longitude": -61.948228,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Cerejeiras-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Cerejeiras",
+        "uf": "RO",
+        "latitude": -13.186987,
+        "longitude": -60.816836,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Chupinguaia-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Chupinguaia",
+        "uf": "RO",
+        "latitude": -12.561115,
+        "longitude": -60.887694,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Colorado do Oeste-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Colorado do Oeste",
+        "uf": "RO",
+        "latitude": -13.117431,
+        "longitude": -60.545428,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Corumbiara-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Corumbiara",
+        "uf": "RO",
+        "latitude": -12.955111,
+        "longitude": -60.894732,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Costa Marques-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Costa Marques",
+        "uf": "RO",
+        "latitude": -12.436715,
+        "longitude": -64.22797,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 15
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Cujubim-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Cujubim",
+        "uf": "RO",
+        "latitude": -9.360655,
+        "longitude": -62.584579,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Espigão D'Oeste-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Espigão D'Oeste",
+        "uf": "RO",
+        "latitude": -11.530864,
+        "longitude": -61.026998,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Governador Jorge Teixeira-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Governador Jorge Teixeira",
+        "uf": "RO",
+        "latitude": -10.610031,
+        "longitude": -62.737071,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Guajará-Mirim-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Guajará-Mirim",
+        "uf": "RO",
+        "latitude": -10.788927,
+        "longitude": -65.329566,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 54
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Itapuã do Oeste-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Itapuã do Oeste",
+        "uf": "RO",
+        "latitude": -9.196871,
+        "longitude": -63.180878,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Jaru-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Jaru",
+        "uf": "RO",
+        "latitude": -10.431826,
+        "longitude": -62.478769,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Ji-Paraná-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Ji-Paraná",
+        "uf": "RO",
+        "latitude": -10.877741,
+        "longitude": -61.932152,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 12
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Machadinho D'Oeste-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Machadinho D'Oeste",
+        "uf": "RO",
+        "latitude": -9.443158,
+        "longitude": -61.996396,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Ministro Andreazza-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Ministro Andreazza",
+        "uf": "RO",
+        "latitude": -11.19596,
+        "longitude": -61.517437,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Mirante da Serra-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Mirante da Serra",
+        "uf": "RO",
+        "latitude": -11.028967,
+        "longitude": -62.669593,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Monte Negro-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Monte Negro",
+        "uf": "RO",
+        "latitude": -10.245823,
+        "longitude": -63.289988,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Nova Brasilândia D'Oeste-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Nova Brasilândia D'Oeste",
+        "uf": "RO",
+        "latitude": -11.722739,
+        "longitude": -62.312913,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Nova Mamoré-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Nova Mamoré",
+        "uf": "RO",
+        "latitude": -10.407697,
+        "longitude": -65.334596,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 25
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Nova União-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Nova União",
+        "uf": "RO",
+        "latitude": -10.90681,
+        "longitude": -62.556368,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Novo Horizonte do Oeste-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Novo Horizonte do Oeste",
+        "uf": "RO",
+        "latitude": -11.696145,
+        "longitude": -61.995137,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Ouro Preto do Oeste-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Ouro Preto do Oeste",
+        "uf": "RO",
+        "latitude": -10.716717,
+        "longitude": -62.256532,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Parecis-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Parecis",
+        "uf": "RO",
+        "latitude": -12.175416,
+        "longitude": -61.603225,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Pimenta Bueno-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Pimenta Bueno",
+        "uf": "RO",
+        "latitude": -11.671959,
+        "longitude": -61.197963,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Pimenteiras do Oeste-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Pimenteiras do Oeste",
+        "uf": "RO",
+        "latitude": -13.482271,
+        "longitude": -61.047052,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Porto Velho-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 146
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Presidente Médici-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Presidente Médici",
+        "uf": "RO",
+        "latitude": -11.168974,
+        "longitude": -61.898617,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Rio Crespo-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Rio Crespo",
+        "uf": "RO",
+        "latitude": -9.699648,
+        "longitude": -62.901127,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Rolim de Moura-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Santa Luzia D'Oeste-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Santa Luzia D'Oeste",
+        "uf": "RO",
+        "latitude": -11.908526,
+        "longitude": -61.361313,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Seringueiras-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Seringueiras",
+        "uf": "RO",
+        "latitude": -11.805454,
+        "longitude": -63.018234,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-São Felipe D'Oeste-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "São Felipe D'Oeste",
+        "uf": "RO",
+        "latitude": -11.604891,
+        "longitude": -60.61847,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-São Francisco do Guaporé-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "São Francisco do Guaporé",
+        "uf": "RO",
+        "latitude": -12.051977,
+        "longitude": -63.567968,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-São Miguel do Guaporé-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "São Miguel do Guaporé",
+        "uf": "RO",
+        "latitude": -11.69527,
+        "longitude": -62.719222,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Teixeirópolis-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Teixeirópolis",
+        "uf": "RO",
+        "latitude": -10.905601,
+        "longitude": -62.241993,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Theobroma-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Theobroma",
+        "uf": "RO",
+        "latitude": -10.24834,
+        "longitude": -62.353796,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Urupá-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Urupá",
+        "uf": "RO",
+        "latitude": -11.126123,
+        "longitude": -62.363895,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Vale do Anari-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Vale do Anari",
+        "uf": "RO",
+        "latitude": -9.862155,
+        "longitude": -62.187649,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Vale do Paraíso-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Vale do Paraíso",
+        "uf": "RO",
+        "latitude": -10.446543,
+        "longitude": -62.135182,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "336701000104-Vilhena-RO-TELEBRAS-Pessoa Jurídica",
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "TELEBRAS",
+        "cnpj": 336701000104,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "DWDM",
+                "tipo-de-Produto": "M2M",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
         "identifier": "357038000116-Guajará-Mirim-RO-CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A-Pessoa Jurídica",
         "cidade": "Guajará-Mirim",
         "uf": "RO",
@@ -7,7 +1162,7 @@
         "longitude": -65.329566,
         "empresa": "CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A",
         "cnpj": 357038000116,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -26,7 +1181,7 @@
         "longitude": -63.899902,
         "empresa": "CENTRAIS ELETRICAS DO NORTE DO BRASIL S/A",
         "cnpj": 357038000116,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -38,14 +1193,14 @@
         ]
     },
     {
-        "identifier": "2072246000102-Nova Mamoré-RO-VIEIRA SALMIM CAMINHA CAO LTDA-Pessoa Jurídica",
+        "identifier": "2072246000102-Nova Mamoré-RO-VIEIRA SALMIM CAMINHA LTDA-Pessoa Jurídica",
         "cidade": "Nova Mamoré",
         "uf": "RO",
         "latitude": -10.407697,
         "longitude": -65.334596,
-        "empresa": "VIEIRA SALMIM CAMINHA CAO LTDA",
+        "empresa": "VIEIRA SALMIM CAMINHA LTDA",
         "cnpj": 2072246000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -70,7 +1225,7 @@
         "longitude": -62.669593,
         "empresa": "O. P. DOS SANTOS & CIA LTDA",
         "cnpj": 2905202000108,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -101,7 +1256,7 @@
         "longitude": -63.899902,
         "empresa": "BT",
         "cnpj": 3076075000144,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -120,7 +1275,7 @@
         "longitude": -60.148847,
         "empresa": "BT",
         "cnpj": 3076075000144,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -139,7 +1294,7 @@
         "longitude": -63.700502,
         "empresa": "AT&T GLOBAL NETWORK SERVICES BRASIL LTDA",
         "cnpj": 3341093000106,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -158,7 +1313,7 @@
         "longitude": -61.99875,
         "empresa": "C. GOMES DE SOUSA INFORMATICA - ME",
         "cnpj": 4136373000145,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -183,7 +1338,7 @@
         "longitude": -60.816836,
         "empresa": "JAN CHARLES RUECKERT ME",
         "cnpj": 5011908000114,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -208,7 +1363,7 @@
         "longitude": -60.894732,
         "empresa": "JAN CHARLES RUECKERT ME",
         "cnpj": 5011908000114,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -233,7 +1388,7 @@
         "longitude": -61.932152,
         "empresa": "JAN CHARLES RUECKERT ME",
         "cnpj": 5011908000114,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -252,7 +1407,7 @@
         "longitude": -61.047052,
         "empresa": "JAN CHARLES RUECKERT ME",
         "cnpj": 5011908000114,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -277,7 +1432,7 @@
         "longitude": -63.700502,
         "empresa": "WIANET SOLUÇÕES E TECNOLOGIA LTDA",
         "cnpj": 5104611000101,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -296,7 +1451,7 @@
         "longitude": -63.899902,
         "empresa": "WIANET SOLUÇÕES E TECNOLOGIA LTDA",
         "cnpj": 5104611000101,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -315,7 +1470,7 @@
         "longitude": -62.302461,
         "empresa": "F JEAN SILVA LTDA",
         "cnpj": 5203855000133,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -352,7 +1507,7 @@
         "longitude": -62.241993,
         "empresa": "F JEAN SILVA LTDA",
         "cnpj": 5203855000133,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -371,7 +1526,7 @@
         "longitude": -62.363895,
         "empresa": "F JEAN SILVA LTDA",
         "cnpj": 5203855000133,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -390,7 +1545,7 @@
         "longitude": -63.626551,
         "empresa": "J BOSCO DA SILVA & CIA LTDA - ME",
         "cnpj": 5588747000126,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -409,7 +1564,7 @@
         "longitude": -63.567968,
         "empresa": "e M Silva Eletronica",
         "cnpj": 5782151000162,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -434,7 +1589,7 @@
         "longitude": -61.834979,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -453,7 +1608,7 @@
         "longitude": -63.032516,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -472,7 +1627,7 @@
         "longitude": -63.832438,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -491,7 +1646,7 @@
         "longitude": -60.552032,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -510,7 +1665,7 @@
         "longitude": -61.456167,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -529,7 +1684,7 @@
         "longitude": -60.816836,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -548,7 +1703,7 @@
         "longitude": -60.894732,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -567,7 +1722,7 @@
         "longitude": -64.22797,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -586,7 +1741,7 @@
         "longitude": -65.329566,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -605,7 +1760,7 @@
         "longitude": -62.478769,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -624,7 +1779,7 @@
         "longitude": -61.932152,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -643,7 +1798,7 @@
         "longitude": -65.334596,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -662,7 +1817,7 @@
         "longitude": -62.256532,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -681,7 +1836,7 @@
         "longitude": -61.603225,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -700,7 +1855,7 @@
         "longitude": -61.197963,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -719,7 +1874,7 @@
         "longitude": -63.899902,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -738,7 +1893,7 @@
         "longitude": -61.898617,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -757,7 +1912,7 @@
         "longitude": -61.771411,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -776,7 +1931,7 @@
         "longitude": -63.567968,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -795,7 +1950,7 @@
         "longitude": -60.148847,
         "empresa": "RURALWEB TELECOMUNICAÇÕES LTDA",
         "cnpj": 5857540000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -814,7 +1969,7 @@
         "longitude": -63.899902,
         "empresa": "UFINET BRASIL S.A",
         "cnpj": 6288154000107,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -833,7 +1988,7 @@
         "longitude": -61.456167,
         "empresa": "SPEED TRAVEL COMUNICACAO MULTIMIDIA LTDA",
         "cnpj": 7304055000134,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -858,7 +2013,7 @@
         "longitude": -61.932152,
         "empresa": "SPEED TRAVEL COMUNICACAO MULTIMIDIA LTDA",
         "cnpj": 7304055000134,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -877,7 +2032,7 @@
         "longitude": -64.22797,
         "empresa": "ADRIANO LENZ COMERCIO DE PRODUTOS DE INFORMATICA ME",
         "cnpj": 7427979000128,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -896,7 +2051,7 @@
         "longitude": -62.669593,
         "empresa": "M. L. J. DANTAS - ME",
         "cnpj": 7558594000108,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -915,7 +2070,7 @@
         "longitude": -62.241993,
         "empresa": "M. L. J. DANTAS - ME",
         "cnpj": 7558594000108,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -940,7 +2095,7 @@
         "longitude": -62.363895,
         "empresa": "M. L. J. DANTAS - ME",
         "cnpj": 7558594000108,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -971,7 +2126,7 @@
         "longitude": -64.22797,
         "empresa": "JENIVALDO CUSTODIO JANUARIO INFORMATICA",
         "cnpj": 7636226000122,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -989,6 +2144,25 @@
         ]
     },
     {
+        "identifier": "7649257000118-Rolim de Moura-RO-GRD TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
+        "cidade": "Rolim de Moura",
+        "uf": "RO",
+        "latitude": -11.727071,
+        "longitude": -61.771411,
+        "empresa": "GRD TELECOMUNICAÇÕES LTDA",
+        "cnpj": 7649257000118,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 23
+            }
+        ]
+    },
+    {
         "identifier": "7672623000150-Alta Floresta D'Oeste-RO-SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA-Pessoa Jurídica",
         "cidade": "Alta Floresta D'Oeste",
         "uf": "RO",
@@ -996,7 +2170,7 @@
         "longitude": -61.99875,
         "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
         "cnpj": 7672623000150,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1015,7 +2189,7 @@
         "longitude": -62.478769,
         "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
         "cnpj": 7672623000150,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1034,7 +2208,7 @@
         "longitude": -61.932152,
         "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
         "cnpj": 7672623000150,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1053,7 +2227,7 @@
         "longitude": -62.556368,
         "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
         "cnpj": 7672623000150,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1072,7 +2246,7 @@
         "longitude": -62.256532,
         "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
         "cnpj": 7672623000150,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1097,7 +2271,7 @@
         "longitude": -63.899902,
         "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
         "cnpj": 7672623000150,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1116,7 +2290,7 @@
         "longitude": -62.135182,
         "empresa": "SILVEIRA & GONCALVES COMERCIO DE MATERIAIS DE INFORMATICA LTDA",
         "cnpj": 7672623000150,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1135,7 +2309,7 @@
         "longitude": -63.032516,
         "empresa": "LINX TELECOMUNICAÇÕES LTDA",
         "cnpj": 7695739000104,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1154,7 +2328,7 @@
         "longitude": -61.456167,
         "empresa": "LINX TELECOMUNICAÇÕES LTDA",
         "cnpj": 7695739000104,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1173,7 +2347,7 @@
         "longitude": -62.478769,
         "empresa": "LINX TELECOMUNICAÇÕES LTDA",
         "cnpj": 7695739000104,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1192,7 +2366,7 @@
         "longitude": -61.932152,
         "empresa": "LINX TELECOMUNICAÇÕES LTDA",
         "cnpj": 7695739000104,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1217,7 +2391,7 @@
         "longitude": -63.899902,
         "empresa": "LINX TELECOMUNICAÇÕES LTDA",
         "cnpj": 7695739000104,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1242,7 +2416,7 @@
         "longitude": -61.771411,
         "empresa": "LINX TELECOMUNICAÇÕES LTDA",
         "cnpj": 7695739000104,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1267,7 +2441,7 @@
         "longitude": -60.148847,
         "empresa": "LINX TELECOMUNICAÇÕES LTDA",
         "cnpj": 7695739000104,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1286,7 +2460,7 @@
         "longitude": -61.456167,
         "empresa": "BRASIL TECPAR",
         "cnpj": 7756651000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1317,7 +2491,7 @@
         "longitude": -61.771411,
         "empresa": "BRASIL TECPAR",
         "cnpj": 7756651000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1336,13 +2510,32 @@
         "longitude": -60.148847,
         "empresa": "BRASIL TECPAR",
         "cnpj": 7756651000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7819690000154-Porto Velho-RO-INTER.NET SERVICOS EM TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "INTER.NET SERVICOS EM TELECOM LTDA",
+        "cnpj": 7819690000154,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 1
             }
         ]
@@ -1355,7 +2548,7 @@
         "longitude": -61.932152,
         "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 7939517000190,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1374,7 +2567,7 @@
         "longitude": -62.312913,
         "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 7939517000190,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1405,7 +2598,7 @@
         "longitude": -61.995137,
         "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 7939517000190,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1436,7 +2629,7 @@
         "longitude": -62.256532,
         "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 7939517000190,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1455,7 +2648,7 @@
         "longitude": -61.197963,
         "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 7939517000190,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1474,7 +2667,7 @@
         "longitude": -63.899902,
         "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 7939517000190,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1493,7 +2686,7 @@
         "longitude": -61.771411,
         "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 7939517000190,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1512,7 +2705,7 @@
         "longitude": -63.018234,
         "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 7939517000190,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1531,7 +2724,7 @@
         "longitude": -62.719222,
         "empresa": "NET MAIS SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 7939517000190,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1550,7 +2743,7 @@
         "longitude": -61.517437,
         "empresa": "L DA SILVA DOS SANTOS INFORMATICA",
         "cnpj": 7970058000107,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1569,7 +2762,7 @@
         "longitude": -62.312913,
         "empresa": "INFO NET COMERCIO DE INFORMATICA LTDA - ME",
         "cnpj": 8039298000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1594,7 +2787,7 @@
         "longitude": -60.148847,
         "empresa": "MENDEX NETWORKS TELECOMUNICACOES LTDA - EPP",
         "cnpj": 8219232000147,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1613,7 +2806,7 @@
         "longitude": -61.99875,
         "empresa": "SISTEM COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA ME",
         "cnpj": 8542734000104,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1638,7 +2831,7 @@
         "longitude": -65.329566,
         "empresa": "Ozonio Telecomunicacoes Ltda",
         "cnpj": 8678016000160,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1663,7 +2856,7 @@
         "longitude": -61.932152,
         "empresa": "Ozonio Telecomunicacoes Ltda",
         "cnpj": 8678016000160,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1682,7 +2875,7 @@
         "longitude": -63.899902,
         "empresa": "Ozonio Telecomunicacoes Ltda",
         "cnpj": 8678016000160,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1701,7 +2894,7 @@
         "longitude": -60.148847,
         "empresa": "Ozonio Telecomunicacoes Ltda",
         "cnpj": 8678016000160,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1726,7 +2919,7 @@
         "longitude": -65.334596,
         "empresa": "GLOBOFIBER TELECOM LTDA",
         "cnpj": 8741236000190,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1745,7 +2938,7 @@
         "longitude": -63.899902,
         "empresa": "GLOBOFIBER TELECOM LTDA",
         "cnpj": 8741236000190,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1770,7 +2963,7 @@
         "longitude": -63.018234,
         "empresa": "VIDEOSAT SERVICOS DE INFORMATICA LTDA.",
         "cnpj": 8769659000119,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1795,7 +2988,7 @@
         "longitude": -63.567968,
         "empresa": "VIDEOSAT SERVICOS DE INFORMATICA LTDA.",
         "cnpj": 8769659000119,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1820,7 +3013,7 @@
         "longitude": -62.719222,
         "empresa": "VIDEOSAT SERVICOS DE INFORMATICA LTDA.",
         "cnpj": 8769659000119,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1839,7 +3032,7 @@
         "longitude": -61.456167,
         "empresa": "COLADINI & COLADINI LTDA",
         "cnpj": 9050368000139,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1858,7 +3051,7 @@
         "longitude": -61.517437,
         "empresa": "COLADINI & COLADINI LTDA",
         "cnpj": 9050368000139,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1883,7 +3076,7 @@
         "longitude": -61.898617,
         "empresa": "COLADINI & COLADINI LTDA",
         "cnpj": 9050368000139,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1902,7 +3095,7 @@
         "longitude": -62.256532,
         "empresa": "OMEGA_NET LTDA - ME",
         "cnpj": 9251220000162,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1945,7 +3138,7 @@
         "longitude": -62.135182,
         "empresa": "OMEGA_NET LTDA - ME",
         "cnpj": 9251220000162,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -1976,7 +3169,7 @@
         "longitude": -63.032516,
         "empresa": "RONDON - TELECOM LTDA-ME",
         "cnpj": 9256492000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2007,7 +3200,7 @@
         "longitude": -62.584579,
         "empresa": "RONDON - TELECOM LTDA-ME",
         "cnpj": 9256492000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2032,7 +3225,7 @@
         "longitude": -62.584579,
         "empresa": "D.A. SERVICOS DE TELECOMUNICACOES EIRELI",
         "cnpj": 9271376000105,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2057,7 +3250,7 @@
         "longitude": -61.996396,
         "empresa": "D.A. SERVICOS DE TELECOMUNICACOES EIRELI",
         "cnpj": 9271376000105,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2082,7 +3275,7 @@
         "longitude": -62.353796,
         "empresa": "D.A. SERVICOS DE TELECOMUNICACOES EIRELI",
         "cnpj": 9271376000105,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2101,7 +3294,7 @@
         "longitude": -62.187649,
         "empresa": "D.A. SERVICOS DE TELECOMUNICACOES EIRELI",
         "cnpj": 9271376000105,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2120,7 +3313,7 @@
         "longitude": -62.302461,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2139,7 +3332,7 @@
         "longitude": -63.832438,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2158,7 +3351,7 @@
         "longitude": -61.948228,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2177,7 +3370,7 @@
         "longitude": -64.22797,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2196,7 +3389,7 @@
         "longitude": -65.329566,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2215,7 +3408,7 @@
         "longitude": -62.669593,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2234,7 +3427,7 @@
         "longitude": -63.289988,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2253,7 +3446,7 @@
         "longitude": -62.312913,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2272,7 +3465,7 @@
         "longitude": -61.995137,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2291,7 +3484,7 @@
         "longitude": -61.603225,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2310,7 +3503,7 @@
         "longitude": -61.898617,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2329,7 +3522,7 @@
         "longitude": -61.771411,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2354,7 +3547,7 @@
         "longitude": -61.361313,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2373,7 +3566,7 @@
         "longitude": -63.018234,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2392,7 +3585,7 @@
         "longitude": -60.61847,
         "empresa": "ROLIM NET TECNOLOGIA LTDA - ME",
         "cnpj": 9337446000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2411,7 +3604,7 @@
         "longitude": -63.832438,
         "empresa": "R & B COMÉRCIO DE INFORMÁTICA LTDA",
         "cnpj": 9391548000184,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2430,7 +3623,7 @@
         "longitude": -61.456167,
         "empresa": "CLICK PRODUTOS E SERVICOS LTDA - ME",
         "cnpj": 9443451000178,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2455,7 +3648,7 @@
         "longitude": -60.148847,
         "empresa": "VIP SERVICOS DE TELECOMUNICACOES LTDA - ME",
         "cnpj": 9457528000169,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2474,7 +3667,7 @@
         "longitude": -65.329566,
         "empresa": "LINK NET TELECOMUNICACOES LTDA",
         "cnpj": 10246104000134,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2505,7 +3698,7 @@
         "longitude": -65.334596,
         "empresa": "LINK NET TELECOMUNICACOES LTDA",
         "cnpj": 10246104000134,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2536,7 +3729,7 @@
         "longitude": -63.899902,
         "empresa": "LINK NET TELECOMUNICACOES LTDA",
         "cnpj": 10246104000134,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2585,7 +3778,7 @@
         "longitude": -60.148847,
         "empresa": "YUNE NET INFORMATICA LTDA",
         "cnpj": 10321821000183,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2610,7 +3803,7 @@
         "longitude": -61.99875,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2629,7 +3822,7 @@
         "longitude": -62.584579,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2648,7 +3841,7 @@
         "longitude": -61.026998,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2667,7 +3860,7 @@
         "longitude": -65.329566,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2686,7 +3879,7 @@
         "longitude": -61.932152,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2705,7 +3898,7 @@
         "longitude": -65.334596,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2724,7 +3917,7 @@
         "longitude": -61.603225,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2743,7 +3936,7 @@
         "longitude": -61.197963,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2762,7 +3955,7 @@
         "longitude": -63.899902,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2781,7 +3974,7 @@
         "longitude": -63.567968,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2800,7 +3993,7 @@
         "longitude": -61.456167,
         "empresa": "NET WAY INFORMATICA LTDA",
         "cnpj": 10563381000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2825,7 +4018,7 @@
         "longitude": -63.700502,
         "empresa": "NET WAY INFORMATICA LTDA",
         "cnpj": 10563381000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2844,7 +4037,7 @@
         "longitude": -60.816836,
         "empresa": "NET WAY INFORMATICA LTDA",
         "cnpj": 10563381000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2863,7 +4056,7 @@
         "longitude": -60.887694,
         "empresa": "NET WAY INFORMATICA LTDA",
         "cnpj": 10563381000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2888,7 +4081,7 @@
         "longitude": -61.026998,
         "empresa": "NET WAY INFORMATICA LTDA",
         "cnpj": 10563381000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2913,7 +4106,7 @@
         "longitude": -61.932152,
         "empresa": "NET WAY INFORMATICA LTDA",
         "cnpj": 10563381000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2932,7 +4125,7 @@
         "longitude": -61.517437,
         "empresa": "NET WAY INFORMATICA LTDA",
         "cnpj": 10563381000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2951,7 +4144,7 @@
         "longitude": -61.603225,
         "empresa": "NET WAY INFORMATICA LTDA",
         "cnpj": 10563381000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -2976,7 +4169,7 @@
         "longitude": -61.197963,
         "empresa": "NET WAY INFORMATICA LTDA",
         "cnpj": 10563381000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3001,7 +4194,7 @@
         "longitude": -63.899902,
         "empresa": "NET WAY INFORMATICA LTDA",
         "cnpj": 10563381000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3026,7 +4219,7 @@
         "longitude": -61.315336,
         "empresa": "NET WAY INFORMATICA LTDA",
         "cnpj": 10563381000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3051,7 +4244,7 @@
         "longitude": -61.771411,
         "empresa": "NET WAY INFORMATICA LTDA",
         "cnpj": 10563381000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3070,7 +4263,7 @@
         "longitude": -60.148847,
         "empresa": "NET WAY INFORMATICA LTDA",
         "cnpj": 10563381000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3089,7 +4282,7 @@
         "longitude": -60.148847,
         "empresa": "INTERNETI PROVEDOR E INFORMATICA LTDA ME",
         "cnpj": 10791708000161,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3114,7 +4307,7 @@
         "longitude": -61.99875,
         "empresa": "RIDERSON MENDES BORGES",
         "cnpj": 10802481000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3139,7 +4332,7 @@
         "longitude": -61.771411,
         "empresa": "RIDERSON MENDES BORGES",
         "cnpj": 10802481000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3158,7 +4351,7 @@
         "longitude": -62.719222,
         "empresa": "RIDERSON MENDES BORGES",
         "cnpj": 10802481000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3177,7 +4370,7 @@
         "longitude": -61.834979,
         "empresa": "WM DE OLIVEIRA TELECOMUNICAÇÕES EIRELI",
         "cnpj": 10803506000192,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3208,7 +4401,7 @@
         "longitude": -61.456167,
         "empresa": "WM DE OLIVEIRA TELECOMUNICAÇÕES EIRELI",
         "cnpj": 10803506000192,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3227,7 +4420,7 @@
         "longitude": -61.315336,
         "empresa": "WM DE OLIVEIRA TELECOMUNICAÇÕES EIRELI",
         "cnpj": 10803506000192,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3246,7 +4439,7 @@
         "longitude": -61.771411,
         "empresa": "WM DE OLIVEIRA TELECOMUNICAÇÕES EIRELI",
         "cnpj": 10803506000192,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3265,7 +4458,7 @@
         "longitude": -60.61847,
         "empresa": "WM DE OLIVEIRA TELECOMUNICAÇÕES EIRELI",
         "cnpj": 10803506000192,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3289,6 +4482,81 @@
         ]
     },
     {
+        "identifier": "11072400000129-Colorado do Oeste-RO-CPW TELECOM LTDA-Pessoa Jurídica",
+        "cidade": "Colorado do Oeste",
+        "uf": "RO",
+        "latitude": -13.117431,
+        "longitude": -60.545428,
+        "empresa": "CPW TELECOM LTDA",
+        "cnpj": 11072400000129,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 12
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 355
+            }
+        ]
+    },
+    {
+        "identifier": "11072400000200-Corumbiara-RO-Vanderleia Rosa Deambrosio Eireli-Pessoa Jurídica",
+        "cidade": "Corumbiara",
+        "uf": "RO",
+        "latitude": -12.955111,
+        "longitude": -60.894732,
+        "empresa": "Vanderleia Rosa Deambrosio Eireli",
+        "cnpj": 11072400000200,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "11072400000390-Cabixi-RO-Vanderleia Rosa Deambrosio Eireli-Pessoa Jurídica",
+        "cidade": "Cabixi",
+        "uf": "RO",
+        "latitude": -13.494479,
+        "longitude": -60.552032,
+        "empresa": "Vanderleia Rosa Deambrosio Eireli",
+        "cnpj": 11072400000390,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
         "identifier": "11155708000138-Alto Alegre dos Parecis-RO-C.R. MARCILIO PAZ - ME-Pessoa Jurídica",
         "cidade": "Alto Alegre dos Parecis",
         "uf": "RO",
@@ -3296,7 +4564,7 @@
         "longitude": -61.834979,
         "empresa": "C.R. MARCILIO PAZ - ME",
         "cnpj": 11155708000138,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3315,7 +4583,7 @@
         "longitude": -61.197963,
         "empresa": "MEGA TELEINFORMATICA EIRELI",
         "cnpj": 11408142000109,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3334,7 +4602,7 @@
         "longitude": -61.898617,
         "empresa": "UZZY TELECOM COMÉRCIO DE EQUIPAMENTO DE INFORMÁTICA E SERVIÇOS DE COMUNICAÇÕES EIRELI",
         "cnpj": 11767980000179,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3365,7 +4633,7 @@
         "longitude": -61.026998,
         "empresa": "JULIO CESAR BATISTA DE OLIVEIRA ME",
         "cnpj": 12134704000136,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3390,7 +4658,7 @@
         "longitude": -65.329566,
         "empresa": "WILLAMES FERREIRA SANTOS - ME",
         "cnpj": 12878243000106,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3408,14 +4676,14 @@
         ]
     },
     {
-        "identifier": "12973083000184-Porto Velho-RO-OLLA COMUNICAÇÃO LTDA-Pessoa Jurídica",
+        "identifier": "12973083000184-Porto Velho-RO-OLLA SERVIÇOS & INTERNET LTDA-Pessoa Jurídica",
         "cidade": "Porto Velho",
         "uf": "RO",
         "latitude": -8.760772,
         "longitude": -63.899902,
-        "empresa": "OLLA COMUNICAÇÃO LTDA",
+        "empresa": "OLLA SERVIÇOS & INTERNET LTDA",
         "cnpj": 12973083000184,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3452,7 +4720,7 @@
         "longitude": -63.318834,
         "empresa": "SFAR COMUNICACOES LTDA",
         "cnpj": 13030105000135,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3471,7 +4739,7 @@
         "longitude": -60.816836,
         "empresa": "TECNONET SERVICOS PROVEDOR DE INTERNET LTDA",
         "cnpj": 13484151000104,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3489,14 +4757,14 @@
         ]
     },
     {
-        "identifier": "13937361000100-Nova União-RO-J. L. PEREIRA-Pessoa Jurídica",
+        "identifier": "13937361000100-Nova União-RO-WEB NORTE TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Nova União",
         "uf": "RO",
         "latitude": -10.90681,
         "longitude": -62.556368,
-        "empresa": "J. L. PEREIRA",
+        "empresa": "WEB NORTE TELECOM LTDA",
         "cnpj": 13937361000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3514,14 +4782,14 @@
         ]
     },
     {
-        "identifier": "13937361000100-Ouro Preto do Oeste-RO-J. L. PEREIRA-Pessoa Jurídica",
+        "identifier": "13937361000100-Ouro Preto do Oeste-RO-WEB NORTE TELECOM LTDA-Pessoa Jurídica",
         "cidade": "Ouro Preto do Oeste",
         "uf": "RO",
         "latitude": -10.716717,
         "longitude": -62.256532,
-        "empresa": "J. L. PEREIRA",
+        "empresa": "WEB NORTE TELECOM LTDA",
         "cnpj": 13937361000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3540,7 +4808,7 @@
         "longitude": -61.932152,
         "empresa": "PELIKAN NET LTDA - ME",
         "cnpj": 13969568000167,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3565,7 +4833,7 @@
         "longitude": -60.545428,
         "empresa": "SCARMOCIN INFORMATICA E COMUNICAÇÃO LTDA",
         "cnpj": 14054640000199,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3584,7 +4852,7 @@
         "longitude": -60.148847,
         "empresa": "SCARMOCIN INFORMATICA E COMUNICAÇÃO LTDA",
         "cnpj": 14054640000199,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3603,7 +4871,7 @@
         "longitude": -63.700502,
         "empresa": "Brasil Digital Servicos de Informatica e Comercio Eireli",
         "cnpj": 14629705000187,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3622,7 +4890,7 @@
         "longitude": -62.584579,
         "empresa": "Brasil Digital Servicos de Informatica e Comercio Eireli",
         "cnpj": 14629705000187,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3641,7 +4909,7 @@
         "longitude": -65.329566,
         "empresa": "Brasil Digital Servicos de Informatica e Comercio Eireli",
         "cnpj": 14629705000187,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3660,7 +4928,7 @@
         "longitude": -63.180878,
         "empresa": "Brasil Digital Servicos de Informatica e Comercio Eireli",
         "cnpj": 14629705000187,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3685,7 +4953,7 @@
         "longitude": -65.334596,
         "empresa": "Brasil Digital Servicos de Informatica e Comercio Eireli",
         "cnpj": 14629705000187,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3704,7 +4972,7 @@
         "longitude": -63.899902,
         "empresa": "Brasil Digital Servicos de Informatica e Comercio Eireli",
         "cnpj": 14629705000187,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3741,7 +5009,7 @@
         "longitude": -63.032516,
         "empresa": "ACESSOLINE TELECOMUNICACOES LTDA",
         "cnpj": 14798740000120,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3760,7 +5028,7 @@
         "longitude": -63.700502,
         "empresa": "ACESSOLINE TELECOMUNICACOES LTDA",
         "cnpj": 14798740000120,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3779,7 +5047,7 @@
         "longitude": -61.932152,
         "empresa": "ACESSOLINE TELECOMUNICACOES LTDA",
         "cnpj": 14798740000120,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3798,7 +5066,7 @@
         "longitude": -61.197963,
         "empresa": "ACESSOLINE TELECOMUNICACOES LTDA",
         "cnpj": 14798740000120,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3817,7 +5085,7 @@
         "longitude": -61.026998,
         "empresa": "E. B. DE MELO INFORMÁTICA E CONSULTORIA - ME",
         "cnpj": 17179982000123,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3842,7 +5110,7 @@
         "longitude": -63.032516,
         "empresa": "JUNTO TELECOM SERVIÇOS DE TELECOMUNICAÇÕES LTDA",
         "cnpj": 17192192000188,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3861,7 +5129,7 @@
         "longitude": -61.932152,
         "empresa": "JUNTO TELECOM SERVIÇOS DE TELECOMUNICAÇÕES LTDA",
         "cnpj": 17192192000188,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3880,7 +5148,7 @@
         "longitude": -60.148847,
         "empresa": "JUNTO TELECOM SERVIÇOS DE TELECOMUNICAÇÕES LTDA",
         "cnpj": 17192192000188,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3899,7 +5167,7 @@
         "longitude": -62.302461,
         "empresa": "M. H. BELTRAMI EIRELI",
         "cnpj": 17290762000172,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3918,7 +5186,7 @@
         "longitude": -63.318834,
         "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
         "cnpj": 18456569000121,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3937,7 +5205,7 @@
         "longitude": -63.032516,
         "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
         "cnpj": 18456569000121,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3968,7 +5236,7 @@
         "longitude": -63.832438,
         "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
         "cnpj": 18456569000121,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -3993,7 +5261,7 @@
         "longitude": -63.700502,
         "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
         "cnpj": 18456569000121,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4012,7 +5280,7 @@
         "longitude": -61.932152,
         "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
         "cnpj": 18456569000121,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4031,7 +5299,7 @@
         "longitude": -63.289988,
         "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
         "cnpj": 18456569000121,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4050,7 +5318,7 @@
         "longitude": -63.899902,
         "empresa": "WORLDNET TELECOMUNICACOES LTDA - ME",
         "cnpj": 18456569000121,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4075,7 +5343,7 @@
         "longitude": -60.148847,
         "empresa": "LIMA & LIMA SERVICOS DE INFORMATICA LTDA",
         "cnpj": 18578613000176,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4100,7 +5368,7 @@
         "longitude": -62.256532,
         "empresa": "Infinity Servicos de Telecomunicacao Ltda",
         "cnpj": 18702422000174,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4112,6 +5380,25 @@
         ]
     },
     {
+        "identifier": "18816273000174-Alta Floresta D'Oeste-RO-Netiz Internet Ltda-Pessoa Jurídica",
+        "cidade": "Alta Floresta D'Oeste",
+        "uf": "RO",
+        "latitude": -11.928669,
+        "longitude": -61.99875,
+        "empresa": "Netiz Internet Ltda",
+        "cnpj": 18816273000174,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "19045139000180-Vilhena-RO-RJ CONNECT SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Jurídica",
         "cidade": "Vilhena",
         "uf": "RO",
@@ -4119,7 +5406,7 @@
         "longitude": -60.148847,
         "empresa": "RJ CONNECT SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 19045139000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4144,7 +5431,7 @@
         "longitude": -62.901127,
         "empresa": "B&g Comercio de Eletronicos Ltda",
         "cnpj": 19882023000103,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4169,7 +5456,7 @@
         "longitude": -63.032516,
         "empresa": "Rondo Comercio e Servicos Ltda",
         "cnpj": 20020786000116,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4194,7 +5481,7 @@
         "longitude": -62.584579,
         "empresa": "Rondo Comercio e Servicos Ltda",
         "cnpj": 20020786000116,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4213,7 +5500,7 @@
         "longitude": -63.899902,
         "empresa": "RODRIGUES SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 20302836000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4232,7 +5519,7 @@
         "longitude": -61.932152,
         "empresa": "C2M SERVICOS DE INFORMATICA E TELECOMUNICACOES LTDA",
         "cnpj": 23350169000177,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4251,7 +5538,7 @@
         "longitude": -63.700502,
         "empresa": "Flash Net Servicos de Comunicacoes Eireli",
         "cnpj": 24332385000152,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4270,7 +5557,7 @@
         "longitude": -62.737071,
         "empresa": "Flash Net Servicos de Comunicacoes Eireli",
         "cnpj": 24332385000152,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4289,7 +5576,7 @@
         "longitude": -62.478769,
         "empresa": "Flash Net Servicos de Comunicacoes Eireli",
         "cnpj": 24332385000152,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4314,7 +5601,7 @@
         "longitude": -61.456167,
         "empresa": "KORE BRASIL LTDA",
         "cnpj": 24492478000144,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4333,7 +5620,7 @@
         "longitude": -61.932152,
         "empresa": "KORE BRASIL LTDA",
         "cnpj": 24492478000144,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4352,7 +5639,7 @@
         "longitude": -63.899902,
         "empresa": "KORE BRASIL LTDA",
         "cnpj": 24492478000144,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4371,7 +5658,7 @@
         "longitude": -61.771411,
         "empresa": "KORE BRASIL LTDA",
         "cnpj": 24492478000144,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4390,7 +5677,7 @@
         "longitude": -60.148847,
         "empresa": "KORE BRASIL LTDA",
         "cnpj": 24492478000144,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4402,14 +5689,14 @@
         ]
     },
     {
-        "identifier": "24996988000159-Ji-Paraná-RO-TELXE DO BRASIL TELECOMUNICACOES LTDA-Pessoa Jurídica",
+        "identifier": "24996988000159-Ji-Paraná-RO-RH ATIVA SERVIÇOS ESPECIALIZADOS LTDA.-Pessoa Jurídica",
         "cidade": "Ji-Paraná",
         "uf": "RO",
         "latitude": -10.877741,
         "longitude": -61.932152,
-        "empresa": "TELXE DO BRASIL TELECOMUNICACOES LTDA",
+        "empresa": "RH ATIVA SERVIÇOS ESPECIALIZADOS LTDA.",
         "cnpj": 24996988000159,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4428,7 +5715,7 @@
         "longitude": -63.832438,
         "empresa": "F.A.A PROVEDOR LTDA",
         "cnpj": 26133539000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4447,7 +5734,7 @@
         "longitude": -62.904328,
         "empresa": "BULLETI NET SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 26569744000115,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4472,7 +5759,7 @@
         "longitude": -61.99875,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4491,7 +5778,7 @@
         "longitude": -63.318834,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4510,7 +5797,7 @@
         "longitude": -62.302461,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4529,7 +5816,7 @@
         "longitude": -63.032516,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4548,7 +5835,7 @@
         "longitude": -63.832438,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4567,7 +5854,7 @@
         "longitude": -62.904328,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4586,7 +5873,7 @@
         "longitude": -61.456167,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4605,7 +5892,7 @@
         "longitude": -63.700502,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4624,7 +5911,7 @@
         "longitude": -64.22797,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4643,7 +5930,7 @@
         "longitude": -61.026998,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4662,7 +5949,7 @@
         "longitude": -65.329566,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4681,7 +5968,7 @@
         "longitude": -62.478769,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4700,7 +5987,7 @@
         "longitude": -61.932152,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4719,7 +6006,7 @@
         "longitude": -61.996396,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4738,7 +6025,7 @@
         "longitude": -61.517437,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4757,7 +6044,7 @@
         "longitude": -62.669593,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4776,7 +6063,7 @@
         "longitude": -62.312913,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4795,7 +6082,7 @@
         "longitude": -62.556368,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4814,7 +6101,7 @@
         "longitude": -62.256532,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4833,7 +6120,7 @@
         "longitude": -61.197963,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4852,7 +6139,7 @@
         "longitude": -63.899902,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4871,7 +6158,7 @@
         "longitude": -61.898617,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4890,7 +6177,7 @@
         "longitude": -61.771411,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4909,7 +6196,7 @@
         "longitude": -63.018234,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4928,7 +6215,7 @@
         "longitude": -60.61847,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4947,7 +6234,7 @@
         "longitude": -63.567968,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4966,7 +6253,7 @@
         "longitude": -62.719222,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -4985,7 +6272,7 @@
         "longitude": -62.241993,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5004,7 +6291,7 @@
         "longitude": -60.148847,
         "empresa": "Nbs Servicos de Comunicacoes Ltda",
         "cnpj": 26824572000189,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5023,7 +6310,7 @@
         "longitude": -64.22797,
         "empresa": "DERIO DANTAS DE ALENCAR EIRELI",
         "cnpj": 26983250000182,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5042,7 +6329,7 @@
         "longitude": -63.318834,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5061,7 +6348,7 @@
         "longitude": -63.032516,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5080,7 +6367,7 @@
         "longitude": -63.318834,
         "empresa": "ZVC TURBO NET COMERCIO LTDA - ME",
         "cnpj": 27861697000141,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5099,7 +6386,7 @@
         "longitude": -63.032516,
         "empresa": "ZVC TURBO NET COMERCIO LTDA - ME",
         "cnpj": 27861697000141,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5118,7 +6405,7 @@
         "longitude": -63.700502,
         "empresa": "ZVC TURBO NET COMERCIO LTDA - ME",
         "cnpj": 27861697000141,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5143,7 +6430,7 @@
         "longitude": -63.180878,
         "empresa": "ZVC TURBO NET COMERCIO LTDA - ME",
         "cnpj": 27861697000141,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5168,7 +6455,7 @@
         "longitude": -62.901127,
         "empresa": "ZVC TURBO NET COMERCIO LTDA - ME",
         "cnpj": 27861697000141,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5193,7 +6480,7 @@
         "longitude": -61.026998,
         "empresa": "ABSOLUTA NET TECNOLOGIA LTDA",
         "cnpj": 28619117000177,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5218,7 +6505,7 @@
         "longitude": -63.899902,
         "empresa": "CONECTJA LTDA",
         "cnpj": 29200024000176,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5243,7 +6530,7 @@
         "longitude": -63.899902,
         "empresa": "COGENT BRASIL TELECOMUNICACOES LTDA.",
         "cnpj": 29484413000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5255,14 +6542,14 @@
         ]
     },
     {
-        "identifier": "29765130000105-Candeias do Jamari-RO-WITECHINFO EIRELI-Pessoa Jurídica",
+        "identifier": "29765130000105-Candeias do Jamari-RO-Witechinfo Eireli-Pessoa Jurídica",
         "cidade": "Candeias do Jamari",
         "uf": "RO",
         "latitude": -8.790696,
         "longitude": -63.700502,
-        "empresa": "WITECHINFO EIRELI",
+        "empresa": "Witechinfo Eireli",
         "cnpj": 29765130000105,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5281,7 +6568,7 @@
         "longitude": -63.700502,
         "empresa": "CANDEIAS NET TELECOM COMUNICACOES LTDA",
         "cnpj": 29815661000157,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5306,7 +6593,7 @@
         "longitude": -62.737071,
         "empresa": "CANDEIAS NET TELECOM COMUNICACOES LTDA",
         "cnpj": 29815661000157,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5325,7 +6612,7 @@
         "longitude": -63.899902,
         "empresa": "CANDEIAS NET TELECOM COMUNICACOES LTDA",
         "cnpj": 29815661000157,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5344,7 +6631,7 @@
         "longitude": -63.032516,
         "empresa": "R M SANCHES",
         "cnpj": 30070310000143,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5375,7 +6662,7 @@
         "longitude": -63.832438,
         "empresa": "R M SANCHES",
         "cnpj": 30070310000143,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5394,7 +6681,7 @@
         "longitude": -63.289988,
         "empresa": "R M SANCHES",
         "cnpj": 30070310000143,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5413,7 +6700,7 @@
         "longitude": -62.256532,
         "empresa": "Web Norte Servicos de Internet Ltda",
         "cnpj": 30234839000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5432,7 +6719,7 @@
         "longitude": -62.135182,
         "empresa": "Web Norte Servicos de Internet Ltda",
         "cnpj": 30234839000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5444,14 +6731,14 @@
         ]
     },
     {
-        "identifier": "30606499000146-Nova Mamoré-RO-Rocha, Vieira e Caminha Ltda-Pessoa Jurídica",
+        "identifier": "30606499000146-Nova Mamoré-RO-ROCHA E CAMINHA LTDA.-Pessoa Jurídica",
         "cidade": "Nova Mamoré",
         "uf": "RO",
         "latitude": -10.407697,
         "longitude": -65.334596,
-        "empresa": "Rocha, Vieira e Caminha Ltda",
+        "empresa": "ROCHA E CAMINHA LTDA.",
         "cnpj": 30606499000146,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5463,14 +6750,14 @@
         ]
     },
     {
-        "identifier": "30606499000146-Porto Velho-RO-Rocha, Vieira e Caminha Ltda-Pessoa Jurídica",
+        "identifier": "30606499000146-Porto Velho-RO-ROCHA E CAMINHA LTDA.-Pessoa Jurídica",
         "cidade": "Porto Velho",
         "uf": "RO",
         "latitude": -8.760772,
         "longitude": -63.899902,
-        "empresa": "Rocha, Vieira e Caminha Ltda",
+        "empresa": "ROCHA E CAMINHA LTDA.",
         "cnpj": 30606499000146,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5495,7 +6782,7 @@
         "longitude": -65.329566,
         "empresa": "W. Deodato de Souza Ltda.",
         "cnpj": 30607988000112,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5507,6 +6794,31 @@
         ]
     },
     {
+        "identifier": "30777859000172-Cacoal-RO-M. L. COMERCIO E SERVICO DE PROVEDOR DE INTERNET LTDA-Pessoa Jurídica",
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "M. L. COMERCIO E SERVICO DE PROVEDOR DE INTERNET LTDA",
+        "cnpj": 30777859000172,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
         "identifier": "32053073000138-Cacoal-RO-C H C Silva Telecomunicacoes-Pessoa Jurídica",
         "cidade": "Cacoal",
         "uf": "RO",
@@ -5514,7 +6826,7 @@
         "longitude": -61.456167,
         "empresa": "C H C Silva Telecomunicacoes",
         "cnpj": 32053073000138,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5533,7 +6845,7 @@
         "longitude": -64.22797,
         "empresa": "C H C Silva Telecomunicacoes",
         "cnpj": 32053073000138,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5552,7 +6864,7 @@
         "longitude": -61.99875,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5571,7 +6883,7 @@
         "longitude": -61.834979,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5590,7 +6902,7 @@
         "longitude": -63.318834,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5609,7 +6921,7 @@
         "longitude": -62.302461,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5628,7 +6940,7 @@
         "longitude": -63.032516,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5647,7 +6959,7 @@
         "longitude": -63.832438,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5672,7 +6984,7 @@
         "longitude": -60.552032,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5691,7 +7003,7 @@
         "longitude": -62.904328,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5710,7 +7022,7 @@
         "longitude": -61.456167,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5729,7 +7041,7 @@
         "longitude": -63.626551,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5748,7 +7060,7 @@
         "longitude": -63.700502,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5767,7 +7079,7 @@
         "longitude": -61.948228,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5786,7 +7098,7 @@
         "longitude": -60.816836,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5805,7 +7117,7 @@
         "longitude": -60.887694,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5824,7 +7136,7 @@
         "longitude": -60.545428,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5843,7 +7155,7 @@
         "longitude": -60.894732,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5862,7 +7174,7 @@
         "longitude": -64.22797,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5881,7 +7193,7 @@
         "longitude": -62.584579,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5900,7 +7212,7 @@
         "longitude": -61.026998,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5919,7 +7231,7 @@
         "longitude": -62.737071,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5938,7 +7250,7 @@
         "longitude": -65.329566,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5963,7 +7275,7 @@
         "longitude": -63.180878,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -5982,7 +7294,7 @@
         "longitude": -62.478769,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6001,7 +7313,7 @@
         "longitude": -61.932152,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6020,7 +7332,7 @@
         "longitude": -61.996396,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6039,7 +7351,7 @@
         "longitude": -61.517437,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6058,7 +7370,7 @@
         "longitude": -62.669593,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6077,7 +7389,7 @@
         "longitude": -63.289988,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6096,7 +7408,7 @@
         "longitude": -62.312913,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6115,7 +7427,7 @@
         "longitude": -65.334596,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6134,7 +7446,7 @@
         "longitude": -61.995137,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6153,7 +7465,7 @@
         "longitude": -62.256532,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6172,7 +7484,7 @@
         "longitude": -61.603225,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6191,7 +7503,7 @@
         "longitude": -61.197963,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6210,7 +7522,7 @@
         "longitude": -61.047052,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6229,7 +7541,7 @@
         "longitude": -63.899902,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6248,7 +7560,7 @@
         "longitude": -61.898617,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6267,7 +7579,7 @@
         "longitude": -61.315336,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6286,7 +7598,7 @@
         "longitude": -62.901127,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6305,7 +7617,7 @@
         "longitude": -61.771411,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6324,7 +7636,7 @@
         "longitude": -61.361313,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6343,7 +7655,7 @@
         "longitude": -63.018234,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6362,7 +7674,7 @@
         "longitude": -60.61847,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6381,7 +7693,7 @@
         "longitude": -63.567968,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6400,7 +7712,7 @@
         "longitude": -62.719222,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6419,7 +7731,7 @@
         "longitude": -62.241993,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6438,7 +7750,7 @@
         "longitude": -62.353796,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6457,7 +7769,7 @@
         "longitude": -62.363895,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6476,7 +7788,7 @@
         "longitude": -62.187649,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6495,7 +7807,7 @@
         "longitude": -62.135182,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6514,7 +7826,7 @@
         "longitude": -60.148847,
         "empresa": "BT",
         "cnpj": 33179565000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6533,7 +7845,7 @@
         "longitude": -63.032516,
         "empresa": "FIBRACONN SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 33483541000177,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6558,7 +7870,7 @@
         "longitude": -62.478769,
         "empresa": "FIBRACONN SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 33483541000177,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6589,7 +7901,7 @@
         "longitude": -63.700502,
         "empresa": "S & M NACIONAL TELECOM LTDA",
         "cnpj": 34211050000130,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6608,7 +7920,7 @@
         "longitude": -63.899902,
         "empresa": "S & M NACIONAL TELECOM LTDA",
         "cnpj": 34211050000130,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6633,7 +7945,7 @@
         "longitude": -65.329566,
         "empresa": "GN FIBRA PROVEDOR DE INTERNET LTDA",
         "cnpj": 34803568000162,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6658,7 +7970,7 @@
         "longitude": -65.329566,
         "empresa": "BR364 SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 35823676000160,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6677,7 +7989,7 @@
         "longitude": -65.334596,
         "empresa": "BR364 SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 35823676000160,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6696,7 +8008,7 @@
         "longitude": -63.899902,
         "empresa": "BR364 SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 35823676000160,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6715,7 +8027,7 @@
         "longitude": -60.887694,
         "empresa": "R. G  SERVICOS DE PROVEDORES DE INTERNET LTDA",
         "cnpj": 37435689000197,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6734,7 +8046,7 @@
         "longitude": -60.148847,
         "empresa": "R. G  SERVICOS DE PROVEDORES DE INTERNET LTDA",
         "cnpj": 37435689000197,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6753,7 +8065,7 @@
         "longitude": -61.456167,
         "empresa": "RURAL NET PROVEDOR DE INTERNET LTDA",
         "cnpj": 40206900000104,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6772,7 +8084,7 @@
         "longitude": -63.318834,
         "empresa": "M.o. Servicos de Telecomunicacoes Ltda",
         "cnpj": 40291217000112,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6791,7 +8103,7 @@
         "longitude": -63.899902,
         "empresa": "Flaveli Murarolli Ferri & Cia Ltda.",
         "cnpj": 43110512000113,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6810,7 +8122,7 @@
         "longitude": -63.899902,
         "empresa": "Obvious Servicos Digitais Ltda",
         "cnpj": 44025225000178,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6829,7 +8141,7 @@
         "longitude": -61.026998,
         "empresa": "Centranet Ltda",
         "cnpj": 44542310000103,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6848,7 +8160,7 @@
         "longitude": -61.932152,
         "empresa": "Volt Telecom Servicos de Comunicacao e Multimidia Ltda",
         "cnpj": 46209572000186,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6867,7 +8179,7 @@
         "longitude": -62.719222,
         "empresa": "N Guerra da Silva Servicos de Comunicacao",
         "cnpj": 48161792000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6892,14 +8204,14 @@
         "longitude": -61.932152,
         "empresa": "Rede Neutra Servicos de Internet Ltda",
         "cnpj": 48254506000153,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 221
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -6911,7 +8223,7 @@
         "longitude": -61.932152,
         "empresa": "Invicto Telecom Provedor de Internet Ltda",
         "cnpj": 48549632000135,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6930,7 +8242,7 @@
         "longitude": -61.932152,
         "empresa": "BT",
         "cnpj": 74280256000136,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6949,7 +8261,7 @@
         "longitude": -63.899902,
         "empresa": "BT",
         "cnpj": 74280256000136,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6974,7 +8286,7 @@
         "longitude": -60.148847,
         "empresa": "BT",
         "cnpj": 74280256000136,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -6992,14 +8304,33 @@
         ]
     },
     {
-        "identifier": "84591775000179-Alta Floresta D'Oeste-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Jurídica",
+        "identifier": "77617363000103-Vilhena-RO-VALMIR JORGE VOISKI - ME-Pessoa Jurídica",
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "VALMIR JORGE VOISKI - ME",
+        "cnpj": 77617363000103,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "84591775000179-Alta Floresta D'Oeste-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
         "cidade": "Alta Floresta D'Oeste",
         "uf": "RO",
         "latitude": -11.928669,
         "longitude": -61.99875,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -7011,14 +8342,14 @@
         ]
     },
     {
-        "identifier": "84591775000179-Alto Alegre dos Parecis-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Jurídica",
+        "identifier": "84591775000179-Alto Alegre dos Parecis-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
         "cidade": "Alto Alegre dos Parecis",
         "uf": "RO",
         "latitude": -12.131955,
         "longitude": -61.834979,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -7030,14 +8361,14 @@
         ]
     },
     {
-        "identifier": "84591775000179-Machadinho D'Oeste-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Jurídica",
+        "identifier": "84591775000179-Machadinho D'Oeste-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
         "cidade": "Machadinho D'Oeste",
         "uf": "RO",
         "latitude": -9.443158,
         "longitude": -61.996396,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -7049,14 +8380,14 @@
         ]
     },
     {
-        "identifier": "84591775000179-Pimenta Bueno-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Jurídica",
+        "identifier": "84591775000179-Pimenta Bueno-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
         "cidade": "Pimenta Bueno",
         "uf": "RO",
         "latitude": -11.671959,
         "longitude": -61.197963,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -7074,14 +8405,14 @@
         ]
     },
     {
-        "identifier": "84591775000179-São Francisco do Guaporé-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Jurídica",
+        "identifier": "84591775000179-São Francisco do Guaporé-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
         "cidade": "São Francisco do Guaporé",
         "uf": "RO",
         "latitude": -12.051977,
         "longitude": -63.567968,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -7093,14 +8424,14 @@
         ]
     },
     {
-        "identifier": "84591775000179-São Miguel do Guaporé-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Jurídica",
+        "identifier": "84591775000179-São Miguel do Guaporé-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
         "cidade": "São Miguel do Guaporé",
         "uf": "RO",
         "latitude": -11.69527,
         "longitude": -62.719222,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -7118,14 +8449,14 @@
         ]
     },
     {
-        "identifier": "84591775000179-Vale do Anari-RO-Adao da Silva Norte-tel Telecomunicacoes Eireli-Pessoa Jurídica",
+        "identifier": "84591775000179-Vale do Anari-RO-NORTE-TEL TELECOMUNICAÇÕES LTDA-Pessoa Jurídica",
         "cidade": "Vale do Anari",
         "uf": "RO",
         "latitude": -9.862155,
         "longitude": -62.187649,
-        "empresa": "Adao da Silva Norte-tel Telecomunicacoes Eireli",
+        "empresa": "NORTE-TEL TELECOMUNICAÇÕES LTDA",
         "cnpj": 84591775000179,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {
@@ -7144,7 +8475,7 @@
         "longitude": -61.026998,
         "empresa": "H & F SOLUÇÕES TECNOLOGICAS LTDA - EPP",
         "cnpj": 84716059000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Jurídica",
         "info-tecnologia": [
             {

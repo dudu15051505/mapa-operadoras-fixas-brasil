@@ -7,7 +7,7 @@
         "longitude": -56.711151,
         "empresa": "Info Connect Telecom - Ltda",
         "cnpj": 1911966000143,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -26,7 +26,7 @@
         "longitude": -60.189953,
         "empresa": "AMAZON BUSINESS PUBLICIDADE E INFORMATICA LTDA - ME",
         "cnpj": 4038227000187,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -45,7 +45,7 @@
         "longitude": -60.02123,
         "empresa": "AMAZON BUSINESS PUBLICIDADE E INFORMATICA LTDA - ME",
         "cnpj": 4038227000187,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -70,7 +70,7 @@
         "longitude": -60.621581,
         "empresa": "O.P. BRANDAO",
         "cnpj": 4326574000105,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -89,7 +89,7 @@
         "longitude": -60.02123,
         "empresa": "SYSCOM TELECOM LTDA",
         "cnpj": 4859842000154,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -108,7 +108,7 @@
         "longitude": -60.02123,
         "empresa": "W. DE L. CAVALCANTE",
         "cnpj": 5033272000101,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -133,7 +133,7 @@
         "longitude": -60.02123,
         "empresa": "F. C. Q. P. & A. G. Q. Ltda",
         "cnpj": 5236183000162,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -145,14 +145,14 @@
         ]
     },
     {
-        "identifier": "5578337000102-Lábrea-AM-NARI EQUIPAMENTOS DE COMUNICACAO LTDA-Pessoa Física",
+        "identifier": "5578337000102-Lábrea-AM-Nari Equipamentos de Comunicacao Ltda-Pessoa Física",
         "cidade": "Lábrea",
         "uf": "AM",
         "latitude": -7.264133,
         "longitude": -64.794765,
-        "empresa": "NARI EQUIPAMENTOS DE COMUNICACAO LTDA",
+        "empresa": "Nari Equipamentos de Comunicacao Ltda",
         "cnpj": 5578337000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -177,7 +177,7 @@
         "longitude": -60.02123,
         "empresa": "CANAL TELECOM TECNOLOGIA LTDA",
         "cnpj": 7034389000135,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -196,7 +196,7 @@
         "longitude": -60.02123,
         "empresa": "R. ANDREWS DE ARAUJO",
         "cnpj": 7200095000136,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -208,6 +208,25 @@
         ]
     },
     {
+        "identifier": "7330819000166-Coari-AM-R. GEUCIANY B. DE OLIVEIRA - ME-Pessoa Física",
+        "cidade": "Coari",
+        "uf": "AM",
+        "latitude": -4.094121,
+        "longitude": -63.144091,
+        "empresa": "R. GEUCIANY B. DE OLIVEIRA - ME",
+        "cnpj": 7330819000166,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 70
+            }
+        ]
+    },
+    {
         "identifier": "7601386000136-Boca do Acre-AM-VERDENET PROVEDOR DE INTERNET LTDA-Pessoa Física",
         "cidade": "Boca do Acre",
         "uf": "AM",
@@ -215,7 +234,7 @@
         "longitude": -67.391926,
         "empresa": "VERDENET PROVEDOR DE INTERNET LTDA",
         "cnpj": 7601386000136,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -227,6 +246,75 @@
         ]
     },
     {
+        "identifier": "7819690000154-Apuí-AM-INTER.NET SERVICOS EM TELECOM LTDA-Pessoa Física",
+        "cidade": "Apuí",
+        "uf": "AM",
+        "latitude": -7.194091,
+        "longitude": -59.895956,
+        "empresa": "INTER.NET SERVICOS EM TELECOM LTDA",
+        "cnpj": 7819690000154,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "7819690000154-Humaitá-AM-INTER.NET SERVICOS EM TELECOM LTDA-Pessoa Física",
+        "cidade": "Humaitá",
+        "uf": "AM",
+        "latitude": -7.511712,
+        "longitude": -63.032743,
+        "empresa": "INTER.NET SERVICOS EM TELECOM LTDA",
+        "cnpj": 7819690000154,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "7819690000154-Manicoré-AM-INTER.NET SERVICOS EM TELECOM LTDA-Pessoa Física",
+        "cidade": "Manicoré",
+        "uf": "AM",
+        "latitude": -5.804618,
+        "longitude": -61.289483,
+        "empresa": "INTER.NET SERVICOS EM TELECOM LTDA",
+        "cnpj": 7819690000154,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 53
+            }
+        ]
+    },
+    {
         "identifier": "7964399000170-Manicoré-AM-S V DE OLIVEIRA & CIA LTDA-Pessoa Física",
         "cidade": "Manicoré",
         "uf": "AM",
@@ -234,7 +322,7 @@
         "longitude": -61.289483,
         "empresa": "S V DE OLIVEIRA & CIA LTDA",
         "cnpj": 7964399000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -259,7 +347,7 @@
         "longitude": -60.373179,
         "empresa": "S V DE OLIVEIRA & CIA LTDA",
         "cnpj": 7964399000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -278,7 +366,7 @@
         "longitude": -56.711151,
         "empresa": "Coelho Tecnologia Eireli",
         "cnpj": 8182940000150,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -297,7 +385,7 @@
         "longitude": -56.729045,
         "empresa": "R N Servicos de Telecomunicacoes Ltda",
         "cnpj": 8277259000196,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -309,6 +397,120 @@
         ]
     },
     {
+        "identifier": "8475552000168-Autazes-AM-R L Comercio Manutencao Representacao de Eletro-eletronicos Ltda-Pessoa Física",
+        "cidade": "Autazes",
+        "uf": "AM",
+        "latitude": -3.585743,
+        "longitude": -59.125589,
+        "empresa": "R L Comercio Manutencao Representacao de Eletro-eletronicos Ltda",
+        "cnpj": 8475552000168,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 551
+            }
+        ]
+    },
+    {
+        "identifier": "8475552000168-Borba-AM-R L Comercio Manutencao Representacao de Eletro-eletronicos Ltda-Pessoa Física",
+        "cidade": "Borba",
+        "uf": "AM",
+        "latitude": -4.391539,
+        "longitude": -59.58738,
+        "empresa": "R L Comercio Manutencao Representacao de Eletro-eletronicos Ltda",
+        "cnpj": 8475552000168,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 387
+            }
+        ]
+    },
+    {
+        "identifier": "8475552000168-Itacoatiara-AM-R L Comercio Manutencao Representacao de Eletro-eletronicos Ltda-Pessoa Física",
+        "cidade": "Itacoatiara",
+        "uf": "AM",
+        "latitude": -3.138607,
+        "longitude": -58.444874,
+        "empresa": "R L Comercio Manutencao Representacao de Eletro-eletronicos Ltda",
+        "cnpj": 8475552000168,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 255
+            }
+        ]
+    },
+    {
+        "identifier": "8475552000168-Maués-AM-R L Comercio Manutencao Representacao de Eletro-eletronicos Ltda-Pessoa Física",
+        "cidade": "Maués",
+        "uf": "AM",
+        "latitude": -3.392891,
+        "longitude": -57.706731,
+        "empresa": "R L Comercio Manutencao Representacao de Eletro-eletronicos Ltda",
+        "cnpj": 8475552000168,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 288
+            }
+        ]
+    },
+    {
+        "identifier": "8475552000168-Nova Olinda do Norte-AM-R L Comercio Manutencao Representacao de Eletro-eletronicos Ltda-Pessoa Física",
+        "cidade": "Nova Olinda do Norte",
+        "uf": "AM",
+        "latitude": -3.900367,
+        "longitude": -59.09404,
+        "empresa": "R L Comercio Manutencao Representacao de Eletro-eletronicos Ltda",
+        "cnpj": 8475552000168,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 185
+            }
+        ]
+    },
+    {
+        "identifier": "8475552000168-Silves-AM-R L Comercio Manutencao Representacao de Eletro-eletronicos Ltda-Pessoa Física",
+        "cidade": "Silves",
+        "uf": "AM",
+        "latitude": -2.81748,
+        "longitude": -58.248031,
+        "empresa": "R L Comercio Manutencao Representacao de Eletro-eletronicos Ltda",
+        "cnpj": 8475552000168,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 155
+            }
+        ]
+    },
+    {
         "identifier": "8752273000102-Borba-AM-Lopes Servicos de Comunicacao Ltda-Pessoa Física",
         "cidade": "Borba",
         "uf": "AM",
@@ -316,7 +518,7 @@
         "longitude": -59.58738,
         "empresa": "Lopes Servicos de Comunicacao Ltda",
         "cnpj": 8752273000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -341,7 +543,7 @@
         "longitude": -60.369046,
         "empresa": "Lopes Servicos de Comunicacao Ltda",
         "cnpj": 8752273000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -366,7 +568,7 @@
         "longitude": -60.461239,
         "empresa": "Lopes Servicos de Comunicacao Ltda",
         "cnpj": 8752273000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -385,7 +587,7 @@
         "longitude": -60.02123,
         "empresa": "Lopes Servicos de Comunicacao Ltda",
         "cnpj": 8752273000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -410,7 +612,7 @@
         "longitude": -61.289483,
         "empresa": "Lopes Servicos de Comunicacao Ltda",
         "cnpj": 8752273000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -435,7 +637,7 @@
         "longitude": -60.373179,
         "empresa": "Lopes Servicos de Comunicacao Ltda",
         "cnpj": 8752273000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -460,7 +662,7 @@
         "longitude": -60.02123,
         "empresa": "BRASIL TECPAR",
         "cnpj": 9093813000148,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -479,7 +681,7 @@
         "longitude": -69.938273,
         "empresa": "I M R TEIXEIRA ME",
         "cnpj": 9115838000103,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -498,7 +700,7 @@
         "longitude": -72.590713,
         "empresa": "OMEGASUL TELECOMUNICACOES LTDA",
         "cnpj": 9367511000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -523,7 +725,7 @@
         "longitude": -60.02123,
         "empresa": "Axes Servicos de Comunicacao Ltda",
         "cnpj": 9382790000191,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -542,7 +744,7 @@
         "longitude": -60.02123,
         "empresa": "MANIA TELECOM TELECOMUNICACOES LTDA",
         "cnpj": 10208800000156,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -561,7 +763,7 @@
         "longitude": -72.590713,
         "empresa": "Unonet Telecomunicacoes Ltda",
         "cnpj": 10313079000164,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -580,7 +782,7 @@
         "longitude": -71.693426,
         "empresa": "Unonet Telecomunicacoes Ltda",
         "cnpj": 10313079000164,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -599,7 +801,7 @@
         "longitude": -61.396337,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -618,7 +820,7 @@
         "longitude": -59.895956,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -637,7 +839,7 @@
         "longitude": -70.1967,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -656,7 +858,7 @@
         "longitude": -62.931053,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -675,7 +877,7 @@
         "longitude": -70.034157,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -694,7 +896,7 @@
         "longitude": -67.391926,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -713,7 +915,7 @@
         "longitude": -59.58738,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -732,7 +934,7 @@
         "longitude": -66.908559,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -751,7 +953,7 @@
         "longitude": -66.094212,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -770,7 +972,7 @@
         "longitude": -66.929051,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -789,7 +991,7 @@
         "longitude": -66.75947,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -808,7 +1010,7 @@
         "longitude": -64.794765,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -827,7 +1029,7 @@
         "longitude": -61.289483,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -846,7 +1048,7 @@
         "longitude": -57.706731,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -865,7 +1067,7 @@
         "longitude": -67.946279,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -884,7 +1086,7 @@
         "longitude": -67.084042,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -903,7 +1105,7 @@
         "longitude": -68.964581,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -922,7 +1124,7 @@
         "longitude": -69.938273,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -941,7 +1143,7 @@
         "longitude": -63.1808,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -960,7 +1162,7 @@
         "longitude": -64.719343,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -979,7 +1181,7 @@
         "longitude": -67.791904,
         "empresa": "RW SERVICOS DE TELECOMUNICACOES L T D A",
         "cnpj": 10329181000158,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -998,7 +1200,7 @@
         "longitude": -60.02123,
         "empresa": "AMAZON FIBER SERVICO DE COMUNICACAO DE MULTIMIDIA LTDA",
         "cnpj": 10672659000148,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1017,7 +1219,7 @@
         "longitude": -60.02123,
         "empresa": "SIMPLEX INFORMATICA EIRELI - ME",
         "cnpj": 10921445000168,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1036,7 +1238,7 @@
         "longitude": -60.02123,
         "empresa": "ALEX FERREIRA ALMEIDA - ME",
         "cnpj": 10948956000173,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1055,7 +1257,7 @@
         "longitude": -60.02123,
         "empresa": "P B NET CURSOS IDIOMAS E INTERNET LTDA",
         "cnpj": 11274841000103,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1074,14 +1276,33 @@
         "longitude": -63.144091,
         "empresa": "Arroba Banda Larga Ltda",
         "cnpj": 12458616000190,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "12469124000108-Itacoatiara-AM-Wyllian Ferreira de Carvalho-Pessoa Física",
+        "cidade": "Itacoatiara",
+        "uf": "AM",
+        "latitude": -3.138607,
+        "longitude": -58.444874,
+        "empresa": "Wyllian Ferreira de Carvalho",
+        "cnpj": 12469124000108,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -1093,7 +1314,7 @@
         "longitude": -60.02123,
         "empresa": "INTLINK SERVICOS DE TELECOMUNICACAO LTDA",
         "cnpj": 12839749000106,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1112,7 +1333,7 @@
         "longitude": -60.02123,
         "empresa": "A. S. Cabral",
         "cnpj": 12943939000179,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1167,7 +1388,7 @@
         "longitude": -56.729045,
         "empresa": "M M e Silva Telecom",
         "cnpj": 13599895000174,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1192,7 +1413,7 @@
         "longitude": -60.189953,
         "empresa": "AMAZON+ SERVICOS DE INTERNET LTDA",
         "cnpj": 13667968000118,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1211,7 +1432,7 @@
         "longitude": -60.621581,
         "empresa": "AMAZON+ SERVICOS DE INTERNET LTDA",
         "cnpj": 13667968000118,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1230,7 +1451,7 @@
         "longitude": -63.032743,
         "empresa": "Brasil Digital Servicos de Informatica e Comercio Eireli",
         "cnpj": 14629705000187,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1249,7 +1470,7 @@
         "longitude": -63.032743,
         "empresa": "I9 COMERCIO DE ARTIGOS E SERVICOS TECNOLOGICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 14856473000108,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1268,7 +1489,7 @@
         "longitude": -60.621581,
         "empresa": "I K M DE LIMA",
         "cnpj": 14968157000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1293,7 +1514,7 @@
         "longitude": -59.685793,
         "empresa": "L. S. N. FERREIRA & CIA LTDA",
         "cnpj": 17149900000106,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1318,7 +1539,7 @@
         "longitude": -63.144091,
         "empresa": "Veloso Net Servicos de Comunicacao Multimidia Ltda.",
         "cnpj": 17654767000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1337,7 +1558,7 @@
         "longitude": -62.065787,
         "empresa": "Veloso Net Servicos de Comunicacao Multimidia Ltda.",
         "cnpj": 17654767000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1356,7 +1577,7 @@
         "longitude": -64.719343,
         "empresa": "Veloso Net Servicos de Comunicacao Multimidia Ltda.",
         "cnpj": 17654767000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1381,7 +1602,7 @@
         "longitude": -60.02123,
         "empresa": "CONCOURSE TELECOMUNICACOES BRASIL LTDA.",
         "cnpj": 17792959000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1400,7 +1621,7 @@
         "longitude": -69.938273,
         "empresa": "CONCOURSE TELECOMUNICACOES BRASIL LTDA.",
         "cnpj": 17792959000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1419,7 +1640,7 @@
         "longitude": -64.719343,
         "empresa": "CONCOURSE TELECOMUNICACOES BRASIL LTDA.",
         "cnpj": 17792959000100,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1438,7 +1659,7 @@
         "longitude": -60.02123,
         "empresa": "D.V COMERCIO EM TELECOMUNICAÇÕES DE REDE LTDA - ME",
         "cnpj": 17799166000112,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1457,7 +1678,7 @@
         "longitude": -60.02123,
         "empresa": "AMAZONET TELECOMUNICACOES LTDA",
         "cnpj": 17854435000104,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1476,7 +1697,7 @@
         "longitude": -60.02123,
         "empresa": "IP TELECOMUNICACOES LTDA",
         "cnpj": 18268845000128,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1495,7 +1716,7 @@
         "longitude": -60.02123,
         "empresa": "Conex Provedor e Servicos de Telecomunicacoes Ltda.",
         "cnpj": 19079034000141,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1514,7 +1735,7 @@
         "longitude": -59.125589,
         "empresa": "CLICKIP SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 19402859000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1533,7 +1754,7 @@
         "longitude": -60.189953,
         "empresa": "CLICKIP SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 19402859000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1552,7 +1773,7 @@
         "longitude": -58.444874,
         "empresa": "CLICKIP SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 19402859000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1571,7 +1792,7 @@
         "longitude": -58.029257,
         "empresa": "CLICKIP SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 19402859000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1590,7 +1811,7 @@
         "longitude": -60.621581,
         "empresa": "CLICKIP SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 19402859000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1609,7 +1830,7 @@
         "longitude": -60.02123,
         "empresa": "CLICKIP SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 19402859000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1628,7 +1849,7 @@
         "longitude": -57.706731,
         "empresa": "CLICKIP SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 19402859000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1647,7 +1868,7 @@
         "longitude": -59.09404,
         "empresa": "CLICKIP SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 19402859000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1666,7 +1887,7 @@
         "longitude": -60.943404,
         "empresa": "CLICKIP SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 19402859000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1685,7 +1906,7 @@
         "longitude": -59.685793,
         "empresa": "CLICKIP SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 19402859000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1704,7 +1925,7 @@
         "longitude": -58.248031,
         "empresa": "CLICKIP SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 19402859000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1723,7 +1944,7 @@
         "longitude": -58.149637,
         "empresa": "CLICKIP SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 19402859000155,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1742,7 +1963,7 @@
         "longitude": -60.02123,
         "empresa": "CJ SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 19439212000106,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1761,7 +1982,7 @@
         "longitude": -60.02123,
         "empresa": "GILMAR F DE ALMEIDA",
         "cnpj": 19858993000165,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1780,7 +2001,7 @@
         "longitude": -60.02123,
         "empresa": "JANDER FORTES LIMA - ME",
         "cnpj": 20909456000186,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1799,7 +2020,7 @@
         "longitude": -62.065787,
         "empresa": "Freedom Network Ltda",
         "cnpj": 22901671000166,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1830,7 +2051,7 @@
         "longitude": -60.02123,
         "empresa": "FIBER NETWORK SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
         "cnpj": 22939150000106,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1849,7 +2070,7 @@
         "longitude": -61.289483,
         "empresa": "A W Servicos e Apoio Administrativos Eireli",
         "cnpj": 24603061000101,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1868,7 +2089,7 @@
         "longitude": -60.02123,
         "empresa": "G C DE SOUSA JUNIOR MULTIMIDIA - ME",
         "cnpj": 24699815000179,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1893,7 +2114,7 @@
         "longitude": -60.02123,
         "empresa": "FIOS TECNOLOGIA DA INFORMACAO EIRELI - ME",
         "cnpj": 25125064000140,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1912,7 +2133,7 @@
         "longitude": -60.02123,
         "empresa": "DIO SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
         "cnpj": 25174091000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1931,7 +2152,7 @@
         "longitude": -60.02123,
         "empresa": "R V CONNECT TELECOMUNICACOES LTDA - ME",
         "cnpj": 26370774000106,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1950,7 +2171,7 @@
         "longitude": -60.189953,
         "empresa": "CONECT + COMUNICACOES LTDA",
         "cnpj": 26550121000109,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1969,7 +2190,7 @@
         "longitude": -64.800654,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -1988,7 +2209,7 @@
         "longitude": -59.895956,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2007,7 +2228,7 @@
         "longitude": -59.125589,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2026,7 +2247,7 @@
         "longitude": -62.931053,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2045,7 +2266,7 @@
         "longitude": -57.067897,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2064,7 +2285,7 @@
         "longitude": -70.034157,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2083,7 +2304,7 @@
         "longitude": -67.391926,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2102,7 +2323,7 @@
         "longitude": -64.39528,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2121,7 +2342,7 @@
         "longitude": -66.908559,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2140,7 +2361,7 @@
         "longitude": -62.065787,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2159,7 +2380,7 @@
         "longitude": -69.86616,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2178,7 +2399,7 @@
         "longitude": -70.028143,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2197,7 +2418,7 @@
         "longitude": -66.094212,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2216,7 +2437,7 @@
         "longitude": -63.032743,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2235,7 +2456,7 @@
         "longitude": -68.260027,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2254,7 +2475,7 @@
         "longitude": -66.929051,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2273,7 +2494,7 @@
         "longitude": -66.75947,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2292,7 +2513,7 @@
         "longitude": -64.794765,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2311,7 +2532,7 @@
         "longitude": -61.289483,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2330,7 +2551,7 @@
         "longitude": -65.572995,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2349,7 +2570,7 @@
         "longitude": -56.711151,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2368,7 +2589,7 @@
         "longitude": -59.09404,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2387,7 +2608,7 @@
         "longitude": -56.729045,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2406,7 +2627,7 @@
         "longitude": -60.02338,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2425,7 +2646,7 @@
         "longitude": -65.009205,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2444,7 +2665,7 @@
         "longitude": -67.946279,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2463,7 +2684,7 @@
         "longitude": -67.084042,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2482,7 +2703,7 @@
         "longitude": -69.938273,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2501,7 +2722,7 @@
         "longitude": -63.1808,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2520,7 +2741,7 @@
         "longitude": -64.719343,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2539,7 +2760,7 @@
         "longitude": -65.113298,
         "empresa": "VIASAT BRASIL SERVICOS DE COMUNICACOES LTDA",
         "cnpj": 27001440000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2558,7 +2779,7 @@
         "longitude": -60.943404,
         "empresa": "ANDERSON LOPES DA SILVA",
         "cnpj": 27336980000154,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2570,6 +2791,31 @@
         ]
     },
     {
+        "identifier": "27444539000196-Manaus-AM-BRAXTEL TELECOM E TI PROVEDOR DE INTERNET LTDA-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "BRAXTEL TELECOM E TI PROVEDOR DE INTERNET LTDA",
+        "cnpj": 27444539000196,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 61
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
         "identifier": "27815017000153-Manaus-AM-WANDERSON SIQUEIRA DA SILVA-Pessoa Física",
         "cidade": "Manaus",
         "uf": "AM",
@@ -2577,7 +2823,7 @@
         "longitude": -60.02123,
         "empresa": "WANDERSON SIQUEIRA DA SILVA",
         "cnpj": 27815017000153,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2602,7 +2848,7 @@
         "longitude": -60.02123,
         "empresa": "GOCAST SERVICOS DE COMUNICACAO LTDA.",
         "cnpj": 27953969000133,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2614,14 +2860,14 @@
         ]
     },
     {
-        "identifier": "27967261000131-Manaus-AM-V L C DE MACEDO TELECOMUNICACOES - ME-Pessoa Física",
+        "identifier": "27967261000131-Manaus-AM-V L C SERVICOS DE TELECOMUNICACAO LTDA-Pessoa Física",
         "cidade": "Manaus",
         "uf": "AM",
         "latitude": -3.118662,
         "longitude": -60.02123,
-        "empresa": "V L C DE MACEDO TELECOMUNICACOES - ME",
+        "empresa": "V L C SERVICOS DE TELECOMUNICACAO LTDA",
         "cnpj": 27967261000131,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2640,7 +2886,7 @@
         "longitude": -64.719343,
         "empresa": "CLEBSON RIBEIRO DOS SANTOS",
         "cnpj": 28026271000135,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2659,7 +2905,7 @@
         "longitude": -60.02123,
         "empresa": "HAMADRANTYS TELECOM SERVICOS DE COMUNICACAO LTDA",
         "cnpj": 28122370000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2678,7 +2924,7 @@
         "longitude": -60.02123,
         "empresa": "R E SUPORTE TECNICO LTDA - ME",
         "cnpj": 28130814000160,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2703,7 +2949,7 @@
         "longitude": -60.02123,
         "empresa": "MWH TELECOM SERVICOS DE TELECOMUNICACOES EIRELI",
         "cnpj": 28275486000190,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2722,7 +2968,7 @@
         "longitude": -59.79639,
         "empresa": "Amnet Telecom Ltda",
         "cnpj": 28703856000142,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2741,7 +2987,7 @@
         "longitude": -60.02123,
         "empresa": "ULTRACONNECT PROVEDOR DE INTERNET LTDA",
         "cnpj": 28912986000195,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2760,7 +3006,7 @@
         "longitude": -60.02123,
         "empresa": "Idnett Servicos de Comunicacao Multimidia Ltda",
         "cnpj": 29817906000185,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2779,7 +3025,7 @@
         "longitude": -67.391926,
         "empresa": "NETPURUS SERVICOS DE TELECOMUNICACOES LTDA",
         "cnpj": 29942267000180,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2798,7 +3044,7 @@
         "longitude": -60.02123,
         "empresa": "NEW CLICK TELECOMUNICACOES LTDA",
         "cnpj": 30022435000106,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2823,7 +3069,7 @@
         "longitude": -60.02123,
         "empresa": "VISION TELECOM SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
         "cnpj": 30620581000125,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2853,6 +3099,44 @@
         ]
     },
     {
+        "identifier": "30970665000199-Manaus-AM-LOBATO - SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "LOBATO - SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 30970665000199,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 137
+            }
+        ]
+    },
+    {
+        "identifier": "32482975000190-Manaus-AM-WALLACE DE AGUIAR SOBREIRA 92616925249-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "WALLACE DE AGUIAR SOBREIRA 92616925249",
+        "cnpj": 32482975000190,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 93
+            }
+        ]
+    },
+    {
         "identifier": "32507370000106-Beruri-AM-ZAIHARA DE OLIVEIRA DIAS-Pessoa Física",
         "cidade": "Beruri",
         "uf": "AM",
@@ -2860,7 +3144,7 @@
         "longitude": -61.36162,
         "empresa": "ZAIHARA DE OLIVEIRA DIAS",
         "cnpj": 32507370000106,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2879,7 +3163,7 @@
         "longitude": -60.02123,
         "empresa": "LSMR PROVEDOR DE INTERNET LTDA",
         "cnpj": 33013315000122,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2898,7 +3182,7 @@
         "longitude": -60.02123,
         "empresa": "NEW SOLUTION NET TELECOMUNICACOES LTDA",
         "cnpj": 33084896000193,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2917,7 +3201,7 @@
         "longitude": -60.02123,
         "empresa": "CONECTMAS TELECOMUNICACOES LTDA",
         "cnpj": 33115423000106,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2936,7 +3220,7 @@
         "longitude": -60.189953,
         "empresa": "Jucicley de Assis Guimaraes",
         "cnpj": 33284366000199,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2955,7 +3239,7 @@
         "longitude": -60.02338,
         "empresa": "MOISES DOS SANTOS PEREIRA & CIA LTDA",
         "cnpj": 33773584000197,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2974,7 +3258,7 @@
         "longitude": -60.02338,
         "empresa": "Amaury Ramos Pereira & Cia Ltda",
         "cnpj": 33773592000133,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -2986,6 +3270,101 @@
         ]
     },
     {
+        "identifier": "33917291000136-Manaus-AM-LIGHTNING NETWORK TECNOLOGIA LTDA-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "LIGHTNING NETWORK TECNOLOGIA LTDA",
+        "cnpj": 33917291000136,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 85
+            }
+        ]
+    },
+    {
+        "identifier": "33932866000190-Boa Vista do Ramos-AM-Sidi Corporacoes e Servicos de Telecomunicacoes Multimidia Ltda-Pessoa Física",
+        "cidade": "Boa Vista do Ramos",
+        "uf": "AM",
+        "latitude": -2.974087,
+        "longitude": -57.587333,
+        "empresa": "Sidi Corporacoes e Servicos de Telecomunicacoes Multimidia Ltda",
+        "cnpj": 33932866000190,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 110
+            }
+        ]
+    },
+    {
+        "identifier": "33932866000190-Borba-AM-Sidi Corporacoes e Servicos de Telecomunicacoes Multimidia Ltda-Pessoa Física",
+        "cidade": "Borba",
+        "uf": "AM",
+        "latitude": -4.391539,
+        "longitude": -59.58738,
+        "empresa": "Sidi Corporacoes e Servicos de Telecomunicacoes Multimidia Ltda",
+        "cnpj": 33932866000190,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "33932866000190-Itacoatiara-AM-Sidi Corporacoes e Servicos de Telecomunicacoes Multimidia Ltda-Pessoa Física",
+        "cidade": "Itacoatiara",
+        "uf": "AM",
+        "latitude": -3.138607,
+        "longitude": -58.444874,
+        "empresa": "Sidi Corporacoes e Servicos de Telecomunicacoes Multimidia Ltda",
+        "cnpj": 33932866000190,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "33932866000190-Itapiranga-AM-Sidi Corporacoes e Servicos de Telecomunicacoes Multimidia Ltda-Pessoa Física",
+        "cidade": "Itapiranga",
+        "uf": "AM",
+        "latitude": -2.74081,
+        "longitude": -58.029257,
+        "empresa": "Sidi Corporacoes e Servicos de Telecomunicacoes Multimidia Ltda",
+        "cnpj": 33932866000190,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 84
+            }
+        ]
+    },
+    {
         "identifier": "34904187000170-Manaus-AM-Albatroz Network Ltda-Pessoa Física",
         "cidade": "Manaus",
         "uf": "AM",
@@ -2993,7 +3372,7 @@
         "longitude": -60.02123,
         "empresa": "Albatroz Network Ltda",
         "cnpj": 34904187000170,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3012,7 +3391,7 @@
         "longitude": -60.02123,
         "empresa": "N D HURTADO",
         "cnpj": 35787416000186,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3031,7 +3410,7 @@
         "longitude": -64.794765,
         "empresa": "Lion Comercio de Artigos e Servicos Tecnologicos de Telecomunicacoes Ltda",
         "cnpj": 36517667000103,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3043,6 +3422,25 @@
         ]
     },
     {
+        "identifier": "37027691000127-Manaus-AM-Firenetwork Ltda-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "Firenetwork Ltda",
+        "cnpj": 37027691000127,
+        "data-dados": "2023-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
         "identifier": "37571949000151-Manaus-AM-A. RIBEIRO GONZAGA LTDA-Pessoa Física",
         "cidade": "Manaus",
         "uf": "AM",
@@ -3050,7 +3448,7 @@
         "longitude": -60.02123,
         "empresa": "A. RIBEIRO GONZAGA LTDA",
         "cnpj": 37571949000151,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3069,7 +3467,7 @@
         "longitude": -60.02123,
         "empresa": "PURAKNET SERVICOS DE COMUNICACAO MULTIMIDIA - SCM LTDA",
         "cnpj": 37847203000128,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3088,7 +3486,7 @@
         "longitude": -60.02123,
         "empresa": "Jga Inter Link Telecom Ltda",
         "cnpj": 37898144000117,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3107,7 +3505,7 @@
         "longitude": -60.02123,
         "empresa": "Ip Amazonas Telecomunicacoes Ltda",
         "cnpj": 38110127000136,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3126,7 +3524,7 @@
         "longitude": -60.02123,
         "empresa": "F J G DE OLIVEIRA COMUNICACAO",
         "cnpj": 41032481000102,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3145,7 +3543,7 @@
         "longitude": -72.590713,
         "empresa": "A J SILVA DOS SANTOS",
         "cnpj": 41518574000133,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3164,7 +3562,7 @@
         "longitude": -60.189953,
         "empresa": "G5 Norte Telecom Servicos de Comunicacao Multimidia Ltda",
         "cnpj": 41623891000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3183,7 +3581,7 @@
         "longitude": -60.621581,
         "empresa": "G5 Norte Telecom Servicos de Comunicacao Multimidia Ltda",
         "cnpj": 41623891000110,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3202,7 +3600,7 @@
         "longitude": -60.02123,
         "empresa": "Fiber Ceu Telecomunicacoes Ltda",
         "cnpj": 42281136000167,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3221,7 +3619,7 @@
         "longitude": -60.02123,
         "empresa": "Nerds Telecom Ltda",
         "cnpj": 42846057000156,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3240,7 +3638,7 @@
         "longitude": -60.189953,
         "empresa": "Renata da Silva Araujo",
         "cnpj": 42898316000192,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3259,7 +3657,7 @@
         "longitude": -63.144091,
         "empresa": "Marcia Laraz Coelho Ltda.",
         "cnpj": 43002459000137,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3284,7 +3682,7 @@
         "longitude": -60.02123,
         "empresa": "Obvious Servicos Digitais Ltda",
         "cnpj": 44025225000178,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3303,7 +3701,7 @@
         "longitude": -56.729045,
         "empresa": "Kelliton Santos Tavares",
         "cnpj": 46163292000184,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3322,7 +3720,7 @@
         "longitude": -60.02123,
         "empresa": "Conex 10 Provedor de Internet Ltda",
         "cnpj": 46297234000143,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
@@ -3347,7 +3745,7 @@
         "longitude": -60.02123,
         "empresa": "AZUL TELECOM LTDA",
         "cnpj": 46921446000150,
-        "data-dados": "06/2023",
+        "data-dados": "2023-06",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {

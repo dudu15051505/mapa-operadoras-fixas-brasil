@@ -1,24 +1,5 @@
 [
     {
-        "identifier": "5206385000161-Almino Afonso-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Almino Afonso",
-        "uf": "RN",
-        "latitude": -6.147496,
-        "longitude": -37.763574,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Alto do Rodrigues-RN-HUGHES-Pessoa Jurídica",
         "cidade": "Alto do Rodrigues",
         "uf": "RN",
@@ -33,7 +14,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -128,7 +109,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -152,68 +133,11 @@
         ]
     },
     {
-        "identifier": "5206385000161-Barcelona-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Barcelona",
-        "uf": "RN",
-        "latitude": -5.94284,
-        "longitude": -35.924653,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Baía Formosa-RN-HUGHES-Pessoa Jurídica",
         "cidade": "Baía Formosa",
         "uf": "RN",
         "latitude": -6.371607,
         "longitude": -35.00327,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Bento Fernandes-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Bento Fernandes",
-        "uf": "RN",
-        "latitude": -5.699057,
-        "longitude": -35.812996,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Bodó-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Bodó",
-        "uf": "RN",
-        "latitude": -5.980269,
-        "longitude": -36.416706,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -266,68 +190,11 @@
         ]
     },
     {
-        "identifier": "5206385000161-Caiçara do Rio do Vento-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Caiçara do Rio do Vento",
-        "uf": "RN",
-        "latitude": -5.765412,
-        "longitude": -35.993772,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Campo Redondo-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Campo Redondo",
-        "uf": "RN",
-        "latitude": -6.23829,
-        "longitude": -36.188768,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Caraúbas-RN-HUGHES-Pessoa Jurídica",
         "cidade": "Caraúbas",
         "uf": "RN",
         "latitude": -5.783867,
         "longitude": -37.558629,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Carnaubais-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Carnaubais",
-        "uf": "RN",
-        "latitude": -5.341808,
-        "longitude": -36.833489,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -357,44 +224,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
                 "quantidade-acesso": 8
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Cerro Corá-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Cerro Corá",
-        "uf": "RN",
-        "latitude": -6.03503,
-        "longitude": -36.350278,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Coronel Ezequiel-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Coronel Ezequiel",
-        "uf": "RN",
-        "latitude": -6.374801,
-        "longitude": -36.222346,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
             }
         ]
     },
@@ -489,7 +318,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -499,25 +328,6 @@
         "uf": "RN",
         "latitude": -6.122645,
         "longitude": -36.822624,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Francisco Dantas-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Francisco Dantas",
-        "uf": "RN",
-        "latitude": -6.072339,
-        "longitude": -38.121209,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -546,7 +356,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -565,7 +375,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -584,26 +394,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Ielmo Marinho-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Ielmo Marinho",
-        "uf": "RN",
-        "latitude": -5.824469,
-        "longitude": -35.549952,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -622,7 +413,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -642,44 +433,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
                 "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Januário Cicco-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Januário Cicco",
-        "uf": "RN",
-        "latitude": -6.16614,
-        "longitude": -35.48991,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Jardim de Angicos-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Jardim de Angicos",
-        "uf": "RN",
-        "latitude": -5.649993,
-        "longitude": -35.971287,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
             }
         ]
     },
@@ -755,7 +508,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 16
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -774,7 +527,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -793,7 +546,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -817,25 +570,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Lajes Pintadas-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Lajes Pintadas",
-        "uf": "RN",
-        "latitude": -6.149429,
-        "longitude": -36.117088,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Luís Gomes-RN-HUGHES-Pessoa Jurídica",
         "cidade": "Luís Gomes",
         "uf": "RN",
@@ -850,7 +584,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -893,49 +627,11 @@
         ]
     },
     {
-        "identifier": "5206385000161-Marcelino Vieira-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Marcelino Vieira",
-        "uf": "RN",
-        "latitude": -6.284595,
-        "longitude": -38.164162,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Maxaranguape-RN-HUGHES-Pessoa Jurídica",
         "cidade": "Maxaranguape",
         "uf": "RN",
         "latitude": -5.521809,
         "longitude": -35.263082,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 8
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Monte Alegre-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Monte Alegre",
-        "uf": "RN",
-        "latitude": -6.07063,
-        "longitude": -35.325337,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -1021,7 +717,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1083,25 +779,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Pedra Grande-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Pedra Grande",
-        "uf": "RN",
-        "latitude": -5.149882,
-        "longitude": -35.876018,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Pedra Preta-RN-HUGHES-Pessoa Jurídica",
         "cidade": "Pedra Preta",
         "uf": "RN",
@@ -1116,7 +793,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1135,7 +812,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 18
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1173,7 +850,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 10
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -1192,26 +869,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 17
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Rafael Godeiro-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Rafael Godeiro",
-        "uf": "RN",
-        "latitude": -6.072441,
-        "longitude": -37.715961,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -1230,7 +888,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1249,7 +907,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 29
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -1268,7 +926,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -1292,25 +950,6 @@
         ]
     },
     {
-        "identifier": "5206385000161-Santa Maria-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Santa Maria",
-        "uf": "RN",
-        "latitude": -5.838022,
-        "longitude": -35.691409,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
         "identifier": "5206385000161-Santana do Matos-RN-HUGHES-Pessoa Jurídica",
         "cidade": "Santana do Matos",
         "uf": "RN",
@@ -1325,102 +964,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 12
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Santana do Seridó-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Santana do Seridó",
-        "uf": "RN",
-        "latitude": -6.76643,
-        "longitude": -36.731201,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Santo Antônio-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Santo Antônio",
-        "uf": "RN",
-        "latitude": -6.311951,
-        "longitude": -35.473868,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Serra Caiada-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Serra Caiada",
-        "uf": "RN",
-        "latitude": -6.105987,
-        "longitude": -35.716327,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Serra Negra do Norte-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Serra Negra do Norte",
-        "uf": "RN",
-        "latitude": -6.660306,
-        "longitude": -37.399601,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Serra de São Bento-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Serra de São Bento",
-        "uf": "RN",
-        "latitude": -6.417616,
-        "longitude": -35.703258,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -1439,26 +983,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-São Bento do Trairí-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "São Bento do Trairí",
-        "uf": "RN",
-        "latitude": -6.337979,
-        "longitude": -36.086332,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
+                "quantidade-acesso": 6
             }
         ]
     },
@@ -1515,7 +1040,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1553,7 +1078,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 7
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1572,7 +1097,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -1582,25 +1107,6 @@
         "uf": "RN",
         "latitude": -6.111322,
         "longitude": -35.908974,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Taboleiro Grande-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Taboleiro Grande",
-        "uf": "RN",
-        "latitude": -5.91948,
-        "longitude": -38.036693,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -1629,7 +1135,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -1639,25 +1145,6 @@
         "uf": "RN",
         "latitude": -6.19649,
         "longitude": -35.798888,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Tenente Ananias-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Tenente Ananias",
-        "uf": "RN",
-        "latitude": -6.458229,
-        "longitude": -38.181981,
         "empresa": "HUGHES",
         "cnpj": 5206385000161,
         "data-dados": "2023-09",
@@ -1705,7 +1192,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 6
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -1724,7 +1211,7 @@
                 "tecnologia": "VSAT",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 32
+                "quantidade-acesso": 10
             }
         ]
     },
@@ -1782,25 +1269,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Satélite",
                 "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "5206385000161-Vila Flor-RN-HUGHES-Pessoa Jurídica",
-        "cidade": "Vila Flor",
-        "uf": "RN",
-        "latitude": -6.312868,
-        "longitude": -35.067023,
-        "empresa": "HUGHES",
-        "cnpj": 5206385000161,
-        "data-dados": "2023-09",
-        "pf-ou-pj": "Pessoa Jurídica",
-        "info-tecnologia": [
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 4
             }
         ]
     },
