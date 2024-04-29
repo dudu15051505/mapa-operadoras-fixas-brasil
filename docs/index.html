@@ -21,6 +21,21 @@
 			const urlBaseJSON = 'https://raw.githubusercontent.com/dudu15051505/mapa-operadoras-fixas-brasil/main/dados';
 			const verOperadora = new URLSearchParams(window.location.search).get("operadora");
 			let verPeriudo = new URLSearchParams(window.location.search).get("periudo");
+			let verTudo = false;
+			let verDadosPF = false;
+			let verDadosPJ = false;
+			
+			if(new URLSearchParams(window.location.search).get("vertudo") == "on") {
+				verTudo = true;			
+			}
+
+			if(new URLSearchParams(window.location.search).get("vertudo-pf") == "on") {
+				verDadosPF = true;			
+			}
+
+			if(new URLSearchParams(window.location.search).get("vertudo-pj") == "on") {
+				verDadosPJ = true;			
+			}	
 
 			if (verPeriudo === null) {
 				verPeriudo = '2024-02';
@@ -38,7 +53,17 @@
 		</script>			
 		<script type="text/javascript" defer>
 			document.addEventListener('DOMContentLoaded', function () {
-				
+				var checkbox = document.getElementById('vertudo');
+				var div = document.getElementById('exibir-dados');
+
+				checkbox.addEventListener('change', function () {
+					if (checkbox.checked) {
+							div.style.display = 'block';
+					} else {
+							div.style.display = 'none';
+					}
+				});
+
 				document.getElementById('aviso-fechar').addEventListener('click', function () {
 					document.getElementById('aviso').style.display = 'none';
 				});
@@ -51,6 +76,12 @@
 					const avisoElement = document.querySelector('#aviso');
 					avisoElement.style.display = 'block';
 				}
+
+				if(verTudo) {
+					document.getElementById('vertudo').checked = true;
+					checkbox.dispatchEvent(new Event('change'));
+				}
+			
 			});
 		</script>
 		<link rel="preload" href="./js/locations-data-lista.json" as="fetch" crossorigin="anonymous">
@@ -73,8 +104,8 @@
 		<link rel="stylesheet" href="./js/leaflet/leaflet-min.css" />
 		<link rel="stylesheet" href="./css/css-min.css" />
 		<script type="text/javascript" src="./js/leaflet/leaflet.js" defer></script>
-		<script type="text/javascript" src="./js/script-min.js" defer></script>
-		<!--<script type="text/javascript" src="./js/script.js" defer></script>-->
+		<!--<script type="text/javascript" src="./js/script-min.js" defer></script>-->
+		<script type="text/javascript" src="./js/script.js" defer></script>
 		<link rel="icon" type="image/x-icon" href="./favicon.ico">
 	</head>
 	<body>
@@ -100,6 +131,17 @@
 								<label>
 									e operadora <select name="operadora" id="lista-operadora-dados" style="width: 84px;"></select><br>
 								</label>
+								<label>
+									Exibir tudo <input type="checkbox" id="vertudo" name="vertudo" /> - PESADO
+								</label><br>
+								<div id="exibir-dados" style="display: none;">
+									<label>
+										Dados PF <input type="checkbox" id="vertudo-pf" name="vertudo-pf" />
+									</label><br>
+									<label>
+										Dados PJ <input type="checkbox" id="vertudo-pj" name="vertudo-pj" />
+									</label><br>
+								</div>
 								<input type="submit" value="Carregar dados" />
 							</form>
 						</td>
