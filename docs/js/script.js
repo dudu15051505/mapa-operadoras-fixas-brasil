@@ -103,15 +103,23 @@ document.addEventListener('DOMContentLoaded', function() {
 										verOperadora === "starlink"
 				? false : true;
 
-	if(!operadorasPesadas) {
+	if(!operadorasPesadas && verTudo == false) {
 		exibirErro(`<h3>A operadora selecionada possui muitos dados a serem exibidos <br> <br>
 		Selecione manualmente os tipos de dados a serem exibidos no menu <img src="./js/leaflet/images/layers.png"/> para exibir os dados</h3>`);
 	}
 	
-	const carregarMarcacoesMapa = siglasUF.flatMap(sigla => [
-		[operadorasPesadas, `${sigla}-PF`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PF.json`), `${sigla}-PF`, 'green')],
-  		[false, `${sigla}-PJ`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PJ.json`), `${sigla}-PJ`, 'black')]
-	]);
+	if(verTudo == true) {
+		var carregarMarcacoesMapa = siglasUF.flatMap(sigla => [
+				[verDadosPF, `${sigla}-PF`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PF.json`), `${sigla}-PF`, 'green')],
+				[verDadosPJ, `${sigla}-PJ`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PJ.json`), `${sigla}-PJ`, 'black')]
+		]);
+	}	
+	else {
+		var carregarMarcacoesMapa = siglasUF.flatMap(sigla => [
+				[operadorasPesadas, `${sigla}-PF`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PF.json`), `${sigla}-PF`, 'green')],
+				[false, `${sigla}-PJ`, () => addMarkersAndLayers(getJsonPath(verOperadora, `locations-${sigla}-PJ.json`), `${sigla}-PJ`, 'black')]
+		]);
+	}
 
 
 	function deslocarMarcador(coordenada, maxOffset) {
