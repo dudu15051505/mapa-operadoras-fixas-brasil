@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "31748174000160-Luziânia-GO-VERO-Pessoa Física",
+        "cidade": "Luziânia",
+        "uf": "GO",
+        "latitude": -16.253,
+        "longitude": -47.95,
+        "empresa": "VERO",
+        "cnpj": 31748174000160,
+        "data-dados": "2024-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4074
+            }
+        ]
+    },
+    {
+        "identifier": "31748174000160-Novo Gama-GO-VERO-Pessoa Física",
+        "cidade": "Novo Gama",
+        "uf": "GO",
+        "latitude": -16.059185,
+        "longitude": -48.041662,
+        "empresa": "VERO",
+        "cnpj": 31748174000160,
+        "data-dados": "2024-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2907
+            }
+        ]
+    },
+    {
+        "identifier": "31748174000160-Valparaíso de Goiás-GO-VERO-Pessoa Física",
+        "cidade": "Valparaíso de Goiás",
+        "uf": "GO",
+        "latitude": -16.065078,
+        "longitude": -47.975675,
+        "empresa": "VERO",
+        "cnpj": 31748174000160,
+        "data-dados": "2024-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 26158
+            }
+        ]
+    }
+]

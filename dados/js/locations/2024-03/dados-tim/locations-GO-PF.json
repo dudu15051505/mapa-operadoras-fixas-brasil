@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "2421421000111-Anápolis-GO-TIM-Pessoa Física",
+        "cidade": "Anápolis",
+        "uf": "GO",
+        "latitude": -16.328095,
+        "longitude": -48.952958,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6470
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Aparecida de Goiânia-GO-TIM-Pessoa Física",
+        "cidade": "Aparecida de Goiânia",
+        "uf": "GO",
+        "latitude": -16.819804,
+        "longitude": -49.246856,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 17740
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Goiânia-GO-TIM-Pessoa Física",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "latitude": -16.686439,
+        "longitude": -49.264346,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 55967
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "41644220000135-Caxias-MA-EB FIBRA-Pessoa Física",
+        "cidade": "Caxias",
+        "uf": "MA",
+        "latitude": -4.865053,
+        "longitude": -43.361749,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2024-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1190
+            }
+        ]
+    },
+    {
+        "identifier": "41644220000135-Timon-MA-EB FIBRA-Pessoa Física",
+        "cidade": "Timon",
+        "uf": "MA",
+        "latitude": -5.097692,
+        "longitude": -42.83292,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2024-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3522
+            }
+        ]
+    }
+]
