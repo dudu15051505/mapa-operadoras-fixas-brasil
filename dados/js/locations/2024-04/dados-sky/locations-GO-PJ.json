@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "497373000110-Aparecida de Goiânia-GO-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Aparecida de Goiânia",
+        "uf": "GO",
+        "latitude": -16.819804,
+        "longitude": -49.246856,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Goiânia-GO-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "latitude": -16.686439,
+        "longitude": -49.264346,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Mineiros-GO-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Mineiros",
+        "uf": "GO",
+        "latitude": -17.565388,
+        "longitude": -52.553672,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Rio Verde-GO-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Rio Verde",
+        "uf": "GO",
+        "latitude": -17.792266,
+        "longitude": -50.919195,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    }
+]

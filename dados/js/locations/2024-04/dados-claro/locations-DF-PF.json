@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "66970229000167-Brasília-DF-CLARO-Pessoa Física",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2024-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 24104
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 281931
+            }
+        ]
+    }
+]
