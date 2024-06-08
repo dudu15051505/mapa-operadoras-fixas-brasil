@@ -325,6 +325,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 	L.control.layers(baseLayers, overlayMaps).addTo(map);
 
+	L.control.locate().addTo(map);
+
 	loadDataList();
 
 	carregarMarcacoesMapa.forEach(async (valor, index) => {
