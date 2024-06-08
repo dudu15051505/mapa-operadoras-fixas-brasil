@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "1778972000174-Fortaleza-CE-VERO-Pessoa Jurídica",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "VERO",
+        "cnpj": 1778972000174,
+        "data-dados": "2024-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "1778972000174-Horizonte-CE-VERO-Pessoa Jurídica",
+        "cidade": "Horizonte",
+        "uf": "CE",
+        "latitude": -4.120896,
+        "longitude": -38.470674,
+        "empresa": "VERO",
+        "cnpj": 1778972000174,
+        "data-dados": "2024-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    }
+]

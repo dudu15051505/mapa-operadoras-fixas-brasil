@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "40154884000153-Guamaré-RN-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Jurídica",
+        "cidade": "Guamaré",
+        "uf": "RN",
+        "latitude": -5.106194,
+        "longitude": -36.322172,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2024-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "40154884000153-Natal-RN-STARLINK BRAZIL SERVICOS DE INTERNET LTDA.-Pessoa Jurídica",
+        "cidade": "Natal",
+        "uf": "RN",
+        "latitude": -5.793567,
+        "longitude": -35.198604,
+        "empresa": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA.",
+        "cnpj": 40154884000153,
+        "data-dados": "2024-04",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "497373000110-Mossoró-RN-SKY/AT&T-Pessoa Física",
+        "cidade": "Mossoró",
+        "uf": "RN",
+        "latitude": -5.183737,
+        "longitude": -37.347446,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 314
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Parnamirim-RN-SKY/AT&T-Pessoa Física",
+        "cidade": "Parnamirim",
+        "uf": "RN",
+        "latitude": -5.911156,
+        "longitude": -35.271,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 696
+            }
+        ]
+    }
+]
