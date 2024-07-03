@@ -1,0 +1,71 @@
+[
+    {
+        "identifier": "2558157000162-Campo Grande-MS-VIVO-Pessoa Física",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "latitude": -20.448589,
+        "longitude": -54.629463,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 903
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 35399
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Dourados-MS-VIVO-Pessoa Física",
+        "cidade": "Dourados",
+        "uf": "MS",
+        "latitude": -22.223099,
+        "longitude": -54.812043,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1421
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6232
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Três Lagoas-MS-VIVO-Pessoa Física",
+        "cidade": "Três Lagoas",
+        "uf": "MS",
+        "latitude": -20.784853,
+        "longitude": -51.700731,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1783
+            }
+        ]
+    }
+]

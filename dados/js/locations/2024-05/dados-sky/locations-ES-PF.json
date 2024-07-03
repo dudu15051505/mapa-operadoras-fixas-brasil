@@ -1,0 +1,97 @@
+[
+    {
+        "identifier": "497373000110-Cachoeiro de Itapemirim-ES-SKY/AT&T-Pessoa Física",
+        "cidade": "Cachoeiro de Itapemirim",
+        "uf": "ES",
+        "latitude": -20.846212,
+        "longitude": -41.119829,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 637
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Guarapari-ES-SKY/AT&T-Pessoa Física",
+        "cidade": "Guarapari",
+        "uf": "ES",
+        "latitude": -20.677248,
+        "longitude": -40.509253,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 634
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Nova Venécia-ES-SKY/AT&T-Pessoa Física",
+        "cidade": "Nova Venécia",
+        "uf": "ES",
+        "latitude": -18.715017,
+        "longitude": -40.405273,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 42
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-São Gabriel da Palha-ES-SKY/AT&T-Pessoa Física",
+        "cidade": "São Gabriel da Palha",
+        "uf": "ES",
+        "latitude": -19.01819,
+        "longitude": -40.536487,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Viana-ES-SKY/AT&T-Pessoa Física",
+        "cidade": "Viana",
+        "uf": "ES",
+        "latitude": -20.382503,
+        "longitude": -40.493292,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 46
+            }
+        ]
+    }
+]

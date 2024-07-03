@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "497373000110-Cascavel-PR-SKY/AT&T-Pessoa Física",
+        "cidade": "Cascavel",
+        "uf": "PR",
+        "latitude": -24.957301,
+        "longitude": -53.459005,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 64
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Foz do Iguaçu-PR-SKY/AT&T-Pessoa Física",
+        "cidade": "Foz do Iguaçu",
+        "uf": "PR",
+        "latitude": -25.542748,
+        "longitude": -54.582689,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 49
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Maringá-PR-SKY/AT&T-Pessoa Física",
+        "cidade": "Maringá",
+        "uf": "PR",
+        "latitude": -23.420545,
+        "longitude": -51.933298,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 66
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Ponta Grossa-PR-SKY/AT&T-Pessoa Física",
+        "cidade": "Ponta Grossa",
+        "uf": "PR",
+        "latitude": -25.091622,
+        "longitude": -50.166787,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 47
+            }
+        ]
+    }
+]
