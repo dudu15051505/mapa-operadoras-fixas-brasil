@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "7714104000107-Campo Grande-MS-EB FIBRA-Pessoa Física",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "latitude": -20.448589,
+        "longitude": -54.629463,
+        "empresa": "EB FIBRA",
+        "cnpj": 7714104000107,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29564
+            }
+        ]
+    },
+    {
+        "identifier": "7714104000107-Dourados-MS-EB FIBRA-Pessoa Física",
+        "cidade": "Dourados",
+        "uf": "MS",
+        "latitude": -22.223099,
+        "longitude": -54.812043,
+        "empresa": "EB FIBRA",
+        "cnpj": 7714104000107,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1230
+            }
+        ]
+    },
+    {
+        "identifier": "41644220000135-Campo Grande-MS-EB FIBRA-Pessoa Física",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "latitude": -20.448589,
+        "longitude": -54.629463,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "41644220000135-Altos-PI-EB FIBRA-Pessoa Física",
+        "cidade": "Altos",
+        "uf": "PI",
+        "latitude": -5.038879,
+        "longitude": -42.46116,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1194
+            }
+        ]
+    },
+    {
+        "identifier": "41644220000135-Parnaíba-PI-EB FIBRA-Pessoa Física",
+        "cidade": "Parnaíba",
+        "uf": "PI",
+        "latitude": -2.905847,
+        "longitude": -41.775388,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7169
+            }
+        ]
+    },
+    {
+        "identifier": "41644220000135-Picos-PI-EB FIBRA-Pessoa Física",
+        "cidade": "Picos",
+        "uf": "PI",
+        "latitude": -7.077213,
+        "longitude": -41.467003,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "41644220000135-Teresina-PI-EB FIBRA-Pessoa Física",
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 17805
+            }
+        ]
+    }
+]

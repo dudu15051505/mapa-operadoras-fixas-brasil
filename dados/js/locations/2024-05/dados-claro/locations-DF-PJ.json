@@ -1,0 +1,100 @@
+[
+    {
+        "identifier": "40432544000147-Brasília-DF-CLARO-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CLARO",
+        "cnpj": 40432544000147,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 22
+            },
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1514
+            },
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 38
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1510
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5335
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 78
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 254
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 127
+            },
+            {
+                "tecnologia": "VSAT",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 635
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Brasília-DF-CLARO-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 808
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 13577
+            }
+        ]
+    }
+]

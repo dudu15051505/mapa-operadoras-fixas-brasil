@@ -1,0 +1,109 @@
+[
+    {
+        "identifier": "2558157000162-Ariquemes-RO-VIVO-Pessoa Jurídica",
+        "cidade": "Ariquemes",
+        "uf": "RO",
+        "latitude": -9.905711,
+        "longitude": -63.032516,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Cacoal-RO-VIVO-Pessoa Jurídica",
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Chupinguaia-RO-VIVO-Pessoa Jurídica",
+        "cidade": "Chupinguaia",
+        "uf": "RO",
+        "latitude": -12.561115,
+        "longitude": -60.887694,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Porto Velho-RO-VIVO-Pessoa Jurídica",
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Vilhena-RO-VIVO-Pessoa Jurídica",
+        "cidade": "Vilhena",
+        "uf": "RO",
+        "latitude": -12.750183,
+        "longitude": -60.148847,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]

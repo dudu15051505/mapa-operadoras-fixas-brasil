@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "41644220000135-Manaus-AM-EB FIBRA-Pessoa Jurídica",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "41644220000135-Parintins-AM-EB FIBRA-Pessoa Jurídica",
+        "cidade": "Parintins",
+        "uf": "AM",
+        "latitude": -2.637412,
+        "longitude": -56.729045,
+        "empresa": "EB FIBRA",
+        "cnpj": 41644220000135,
+        "data-dados": "2024-05",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]
