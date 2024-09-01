@@ -1,0 +1,84 @@
+[
+    {
+        "identifier": "66970229000167-Araguaína-TO-CLARO-Pessoa Física",
+        "cidade": "Araguaína",
+        "uf": "TO",
+        "latitude": -7.192375,
+        "longitude": -48.204402,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2024-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3413
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Gurupi-TO-CLARO-Pessoa Física",
+        "cidade": "Gurupi",
+        "uf": "TO",
+        "latitude": -11.72794,
+        "longitude": -49.068046,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2024-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2640
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Palmas-TO-CLARO-Pessoa Física",
+        "cidade": "Palmas",
+        "uf": "TO",
+        "latitude": -10.239973,
+        "longitude": -48.355751,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2024-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 780
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 12848
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Paraíso do Tocantins-TO-CLARO-Pessoa Física",
+        "cidade": "Paraíso do Tocantins",
+        "uf": "TO",
+        "latitude": -10.174998,
+        "longitude": -48.882269,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2024-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 803
+            }
+        ]
+    }
+]
