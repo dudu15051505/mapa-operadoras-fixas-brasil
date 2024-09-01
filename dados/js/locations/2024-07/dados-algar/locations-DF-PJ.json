@@ -1,0 +1,70 @@
+[
+    {
+        "identifier": "5872814000130-Brasília-DF-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2024-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1238
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 779
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1121
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 132
+            }
+        ]
+    },
+    {
+        "identifier": "71208516000174-Brasília-DF-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2024-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 253
+            }
+        ]
+    }
+]

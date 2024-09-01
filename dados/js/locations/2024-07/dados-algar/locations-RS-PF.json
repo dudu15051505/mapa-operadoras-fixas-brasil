@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "5872814000130-Cachoeirinha-RS-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Cachoeirinha",
+        "uf": "RS",
+        "latitude": -29.947222,
+        "longitude": -51.101606,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2024-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Esteio-RS-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Esteio",
+        "uf": "RS",
+        "latitude": -29.851963,
+        "longitude": -51.184065,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2024-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-Porto Alegre-RS-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Porto Alegre",
+        "uf": "RS",
+        "latitude": -30.031771,
+        "longitude": -51.206533,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2024-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "5872814000130-São Leopoldo-RS-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "São Leopoldo",
+        "uf": "RS",
+        "latitude": -29.754494,
+        "longitude": -51.149773,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 5872814000130,
+        "data-dados": "2024-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "497373000110-Garanhuns-PE-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Garanhuns",
+        "uf": "PE",
+        "latitude": -8.882434,
+        "longitude": -36.496567,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Olinda-PE-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Olinda",
+        "uf": "PE",
+        "latitude": -8.010166,
+        "longitude": -34.854504,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Recife-PE-SKY/AT&T-Pessoa Jurídica",
+        "cidade": "Recife",
+        "uf": "PE",
+        "latitude": -8.046658,
+        "longitude": -34.877065,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2024-07",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            }
+        ]
+    }
+]
