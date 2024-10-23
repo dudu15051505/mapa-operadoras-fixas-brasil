@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "71208516000174-Paranaíba-MS-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Paranaíba",
+        "uf": "MS",
+        "latitude": -19.674648,
+        "longitude": -51.190863,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 41
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5147
+            }
+        ]
+    }
+]

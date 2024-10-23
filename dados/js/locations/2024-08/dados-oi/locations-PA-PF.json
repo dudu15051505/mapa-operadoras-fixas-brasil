@@ -1,0 +1,837 @@
+[
+    {
+        "identifier": "76535764000143-Abaetetuba-PA-OI-Pessoa Física",
+        "cidade": "Abaetetuba",
+        "uf": "PA",
+        "latitude": -1.721828,
+        "longitude": -48.878843,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Ananindeua-PA-OI-Pessoa Física",
+        "cidade": "Ananindeua",
+        "uf": "PA",
+        "latitude": -1.363914,
+        "longitude": -48.374298,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 34327
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Barcarena-PA-OI-Pessoa Física",
+        "cidade": "Barcarena",
+        "uf": "PA",
+        "latitude": -1.511872,
+        "longitude": -48.619529,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Belém-PA-OI-Pessoa Física",
+        "cidade": "Belém",
+        "uf": "PA",
+        "latitude": -1.455396,
+        "longitude": -48.489756,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 25
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 91578
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Benevides-PA-OI-Pessoa Física",
+        "cidade": "Benevides",
+        "uf": "PA",
+        "latitude": -1.361829,
+        "longitude": -48.243408,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Bom Jesus do Tocantins-PA-OI-Pessoa Física",
+        "cidade": "Bom Jesus do Tocantins",
+        "uf": "PA",
+        "latitude": -5.042402,
+        "longitude": -48.604701,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Bragança-PA-OI-Pessoa Física",
+        "cidade": "Bragança",
+        "uf": "PA",
+        "latitude": -1.061263,
+        "longitude": -46.7826,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 34
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Capanema-PA-OI-Pessoa Física",
+        "cidade": "Capanema",
+        "uf": "PA",
+        "latitude": -1.205291,
+        "longitude": -47.177778,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Castanhal-PA-OI-Pessoa Física",
+        "cidade": "Castanhal",
+        "uf": "PA",
+        "latitude": -1.297971,
+        "longitude": -47.916742,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 951
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Conceição do Araguaia-PA-OI-Pessoa Física",
+        "cidade": "Conceição do Araguaia",
+        "uf": "PA",
+        "latitude": -8.261356,
+        "longitude": -49.268913,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Curuçá-PA-OI-Pessoa Física",
+        "cidade": "Curuçá",
+        "uf": "PA",
+        "latitude": -0.733214,
+        "longitude": -47.85148,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Dom Eliseu-PA-OI-Pessoa Física",
+        "cidade": "Dom Eliseu",
+        "uf": "PA",
+        "latitude": -4.283786,
+        "longitude": -47.505688,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Igarapé-Miri-PA-OI-Pessoa Física",
+        "cidade": "Igarapé-Miri",
+        "uf": "PA",
+        "latitude": -1.975326,
+        "longitude": -48.957453,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Ipixuna do Pará-PA-OI-Pessoa Física",
+        "cidade": "Ipixuna do Pará",
+        "uf": "PA",
+        "latitude": -2.559921,
+        "longitude": -47.505911,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Jacundá-PA-OI-Pessoa Física",
+        "cidade": "Jacundá",
+        "uf": "PA",
+        "latitude": -4.446173,
+        "longitude": -49.115272,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Marabá-PA-OI-Pessoa Física",
+        "cidade": "Marabá",
+        "uf": "PA",
+        "latitude": -5.38075,
+        "longitude": -49.132672,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7589
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Maracanã-PA-OI-Pessoa Física",
+        "cidade": "Maracanã",
+        "uf": "PA",
+        "latitude": -0.778899,
+        "longitude": -47.451983,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Moju-PA-OI-Pessoa Física",
+        "cidade": "Moju",
+        "uf": "PA",
+        "latitude": -1.889926,
+        "longitude": -48.766765,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Mãe do Rio-PA-OI-Pessoa Física",
+        "cidade": "Mãe do Rio",
+        "uf": "PA",
+        "latitude": -2.056833,
+        "longitude": -47.560144,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 15
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Ourilândia do Norte-PA-OI-Pessoa Física",
+        "cidade": "Ourilândia do Norte",
+        "uf": "PA",
+        "latitude": -6.752905,
+        "longitude": -51.085792,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Pacajá-PA-OI-Pessoa Física",
+        "cidade": "Pacajá",
+        "uf": "PA",
+        "latitude": -3.837314,
+        "longitude": -50.638625,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Paragominas-PA-OI-Pessoa Física",
+        "cidade": "Paragominas",
+        "uf": "PA",
+        "latitude": -3.002116,
+        "longitude": -47.352692,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 35
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Parauapebas-PA-OI-Pessoa Física",
+        "cidade": "Parauapebas",
+        "uf": "PA",
+        "latitude": -6.067812,
+        "longitude": -49.903733,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Redenção-PA-OI-Pessoa Física",
+        "cidade": "Redenção",
+        "uf": "PA",
+        "latitude": -8.025294,
+        "longitude": -50.031687,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Rio Maria-PA-OI-Pessoa Física",
+        "cidade": "Rio Maria",
+        "uf": "PA",
+        "latitude": -7.312358,
+        "longitude": -50.037875,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Rondon do Pará-PA-OI-Pessoa Física",
+        "cidade": "Rondon do Pará",
+        "uf": "PA",
+        "latitude": -4.777927,
+        "longitude": -48.066966,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Santa Bárbara do Pará-PA-OI-Pessoa Física",
+        "cidade": "Santa Bárbara do Pará",
+        "uf": "PA",
+        "latitude": -1.226144,
+        "longitude": -48.295101,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Santa Izabel do Pará-PA-OI-Pessoa Física",
+        "cidade": "Santa Izabel do Pará",
+        "uf": "PA",
+        "latitude": -1.298625,
+        "longitude": -48.15554,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Santa Maria do Pará-PA-OI-Pessoa Física",
+        "cidade": "Santa Maria do Pará",
+        "uf": "PA",
+        "latitude": -1.353918,
+        "longitude": -47.571166,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 24
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Santarém-PA-OI-Pessoa Física",
+        "cidade": "Santarém",
+        "uf": "PA",
+        "latitude": -2.438489,
+        "longitude": -54.699611,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Santo Antônio do Tauá-PA-OI-Pessoa Física",
+        "cidade": "Santo Antônio do Tauá",
+        "uf": "PA",
+        "latitude": -1.1522,
+        "longitude": -48.131446,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-São João de Pirabas-PA-OI-Pessoa Física",
+        "cidade": "São João de Pirabas",
+        "uf": "PA",
+        "latitude": -0.780222,
+        "longitude": -47.181036,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-São Miguel do Guamá-PA-OI-Pessoa Física",
+        "cidade": "São Miguel do Guamá",
+        "uf": "PA",
+        "latitude": -1.613072,
+        "longitude": -47.478382,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Ulianópolis-PA-OI-Pessoa Física",
+        "cidade": "Ulianópolis",
+        "uf": "PA",
+        "latitude": -3.750074,
+        "longitude": -47.489239,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Vigia-PA-OI-Pessoa Física",
+        "cidade": "Vigia",
+        "uf": "PA",
+        "latitude": -0.861194,
+        "longitude": -48.138649,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Vitória do Xingu-PA-OI-Pessoa Física",
+        "cidade": "Vitória do Xingu",
+        "uf": "PA",
+        "latitude": -2.879219,
+        "longitude": -52.008764,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Xinguara-PA-OI-Pessoa Física",
+        "cidade": "Xinguara",
+        "uf": "PA",
+        "latitude": -7.098301,
+        "longitude": -49.943672,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 10
+            }
+        ]
+    }
+]
