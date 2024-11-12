@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "66970229000167-Rio Branco-AC-CLARO-Pessoa Física",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2024-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5199
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 13399
+            }
+        ]
+    }
+]

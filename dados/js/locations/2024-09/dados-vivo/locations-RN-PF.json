@@ -1,0 +1,71 @@
+[
+    {
+        "identifier": "2558157000162-Mossoró-RN-VIVO-Pessoa Física",
+        "cidade": "Mossoró",
+        "uf": "RN",
+        "latitude": -5.183737,
+        "longitude": -37.347446,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2478
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Natal-RN-VIVO-Pessoa Física",
+        "cidade": "Natal",
+        "uf": "RN",
+        "latitude": -5.793567,
+        "longitude": -35.198604,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 72
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4177
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Parnamirim-RN-VIVO-Pessoa Física",
+        "cidade": "Parnamirim",
+        "uf": "RN",
+        "latitude": -5.911156,
+        "longitude": -35.271,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5305
+            }
+        ]
+    }
+]
