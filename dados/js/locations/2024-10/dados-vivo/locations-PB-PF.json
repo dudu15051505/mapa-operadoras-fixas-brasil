@@ -1,0 +1,90 @@
+[
+    {
+        "identifier": "2558157000162-Cabedelo-PB-VIVO-Pessoa Física",
+        "cidade": "Cabedelo",
+        "uf": "PB",
+        "latitude": -6.987314,
+        "longitude": -34.828409,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 792
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Campina Grande-PB-VIVO-Pessoa Física",
+        "cidade": "Campina Grande",
+        "uf": "PB",
+        "latitude": -7.221958,
+        "longitude": -35.873144,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1071
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5191
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-João Pessoa-PB-VIVO-Pessoa Física",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 24
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14863
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Patos-PB-VIVO-Pessoa Física",
+        "cidade": "Patos",
+        "uf": "PB",
+        "latitude": -7.017427,
+        "longitude": -37.274702,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2024-10",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2744
+            }
+        ]
+    }
+]
