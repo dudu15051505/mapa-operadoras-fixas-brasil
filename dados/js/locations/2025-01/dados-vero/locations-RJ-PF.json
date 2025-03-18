@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "31748174000160-Campos dos Goytacazes-RJ-VERO-Pessoa Física",
+        "cidade": "Campos dos Goytacazes",
+        "uf": "RJ",
+        "latitude": -21.762171,
+        "longitude": -41.318055,
+        "empresa": "VERO",
+        "cnpj": 31748174000160,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "31748174000160-Rio de Janeiro-RJ-VERO-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "VERO",
+        "cnpj": 31748174000160,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "2421421000111-Baixa Grande do Ribeiro-PI-TIM-Pessoa Jurídica",
+        "cidade": "Baixa Grande do Ribeiro",
+        "uf": "PI",
+        "latitude": -7.849031,
+        "longitude": -45.218977,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Itaueira-PI-TIM-Pessoa Jurídica",
+        "cidade": "Itaueira",
+        "uf": "PI",
+        "latitude": -7.59989,
+        "longitude": -43.0249,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Teresina-PI-TIM-Pessoa Jurídica",
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    }
+]

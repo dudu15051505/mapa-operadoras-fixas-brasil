@@ -1,0 +1,103 @@
+[
+    {
+        "identifier": "2421421000111-Aracaju-SE-TIM-Pessoa Jurídica",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Boquim-SE-TIM-Pessoa Jurídica",
+        "cidade": "Boquim",
+        "uf": "SE",
+        "latitude": -11.13972,
+        "longitude": -37.619466,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Capela-SE-TIM-Pessoa Jurídica",
+        "cidade": "Capela",
+        "uf": "SE",
+        "latitude": -10.506928,
+        "longitude": -37.062847,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Itabaianinha-SE-TIM-Pessoa Jurídica",
+        "cidade": "Itabaianinha",
+        "uf": "SE",
+        "latitude": -11.269268,
+        "longitude": -37.787505,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Maruim-SE-TIM-Pessoa Jurídica",
+        "cidade": "Maruim",
+        "uf": "SE",
+        "latitude": -10.730762,
+        "longitude": -37.085598,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]
