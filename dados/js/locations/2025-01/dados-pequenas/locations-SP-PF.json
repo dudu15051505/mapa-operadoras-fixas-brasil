@@ -101,12 +101,12 @@
         ]
     },
     {
-        "identifier": "356249000134-Barrinha-SP-ATILIO MARCOS MARCARI LTDA-Pessoa Física",
+        "identifier": "356249000134-Barrinha-SP-Atilio Marcos Marcari Ltda-Pessoa Física",
         "cidade": "Barrinha",
         "uf": "SP",
         "latitude": -21.186374,
         "longitude": -48.163614,
-        "empresa": "ATILIO MARCOS MARCARI LTDA",
+        "empresa": "Atilio Marcos Marcari Ltda",
         "cnpj": 356249000134,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -126,12 +126,12 @@
         ]
     },
     {
-        "identifier": "356249000134-Jaboticabal-SP-ATILIO MARCOS MARCARI LTDA-Pessoa Física",
+        "identifier": "356249000134-Jaboticabal-SP-Atilio Marcos Marcari Ltda-Pessoa Física",
         "cidade": "Jaboticabal",
         "uf": "SP",
         "latitude": -21.252037,
         "longitude": -48.325223,
-        "empresa": "ATILIO MARCOS MARCARI LTDA",
+        "empresa": "Atilio Marcos Marcari Ltda",
         "cnpj": 356249000134,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -151,12 +151,12 @@
         ]
     },
     {
-        "identifier": "356249000134-Pitangueiras-SP-ATILIO MARCOS MARCARI LTDA-Pessoa Física",
+        "identifier": "356249000134-Pitangueiras-SP-Atilio Marcos Marcari Ltda-Pessoa Física",
         "cidade": "Pitangueiras",
         "uf": "SP",
         "latitude": -21.013203,
         "longitude": -48.220951,
-        "empresa": "ATILIO MARCOS MARCARI LTDA",
+        "empresa": "Atilio Marcos Marcari Ltda",
         "cnpj": 356249000134,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -170,12 +170,12 @@
         ]
     },
     {
-        "identifier": "356249000134-Sertãozinho-SP-ATILIO MARCOS MARCARI LTDA-Pessoa Física",
+        "identifier": "356249000134-Sertãozinho-SP-Atilio Marcos Marcari Ltda-Pessoa Física",
         "cidade": "Sertãozinho",
         "uf": "SP",
         "latitude": -21.131596,
         "longitude": -47.987496,
-        "empresa": "ATILIO MARCOS MARCARI LTDA",
+        "empresa": "Atilio Marcos Marcari Ltda",
         "cnpj": 356249000134,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -3396,6 +3396,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 387
+            }
+        ]
+    },
+    {
+        "identifier": "3845775000156-São Bento do Sapucaí-SP-INFO HOUSE INFORMÁTICA E PAPEIS LTDA - ME-Pessoa Física",
+        "cidade": "São Bento do Sapucaí",
+        "uf": "SP",
+        "latitude": -22.683744,
+        "longitude": -45.728677,
+        "empresa": "INFO HOUSE INFORMÁTICA E PAPEIS LTDA - ME",
+        "cnpj": 3845775000156,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 228
             }
         ]
     },
@@ -13702,6 +13721,63 @@
         ]
     },
     {
+        "identifier": "8319347000103-Cachoeira Paulista-SP-Carlos Eduardo de Souza Faury-Pessoa Física",
+        "cidade": "Cachoeira Paulista",
+        "uf": "SP",
+        "latitude": -22.666498,
+        "longitude": -45.015384,
+        "empresa": "Carlos Eduardo de Souza Faury",
+        "cnpj": 8319347000103,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8319347000103-Cruzeiro-SP-Carlos Eduardo de Souza Faury-Pessoa Física",
+        "cidade": "Cruzeiro",
+        "uf": "SP",
+        "latitude": -22.572764,
+        "longitude": -44.96896,
+        "empresa": "Carlos Eduardo de Souza Faury",
+        "cnpj": 8319347000103,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "8339512000199-Presidente Prudente-SP-GRANDI SISTEMAS DE INFORMACOES LTDA - ME-Pessoa Física",
+        "cidade": "Presidente Prudente",
+        "uf": "SP",
+        "latitude": -22.120654,
+        "longitude": -51.392526,
+        "empresa": "GRANDI SISTEMAS DE INFORMACOES LTDA - ME",
+        "cnpj": 8339512000199,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 325
+            }
+        ]
+    },
+    {
         "identifier": "8390879000137-Ibitinga-SP-OLIVEIRA & FERNANDES TELECOMUNICACOES LTDA.-Pessoa Física",
         "cidade": "Ibitinga",
         "uf": "SP",
@@ -16265,6 +16341,25 @@
         ]
     },
     {
+        "identifier": "8885747000186-Barueri-SP-NO BREAK ESPACO CYBERNETICO LTDA - ME-Pessoa Física",
+        "cidade": "Barueri",
+        "uf": "SP",
+        "latitude": -23.505689,
+        "longitude": -46.879042,
+        "empresa": "NO BREAK ESPACO CYBERNETICO LTDA - ME",
+        "cnpj": 8885747000186,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1055
+            }
+        ]
+    },
+    {
         "identifier": "8900654000183-Ouro Verde-SP-RODRIGUES E NECKEL LTDA - ME-Pessoa Física",
         "cidade": "Ouro Verde",
         "uf": "SP",
@@ -16392,6 +16487,88 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 16
+            }
+        ]
+    },
+    {
+        "identifier": "8948711000102-Campinas-SP-MPC TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "latitude": -22.905346,
+        "longitude": -47.06595,
+        "empresa": "MPC TELECOMUNICACOES LTDA",
+        "cnpj": 8948711000102,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 747
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 74
+            }
+        ]
+    },
+    {
+        "identifier": "8948711000102-Jaguariúna-SP-MPC TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Jaguariúna",
+        "uf": "SP",
+        "latitude": -22.70374,
+        "longitude": -46.985062,
+        "empresa": "MPC TELECOMUNICACOES LTDA",
+        "cnpj": 8948711000102,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8948711000102-Paulínia-SP-MPC TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Paulínia",
+        "uf": "SP",
+        "latitude": -22.754178,
+        "longitude": -47.148776,
+        "empresa": "MPC TELECOMUNICACOES LTDA",
+        "cnpj": 8948711000102,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "8948711000102-Sumaré-SP-MPC TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Sumaré",
+        "uf": "SP",
+        "latitude": -22.820416,
+        "longitude": -47.272823,
+        "empresa": "MPC TELECOMUNICACOES LTDA",
+        "cnpj": 8948711000102,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 85
             }
         ]
     },
@@ -16922,6 +17099,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 9
+            }
+        ]
+    },
+    {
+        "identifier": "9002408000177-Itanhaém-SP-A. B. DOS SANTOS ANTENAS-Pessoa Física",
+        "cidade": "Itanhaém",
+        "uf": "SP",
+        "latitude": -24.173633,
+        "longitude": -46.787986,
+        "empresa": "A. B. DOS SANTOS ANTENAS",
+        "cnpj": 9002408000177,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 242
             }
         ]
     },
@@ -22829,6 +23025,25 @@
         ]
     },
     {
+        "identifier": "10780688000123-Presidente Bernardes-SP-J.l. de S.A. Silva Telecomunicacoes-Pessoa Física",
+        "cidade": "Presidente Bernardes",
+        "uf": "SP",
+        "latitude": -22.008198,
+        "longitude": -51.556507,
+        "empresa": "J.l. de S.A. Silva Telecomunicacoes",
+        "cnpj": 10780688000123,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 157
+            }
+        ]
+    },
+    {
         "identifier": "10783612000151-Barrinha-SP-A. S. SUPRIMENTOS DE INFORMATICA LTDA-ME-Pessoa Física",
         "cidade": "Barrinha",
         "uf": "SP",
@@ -22863,6 +23078,82 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "10806505000100-Ferraz de Vasconcelos-SP-GALERA NERD LTDA-Pessoa Física",
+        "cidade": "Ferraz de Vasconcelos",
+        "uf": "SP",
+        "latitude": -23.541056,
+        "longitude": -46.37097,
+        "empresa": "GALERA NERD LTDA",
+        "cnpj": 10806505000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "10806505000100-Itaquaquecetuba-SP-GALERA NERD LTDA-Pessoa Física",
+        "cidade": "Itaquaquecetuba",
+        "uf": "SP",
+        "latitude": -23.483481,
+        "longitude": -46.345724,
+        "empresa": "GALERA NERD LTDA",
+        "cnpj": 10806505000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "10806505000100-Poá-SP-GALERA NERD LTDA-Pessoa Física",
+        "cidade": "Poá",
+        "uf": "SP",
+        "latitude": -23.533285,
+        "longitude": -46.347292,
+        "empresa": "GALERA NERD LTDA",
+        "cnpj": 10806505000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "10806505000100-São Paulo-SP-GALERA NERD LTDA-Pessoa Física",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "GALERA NERD LTDA",
+        "cnpj": 10806505000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
             }
         ]
     },
@@ -23172,6 +23463,63 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 129
+            }
+        ]
+    },
+    {
+        "identifier": "10897967000171-Fernando Prestes-SP-Maria Luciana Machado & Cia Ltda-Pessoa Física",
+        "cidade": "Fernando Prestes",
+        "uf": "SP",
+        "latitude": -21.266061,
+        "longitude": -48.687384,
+        "empresa": "Maria Luciana Machado & Cia Ltda",
+        "cnpj": 10897967000171,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "10897967000171-Santa Adélia-SP-Maria Luciana Machado & Cia Ltda-Pessoa Física",
+        "cidade": "Santa Adélia",
+        "uf": "SP",
+        "latitude": -21.242662,
+        "longitude": -48.80634,
+        "empresa": "Maria Luciana Machado & Cia Ltda",
+        "cnpj": 10897967000171,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 446
+            }
+        ]
+    },
+    {
+        "identifier": "10897967000171-Taquaritinga-SP-Maria Luciana Machado & Cia Ltda-Pessoa Física",
+        "cidade": "Taquaritinga",
+        "uf": "SP",
+        "latitude": -21.404861,
+        "longitude": -48.510345,
+        "empresa": "Maria Luciana Machado & Cia Ltda",
+        "cnpj": 10897967000171,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -24036,6 +24384,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 219
+            }
+        ]
+    },
+    {
+        "identifier": "11044991000120-São Paulo-SP-RB7 TELECOMUNICACOES EIRELI-Pessoa Física",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "RB7 TELECOMUNICACOES EIRELI",
+        "cnpj": 11044991000120,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 62
             }
         ]
     },
@@ -24968,6 +25335,101 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "11278588000166-Diadema-SP-Sothis Tecnologia e Serviços de Telecomunicações Ltda-Pessoa Física",
+        "cidade": "Diadema",
+        "uf": "SP",
+        "latitude": -23.681347,
+        "longitude": -46.62052,
+        "empresa": "Sothis Tecnologia e Serviços de Telecomunicações Ltda",
+        "cnpj": 11278588000166,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "11278588000166-Santo André-SP-Sothis Tecnologia e Serviços de Telecomunicações Ltda-Pessoa Física",
+        "cidade": "Santo André",
+        "uf": "SP",
+        "latitude": -23.67373,
+        "longitude": -46.543154,
+        "empresa": "Sothis Tecnologia e Serviços de Telecomunicações Ltda",
+        "cnpj": 11278588000166,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "11278588000166-São Bernardo do Campo-SP-Sothis Tecnologia e Serviços de Telecomunicações Ltda-Pessoa Física",
+        "cidade": "São Bernardo do Campo",
+        "uf": "SP",
+        "latitude": -23.691412,
+        "longitude": -46.564617,
+        "empresa": "Sothis Tecnologia e Serviços de Telecomunicações Ltda",
+        "cnpj": 11278588000166,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 60
+            }
+        ]
+    },
+    {
+        "identifier": "11278588000166-São Caetano do Sul-SP-Sothis Tecnologia e Serviços de Telecomunicações Ltda-Pessoa Física",
+        "cidade": "São Caetano do Sul",
+        "uf": "SP",
+        "latitude": -23.62287,
+        "longitude": -46.554797,
+        "empresa": "Sothis Tecnologia e Serviços de Telecomunicações Ltda",
+        "cnpj": 11278588000166,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "11278588000166-São Paulo-SP-Sothis Tecnologia e Serviços de Telecomunicações Ltda-Pessoa Física",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "Sothis Tecnologia e Serviços de Telecomunicações Ltda",
+        "cnpj": 11278588000166,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 17
             }
         ]
     },
@@ -26190,6 +26652,63 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "11715046000103-Barueri-SP-WCM SOLUÇÕES EM TELECOM EIRELI-Pessoa Física",
+        "cidade": "Barueri",
+        "uf": "SP",
+        "latitude": -23.505689,
+        "longitude": -46.879042,
+        "empresa": "WCM SOLUÇÕES EM TELECOM EIRELI",
+        "cnpj": 11715046000103,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "11715046000103-Itapevi-SP-WCM SOLUÇÕES EM TELECOM EIRELI-Pessoa Física",
+        "cidade": "Itapevi",
+        "uf": "SP",
+        "latitude": -23.548774,
+        "longitude": -46.932747,
+        "empresa": "WCM SOLUÇÕES EM TELECOM EIRELI",
+        "cnpj": 11715046000103,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 107
+            }
+        ]
+    },
+    {
+        "identifier": "11715046000103-Osasco-SP-WCM SOLUÇÕES EM TELECOM EIRELI-Pessoa Física",
+        "cidade": "Osasco",
+        "uf": "SP",
+        "latitude": -23.53239,
+        "longitude": -46.791555,
+        "empresa": "WCM SOLUÇÕES EM TELECOM EIRELI",
+        "cnpj": 11715046000103,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 872
             }
         ]
     },
@@ -29681,6 +30200,81 @@
         ]
     },
     {
+        "identifier": "13358980000140-Araçatuba-SP-TCPNET-INFORMATICA E COMUNICACAO MULTIMIDIA LTDA - ME-Pessoa Física",
+        "cidade": "Araçatuba",
+        "uf": "SP",
+        "latitude": -21.207648,
+        "longitude": -50.440106,
+        "empresa": "TCPNET-INFORMATICA E COMUNICACAO MULTIMIDIA LTDA - ME",
+        "cnpj": 13358980000140,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 108
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 30
+            }
+        ]
+    },
+    {
+        "identifier": "13358980000140-Glicério-SP-TCPNET-INFORMATICA E COMUNICACAO MULTIMIDIA LTDA - ME-Pessoa Física",
+        "cidade": "Glicério",
+        "uf": "SP",
+        "latitude": -21.381193,
+        "longitude": -50.212269,
+        "empresa": "TCPNET-INFORMATICA E COMUNICACAO MULTIMIDIA LTDA - ME",
+        "cnpj": 13358980000140,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 135
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "13358980000140-Santo Antônio do Aracanguá-SP-TCPNET-INFORMATICA E COMUNICACAO MULTIMIDIA LTDA - ME-Pessoa Física",
+        "cidade": "Santo Antônio do Aracanguá",
+        "uf": "SP",
+        "latitude": -20.933114,
+        "longitude": -50.497979,
+        "empresa": "TCPNET-INFORMATICA E COMUNICACAO MULTIMIDIA LTDA - ME",
+        "cnpj": 13358980000140,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 116
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 35
+            }
+        ]
+    },
+    {
         "identifier": "13382694000110-Santo André-SP-Itminds Consultoria em Tecnologia da Informacao Ltda-Pessoa Física",
         "cidade": "Santo André",
         "uf": "SP",
@@ -30827,25 +31421,25 @@
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 184
+                "quantidade-acesso": 186
             },
             {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 108
+                "quantidade-acesso": 160
             },
             {
                 "tecnologia": "Wi-Fi",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 237
+                "quantidade-acesso": 471
             },
             {
                 "tecnologia": "Wi-Fi",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 114
+                "quantidade-acesso": 105
             }
         ]
     },
@@ -31360,12 +31954,12 @@
         ]
     },
     {
-        "identifier": "14672255000105-Embu das Artes-SP-A. C. ALVES DE SOUZA SERVIÇO DE INTERNET-Pessoa Física",
+        "identifier": "14672255000105-Embu das Artes-SP-EXPRESS NETWORK LTDA-Pessoa Física",
         "cidade": "Embu das Artes",
         "uf": "SP",
         "latitude": -23.643717,
         "longitude": -46.858776,
-        "empresa": "A. C. ALVES DE SOUZA SERVIÇO DE INTERNET",
+        "empresa": "EXPRESS NETWORK LTDA",
         "cnpj": 14672255000105,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -31379,12 +31973,12 @@
         ]
     },
     {
-        "identifier": "14672255000105-Itapecerica da Serra-SP-A. C. ALVES DE SOUZA SERVIÇO DE INTERNET-Pessoa Física",
+        "identifier": "14672255000105-Itapecerica da Serra-SP-EXPRESS NETWORK LTDA-Pessoa Física",
         "cidade": "Itapecerica da Serra",
         "uf": "SP",
         "latitude": -23.716135,
         "longitude": -46.857193,
-        "empresa": "A. C. ALVES DE SOUZA SERVIÇO DE INTERNET",
+        "empresa": "EXPRESS NETWORK LTDA",
         "cnpj": 14672255000105,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -31398,12 +31992,12 @@
         ]
     },
     {
-        "identifier": "14672255000105-São Paulo-SP-A. C. ALVES DE SOUZA SERVIÇO DE INTERNET-Pessoa Física",
+        "identifier": "14672255000105-São Paulo-SP-EXPRESS NETWORK LTDA-Pessoa Física",
         "cidade": "São Paulo",
         "uf": "SP",
         "latitude": -23.532905,
         "longitude": -46.63952,
-        "empresa": "A. C. ALVES DE SOUZA SERVIÇO DE INTERNET",
+        "empresa": "EXPRESS NETWORK LTDA",
         "cnpj": 14672255000105,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -32618,6 +33212,25 @@
         ]
     },
     {
+        "identifier": "14991448000129-Guarujá-SP-Fabiano da Costa Vieira Telecom-Pessoa Física",
+        "cidade": "Guarujá",
+        "uf": "SP",
+        "latitude": -23.988798,
+        "longitude": -46.257959,
+        "empresa": "Fabiano da Costa Vieira Telecom",
+        "cnpj": 14991448000129,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 203
+            }
+        ]
+    },
+    {
         "identifier": "14997309000102-Campinas-SP-MV AMANCIO TELECOMUNICACOES PROVEDOR DE INTERNET-Pessoa Física",
         "cidade": "Campinas",
         "uf": "SP",
@@ -32987,6 +33600,44 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 257
+            }
+        ]
+    },
+    {
+        "identifier": "15226037000100-Ferraz de Vasconcelos-SP-Visionet Fibra Ltda-Pessoa Física",
+        "cidade": "Ferraz de Vasconcelos",
+        "uf": "SP",
+        "latitude": -23.541056,
+        "longitude": -46.37097,
+        "empresa": "Visionet Fibra Ltda",
+        "cnpj": 15226037000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "15226037000100-São Paulo-SP-Visionet Fibra Ltda-Pessoa Física",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "Visionet Fibra Ltda",
+        "cnpj": 15226037000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1404
             }
         ]
     },
@@ -34562,6 +35213,25 @@
         ]
     },
     {
+        "identifier": "17176156000120-Bertioga-SP-Silva & Silva Telecom Ltda.-Pessoa Física",
+        "cidade": "Bertioga",
+        "uf": "SP",
+        "latitude": -23.848568,
+        "longitude": -46.139586,
+        "empresa": "Silva & Silva Telecom Ltda.",
+        "cnpj": 17176156000120,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1610
+            }
+        ]
+    },
+    {
         "identifier": "17225163000175-Itaquaquecetuba-SP-CONEXAO WEB TELECOM LTDA-Pessoa Física",
         "cidade": "Itaquaquecetuba",
         "uf": "SP",
@@ -34777,6 +35447,142 @@
         ]
     },
     {
+        "identifier": "17357075000127-Ferraz de Vasconcelos-SP-BMJNET TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Ferraz de Vasconcelos",
+        "uf": "SP",
+        "latitude": -23.541056,
+        "longitude": -46.37097,
+        "empresa": "BMJNET TELECOMUNICACOES LTDA",
+        "cnpj": 17357075000127,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 164
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 161
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 105
+            }
+        ]
+    },
+    {
+        "identifier": "17357075000127-Poá-SP-BMJNET TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Poá",
+        "uf": "SP",
+        "latitude": -23.533285,
+        "longitude": -46.347292,
+        "empresa": "BMJNET TELECOMUNICACOES LTDA",
+        "cnpj": 17357075000127,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 21
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 35
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "17357075000127-São Paulo-SP-BMJNET TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "BMJNET TELECOMUNICACOES LTDA",
+        "cnpj": 17357075000127,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 18
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 28
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
+        "identifier": "17515585000185-Areiópolis-SP-HENRIQUE ESDRAS DOS SANTOS - ME-Pessoa Física",
+        "cidade": "Areiópolis",
+        "uf": "SP",
+        "latitude": -22.667216,
+        "longitude": -48.668052,
+        "empresa": "HENRIQUE ESDRAS DOS SANTOS - ME",
+        "cnpj": 17515585000185,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 12
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 740
+            }
+        ]
+    },
+    {
         "identifier": "17517091000130-Amparo-SP-STM TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Amparo",
         "uf": "SP",
@@ -34962,6 +35768,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 455
+            }
+        ]
+    },
+    {
+        "identifier": "17618073000144-Piracicaba-SP-POWER NET TELECOM EIRELLI - ME-Pessoa Física",
+        "cidade": "Piracicaba",
+        "uf": "SP",
+        "latitude": -22.733801,
+        "longitude": -47.647612,
+        "empresa": "POWER NET TELECOM EIRELLI - ME",
+        "cnpj": 17618073000144,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 379
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 270
             }
         ]
     },
@@ -35641,6 +36472,44 @@
         ]
     },
     {
+        "identifier": "18755093000120-Francisco Morato-SP-JR CONECT SOLUCOES EM REDE LTDA-Pessoa Física",
+        "cidade": "Francisco Morato",
+        "uf": "SP",
+        "latitude": -23.279248,
+        "longitude": -46.744781,
+        "empresa": "JR CONECT SOLUCOES EM REDE LTDA",
+        "cnpj": 18755093000120,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 609
+            }
+        ]
+    },
+    {
+        "identifier": "18755093000120-Franco da Rocha-SP-JR CONECT SOLUCOES EM REDE LTDA-Pessoa Física",
+        "cidade": "Franco da Rocha",
+        "uf": "SP",
+        "latitude": -23.322882,
+        "longitude": -46.729011,
+        "empresa": "JR CONECT SOLUCOES EM REDE LTDA",
+        "cnpj": 18755093000120,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 177
+            }
+        ]
+    },
+    {
         "identifier": "18764486000108-Taubaté-SP-Linkvale Internet Ltda-Pessoa Física",
         "cidade": "Taubaté",
         "uf": "SP",
@@ -35719,6 +36588,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 81
+            }
+        ]
+    },
+    {
+        "identifier": "19013503000120-Campinas-SP-INVIAS DO BRASIL TELECOMUNICAÇÕES EIRELI-Pessoa Física",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "latitude": -22.905346,
+        "longitude": -47.06595,
+        "empresa": "INVIAS DO BRASIL TELECOMUNICAÇÕES EIRELI",
+        "cnpj": 19013503000120,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 170
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -35841,6 +36735,88 @@
         ]
     },
     {
+        "identifier": "19076472000156-Estrela d'Oeste-SP-GM NETWORK TELECOMUNICAÇÕES LTDA-Pessoa Física",
+        "cidade": "Estrela d'Oeste",
+        "uf": "SP",
+        "latitude": -19.795496,
+        "longitude": -50.404225,
+        "empresa": "GM NETWORK TELECOMUNICAÇÕES LTDA",
+        "cnpj": 19076472000156,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 24
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1063
+            }
+        ]
+    },
+    {
+        "identifier": "19076472000156-Pontalinda-SP-GM NETWORK TELECOMUNICAÇÕES LTDA-Pessoa Física",
+        "cidade": "Pontalinda",
+        "uf": "SP",
+        "latitude": -20.439624,
+        "longitude": -50.525754,
+        "empresa": "GM NETWORK TELECOMUNICAÇÕES LTDA",
+        "cnpj": 19076472000156,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 33
+            }
+        ]
+    },
+    {
+        "identifier": "19076472000156-São João das Duas Pontes-SP-GM NETWORK TELECOMUNICAÇÕES LTDA-Pessoa Física",
+        "cidade": "São João das Duas Pontes",
+        "uf": "SP",
+        "latitude": -20.387857,
+        "longitude": -50.379149,
+        "empresa": "GM NETWORK TELECOMUNICAÇÕES LTDA",
+        "cnpj": 19076472000156,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 27
+            }
+        ]
+    },
+    {
+        "identifier": "19076472000156-São João de Iracema-SP-GM NETWORK TELECOMUNICAÇÕES LTDA-Pessoa Física",
+        "cidade": "São João de Iracema",
+        "uf": "SP",
+        "latitude": -20.511059,
+        "longitude": -50.356069,
+        "empresa": "GM NETWORK TELECOMUNICAÇÕES LTDA",
+        "cnpj": 19076472000156,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 27
+            }
+        ]
+    },
+    {
         "identifier": "19101629000156-Cotia-SP-J. da Paz Pires Tecnologia-Pessoa Física",
         "cidade": "Cotia",
         "uf": "SP",
@@ -35929,8 +36905,14 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 132
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 25
+                "quantidade-acesso": 14
             }
         ]
     },
@@ -37205,6 +38187,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 750
+            }
+        ]
+    },
+    {
+        "identifier": "20016241000136-Ubatuba-SP-ROSILENE BRIET DE FREITAS-Pessoa Física",
+        "cidade": "Ubatuba",
+        "uf": "SP",
+        "latitude": -23.433162,
+        "longitude": -45.083415,
+        "empresa": "ROSILENE BRIET DE FREITAS",
+        "cnpj": 20016241000136,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 110
             }
         ]
     },
@@ -41929,6 +42930,25 @@
         ]
     },
     {
+        "identifier": "23011493000160-Assis-SP-INFO TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Assis",
+        "uf": "SP",
+        "latitude": -22.659957,
+        "longitude": -50.418307,
+        "empresa": "INFO TELECOMUNICACOES LTDA",
+        "cnpj": 23011493000160,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 771
+            }
+        ]
+    },
+    {
         "identifier": "23076682000111-São Paulo-SP-Linkgold Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "São Paulo",
         "uf": "SP",
@@ -42455,6 +43475,37 @@
         ]
     },
     {
+        "identifier": "23406472000144-Guararapes-SP-Nkg da Silva Seguranca Eletronica Ltda-Pessoa Física",
+        "cidade": "Guararapes",
+        "uf": "SP",
+        "latitude": -21.254431,
+        "longitude": -50.645338,
+        "empresa": "Nkg da Silva Seguranca Eletronica Ltda",
+        "cnpj": 23406472000144,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
         "identifier": "23414296000192-São Paulo-SP-Star Conecta Network Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "São Paulo",
         "uf": "SP",
@@ -42716,6 +43767,56 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 155
+            }
+        ]
+    },
+    {
+        "identifier": "23540507000133-Jaboticabal-SP-Sistel Fibra Servicos de Comunicacao Multimidia Ltda.-Pessoa Física",
+        "cidade": "Jaboticabal",
+        "uf": "SP",
+        "latitude": -21.252037,
+        "longitude": -48.325223,
+        "empresa": "Sistel Fibra Servicos de Comunicacao Multimidia Ltda.",
+        "cnpj": 23540507000133,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 530
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "23540507000133-Monte Alto-SP-Sistel Fibra Servicos de Comunicacao Multimidia Ltda.-Pessoa Física",
+        "cidade": "Monte Alto",
+        "uf": "SP",
+        "latitude": -21.265545,
+        "longitude": -48.497066,
+        "empresa": "Sistel Fibra Servicos de Comunicacao Multimidia Ltda.",
+        "cnpj": 23540507000133,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
             }
         ]
     },
@@ -43032,6 +44133,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 92
+            }
+        ]
+    },
+    {
+        "identifier": "23729275000166-Restinga-SP-Daiane Francilaine da Silva-Pessoa Física",
+        "cidade": "Restinga",
+        "uf": "SP",
+        "latitude": -20.605593,
+        "longitude": -47.483254,
+        "empresa": "Daiane Francilaine da Silva",
+        "cnpj": 23729275000166,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 822
             }
         ]
     },
@@ -43936,6 +45056,25 @@
         ]
     },
     {
+        "identifier": "24625267000132-São Paulo-SP-GAT TELECOM COMUNICAÇÕES EIRELI-Pessoa Física",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "GAT TELECOM COMUNICAÇÕES EIRELI",
+        "cnpj": 24625267000132,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Satélite",
+                "quantidade-acesso": 300
+            }
+        ]
+    },
+    {
         "identifier": "24640584000128-São Paulo-SP-RUFINOS TECNOLOGIA DA INFORMACAO LTDA-Pessoa Física",
         "cidade": "São Paulo",
         "uf": "SP",
@@ -44747,6 +45886,25 @@
         ]
     },
     {
+        "identifier": "25116763000123-São Vicente-SP-Fiber Net Servicos de Comunicacao Ltda-Pessoa Física",
+        "cidade": "São Vicente",
+        "uf": "SP",
+        "latitude": -23.957353,
+        "longitude": -46.388333,
+        "empresa": "Fiber Net Servicos de Comunicacao Ltda",
+        "cnpj": 25116763000123,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3238
+            }
+        ]
+    },
+    {
         "identifier": "25118059000100-Ribeirão Preto-SP-SL CARVALHO SERVICOS DE COMUNICACAO - ME-Pessoa Física",
         "cidade": "Ribeirão Preto",
         "uf": "SP",
@@ -44995,6 +46153,82 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 63
+            }
+        ]
+    },
+    {
+        "identifier": "25316717000178-Indaiatuba-SP-CMC TELECOM EIRELI-Pessoa Física",
+        "cidade": "Indaiatuba",
+        "uf": "SP",
+        "latitude": -23.081591,
+        "longitude": -47.210093,
+        "empresa": "CMC TELECOM EIRELI",
+        "cnpj": 25316717000178,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14
+            }
+        ]
+    },
+    {
+        "identifier": "25316717000178-Itu-SP-CMC TELECOM EIRELI-Pessoa Física",
+        "cidade": "Itu",
+        "uf": "SP",
+        "latitude": -23.254397,
+        "longitude": -47.292688,
+        "empresa": "CMC TELECOM EIRELI",
+        "cnpj": 25316717000178,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1101
+            }
+        ]
+    },
+    {
+        "identifier": "25316717000178-Paulínia-SP-CMC TELECOM EIRELI-Pessoa Física",
+        "cidade": "Paulínia",
+        "uf": "SP",
+        "latitude": -22.754178,
+        "longitude": -47.148776,
+        "empresa": "CMC TELECOM EIRELI",
+        "cnpj": 25316717000178,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "25316717000178-Salto-SP-CMC TELECOM EIRELI-Pessoa Física",
+        "cidade": "Salto",
+        "uf": "SP",
+        "latitude": -23.199592,
+        "longitude": -47.293087,
+        "empresa": "CMC TELECOM EIRELI",
+        "cnpj": 25316717000178,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3037
             }
         ]
     },
@@ -58415,7 +59649,7 @@
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 621
+                "quantidade-acesso": 608
             }
         ]
     },
@@ -58605,6 +59839,44 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 190
+            }
+        ]
+    },
+    {
+        "identifier": "28188871000108-Capão Bonito-SP-MRQ DO NASCIMENTO TECNOLOGIA - ME-Pessoa Física",
+        "cidade": "Capão Bonito",
+        "uf": "SP",
+        "latitude": -24.011265,
+        "longitude": -48.348222,
+        "empresa": "MRQ DO NASCIMENTO TECNOLOGIA - ME",
+        "cnpj": 28188871000108,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 380
+            }
+        ]
+    },
+    {
+        "identifier": "28188871000108-Ribeirão Grande-SP-MRQ DO NASCIMENTO TECNOLOGIA - ME-Pessoa Física",
+        "cidade": "Ribeirão Grande",
+        "uf": "SP",
+        "latitude": -24.10114,
+        "longitude": -48.367931,
+        "empresa": "MRQ DO NASCIMENTO TECNOLOGIA - ME",
+        "cnpj": 28188871000108,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
             }
         ]
     },
@@ -59484,6 +60756,25 @@
         ]
     },
     {
+        "identifier": "28574271000170-Campinas-SP-LDZ COMERCIO DE TELECOMUNICACAO E INFORMATICA LTDA-Pessoa Física",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "latitude": -22.905346,
+        "longitude": -47.06595,
+        "empresa": "LDZ COMERCIO DE TELECOMUNICACAO E INFORMATICA LTDA",
+        "cnpj": 28574271000170,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 104
+            }
+        ]
+    },
+    {
         "identifier": "28595099000130-Mirandópolis-SP-SANDRA HIROMI ODA JORGE-Pessoa Física",
         "cidade": "Mirandópolis",
         "uf": "SP",
@@ -60197,12 +61488,12 @@
         ]
     },
     {
-        "identifier": "29005510000133-São Paulo-SP-ERICK TELECOMUNICAÇÕES LTDA.-Pessoa Física",
+        "identifier": "29005510000133-São Paulo-SP-Erick Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "São Paulo",
         "uf": "SP",
         "latitude": -23.532905,
         "longitude": -46.63952,
-        "empresa": "ERICK TELECOMUNICAÇÕES LTDA.",
+        "empresa": "Erick Telecomunicacoes Ltda",
         "cnpj": 29005510000133,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -60559,6 +61850,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 868
+            }
+        ]
+    },
+    {
+        "identifier": "29267386000184-Guarujá-SP-WEB FIBRA TELECOM LTDA-Pessoa Física",
+        "cidade": "Guarujá",
+        "uf": "SP",
+        "latitude": -23.988798,
+        "longitude": -46.257959,
+        "empresa": "WEB FIBRA TELECOM LTDA",
+        "cnpj": 29267386000184,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 452
             }
         ]
     },
@@ -62500,6 +63810,25 @@
         ]
     },
     {
+        "identifier": "30399824000147-Pedrinhas Paulista-SP-A2B TELECOM LTDA-Pessoa Física",
+        "cidade": "Pedrinhas Paulista",
+        "uf": "SP",
+        "latitude": -22.817378,
+        "longitude": -50.793287,
+        "empresa": "A2B TELECOM LTDA",
+        "cnpj": 30399824000147,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 129
+            }
+        ]
+    },
+    {
         "identifier": "30412445000140-Anhembi-SP-WIMAXNET LTDA-Pessoa Física",
         "cidade": "Anhembi",
         "uf": "SP",
@@ -63438,6 +64767,25 @@
         ]
     },
     {
+        "identifier": "30653238000187-Itanhaém-SP-DA HORA NET EIRELI-Pessoa Física",
+        "cidade": "Itanhaém",
+        "uf": "SP",
+        "latitude": -24.173633,
+        "longitude": -46.787986,
+        "empresa": "DA HORA NET EIRELI",
+        "cnpj": 30653238000187,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 295
+            }
+        ]
+    },
+    {
         "identifier": "30683347000147-Santos-SP-Crislandja da Silva Alves-Pessoa Física",
         "cidade": "Santos",
         "uf": "SP",
@@ -63735,6 +65083,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 298
+            }
+        ]
+    },
+    {
+        "identifier": "30798083000177-Diadema-SP-UPNETS TELECOMUNICACOES EIRELI-Pessoa Física",
+        "cidade": "Diadema",
+        "uf": "SP",
+        "latitude": -23.681347,
+        "longitude": -46.62052,
+        "empresa": "UPNETS TELECOMUNICACOES EIRELI",
+        "cnpj": 30798083000177,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 198
             }
         ]
     },
@@ -64441,6 +65808,31 @@
                 "tipo-de-Produto": "LINHA_DEDICADA",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "31135856000106-São Bernardo do Campo-SP-REDE BRASIL PROVEDOR DE INTERNET EIRELI-Pessoa Física",
+        "cidade": "São Bernardo do Campo",
+        "uf": "SP",
+        "latitude": -23.691412,
+        "longitude": -46.564617,
+        "empresa": "REDE BRASIL PROVEDOR DE INTERNET EIRELI",
+        "cnpj": 31135856000106,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 22
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 128
             }
         ]
     },
@@ -66403,12 +67795,12 @@
         ]
     },
     {
-        "identifier": "31773734000137-Bragança Paulista-SP-Newconnect Ltda-Pessoa Física",
+        "identifier": "31773734000137-Bragança Paulista-SP-CONNECTBRAG LTDA-Pessoa Física",
         "cidade": "Bragança Paulista",
         "uf": "SP",
         "latitude": -22.952681,
         "longitude": -46.54188,
-        "empresa": "Newconnect Ltda",
+        "empresa": "CONNECTBRAG LTDA",
         "cnpj": 31773734000137,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -67534,6 +68926,25 @@
         ]
     },
     {
+        "identifier": "32355545000107-Santana de Parnaíba-SP-Infibra Telecom Servicos de Comunicacao e Tecnologia Ltda-Pessoa Física",
+        "cidade": "Santana de Parnaíba",
+        "uf": "SP",
+        "latitude": -23.442514,
+        "longitude": -46.922215,
+        "empresa": "Infibra Telecom Servicos de Comunicacao e Tecnologia Ltda",
+        "cnpj": 32355545000107,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 464
+            }
+        ]
+    },
+    {
         "identifier": "32395416000142-São Paulo-SP-SC TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "São Paulo",
         "uf": "SP",
@@ -68460,6 +69871,25 @@
         ]
     },
     {
+        "identifier": "32933347000183-São Paulo-SP-CDL COMUNICACAO E TECNOLOGIA LTDA-Pessoa Física",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "CDL COMUNICACAO E TECNOLOGIA LTDA",
+        "cnpj": 32933347000183,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 766
+            }
+        ]
+    },
+    {
         "identifier": "32966189000168-São Paulo-SP-SIMPSON INTERNET VIA RADIO WI-FI - EIRELI-Pessoa Física",
         "cidade": "São Paulo",
         "uf": "SP",
@@ -68608,6 +70038,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 102
+            }
+        ]
+    },
+    {
+        "identifier": "33093111000149-Iacanga-SP-BEATRIZ ALVES ANDRADE DA CRUZ MULTIMIDIA-Pessoa Física",
+        "cidade": "Iacanga",
+        "uf": "SP",
+        "latitude": -21.889646,
+        "longitude": -49.030959,
+        "empresa": "BEATRIZ ALVES ANDRADE DA CRUZ MULTIMIDIA",
+        "cnpj": 33093111000149,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 438
             }
         ]
     },
@@ -69331,6 +70780,82 @@
         ]
     },
     {
+        "identifier": "33795453000100-Diadema-SP-Web Lan Provedor de Internet Ltda-Pessoa Física",
+        "cidade": "Diadema",
+        "uf": "SP",
+        "latitude": -23.681347,
+        "longitude": -46.62052,
+        "empresa": "Web Lan Provedor de Internet Ltda",
+        "cnpj": 33795453000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 422
+            }
+        ]
+    },
+    {
+        "identifier": "33795453000100-Santo André-SP-Web Lan Provedor de Internet Ltda-Pessoa Física",
+        "cidade": "Santo André",
+        "uf": "SP",
+        "latitude": -23.67373,
+        "longitude": -46.543154,
+        "empresa": "Web Lan Provedor de Internet Ltda",
+        "cnpj": 33795453000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 719
+            }
+        ]
+    },
+    {
+        "identifier": "33795453000100-São Bernardo do Campo-SP-Web Lan Provedor de Internet Ltda-Pessoa Física",
+        "cidade": "São Bernardo do Campo",
+        "uf": "SP",
+        "latitude": -23.691412,
+        "longitude": -46.564617,
+        "empresa": "Web Lan Provedor de Internet Ltda",
+        "cnpj": 33795453000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 45
+            }
+        ]
+    },
+    {
+        "identifier": "33795453000100-São Caetano do Sul-SP-Web Lan Provedor de Internet Ltda-Pessoa Física",
+        "cidade": "São Caetano do Sul",
+        "uf": "SP",
+        "latitude": -23.62287,
+        "longitude": -46.554797,
+        "empresa": "Web Lan Provedor de Internet Ltda",
+        "cnpj": 33795453000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 42
+            }
+        ]
+    },
+    {
         "identifier": "33843075000193-São Paulo-SP-ADELINA DE SOUSA SILVA FERREIRA-Pessoa Física",
         "cidade": "São Paulo",
         "uf": "SP",
@@ -69636,6 +71161,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 35
+            }
+        ]
+    },
+    {
+        "identifier": "33932460000107-Jundiaí-SP-CLICK FIBRA TELECOMUNICACOES EIRELI-Pessoa Física",
+        "cidade": "Jundiaí",
+        "uf": "SP",
+        "latitude": -23.185218,
+        "longitude": -46.897358,
+        "empresa": "CLICK FIBRA TELECOMUNICACOES EIRELI",
+        "cnpj": 33932460000107,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 272
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 92
             }
         ]
     },
@@ -69963,6 +71513,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 108
+            }
+        ]
+    },
+    {
+        "identifier": "34039469000156-Santo André-SP-COPATEL SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Santo André",
+        "uf": "SP",
+        "latitude": -23.67373,
+        "longitude": -46.543154,
+        "empresa": "COPATEL SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 34039469000156,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 417
             }
         ]
     },
@@ -71056,6 +72625,63 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 617
+            }
+        ]
+    },
+    {
+        "identifier": "34775390000193-Cubatão-SP-NETHIT PSCI PROVEDOR DE SERVICO DE CONEXAO A INTERNET LTDA-Pessoa Física",
+        "cidade": "Cubatão",
+        "uf": "SP",
+        "latitude": -23.891121,
+        "longitude": -46.423968,
+        "empresa": "NETHIT PSCI PROVEDOR DE SERVICO DE CONEXAO A INTERNET LTDA",
+        "cnpj": 34775390000193,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 301
+            }
+        ]
+    },
+    {
+        "identifier": "34775390000193-Santos-SP-NETHIT PSCI PROVEDOR DE SERVICO DE CONEXAO A INTERNET LTDA-Pessoa Física",
+        "cidade": "Santos",
+        "uf": "SP",
+        "latitude": -23.953543,
+        "longitude": -46.335042,
+        "empresa": "NETHIT PSCI PROVEDOR DE SERVICO DE CONEXAO A INTERNET LTDA",
+        "cnpj": 34775390000193,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1291
+            }
+        ]
+    },
+    {
+        "identifier": "34775390000193-São Vicente-SP-NETHIT PSCI PROVEDOR DE SERVICO DE CONEXAO A INTERNET LTDA-Pessoa Física",
+        "cidade": "São Vicente",
+        "uf": "SP",
+        "latitude": -23.957353,
+        "longitude": -46.388333,
+        "empresa": "NETHIT PSCI PROVEDOR DE SERVICO DE CONEXAO A INTERNET LTDA",
+        "cnpj": 34775390000193,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1147
             }
         ]
     },
@@ -72608,12 +74234,12 @@
         ]
     },
     {
-        "identifier": "35941143000182-Casa Branca-SP-CBNET TELECOM EIRELI-Pessoa Física",
+        "identifier": "35941143000182-Casa Branca-SP-CBNET TELECOM LTDA-Pessoa Física",
         "cidade": "Casa Branca",
         "uf": "SP",
         "latitude": -21.77081,
         "longitude": -47.085245,
-        "empresa": "CBNET TELECOM EIRELI",
+        "empresa": "CBNET TELECOM LTDA",
         "cnpj": 35941143000182,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -72633,12 +74259,12 @@
         ]
     },
     {
-        "identifier": "35941143000182-Elias Fausto-SP-CBNET TELECOM EIRELI-Pessoa Física",
+        "identifier": "35941143000182-Elias Fausto-SP-CBNET TELECOM LTDA-Pessoa Física",
         "cidade": "Elias Fausto",
         "uf": "SP",
         "latitude": -23.042822,
         "longitude": -47.368153,
-        "empresa": "CBNET TELECOM EIRELI",
+        "empresa": "CBNET TELECOM LTDA",
         "cnpj": 35941143000182,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -72652,12 +74278,12 @@
         ]
     },
     {
-        "identifier": "35941143000182-Indaiatuba-SP-CBNET TELECOM EIRELI-Pessoa Física",
+        "identifier": "35941143000182-Indaiatuba-SP-CBNET TELECOM LTDA-Pessoa Física",
         "cidade": "Indaiatuba",
         "uf": "SP",
         "latitude": -23.081591,
         "longitude": -47.210093,
-        "empresa": "CBNET TELECOM EIRELI",
+        "empresa": "CBNET TELECOM LTDA",
         "cnpj": 35941143000182,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -72677,12 +74303,12 @@
         ]
     },
     {
-        "identifier": "35941143000182-Itobi-SP-CBNET TELECOM EIRELI-Pessoa Física",
+        "identifier": "35941143000182-Itobi-SP-CBNET TELECOM LTDA-Pessoa Física",
         "cidade": "Itobi",
         "uf": "SP",
         "latitude": -21.730853,
         "longitude": -46.9743,
-        "empresa": "CBNET TELECOM EIRELI",
+        "empresa": "CBNET TELECOM LTDA",
         "cnpj": 35941143000182,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -72696,12 +74322,12 @@
         ]
     },
     {
-        "identifier": "35941143000182-Mogi Mirim-SP-CBNET TELECOM EIRELI-Pessoa Física",
+        "identifier": "35941143000182-Mogi Mirim-SP-CBNET TELECOM LTDA-Pessoa Física",
         "cidade": "Mogi Mirim",
         "uf": "SP",
         "latitude": -22.431878,
         "longitude": -46.950514,
-        "empresa": "CBNET TELECOM EIRELI",
+        "empresa": "CBNET TELECOM LTDA",
         "cnpj": 35941143000182,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -72721,12 +74347,12 @@
         ]
     },
     {
-        "identifier": "35941143000182-Monte Mor-SP-CBNET TELECOM EIRELI-Pessoa Física",
+        "identifier": "35941143000182-Monte Mor-SP-CBNET TELECOM LTDA-Pessoa Física",
         "cidade": "Monte Mor",
         "uf": "SP",
         "latitude": -22.945043,
         "longitude": -47.312182,
-        "empresa": "CBNET TELECOM EIRELI",
+        "empresa": "CBNET TELECOM LTDA",
         "cnpj": 35941143000182,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -74256,6 +75882,25 @@
         ]
     },
     {
+        "identifier": "37674467000127-Vera Cruz-SP-Maelly Gomes Vasconcelos Barreto Santana-Pessoa Física",
+        "cidade": "Vera Cruz",
+        "uf": "SP",
+        "latitude": -22.218308,
+        "longitude": -49.820735,
+        "empresa": "Maelly Gomes Vasconcelos Barreto Santana",
+        "cnpj": 37674467000127,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "37679084000141-Atibaia-SP-VILLA NET TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Atibaia",
         "uf": "SP",
@@ -75038,12 +76683,12 @@
         ]
     },
     {
-        "identifier": "38016477000138-São Paulo-SP-DANILO DA SILVA SANTOS SERVICOS EM TI E TELECOMUNICACOES-Pessoa Física",
+        "identifier": "38016477000138-São Paulo-SP-Gpmtelecom Servicos em Ti e Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "São Paulo",
         "uf": "SP",
         "latitude": -23.532905,
         "longitude": -46.63952,
-        "empresa": "DANILO DA SILVA SANTOS SERVICOS EM TI E TELECOMUNICACOES",
+        "empresa": "Gpmtelecom Servicos em Ti e Telecomunicacoes Ltda",
         "cnpj": 38016477000138,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -75325,6 +76970,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 4977
+            }
+        ]
+    },
+    {
+        "identifier": "38320744000166-São Bernardo do Campo-SP-Dhl Servicos de Comunicacoes Ltda-Pessoa Física",
+        "cidade": "São Bernardo do Campo",
+        "uf": "SP",
+        "latitude": -23.691412,
+        "longitude": -46.564617,
+        "empresa": "Dhl Servicos de Comunicacoes Ltda",
+        "cnpj": 38320744000166,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -77341,6 +79005,25 @@
         ]
     },
     {
+        "identifier": "40062360000132-São Paulo-SP-DG.ONNET EIRELI-Pessoa Física",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "DG.ONNET EIRELI",
+        "cnpj": 40062360000132,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 90
+            }
+        ]
+    },
+    {
         "identifier": "40085229000190-Aspásia-SP-Wconect Internet Plus Ltda-Pessoa Física",
         "cidade": "Aspásia",
         "uf": "SP",
@@ -78327,12 +80010,12 @@
         ]
     },
     {
-        "identifier": "41350302000177-São Paulo-SP-JATO3 FIBRA TELECOM LTDA-Pessoa Física",
+        "identifier": "41350302000177-São Paulo-SP-Jato3 Fibra Telecom Ltda-Pessoa Física",
         "cidade": "São Paulo",
         "uf": "SP",
         "latitude": -23.532905,
         "longitude": -46.63952,
-        "empresa": "JATO3 FIBRA TELECOM LTDA",
+        "empresa": "Jato3 Fibra Telecom Ltda",
         "cnpj": 41350302000177,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -78726,6 +80409,25 @@
         ]
     },
     {
+        "identifier": "41669922000173-Guararapes-SP-CONECTAVOX TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Guararapes",
+        "uf": "SP",
+        "latitude": -21.254431,
+        "longitude": -50.645338,
+        "empresa": "CONECTAVOX TELECOMUNICACOES LTDA",
+        "cnpj": 41669922000173,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 279
+            }
+        ]
+    },
+    {
         "identifier": "41678896000140-Piracicaba-SP-Multi System Telecom Ltda-Pessoa Física",
         "cidade": "Piracicaba",
         "uf": "SP",
@@ -78996,6 +80698,44 @@
         ]
     },
     {
+        "identifier": "41792194000192-Jacareí-SP-Victor Carlos de Oliveira Telecom Ltda-Pessoa Física",
+        "cidade": "Jacareí",
+        "uf": "SP",
+        "latitude": -23.29829,
+        "longitude": -45.965814,
+        "empresa": "Victor Carlos de Oliveira Telecom Ltda",
+        "cnpj": 41792194000192,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "41792194000192-São José dos Campos-SP-Victor Carlos de Oliveira Telecom Ltda-Pessoa Física",
+        "cidade": "São José dos Campos",
+        "uf": "SP",
+        "latitude": -23.189554,
+        "longitude": -45.884115,
+        "empresa": "Victor Carlos de Oliveira Telecom Ltda",
+        "cnpj": 41792194000192,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
         "identifier": "41816980000182-Porangaba-SP-Mr Net Telecom Ltda-Pessoa Física",
         "cidade": "Porangaba",
         "uf": "SP",
@@ -79251,6 +80991,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 974
+            }
+        ]
+    },
+    {
+        "identifier": "42342612000102-Campo Limpo Paulista-SP-Campo Link Telecomunicacoes Ltda.-Pessoa Física",
+        "cidade": "Campo Limpo Paulista",
+        "uf": "SP",
+        "latitude": -23.207791,
+        "longitude": -46.788919,
+        "empresa": "Campo Link Telecomunicacoes Ltda.",
+        "cnpj": 42342612000102,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 96
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 76
             }
         ]
     },
@@ -79717,6 +81482,44 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 177
+            }
+        ]
+    },
+    {
+        "identifier": "42678786000140-Guaiçara-SP-William Aparecido Jose Ferreira dos Santos-Pessoa Física",
+        "cidade": "Guaiçara",
+        "uf": "SP",
+        "latitude": -21.619537,
+        "longitude": -49.801287,
+        "empresa": "William Aparecido Jose Ferreira dos Santos",
+        "cnpj": 42678786000140,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 46
+            }
+        ]
+    },
+    {
+        "identifier": "42678786000140-Lins-SP-William Aparecido Jose Ferreira dos Santos-Pessoa Física",
+        "cidade": "Lins",
+        "uf": "SP",
+        "latitude": -21.67182,
+        "longitude": -49.752555,
+        "empresa": "William Aparecido Jose Ferreira dos Santos",
+        "cnpj": 42678786000140,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -80360,6 +82163,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 229
+            }
+        ]
+    },
+    {
+        "identifier": "44118757000150-São Paulo-SP-NET NOVO MUNDO LTDA-Pessoa Física",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "NET NOVO MUNDO LTDA",
+        "cnpj": 44118757000150,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 149
             }
         ]
     },
@@ -81721,6 +83543,44 @@
         ]
     },
     {
+        "identifier": "46063516000186-Hortolândia-SP-Virtus Distribuidora & Servicos de Telecom Ltda-Pessoa Física",
+        "cidade": "Hortolândia",
+        "uf": "SP",
+        "latitude": -22.852854,
+        "longitude": -47.214259,
+        "empresa": "Virtus Distribuidora & Servicos de Telecom Ltda",
+        "cnpj": 46063516000186,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 110
+            }
+        ]
+    },
+    {
+        "identifier": "46263201000182-Castilho-SP-Isf Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Castilho",
+        "uf": "SP",
+        "latitude": -20.868924,
+        "longitude": -51.488394,
+        "empresa": "Isf Telecomunicacoes Ltda",
+        "cnpj": 46263201000182,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 541
+            }
+        ]
+    },
+    {
         "identifier": "46319209000113-São José dos Campos-SP-Leal Net Ltda-Pessoa Física",
         "cidade": "São José dos Campos",
         "uf": "SP",
@@ -81755,6 +83615,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1215
+            }
+        ]
+    },
+    {
+        "identifier": "46389746000130-São Paulo-SP-Gl Servicos de Telecominicacao Ltda-Pessoa Física",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "latitude": -23.532905,
+        "longitude": -46.63952,
+        "empresa": "Gl Servicos de Telecominicacao Ltda",
+        "cnpj": 46389746000130,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 80
             }
         ]
     },
@@ -83312,14 +85191,8 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 15
+                "quantidade-acesso": 16
             }
         ]
     },
@@ -83792,6 +85665,25 @@
         ]
     },
     {
+        "identifier": "48400460000133-Osasco-SP-Livre Network Provedor de Internet Ltda-Pessoa Física",
+        "cidade": "Osasco",
+        "uf": "SP",
+        "latitude": -23.53239,
+        "longitude": -46.791555,
+        "empresa": "Livre Network Provedor de Internet Ltda",
+        "cnpj": 48400460000133,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 242
+            }
+        ]
+    },
+    {
         "identifier": "48407177000133-Praia Grande-SP-Pg On Provedor de Internet e Servicos Digitais Ltda-Pessoa Física",
         "cidade": "Praia Grande",
         "uf": "SP",
@@ -84199,6 +86091,100 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "49577429000135-Estrela d'Oeste-SP-MG Network Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Estrela d'Oeste",
+        "uf": "SP",
+        "latitude": -19.795496,
+        "longitude": -50.404225,
+        "empresa": "MG Network Telecomunicacoes Ltda",
+        "cnpj": 49577429000135,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 81
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 164
+            }
+        ]
+    },
+    {
+        "identifier": "49577429000135-Pontalinda-SP-MG Network Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Pontalinda",
+        "uf": "SP",
+        "latitude": -20.439624,
+        "longitude": -50.525754,
+        "empresa": "MG Network Telecomunicacoes Ltda",
+        "cnpj": 49577429000135,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 819
+            }
+        ]
+    },
+    {
+        "identifier": "49577429000135-São João das Duas Pontes-SP-MG Network Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "São João das Duas Pontes",
+        "uf": "SP",
+        "latitude": -20.387857,
+        "longitude": -50.379149,
+        "empresa": "MG Network Telecomunicacoes Ltda",
+        "cnpj": 49577429000135,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 26
+            }
+        ]
+    },
+    {
+        "identifier": "49577429000135-São João de Iracema-SP-MG Network Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "São João de Iracema",
+        "uf": "SP",
+        "latitude": -20.511059,
+        "longitude": -50.356069,
+        "empresa": "MG Network Telecomunicacoes Ltda",
+        "cnpj": 49577429000135,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 386
             }
         ]
     },
@@ -85423,6 +87409,25 @@
         ]
     },
     {
+        "identifier": "51659520000141-Ferraz de Vasconcelos-SP-Five Servicos em Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Ferraz de Vasconcelos",
+        "uf": "SP",
+        "latitude": -23.541056,
+        "longitude": -46.37097,
+        "empresa": "Five Servicos em Telecomunicacoes Ltda",
+        "cnpj": 51659520000141,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1652
+            }
+        ]
+    },
+    {
         "identifier": "51669701000159-Campinas-SP-Swiss Fiber Holline Ltda-Pessoa Física",
         "cidade": "Campinas",
         "uf": "SP",
@@ -85457,6 +87462,94 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 24
+            }
+        ]
+    },
+    {
+        "identifier": "51918185000159-Estrela d'Oeste-SP-Rd Network Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Estrela d'Oeste",
+        "uf": "SP",
+        "latitude": -19.795496,
+        "longitude": -50.404225,
+        "empresa": "Rd Network Telecomunicacoes Ltda",
+        "cnpj": 51918185000159,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 864
+            }
+        ]
+    },
+    {
+        "identifier": "51918185000159-Pontalinda-SP-Rd Network Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Pontalinda",
+        "uf": "SP",
+        "latitude": -20.439624,
+        "longitude": -50.525754,
+        "empresa": "Rd Network Telecomunicacoes Ltda",
+        "cnpj": 51918185000159,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            }
+        ]
+    },
+    {
+        "identifier": "51918185000159-São João das Duas Pontes-SP-Rd Network Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "São João das Duas Pontes",
+        "uf": "SP",
+        "latitude": -20.387857,
+        "longitude": -50.379149,
+        "empresa": "Rd Network Telecomunicacoes Ltda",
+        "cnpj": 51918185000159,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 547
+            }
+        ]
+    },
+    {
+        "identifier": "51918185000159-São João de Iracema-SP-Rd Network Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "São João de Iracema",
+        "uf": "SP",
+        "latitude": -20.511059,
+        "longitude": -50.356069,
+        "empresa": "Rd Network Telecomunicacoes Ltda",
+        "cnpj": 51918185000159,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 23
             }
         ]
     },
@@ -86088,6 +88181,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 976
+            }
+        ]
+    },
+    {
+        "identifier": "53567356000178-Taboão da Serra-SP-Comfort Net Servicos de Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Taboão da Serra",
+        "uf": "SP",
+        "latitude": -23.601867,
+        "longitude": -46.752637,
+        "empresa": "Comfort Net Servicos de Telecomunicacoes Ltda",
+        "cnpj": 53567356000178,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -88497,288 +90609,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 278
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Barueri-SP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Barueri",
-        "uf": "SP",
-        "latitude": -23.505689,
-        "longitude": -46.879042,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ATM",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Cabreúva-SP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Cabreúva",
-        "uf": "SP",
-        "latitude": -23.30533,
-        "longitude": -47.136251,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Campinas-SP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Campinas",
-        "uf": "SP",
-        "latitude": -22.905346,
-        "longitude": -47.06595,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 5
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2513
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Embu das Artes-SP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Embu das Artes",
-        "uf": "SP",
-        "latitude": -23.643717,
-        "longitude": -46.858776,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Guarulhos-SP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Guarulhos",
-        "uf": "SP",
-        "latitude": -23.453758,
-        "longitude": -46.533347,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 3251
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Hortolândia-SP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Hortolândia",
-        "uf": "SP",
-        "latitude": -22.852854,
-        "longitude": -47.214259,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 56
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Jundiaí-SP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Jundiaí",
-        "uf": "SP",
-        "latitude": -23.185218,
-        "longitude": -46.897358,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 378
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Mogi das Cruzes-SP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Mogi das Cruzes",
-        "uf": "SP",
-        "latitude": -23.52082,
-        "longitude": -46.18541,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1296
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Sorocaba-SP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Sorocaba",
-        "uf": "SP",
-        "latitude": -23.496886,
-        "longitude": -47.445073,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2208
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São José dos Campos-SP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São José dos Campos",
-        "uf": "SP",
-        "latitude": -23.189554,
-        "longitude": -45.884115,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2293
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Paulo-SP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Paulo",
-        "uf": "SP",
-        "latitude": -23.532905,
-        "longitude": -46.63952,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ATM",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            },
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 7
-            },
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "OUTROS",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 4968
-            },
-            {
-                "tecnologia": "HDSL",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Votorantim-SP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Votorantim",
-        "uf": "SP",
-        "latitude": -23.54459,
-        "longitude": -47.438753,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 337
             }
         ]
     },

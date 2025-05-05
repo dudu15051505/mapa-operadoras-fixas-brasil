@@ -1,0 +1,71 @@
+[
+    {
+        "identifier": "76535764000143-Macapá-AP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 30036
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Oiapoque-AP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Oiapoque",
+        "uf": "AP",
+        "latitude": 3.84074,
+        "longitude": -51.833123,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Santana-AP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Santana",
+        "uf": "AP",
+        "latitude": -0.045434,
+        "longitude": -51.172924,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

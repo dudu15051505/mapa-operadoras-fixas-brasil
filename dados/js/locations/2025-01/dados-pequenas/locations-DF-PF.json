@@ -409,6 +409,37 @@
         ]
     },
     {
+        "identifier": "10777099000196-Brasília-DF-BRXNQ TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "BRXNQ TELECOMUNICACOES LTDA",
+        "cnpj": 10777099000196,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 840
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
         "identifier": "10825810000130-Brasília-DF-CONECTA TELECOMUNICACAO LTDA.-Pessoa Física",
         "cidade": "Brasília",
         "uf": "DF",
@@ -537,6 +568,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 32
+            }
+        ]
+    },
+    {
+        "identifier": "12059400000151-Brasília-DF-Rei das Tecnologias Ltda-Pessoa Física",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "Rei das Tecnologias Ltda",
+        "cnpj": 12059400000151,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
             }
         ]
     },
@@ -1013,6 +1069,25 @@
         ]
     },
     {
+        "identifier": "22377449000106-Brasília-DF-CONECTAR TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "CONECTAR TELECOMUNICACOES LTDA",
+        "cnpj": 22377449000106,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 194
+            }
+        ]
+    },
+    {
         "identifier": "22506325000183-Brasília-DF-CELERIX TECNOLOGIA DE TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Brasília",
         "uf": "DF",
@@ -1085,6 +1160,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "24804507000166-Brasília-DF-DISTAKNET TELECOM LTDA-Pessoa Física",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "DISTAKNET TELECOM LTDA",
+        "cnpj": 24804507000166,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 13
             }
         ]
     },
@@ -1280,6 +1374,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 298
+            }
+        ]
+    },
+    {
+        "identifier": "26752955000199-Brasília-DF-BEM MAIS SERVICOS DE TELECOMUNICACAO LTDA.-Pessoa Física",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "BEM MAIS SERVICOS DE TELECOMUNICACAO LTDA.",
+        "cnpj": 26752955000199,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 100
             }
         ]
     },
@@ -1762,6 +1875,31 @@
         ]
     },
     {
+        "identifier": "33413124000158-Brasília-DF-REI DAS INSTALACOES TECNOLOGIA DA INFORMACAO LTDA-Pessoa Física",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "REI DAS INSTALACOES TECNOLOGIA DA INFORMACAO LTDA",
+        "cnpj": 33413124000158,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
         "identifier": "33582298000144-Brasília-DF-FNET TELECOM EIRELI-Pessoa Física",
         "cidade": "Brasília",
         "uf": "DF",
@@ -1777,6 +1915,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 2532
+            }
+        ]
+    },
+    {
+        "identifier": "33673362000100-Brasília-DF-MULTLINK-COMUNICACAO DE DADOS E SERVICOS EM TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "MULTLINK-COMUNICACAO DE DADOS E SERVICOS EM TELECOMUNICACOES LTDA",
+        "cnpj": 33673362000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 132
             }
         ]
     },
@@ -1910,6 +2067,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 76
+            }
+        ]
+    },
+    {
+        "identifier": "35352266000188-Brasília-DF-GIPTELECOM TELECOMUNICACAO E TECNOLOGIA DA INFORMACAO LTDA-Pessoa Física",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "latitude": -15.779522,
+        "longitude": -47.929657,
+        "empresa": "GIPTELECOM TELECOMUNICACAO E TECNOLOGIA DA INFORMACAO LTDA",
+        "cnpj": 35352266000188,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1512
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
             }
         ]
     },
@@ -2558,45 +2740,21 @@
         ]
     },
     {
-        "identifier": "76535764000143-Brasília-DF-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "identifier": "97546395000164-Brasília-DF-Jefferson Kayam da Rocha-Pessoa Física",
         "cidade": "Brasília",
         "uf": "DF",
         "latitude": -15.779522,
         "longitude": -47.929657,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
+        "empresa": "Jefferson Kayam da Rocha",
+        "cnpj": 97546395000164,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 11
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 23
-            },
-            {
-                "tecnologia": "FR",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 151780
+                "quantidade-acesso": 196
             }
         ]
     }

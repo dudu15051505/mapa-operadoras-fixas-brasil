@@ -526,6 +526,31 @@
         ]
     },
     {
+        "identifier": "2519876000174-Itaboraí-RJ-C. J. Alves Network Servicos de Informatica e Internet Ltda-Pessoa Física",
+        "cidade": "Itaboraí",
+        "uf": "RJ",
+        "latitude": -22.756504,
+        "longitude": -42.863905,
+        "empresa": "C. J. Alves Network Servicos de Informatica e Internet Ltda",
+        "cnpj": 2519876000174,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 140
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 309
+            }
+        ]
+    },
+    {
         "identifier": "2533755000187-Maricá-RJ-LESTE FLU SERVIÇOS DE TELECOM LTDA - ME-Pessoa Física",
         "cidade": "Maricá",
         "uf": "RJ",
@@ -5161,6 +5186,25 @@
         ]
     },
     {
+        "identifier": "8777867000160-Rio de Janeiro-RJ-Tinas Telecomunicacoes, Informatica e Internet Ltda-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "Tinas Telecomunicacoes, Informatica e Internet Ltda",
+        "cnpj": 8777867000160,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 686
+            }
+        ]
+    },
+    {
         "identifier": "8832398000134-Nilópolis-RJ-VLC INTERNET E SERVICOS LTDA ME-Pessoa Física",
         "cidade": "Nilópolis",
         "uf": "RJ",
@@ -6015,6 +6059,63 @@
         ]
     },
     {
+        "identifier": "9610690000175-Maricá-RJ-WESTLINK TECNOLOGIA E COMUNICACAO LTDA.-Pessoa Física",
+        "cidade": "Maricá",
+        "uf": "RJ",
+        "latitude": -22.935434,
+        "longitude": -42.824587,
+        "empresa": "WESTLINK TECNOLOGIA E COMUNICACAO LTDA.",
+        "cnpj": 9610690000175,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4004
+            }
+        ]
+    },
+    {
+        "identifier": "9610690000175-Niterói-RJ-WESTLINK TECNOLOGIA E COMUNICACAO LTDA.-Pessoa Física",
+        "cidade": "Niterói",
+        "uf": "RJ",
+        "latitude": -22.88321,
+        "longitude": -43.103367,
+        "empresa": "WESTLINK TECNOLOGIA E COMUNICACAO LTDA.",
+        "cnpj": 9610690000175,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 21
+            }
+        ]
+    },
+    {
+        "identifier": "9610690000175-São Gonçalo-RJ-WESTLINK TECNOLOGIA E COMUNICACAO LTDA.-Pessoa Física",
+        "cidade": "São Gonçalo",
+        "uf": "RJ",
+        "latitude": -22.82679,
+        "longitude": -43.063351,
+        "empresa": "WESTLINK TECNOLOGIA E COMUNICACAO LTDA.",
+        "cnpj": 9610690000175,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 26
+            }
+        ]
+    },
+    {
         "identifier": "9617372000136-Cabo Frio-RJ-NWA TELECOMUNICACOES LTDA - ME-Pessoa Física",
         "cidade": "Cabo Frio",
         "uf": "RJ",
@@ -6434,6 +6535,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 859
+            }
+        ]
+    },
+    {
+        "identifier": "10709176000170-Barra Mansa-RJ-G L DUARTE MULTIMÍDIA LTDA-Pessoa Física",
+        "cidade": "Barra Mansa",
+        "uf": "RJ",
+        "latitude": -22.548084,
+        "longitude": -44.175241,
+        "empresa": "G L DUARTE MULTIMÍDIA LTDA",
+        "cnpj": 10709176000170,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 75
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1078
             }
         ]
     },
@@ -7757,6 +7883,31 @@
         ]
     },
     {
+        "identifier": "12675722000125-São João de Meriti-RJ-QUALITY TELECOM LTDA-Pessoa Física",
+        "cidade": "São João de Meriti",
+        "uf": "RJ",
+        "latitude": -22.805776,
+        "longitude": -43.37292,
+        "empresa": "QUALITY TELECOM LTDA",
+        "cnpj": 12675722000125,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 262
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 51
+            }
+        ]
+    },
+    {
         "identifier": "12699424000175-Magé-RJ-GRUPO MEGA FLASH SERVICOS E COMUNICACOES LTDA-Pessoa Física",
         "cidade": "Magé",
         "uf": "RJ",
@@ -7841,6 +7992,49 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 319
+            }
+        ]
+    },
+    {
+        "identifier": "12813780000178-Rio de Janeiro-RJ-WINFNET TELECOM WIRELESS LTDA - ME-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "WINFNET TELECOM WIRELESS LTDA - ME",
+        "cnpj": 12813780000178,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1485
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 176
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 34
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1168
             }
         ]
     },
@@ -8043,6 +8237,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 490
+            }
+        ]
+    },
+    {
+        "identifier": "13152800000170-Araruama-RJ-CONECTAR BRASIL LTDA-Pessoa Física",
+        "cidade": "Araruama",
+        "uf": "RJ",
+        "latitude": -22.869651,
+        "longitude": -42.332625,
+        "empresa": "CONECTAR BRASIL LTDA",
+        "cnpj": 13152800000170,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 130
             }
         ]
     },
@@ -8438,6 +8651,25 @@
         ]
     },
     {
+        "identifier": "13913038000105-Rio de Janeiro-RJ-C3SMART SOLUCOES TECNOLOGICAS LTDA-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "C3SMART SOLUCOES TECNOLOGICAS LTDA",
+        "cnpj": 13913038000105,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 32
+            }
+        ]
+    },
+    {
         "identifier": "14133689000137-Rio de Janeiro-RJ-3R INTERNET SOLUCOES EM INFORMATICA LTDA-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
@@ -8654,6 +8886,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Cabo Metálico",
                 "quantidade-acesso": 340
+            }
+        ]
+    },
+    {
+        "identifier": "14577533000145-Barra Mansa-RJ-BARRANET TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Barra Mansa",
+        "uf": "RJ",
+        "latitude": -22.548084,
+        "longitude": -44.175241,
+        "empresa": "BARRANET TELECOMUNICACOES LTDA",
+        "cnpj": 14577533000145,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 720
             }
         ]
     },
@@ -9017,6 +9268,25 @@
         ]
     },
     {
+        "identifier": "15533309000114-São João de Meriti-RJ-NAVEGUE.COM SERVICOS DE TELECOMUNICACOES LTDA.-Pessoa Física",
+        "cidade": "São João de Meriti",
+        "uf": "RJ",
+        "latitude": -22.805776,
+        "longitude": -43.37292,
+        "empresa": "NAVEGUE.COM SERVICOS DE TELECOMUNICACOES LTDA.",
+        "cnpj": 15533309000114,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 889
+            }
+        ]
+    },
+    {
         "identifier": "15577078000140-Angra dos Reis-RJ-L&l Provedor de Internet Ltda-Pessoa Física",
         "cidade": "Angra dos Reis",
         "uf": "RJ",
@@ -9145,6 +9415,63 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "16482316000105-Bom Jesus do Itabapoana-RJ-DIGITAL NET INFORMATICA MG LTDA - ME-Pessoa Física",
+        "cidade": "Bom Jesus do Itabapoana",
+        "uf": "RJ",
+        "latitude": -21.144851,
+        "longitude": -41.682222,
+        "empresa": "DIGITAL NET INFORMATICA MG LTDA - ME",
+        "cnpj": 16482316000105,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 402
+            }
+        ]
+    },
+    {
+        "identifier": "16482316000105-Itaperuna-RJ-DIGITAL NET INFORMATICA MG LTDA - ME-Pessoa Física",
+        "cidade": "Itaperuna",
+        "uf": "RJ",
+        "latitude": -21.199665,
+        "longitude": -41.879907,
+        "empresa": "DIGITAL NET INFORMATICA MG LTDA - ME",
+        "cnpj": 16482316000105,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1480
+            }
+        ]
+    },
+    {
+        "identifier": "16482316000105-Porciúncula-RJ-DIGITAL NET INFORMATICA MG LTDA - ME-Pessoa Física",
+        "cidade": "Porciúncula",
+        "uf": "RJ",
+        "latitude": -20.96321,
+        "longitude": -42.046477,
+        "empresa": "DIGITAL NET INFORMATICA MG LTDA - ME",
+        "cnpj": 16482316000105,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3512
             }
         ]
     },
@@ -10131,6 +10458,25 @@
         ]
     },
     {
+        "identifier": "18694690000191-Cabo Frio-RJ-D DOS SANTOS SERVICOS DE COMUNICACAO E COMERCIO DE INFORMATICA-Pessoa Física",
+        "cidade": "Cabo Frio",
+        "uf": "RJ",
+        "latitude": -22.88943,
+        "longitude": -42.028595,
+        "empresa": "D DOS SANTOS SERVICOS DE COMUNICACAO E COMERCIO DE INFORMATICA",
+        "cnpj": 18694690000191,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 86
+            }
+        ]
+    },
+    {
         "identifier": "19090797000193-Rio de Janeiro-RJ-LIVECOM SERVIÇOS E COMERCIO VAREJISTA DE EQUIPAMENTOS DE INFORMATICA LTDA-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
@@ -10563,6 +10909,31 @@
         ]
     },
     {
+        "identifier": "20912724000119-Magé-RJ-SOS SOLUCOES DE INTERNET EIRELI-Pessoa Física",
+        "cidade": "Magé",
+        "uf": "RJ",
+        "latitude": -22.663151,
+        "longitude": -43.031483,
+        "empresa": "SOS SOLUCOES DE INTERNET EIRELI",
+        "cnpj": 20912724000119,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 464
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
         "identifier": "20969356000145-Japeri-RJ-MWA INTERNET. COM LTDA - ME-Pessoa Física",
         "cidade": "Japeri",
         "uf": "RJ",
@@ -10635,6 +11006,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "21232074000123-Itaboraí-RJ-F.f Telecom Conecta Ltda-Pessoa Física",
+        "cidade": "Itaboraí",
+        "uf": "RJ",
+        "latitude": -22.756504,
+        "longitude": -42.863905,
+        "empresa": "F.f Telecom Conecta Ltda",
+        "cnpj": 21232074000123,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 297
             }
         ]
     },
@@ -11449,6 +11839,31 @@
         ]
     },
     {
+        "identifier": "24537642000192-Rio de Janeiro-RJ-Age Solucoes de Conectividade Ltda-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "Age Solucoes de Conectividade Ltda",
+        "cnpj": 24537642000192,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 474
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 143
+            }
+        ]
+    },
+    {
         "identifier": "24608793000194-Rio de Janeiro-RJ-ASJ COMUNICACAO MULTIMIDIA LTDA-Pessoa Física",
         "cidade": "Rio de Janeiro",
         "uf": "RJ",
@@ -11798,6 +12213,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 180
+            }
+        ]
+    },
+    {
+        "identifier": "26187384000197-Magé-RJ-NET TELECOM MD LTDA-Pessoa Física",
+        "cidade": "Magé",
+        "uf": "RJ",
+        "latitude": -22.663151,
+        "longitude": -43.031483,
+        "empresa": "NET TELECOM MD LTDA",
+        "cnpj": 26187384000197,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 631
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 105
             }
         ]
     },
@@ -13580,6 +14020,44 @@
         ]
     },
     {
+        "identifier": "27296103000105-Natividade-RJ-Net Livre Web - Eireli-Pessoa Física",
+        "cidade": "Natividade",
+        "uf": "RJ",
+        "latitude": -21.038974,
+        "longitude": -41.969663,
+        "empresa": "Net Livre Web - Eireli",
+        "cnpj": 27296103000105,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1899
+            }
+        ]
+    },
+    {
+        "identifier": "27296103000105-Varre-Sai-RJ-Net Livre Web - Eireli-Pessoa Física",
+        "cidade": "Varre-Sai",
+        "uf": "RJ",
+        "latitude": -20.927561,
+        "longitude": -41.87009,
+        "empresa": "Net Livre Web - Eireli",
+        "cnpj": 27296103000105,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1684
+            }
+        ]
+    },
+    {
         "identifier": "27435310000195-Duque de Caxias-RJ-Lino Internet e Telecom Ltda-Pessoa Física",
         "cidade": "Duque de Caxias",
         "uf": "RJ",
@@ -14255,6 +14733,31 @@
         ]
     },
     {
+        "identifier": "28562068000183-Rio de Janeiro-RJ-Web Fiber Provedor Telecom Acesso A Redes de Internet Ltda-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "Web Fiber Provedor Telecom Acesso A Redes de Internet Ltda",
+        "cnpj": 28562068000183,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 20
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 129
+            }
+        ]
+    },
+    {
         "identifier": "28596737000138-Duque de Caxias-RJ-LLJ TELECOM LTDA - ME-Pessoa Física",
         "cidade": "Duque de Caxias",
         "uf": "RJ",
@@ -14364,6 +14867,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 53
+            }
+        ]
+    },
+    {
+        "identifier": "28947293000138-Duque de Caxias-RJ-D&M SERVICOS DE COMUNICACOES E TELECOMUNICACOES EIRELI - ME-Pessoa Física",
+        "cidade": "Duque de Caxias",
+        "uf": "RJ",
+        "latitude": -22.785801,
+        "longitude": -43.304895,
+        "empresa": "D&M SERVICOS DE COMUNICACOES E TELECOMUNICACOES EIRELI - ME",
+        "cnpj": 28947293000138,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 605
             }
         ]
     },
@@ -16163,6 +16685,25 @@
         ]
     },
     {
+        "identifier": "35398746000180-Rio de Janeiro-RJ-ANDERSON E THIAGO TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "ANDERSON E THIAGO TELECOMUNICACOES LTDA",
+        "cnpj": 35398746000180,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 104
+            }
+        ]
+    },
+    {
         "identifier": "35420289000182-Nova Friburgo-RJ-Optic Net Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Nova Friburgo",
         "uf": "RJ",
@@ -16829,6 +17370,132 @@
         ]
     },
     {
+        "identifier": "37544358000195-Angra dos Reis-RJ-WIPI TELECOM LTDA-Pessoa Física",
+        "cidade": "Angra dos Reis",
+        "uf": "RJ",
+        "latitude": -23.001074,
+        "longitude": -44.31956,
+        "empresa": "WIPI TELECOM LTDA",
+        "cnpj": 37544358000195,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "37544358000195-Belford Roxo-RJ-WIPI TELECOM LTDA-Pessoa Física",
+        "cidade": "Belford Roxo",
+        "uf": "RJ",
+        "latitude": -22.764042,
+        "longitude": -43.39921,
+        "empresa": "WIPI TELECOM LTDA",
+        "cnpj": 37544358000195,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "37544358000195-Duque de Caxias-RJ-WIPI TELECOM LTDA-Pessoa Física",
+        "cidade": "Duque de Caxias",
+        "uf": "RJ",
+        "latitude": -22.785801,
+        "longitude": -43.304895,
+        "empresa": "WIPI TELECOM LTDA",
+        "cnpj": 37544358000195,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 12
+            }
+        ]
+    },
+    {
+        "identifier": "37544358000195-Macaé-RJ-WIPI TELECOM LTDA-Pessoa Física",
+        "cidade": "Macaé",
+        "uf": "RJ",
+        "latitude": -22.376807,
+        "longitude": -41.784828,
+        "empresa": "WIPI TELECOM LTDA",
+        "cnpj": 37544358000195,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "37544358000195-Nova Iguaçu-RJ-WIPI TELECOM LTDA-Pessoa Física",
+        "cidade": "Nova Iguaçu",
+        "uf": "RJ",
+        "latitude": -22.755635,
+        "longitude": -43.460325,
+        "empresa": "WIPI TELECOM LTDA",
+        "cnpj": 37544358000195,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "37544358000195-Rio de Janeiro-RJ-WIPI TELECOM LTDA-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "WIPI TELECOM LTDA",
+        "cnpj": 37544358000195,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 279
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 26
+            }
+        ]
+    },
+    {
         "identifier": "37566125000193-Nova Iguaçu-RJ-D&b Provedor de Servicos de Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Nova Iguaçu",
         "uf": "RJ",
@@ -17021,6 +17688,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 271
+            }
+        ]
+    },
+    {
+        "identifier": "38131359000170-Rio de Janeiro-RJ-ALLIANCE NET BANDA LARGA LTDA-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "ALLIANCE NET BANDA LARGA LTDA",
+        "cnpj": 38131359000170,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 163
             }
         ]
     },
@@ -17399,6 +18085,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 996
+            }
+        ]
+    },
+    {
+        "identifier": "39814500000100-Itaboraí-RJ-REAL NET WORK SERVICOS MULTIMIDIA EIRELI-Pessoa Física",
+        "cidade": "Itaboraí",
+        "uf": "RJ",
+        "latitude": -22.756504,
+        "longitude": -42.863905,
+        "empresa": "REAL NET WORK SERVICOS MULTIMIDIA EIRELI",
+        "cnpj": 39814500000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 263
             }
         ]
     },
@@ -18535,6 +19240,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 2909
+            }
+        ]
+    },
+    {
+        "identifier": "43491090000173-Rio de Janeiro-RJ-Rede Paciencia Telecom Ltda-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "Rede Paciencia Telecom Ltda",
+        "cnpj": 43491090000173,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 343
             }
         ]
     },
@@ -19694,6 +20418,31 @@
         ]
     },
     {
+        "identifier": "45970749000108-Rio de Janeiro-RJ-Rp Telecom Ltda-Pessoa Física",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "Rp Telecom Ltda",
+        "cnpj": 45970749000108,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 197
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 728
+            }
+        ]
+    },
+    {
         "identifier": "46056690000100-São Sebastião do Alto-RJ-Giga Fibra Ltda-Pessoa Física",
         "cidade": "São Sebastião do Alto",
         "uf": "RJ",
@@ -20805,6 +21554,63 @@
         ]
     },
     {
+        "identifier": "51039474000188-Niterói-RJ-W Fibra Telecom Ltda-Pessoa Física",
+        "cidade": "Niterói",
+        "uf": "RJ",
+        "latitude": -22.88321,
+        "longitude": -43.103367,
+        "empresa": "W Fibra Telecom Ltda",
+        "cnpj": 51039474000188,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 515
+            }
+        ]
+    },
+    {
+        "identifier": "51039474000188-São Gonçalo-RJ-W Fibra Telecom Ltda-Pessoa Física",
+        "cidade": "São Gonçalo",
+        "uf": "RJ",
+        "latitude": -22.82679,
+        "longitude": -43.063351,
+        "empresa": "W Fibra Telecom Ltda",
+        "cnpj": 51039474000188,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 417
+            }
+        ]
+    },
+    {
+        "identifier": "51073637000149-São Gonçalo-RJ-Ideal Comunicacao Multimidia Ltda-Pessoa Física",
+        "cidade": "São Gonçalo",
+        "uf": "RJ",
+        "latitude": -22.82679,
+        "longitude": -43.063351,
+        "empresa": "Ideal Comunicacao Multimidia Ltda",
+        "cnpj": 51073637000149,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 44
+            }
+        ]
+    },
+    {
         "identifier": "51079292000130-Resende-RJ-Ynconect Servicos de Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Resende",
         "uf": "RJ",
@@ -21467,6 +22273,25 @@
         ]
     },
     {
+        "identifier": "53932197000163-Itaperuna-RJ-Gin Fibra Internet Ltda-Pessoa Física",
+        "cidade": "Itaperuna",
+        "uf": "RJ",
+        "latitude": -21.199665,
+        "longitude": -41.879907,
+        "empresa": "Gin Fibra Internet Ltda",
+        "cnpj": 53932197000163,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
         "identifier": "53965808000170-Itaboraí-RJ-Fibra + Servicos de Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Itaboraí",
         "uf": "RJ",
@@ -21501,6 +22326,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 91
+            }
+        ]
+    },
+    {
+        "identifier": "54600099000191-São Gonçalo-RJ-Net Turbo Comunicacao Multimidia Ltda-Pessoa Física",
+        "cidade": "São Gonçalo",
+        "uf": "RJ",
+        "latitude": -22.82679,
+        "longitude": -43.063351,
+        "empresa": "Net Turbo Comunicacao Multimidia Ltda",
+        "cnpj": 54600099000191,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 40
             }
         ]
     },
@@ -21770,1949 +22614,27 @@
         ]
     },
     {
-        "identifier": "76535764000143-Angra dos Reis-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Angra dos Reis",
+        "identifier": "57436223000113-Rio de Janeiro-RJ-Trion Telecom Ltda-Pessoa Física",
+        "cidade": "Rio de Janeiro",
         "uf": "RJ",
-        "latitude": -23.001074,
-        "longitude": -44.31956,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 17133
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Aperibé-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Aperibé",
-        "uf": "RJ",
-        "latitude": -21.625231,
-        "longitude": -42.101661,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Araruama-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Araruama",
-        "uf": "RJ",
-        "latitude": -22.869651,
-        "longitude": -42.332625,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2512
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Areal-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Areal",
-        "uf": "RJ",
-        "latitude": -22.228308,
-        "longitude": -43.111784,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 5
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 18
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Armação dos Búzios-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Armação dos Búzios",
-        "uf": "RJ",
-        "latitude": -22.752846,
-        "longitude": -41.884559,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 10313
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Arraial do Cabo-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Arraial do Cabo",
-        "uf": "RJ",
-        "latitude": -22.977448,
-        "longitude": -42.026715,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 5
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Barra Mansa-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Barra Mansa",
-        "uf": "RJ",
-        "latitude": -22.548084,
-        "longitude": -44.175241,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 3725
-            },
-            {
-                "tecnologia": "FWA",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Barra do Piraí-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Barra do Piraí",
-        "uf": "RJ",
-        "latitude": -22.471531,
-        "longitude": -43.826918,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 12
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 5254
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Belford Roxo-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Belford Roxo",
-        "uf": "RJ",
-        "latitude": -22.764042,
-        "longitude": -43.39921,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 23712
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Bom Jardim-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Bom Jardim",
-        "uf": "RJ",
-        "latitude": -22.154526,
-        "longitude": -42.425095,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 9
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Bom Jesus do Itabapoana-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Bom Jesus do Itabapoana",
-        "uf": "RJ",
-        "latitude": -21.144851,
-        "longitude": -41.682222,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 30
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Cabo Frio-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Cabo Frio",
-        "uf": "RJ",
-        "latitude": -22.88943,
-        "longitude": -42.028595,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 25146
-            },
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Cambuci-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Cambuci",
-        "uf": "RJ",
-        "latitude": -21.569058,
-        "longitude": -41.918723,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Campos dos Goytacazes-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Campos dos Goytacazes",
-        "uf": "RJ",
-        "latitude": -21.762171,
-        "longitude": -41.318055,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 6147
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Cantagalo-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Cantagalo",
-        "uf": "RJ",
-        "latitude": -21.979736,
-        "longitude": -42.366425,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Carapebus-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Carapebus",
-        "uf": "RJ",
-        "latitude": -22.182112,
-        "longitude": -41.66301,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Carmo-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Carmo",
-        "uf": "RJ",
-        "latitude": -21.930957,
-        "longitude": -42.604636,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Casimiro de Abreu-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Casimiro de Abreu",
-        "uf": "RJ",
-        "latitude": -22.481235,
-        "longitude": -42.206589,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1080
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Comendador Levy Gasparian-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Comendador Levy Gasparian",
-        "uf": "RJ",
-        "latitude": -22.040425,
-        "longitude": -43.214018,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Conceição de Macabu-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Conceição de Macabu",
-        "uf": "RJ",
-        "latitude": -22.08337,
-        "longitude": -41.871878,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 5
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Cordeiro-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Cordeiro",
-        "uf": "RJ",
-        "latitude": -22.026726,
-        "longitude": -42.364834,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Duque de Caxias-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Duque de Caxias",
-        "uf": "RJ",
-        "latitude": -22.785801,
-        "longitude": -43.304895,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 60146
-            },
-            {
-                "tecnologia": "FWA",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Engenheiro Paulo de Frontin-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Engenheiro Paulo de Frontin",
-        "uf": "RJ",
-        "latitude": -22.549781,
-        "longitude": -43.682738,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Itaboraí-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Itaboraí",
-        "uf": "RJ",
-        "latitude": -22.756504,
-        "longitude": -42.863905,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Itaguaí-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Itaguaí",
-        "uf": "RJ",
-        "latitude": -22.863566,
-        "longitude": -43.779821,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 6326
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Italva-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Italva",
-        "uf": "RJ",
-        "latitude": -21.429607,
-        "longitude": -41.701442,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Itaocara-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Itaocara",
-        "uf": "RJ",
-        "latitude": -21.674801,
-        "longitude": -42.075793,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 13
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 6
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Itaperuna-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Itaperuna",
-        "uf": "RJ",
-        "latitude": -21.199665,
-        "longitude": -41.879907,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Itatiaia-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Itatiaia",
-        "uf": "RJ",
-        "latitude": -22.48971,
-        "longitude": -44.567485,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 6
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 17
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Japeri-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Japeri",
-        "uf": "RJ",
-        "latitude": -22.643502,
-        "longitude": -43.660228,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 13
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Macaé-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Macaé",
-        "uf": "RJ",
-        "latitude": -22.376807,
-        "longitude": -41.784828,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 6
-            },
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "HDSL",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Macuco-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Macuco",
-        "uf": "RJ",
-        "latitude": -21.981345,
-        "longitude": -42.253288,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Mangaratiba-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Mangaratiba",
-        "uf": "RJ",
-        "latitude": -22.959402,
-        "longitude": -44.040892,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 11
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2007
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Maricá-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Maricá",
-        "uf": "RJ",
-        "latitude": -22.935434,
-        "longitude": -42.824587,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 4905
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Mendes-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Mendes",
-        "uf": "RJ",
-        "latitude": -22.524548,
-        "longitude": -43.731215,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 5
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 14
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Mesquita-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Mesquita",
-        "uf": "RJ",
-        "latitude": -22.802811,
-        "longitude": -43.460066,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
+        "latitude": -22.912897,
+        "longitude": -43.200295,
+        "empresa": "Trion Telecom Ltda",
+        "cnpj": 57436223000113,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
                 "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "LINHA_DEDICADA",
+                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 78
             },
             {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 15389
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Miguel Pereira-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Miguel Pereira",
-        "uf": "RJ",
-        "latitude": -22.457242,
-        "longitude": -43.480275,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Natividade-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Natividade",
-        "uf": "RJ",
-        "latitude": -21.038974,
-        "longitude": -41.969663,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 7
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 6
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Nilópolis-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Nilópolis",
-        "uf": "RJ",
-        "latitude": -22.805658,
-        "longitude": -43.423344,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 26207
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Niterói-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Niterói",
-        "uf": "RJ",
-        "latitude": -22.88321,
-        "longitude": -43.103367,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 25030
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Nova Friburgo-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Nova Friburgo",
-        "uf": "RJ",
-        "latitude": -22.293224,
-        "longitude": -42.537692,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1279
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Nova Iguaçu-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Nova Iguaçu",
-        "uf": "RJ",
-        "latitude": -22.755635,
-        "longitude": -43.460325,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 37409
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Paracambi-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Paracambi",
-        "uf": "RJ",
-        "latitude": -22.607811,
-        "longitude": -43.710836,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1131
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Paraty-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Paraty",
-        "uf": "RJ",
-        "latitude": -23.220404,
-        "longitude": -44.715041,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 17
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 64
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Paraíba do Sul-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Paraíba do Sul",
-        "uf": "RJ",
-        "latitude": -22.158462,
-        "longitude": -43.304004,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 12
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Paty do Alferes-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Paty do Alferes",
-        "uf": "RJ",
-        "latitude": -22.430896,
-        "longitude": -43.428534,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Petrópolis-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Petrópolis",
-        "uf": "RJ",
-        "latitude": -22.519963,
-        "longitude": -43.192613,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 44168
-            },
-            {
-                "tecnologia": "VSAT",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Satélite",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Pinheiral-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Pinheiral",
-        "uf": "RJ",
-        "latitude": -22.517211,
-        "longitude": -44.002151,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 10
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1191
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Piraí-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Piraí",
-        "uf": "RJ",
-        "latitude": -22.621497,
-        "longitude": -43.908071,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 9
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 64
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Porciúncula-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Porciúncula",
-        "uf": "RJ",
-        "latitude": -20.96321,
-        "longitude": -42.046477,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 15
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Porto Real-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Porto Real",
-        "uf": "RJ",
-        "latitude": -22.417472,
-        "longitude": -44.295167,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Quatis-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Quatis",
-        "uf": "RJ",
-        "latitude": -22.404484,
-        "longitude": -44.259729,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Queimados-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Queimados",
-        "uf": "RJ",
-        "latitude": -22.710172,
-        "longitude": -43.551808,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 16899
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Resende-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Resende",
-        "uf": "RJ",
-        "latitude": -22.470473,
-        "longitude": -44.45091,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1799
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Rio Claro-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Rio Claro",
-        "uf": "RJ",
-        "latitude": -22.720001,
-        "longitude": -44.141874,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Rio das Flores-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Rio das Flores",
-        "uf": "RJ",
-        "latitude": -22.169184,
-        "longitude": -43.585632,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Rio das Ostras-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Rio das Ostras",
-        "uf": "RJ",
-        "latitude": -22.517378,
-        "longitude": -41.947509,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 10
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Rio de Janeiro-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Rio de Janeiro",
-        "uf": "RJ",
-        "latitude": -22.912897,
-        "longitude": -43.200295,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 9
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 40
-            },
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 255315
-            },
-            {
-                "tecnologia": "HDSL",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Santa Maria Madalena-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Santa Maria Madalena",
-        "uf": "RJ",
-        "latitude": -21.95466,
-        "longitude": -42.009845,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 5
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Santo Antônio de Pádua-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Santo Antônio de Pádua",
-        "uf": "RJ",
-        "latitude": -21.541038,
-        "longitude": -42.183157,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 22
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Saquarema-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Saquarema",
-        "uf": "RJ",
-        "latitude": -22.929181,
-        "longitude": -42.509936,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 7
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 255
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Seropédica-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Seropédica",
-        "uf": "RJ",
-        "latitude": -22.752584,
-        "longitude": -43.715482,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Silva Jardim-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Silva Jardim",
-        "uf": "RJ",
-        "latitude": -22.657389,
-        "longitude": -42.396119,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Fidélis-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Fidélis",
-        "uf": "RJ",
-        "latitude": -21.655119,
-        "longitude": -41.756041,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Gonçalo-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Gonçalo",
-        "uf": "RJ",
-        "latitude": -22.82679,
-        "longitude": -43.063351,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 20491
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São José de Ubá-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São José de Ubá",
-        "uf": "RJ",
-        "latitude": -21.366066,
-        "longitude": -41.951058,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São João da Barra-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São João da Barra",
-        "uf": "RJ",
-        "latitude": -21.638009,
-        "longitude": -41.044582,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São João de Meriti-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São João de Meriti",
-        "uf": "RJ",
-        "latitude": -22.805776,
-        "longitude": -43.37292,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 50490
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Pedro da Aldeia-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Pedro da Aldeia",
-        "uf": "RJ",
-        "latitude": -22.842859,
-        "longitude": -42.102596,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTB",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 3883
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Tanguá-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Tanguá",
-        "uf": "RJ",
-        "latitude": -22.742305,
-        "longitude": -42.720189,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 10
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Teresópolis-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Teresópolis",
-        "uf": "RJ",
-        "latitude": -22.416464,
-        "longitude": -42.97519,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 10
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 5448
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Três Rios-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Três Rios",
-        "uf": "RJ",
-        "latitude": -22.11651,
-        "longitude": -43.218533,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Valença-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Valença",
-        "uf": "RJ",
-        "latitude": -22.244496,
-        "longitude": -43.71288,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 28
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 4310
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Vassouras-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Vassouras",
-        "uf": "RJ",
-        "latitude": -22.405889,
-        "longitude": -43.668555,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 11
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Volta Redonda-RJ-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Volta Redonda",
-        "uf": "RJ",
-        "latitude": -22.520212,
-        "longitude": -44.099555,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 27999
+                "quantidade-acesso": 92
             }
         ]
     }

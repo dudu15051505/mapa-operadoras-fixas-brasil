@@ -567,6 +567,131 @@
         ]
     },
     {
+        "identifier": "2456355000115-Bom Jardim-PE-MARCIO GUSTAVO PLACIDO DE ANDRADE SILVA - ME-Pessoa Física",
+        "cidade": "Bom Jardim",
+        "uf": "PE",
+        "latitude": -7.796947,
+        "longitude": -35.578391,
+        "empresa": "MARCIO GUSTAVO PLACIDO DE ANDRADE SILVA - ME",
+        "cnpj": 2456355000115,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 30
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 33
+            }
+        ]
+    },
+    {
+        "identifier": "2456355000115-Carpina-PE-MARCIO GUSTAVO PLACIDO DE ANDRADE SILVA - ME-Pessoa Física",
+        "cidade": "Carpina",
+        "uf": "PE",
+        "latitude": -7.84566,
+        "longitude": -35.251397,
+        "empresa": "MARCIO GUSTAVO PLACIDO DE ANDRADE SILVA - ME",
+        "cnpj": 2456355000115,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 39
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 17
+            }
+        ]
+    },
+    {
+        "identifier": "2456355000115-Machados-PE-MARCIO GUSTAVO PLACIDO DE ANDRADE SILVA - ME-Pessoa Física",
+        "cidade": "Machados",
+        "uf": "PE",
+        "latitude": -7.688274,
+        "longitude": -35.511376,
+        "empresa": "MARCIO GUSTAVO PLACIDO DE ANDRADE SILVA - ME",
+        "cnpj": 2456355000115,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 23
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            }
+        ]
+    },
+    {
+        "identifier": "2456355000115-Orobó-PE-MARCIO GUSTAVO PLACIDO DE ANDRADE SILVA - ME-Pessoa Física",
+        "cidade": "Orobó",
+        "uf": "PE",
+        "latitude": -7.745535,
+        "longitude": -35.595568,
+        "empresa": "MARCIO GUSTAVO PLACIDO DE ANDRADE SILVA - ME",
+        "cnpj": 2456355000115,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 35
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 18
+            }
+        ]
+    },
+    {
+        "identifier": "2456355000115-Vicência-PE-MARCIO GUSTAVO PLACIDO DE ANDRADE SILVA - ME-Pessoa Física",
+        "cidade": "Vicência",
+        "uf": "PE",
+        "latitude": -7.656549,
+        "longitude": -35.31395,
+        "empresa": "MARCIO GUSTAVO PLACIDO DE ANDRADE SILVA - ME",
+        "cnpj": 2456355000115,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 43
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11
+            }
+        ]
+    },
+    {
         "identifier": "2542970000144-Paulista-PE-Ib Telecom Servicos de Comuncacao Multimidia Internet e Comercio Ltda-Pessoa Física",
         "cidade": "Paulista",
         "uf": "PE",
@@ -2629,6 +2754,25 @@
         ]
     },
     {
+        "identifier": "7820567000153-Orobó-PE-FRANCISCO DE ASSIS BARBOSA DE BRITO GOMES-Pessoa Física",
+        "cidade": "Orobó",
+        "uf": "PE",
+        "latitude": -7.745535,
+        "longitude": -35.595568,
+        "empresa": "FRANCISCO DE ASSIS BARBOSA DE BRITO GOMES",
+        "cnpj": 7820567000153,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 153
+            }
+        ]
+    },
+    {
         "identifier": "8169009000132-Paulista-PE-G4 Telecom Servicos de Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Paulista",
         "uf": "PE",
@@ -3372,6 +3516,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "9122173000157-Santa Cruz do Capibaribe-PE-Jose Emerson de Abreu Silva-Pessoa Física",
+        "cidade": "Santa Cruz do Capibaribe",
+        "uf": "PE",
+        "latitude": -7.948019,
+        "longitude": -36.206092,
+        "empresa": "Jose Emerson de Abreu Silva",
+        "cnpj": 9122173000157,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 30
             }
         ]
     },
@@ -4650,6 +4813,100 @@
         ]
     },
     {
+        "identifier": "10543214000168-Carnaíba-PE-RENATA NUNES DE LIMA ME-Pessoa Física",
+        "cidade": "Carnaíba",
+        "uf": "PE",
+        "latitude": -7.793421,
+        "longitude": -37.794584,
+        "empresa": "RENATA NUNES DE LIMA ME",
+        "cnpj": 10543214000168,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 19
+            }
+        ]
+    },
+    {
+        "identifier": "10543214000168-Flores-PE-RENATA NUNES DE LIMA ME-Pessoa Física",
+        "cidade": "Flores",
+        "uf": "PE",
+        "latitude": -7.85842,
+        "longitude": -37.971511,
+        "empresa": "RENATA NUNES DE LIMA ME",
+        "cnpj": 10543214000168,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 27
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 16
+            }
+        ]
+    },
+    {
+        "identifier": "10543214000168-Iguaracy-PE-RENATA NUNES DE LIMA ME-Pessoa Física",
+        "cidade": "Iguaracy",
+        "uf": "PE",
+        "latitude": -7.832772,
+        "longitude": -37.509179,
+        "empresa": "RENATA NUNES DE LIMA ME",
+        "cnpj": 10543214000168,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 23
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "10543214000168-Quixaba-PE-RENATA NUNES DE LIMA ME-Pessoa Física",
+        "cidade": "Quixaba",
+        "uf": "PE",
+        "latitude": -7.707339,
+        "longitude": -37.84458,
+        "empresa": "RENATA NUNES DE LIMA ME",
+        "cnpj": 10543214000168,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 25
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 29
+            }
+        ]
+    },
+    {
         "identifier": "10572494000132-Buíque-PE-J. R. DA SILVA ALMEIDA ME-Pessoa Física",
         "cidade": "Buíque",
         "uf": "PE",
@@ -4665,6 +4922,87 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1120
+            }
+        ]
+    },
+    {
+        "identifier": "10732636000181-Araçoiaba-PE-EW BORBA SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Araçoiaba",
+        "uf": "PE",
+        "latitude": -7.783911,
+        "longitude": -35.080897,
+        "empresa": "EW BORBA SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 10732636000181,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 23
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 50
+            }
+        ]
+    },
+    {
+        "identifier": "10732636000181-Chã de Alegria-PE-EW BORBA SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Chã de Alegria",
+        "uf": "PE",
+        "latitude": -8.006795,
+        "longitude": -35.204002,
+        "empresa": "EW BORBA SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 10732636000181,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 28
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 29
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 86
+            }
+        ]
+    },
+    {
+        "identifier": "10732636000181-São Lourenço da Mata-PE-EW BORBA SERVICOS DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "São Lourenço da Mata",
+        "uf": "PE",
+        "latitude": -8.00684,
+        "longitude": -35.012359,
+        "empresa": "EW BORBA SERVICOS DE COMUNICACOES LTDA",
+        "cnpj": 10732636000181,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 28
             }
         ]
     },
@@ -5783,7 +6121,7 @@
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1003
+                "quantidade-acesso": 712
             }
         ]
     },
@@ -5802,7 +6140,7 @@
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 969
+                "quantidade-acesso": 653
             }
         ]
     },
@@ -5821,7 +6159,7 @@
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 218
+                "quantidade-acesso": 250
             }
         ]
     },
@@ -6874,6 +7212,25 @@
         ]
     },
     {
+        "identifier": "12346023000131-Caruaru-PE-MARIA APARECIDA DOS SANTOS COMUNICACAO MULTIMIDIA - ME-Pessoa Física",
+        "cidade": "Caruaru",
+        "uf": "PE",
+        "latitude": -8.284547,
+        "longitude": -35.969863,
+        "empresa": "MARIA APARECIDA DOS SANTOS COMUNICACAO MULTIMIDIA - ME",
+        "cnpj": 12346023000131,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 369
+            }
+        ]
+    },
+    {
         "identifier": "12369496000154-Casinhas-PE-POINTNET PROVEDOR DE INTERNET LTDA-Pessoa Física",
         "cidade": "Casinhas",
         "uf": "PE",
@@ -6990,6 +7347,88 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 483
+            }
+        ]
+    },
+    {
+        "identifier": "12529903000143-Vitória de Santo Antão-PE-LETICIA DE LIMA COSTA - ME-Pessoa Física",
+        "cidade": "Vitória de Santo Antão",
+        "uf": "PE",
+        "latitude": -8.128191,
+        "longitude": -35.29762,
+        "empresa": "LETICIA DE LIMA COSTA - ME",
+        "cnpj": 12529903000143,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 131
+            }
+        ]
+    },
+    {
+        "identifier": "12563528000158-Jatobá-PE-JERSON UBIRATAN DA SILVA BARROS LTDA-Pessoa Física",
+        "cidade": "Jatobá",
+        "uf": "PE",
+        "latitude": -9.174761,
+        "longitude": -38.260651,
+        "empresa": "JERSON UBIRATAN DA SILVA BARROS LTDA",
+        "cnpj": 12563528000158,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 153
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 311
+            }
+        ]
+    },
+    {
+        "identifier": "12563528000158-Petrolândia-PE-JERSON UBIRATAN DA SILVA BARROS LTDA-Pessoa Física",
+        "cidade": "Petrolândia",
+        "uf": "PE",
+        "latitude": -9.068627,
+        "longitude": -38.302664,
+        "empresa": "JERSON UBIRATAN DA SILVA BARROS LTDA",
+        "cnpj": 12563528000158,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 73
+            }
+        ]
+    },
+    {
+        "identifier": "12563528000158-Tacaratu-PE-JERSON UBIRATAN DA SILVA BARROS LTDA-Pessoa Física",
+        "cidade": "Tacaratu",
+        "uf": "PE",
+        "latitude": -9.097976,
+        "longitude": -38.150401,
+        "empresa": "JERSON UBIRATAN DA SILVA BARROS LTDA",
+        "cnpj": 12563528000158,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 19
             }
         ]
     },
@@ -7214,6 +7653,25 @@
         ]
     },
     {
+        "identifier": "13219135000194-Recife-PE-RC NET PROVEDORES DE INTERNET LTDA-Pessoa Física",
+        "cidade": "Recife",
+        "uf": "PE",
+        "latitude": -8.046658,
+        "longitude": -34.877065,
+        "empresa": "RC NET PROVEDORES DE INTERNET LTDA",
+        "cnpj": 13219135000194,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 424
+            }
+        ]
+    },
+    {
         "identifier": "13220680000109-Santa Filomena-PE-DAIANE DA COSTA FERNANDES & CIA LTDA-Pessoa Física",
         "cidade": "Santa Filomena",
         "uf": "PE",
@@ -7348,6 +7806,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 2012
+            }
+        ]
+    },
+    {
+        "identifier": "14113504000122-Olinda-PE-ALCIDES JOSE DE OLIVEIRA INFORMATICA-Pessoa Física",
+        "cidade": "Olinda",
+        "uf": "PE",
+        "latitude": -8.010166,
+        "longitude": -34.854504,
+        "empresa": "ALCIDES JOSE DE OLIVEIRA INFORMATICA",
+        "cnpj": 14113504000122,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 414
             }
         ]
     },
@@ -8008,6 +8485,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 235
+            }
+        ]
+    },
+    {
+        "identifier": "15495785000198-Barra de Guabiraba-PE-Miron Lucena da Silva Servicos de Telecomunicacoes-Pessoa Física",
+        "cidade": "Barra de Guabiraba",
+        "uf": "PE",
+        "latitude": -8.420751,
+        "longitude": -35.658544,
+        "empresa": "Miron Lucena da Silva Servicos de Telecomunicacoes",
+        "cnpj": 15495785000198,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 130
             }
         ]
     },
@@ -11155,6 +11651,25 @@
         ]
     },
     {
+        "identifier": "23580892000142-Caruaru-PE-R G B Chaves Provedor de Internet-Pessoa Física",
+        "cidade": "Caruaru",
+        "uf": "PE",
+        "latitude": -8.284547,
+        "longitude": -35.969863,
+        "empresa": "R G B Chaves Provedor de Internet",
+        "cnpj": 23580892000142,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 144
+            }
+        ]
+    },
+    {
         "identifier": "23604236000132-Ipojuca-PE-Rionet Comercio e Tecnologia Ltda-Pessoa Física",
         "cidade": "Ipojuca",
         "uf": "PE",
@@ -11251,6 +11766,44 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 102
+            }
+        ]
+    },
+    {
+        "identifier": "23766153000140-Recife-PE-AP CONNECT COMUNICACAO MULTIMIDIA LTDA - ME-Pessoa Física",
+        "cidade": "Recife",
+        "uf": "PE",
+        "latitude": -8.046658,
+        "longitude": -34.877065,
+        "empresa": "AP CONNECT COMUNICACAO MULTIMIDIA LTDA - ME",
+        "cnpj": 23766153000140,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1913
+            }
+        ]
+    },
+    {
+        "identifier": "23828751000104-Caruaru-PE-J4net Tecnologia Scm Ltda-Pessoa Física",
+        "cidade": "Caruaru",
+        "uf": "PE",
+        "latitude": -8.284547,
+        "longitude": -35.969863,
+        "empresa": "J4net Tecnologia Scm Ltda",
+        "cnpj": 23828751000104,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 258
             }
         ]
     },
@@ -12719,6 +13272,31 @@
         ]
     },
     {
+        "identifier": "27165516000142-Recife-PE-LEONARDO A TRANCOSO BRANCO PROVEDOR DE INTERNET-Pessoa Física",
+        "cidade": "Recife",
+        "uf": "PE",
+        "latitude": -8.046658,
+        "longitude": -34.877065,
+        "empresa": "LEONARDO A TRANCOSO BRANCO PROVEDOR DE INTERNET",
+        "cnpj": 27165516000142,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 191
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 77
+            }
+        ]
+    },
+    {
         "identifier": "27314547000118-Frei Miguelinho-PE-MLG. TELECOM LTDA-Pessoa Física",
         "cidade": "Frei Miguelinho",
         "uf": "PE",
@@ -13962,6 +14540,50 @@
         ]
     },
     {
+        "identifier": "27973260000108-Igarassu-PE-JOSENILDO FERREIRA DO NASCIMENTO - ME-Pessoa Física",
+        "cidade": "Igarassu",
+        "uf": "PE",
+        "latitude": -7.82881,
+        "longitude": -34.901306,
+        "empresa": "JOSENILDO FERREIRA DO NASCIMENTO - ME",
+        "cnpj": 27973260000108,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 86
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 96
+            }
+        ]
+    },
+    {
+        "identifier": "28124250000152-Jaboatão dos Guararapes-PE-POWERTEC TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Jaboatão dos Guararapes",
+        "uf": "PE",
+        "latitude": -8.112982,
+        "longitude": -35.014959,
+        "empresa": "POWERTEC TELECOMUNICACOES LTDA",
+        "cnpj": 28124250000152,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2000
+            }
+        ]
+    },
+    {
         "identifier": "28126199000118-Frei Miguelinho-PE-Juliedson Pereira da Silva-Pessoa Física",
         "cidade": "Frei Miguelinho",
         "uf": "PE",
@@ -14278,6 +14900,37 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 564
+            }
+        ]
+    },
+    {
+        "identifier": "28623663000181-Limoeiro-PE-J R F DA SILVA MELO-Pessoa Física",
+        "cidade": "Limoeiro",
+        "uf": "PE",
+        "latitude": -7.872599,
+        "longitude": -35.440154,
+        "empresa": "J R F DA SILVA MELO",
+        "cnpj": 28623663000181,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 69
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 45
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 93
             }
         ]
     },
@@ -14606,6 +15259,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 95
+            }
+        ]
+    },
+    {
+        "identifier": "29933414000155-Escada-PE-Matrix Telecom - Servicos de Comunicacao Multimidia Ltda-Pessoa Física",
+        "cidade": "Escada",
+        "uf": "PE",
+        "latitude": -8.356717,
+        "longitude": -35.224082,
+        "empresa": "Matrix Telecom - Servicos de Comunicacao Multimidia Ltda",
+        "cnpj": 29933414000155,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 300
             }
         ]
     },
@@ -15146,6 +15818,44 @@
         ]
     },
     {
+        "identifier": "31355170000112-Jaboatão dos Guararapes-PE-SADY J DA SILVA COMUNICACOES-Pessoa Física",
+        "cidade": "Jaboatão dos Guararapes",
+        "uf": "PE",
+        "latitude": -8.112982,
+        "longitude": -35.014959,
+        "empresa": "SADY J DA SILVA COMUNICACOES",
+        "cnpj": 31355170000112,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 138
+            }
+        ]
+    },
+    {
+        "identifier": "31355170000112-Recife-PE-SADY J DA SILVA COMUNICACOES-Pessoa Física",
+        "cidade": "Recife",
+        "uf": "PE",
+        "latitude": -8.046658,
+        "longitude": -34.877065,
+        "empresa": "SADY J DA SILVA COMUNICACOES",
+        "cnpj": 31355170000112,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 141
+            }
+        ]
+    },
+    {
         "identifier": "31355283000118-Serra Talhada-PE-HILTON CESAR DINIZ VIANA-Pessoa Física",
         "cidade": "Serra Talhada",
         "uf": "PE",
@@ -15205,6 +15915,63 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 37
+            }
+        ]
+    },
+    {
+        "identifier": "31556771000193-Jaboatão dos Guararapes-PE-S R de Souza Comunicacoes-Pessoa Física",
+        "cidade": "Jaboatão dos Guararapes",
+        "uf": "PE",
+        "latitude": -8.112982,
+        "longitude": -35.014959,
+        "empresa": "S R de Souza Comunicacoes",
+        "cnpj": 31556771000193,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 72
+            }
+        ]
+    },
+    {
+        "identifier": "31556771000193-São Lourenço da Mata-PE-S R de Souza Comunicacoes-Pessoa Física",
+        "cidade": "São Lourenço da Mata",
+        "uf": "PE",
+        "latitude": -8.00684,
+        "longitude": -35.012359,
+        "empresa": "S R de Souza Comunicacoes",
+        "cnpj": 31556771000193,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 24
+            }
+        ]
+    },
+    {
+        "identifier": "31634937000142-Olinda-PE-LIVRE LINK SERVICOS DE TELECOMUNICACOES EIRELI-Pessoa Física",
+        "cidade": "Olinda",
+        "uf": "PE",
+        "latitude": -8.010166,
+        "longitude": -34.854504,
+        "empresa": "LIVRE LINK SERVICOS DE TELECOMUNICACOES EIRELI",
+        "cnpj": 31634937000142,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 381
             }
         ]
     },
@@ -15494,6 +16261,25 @@
         ]
     },
     {
+        "identifier": "32183882000164-Paulista-PE-CELNEET PROVEDOR DE ACESSO A REDE DE COMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Paulista",
+        "uf": "PE",
+        "latitude": -7.934007,
+        "longitude": -34.868407,
+        "empresa": "CELNEET PROVEDOR DE ACESSO A REDE DE COMUNICACOES LTDA",
+        "cnpj": 32183882000164,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 35
+            }
+        ]
+    },
+    {
         "identifier": "32235746000170-Cabo de Santo Agostinho-PE-DARILIA RODRIGUES VERA CRUZ SOARES-Pessoa Física",
         "cidade": "Cabo de Santo Agostinho",
         "uf": "PE",
@@ -15651,6 +16437,25 @@
         ]
     },
     {
+        "identifier": "32706169000158-Abreu e Lima-PE-Twix Telecom Comunicacao Multimidia Ltda-Pessoa Física",
+        "cidade": "Abreu e Lima",
+        "uf": "PE",
+        "latitude": -7.900719,
+        "longitude": -34.898389,
+        "empresa": "Twix Telecom Comunicacao Multimidia Ltda",
+        "cnpj": 32706169000158,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
         "identifier": "33126140000160-Recife-PE-Reis-net Ltda-Pessoa Física",
         "cidade": "Recife",
         "uf": "PE",
@@ -15666,6 +16471,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 187
+            }
+        ]
+    },
+    {
+        "identifier": "33307201000195-Caruaru-PE-Kgs Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Caruaru",
+        "uf": "PE",
+        "latitude": -8.284547,
+        "longitude": -35.969863,
+        "empresa": "Kgs Telecomunicacoes Ltda",
+        "cnpj": 33307201000195,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 170
             }
         ]
     },
@@ -16345,6 +17169,25 @@
         ]
     },
     {
+        "identifier": "34434820000103-Serra Talhada-PE-Maria do Socorro Lima Santos Ltda-Pessoa Física",
+        "cidade": "Serra Talhada",
+        "uf": "PE",
+        "latitude": -7.981778,
+        "longitude": -38.289034,
+        "empresa": "Maria do Socorro Lima Santos Ltda",
+        "cnpj": 34434820000103,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 104
+            }
+        ]
+    },
+    {
         "identifier": "34448321000175-Caruaru-PE-EMERSON NUNES DA SILVA-Pessoa Física",
         "cidade": "Caruaru",
         "uf": "PE",
@@ -16616,6 +17459,25 @@
         ]
     },
     {
+        "identifier": "35001211000123-Recife-PE-UNINET TELECOM E SERVICOS LTDA-Pessoa Física",
+        "cidade": "Recife",
+        "uf": "PE",
+        "latitude": -8.046658,
+        "longitude": -34.877065,
+        "empresa": "UNINET TELECOM E SERVICOS LTDA",
+        "cnpj": 35001211000123,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 187
+            }
+        ]
+    },
+    {
         "identifier": "35045499000138-Goiana-PE-RS SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
         "cidade": "Goiana",
         "uf": "PE",
@@ -16770,6 +17632,62 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 112
+            }
+        ]
+    },
+    {
+        "identifier": "35598077000190-Camaragibe-PE-LEHI VANDERLEI DE AGUIAR TELECOMUNICAÇÃO-Pessoa Física",
+        "cidade": "Camaragibe",
+        "uf": "PE",
+        "latitude": -8.023505,
+        "longitude": -34.978152,
+        "empresa": "LEHI VANDERLEI DE AGUIAR TELECOMUNICAÇÃO",
+        "cnpj": 35598077000190,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "35598077000190-Recife-PE-LEHI VANDERLEI DE AGUIAR TELECOMUNICAÇÃO-Pessoa Física",
+        "cidade": "Recife",
+        "uf": "PE",
+        "latitude": -8.046658,
+        "longitude": -34.877065,
+        "empresa": "LEHI VANDERLEI DE AGUIAR TELECOMUNICAÇÃO",
+        "cnpj": 35598077000190,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 12
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 177
             }
         ]
     },
@@ -17014,6 +17932,31 @@
         ]
     },
     {
+        "identifier": "38075782000109-Xexéu-PE-A F DA SILVA NET EIRELI-Pessoa Física",
+        "cidade": "Xexéu",
+        "uf": "PE",
+        "latitude": -8.804601,
+        "longitude": -35.621222,
+        "empresa": "A F DA SILVA NET EIRELI",
+        "cnpj": 38075782000109,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 29
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 121
+            }
+        ]
+    },
+    {
         "identifier": "38173960000126-Caruaru-PE-F SANTOS SILVA SERVICOS DE TECNOLOGIA EM INTERNET-Pessoa Física",
         "cidade": "Caruaru",
         "uf": "PE",
@@ -17254,6 +18197,106 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 185
+            }
+        ]
+    },
+    {
+        "identifier": "39470444000126-Exu-PE-SERTAO VIRTUAL 3 LTDA-Pessoa Física",
+        "cidade": "Exu",
+        "uf": "PE",
+        "latitude": -7.50364,
+        "longitude": -39.723789,
+        "empresa": "SERTAO VIRTUAL 3 LTDA",
+        "cnpj": 39470444000126,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 22
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 108
+            }
+        ]
+    },
+    {
+        "identifier": "39470444000126-Granito-PE-SERTAO VIRTUAL 3 LTDA-Pessoa Física",
+        "cidade": "Granito",
+        "uf": "PE",
+        "latitude": -7.707105,
+        "longitude": -39.615034,
+        "empresa": "SERTAO VIRTUAL 3 LTDA",
+        "cnpj": 39470444000126,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 69
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 96
+            }
+        ]
+    },
+    {
+        "identifier": "39470444000126-Moreilândia-PE-SERTAO VIRTUAL 3 LTDA-Pessoa Física",
+        "cidade": "Moreilândia",
+        "uf": "PE",
+        "latitude": -7.619314,
+        "longitude": -39.545999,
+        "empresa": "SERTAO VIRTUAL 3 LTDA",
+        "cnpj": 39470444000126,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 112
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 698
+            }
+        ]
+    },
+    {
+        "identifier": "39470444000126-Serrita-PE-SERTAO VIRTUAL 3 LTDA-Pessoa Física",
+        "cidade": "Serrita",
+        "uf": "PE",
+        "latitude": -7.940406,
+        "longitude": -39.295062,
+        "empresa": "SERTAO VIRTUAL 3 LTDA",
+        "cnpj": 39470444000126,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 526
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 456
             }
         ]
     },
@@ -18021,6 +19064,44 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 176
+            }
+        ]
+    },
+    {
+        "identifier": "40575898000140-Altinho-PE-DAVI F DOS SANTOS NET TELECOM-Pessoa Física",
+        "cidade": "Altinho",
+        "uf": "PE",
+        "latitude": -8.48482,
+        "longitude": -36.064408,
+        "empresa": "DAVI F DOS SANTOS NET TELECOM",
+        "cnpj": 40575898000140,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 438
+            }
+        ]
+    },
+    {
+        "identifier": "40577015000131-Limoeiro-PE-MARIAN DE FATIMA B DE AZEVEDO-Pessoa Física",
+        "cidade": "Limoeiro",
+        "uf": "PE",
+        "latitude": -7.872599,
+        "longitude": -35.440154,
+        "empresa": "MARIAN DE FATIMA B DE AZEVEDO",
+        "cnpj": 40577015000131,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 221
             }
         ]
     },
@@ -19625,6 +20706,25 @@
         ]
     },
     {
+        "identifier": "43349628000100-Jaboatão dos Guararapes-PE-F. Dias Powertec+ Telecomunicacoes Unipessoal Ltda-Pessoa Física",
+        "cidade": "Jaboatão dos Guararapes",
+        "uf": "PE",
+        "latitude": -8.112982,
+        "longitude": -35.014959,
+        "empresa": "F. Dias Powertec+ Telecomunicacoes Unipessoal Ltda",
+        "cnpj": 43349628000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 16050
+            }
+        ]
+    },
+    {
         "identifier": "43397811000180-Paulista-PE-Jorge Antonio Dias de Carvalho Servico de Comunicacao-Pessoa Física",
         "cidade": "Paulista",
         "uf": "PE",
@@ -19658,7 +20758,7 @@
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 73
+                "quantidade-acesso": 128
             }
         ]
     },
@@ -20580,6 +21680,25 @@
         ]
     },
     {
+        "identifier": "46497472000100-Abreu e Lima-PE-Leno Redes de Internet Ltda-Pessoa Física",
+        "cidade": "Abreu e Lima",
+        "uf": "PE",
+        "latitude": -7.900719,
+        "longitude": -34.898389,
+        "empresa": "Leno Redes de Internet Ltda",
+        "cnpj": 46497472000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 135
+            }
+        ]
+    },
+    {
         "identifier": "46600811000124-Olinda-PE-Jh-network Telecom Ltda-Pessoa Física",
         "cidade": "Olinda",
         "uf": "PE",
@@ -20656,6 +21775,25 @@
         ]
     },
     {
+        "identifier": "47419669000186-Paulista-PE-Max Fibra Ltda-Pessoa Física",
+        "cidade": "Paulista",
+        "uf": "PE",
+        "latitude": -7.934007,
+        "longitude": -34.868407,
+        "empresa": "Max Fibra Ltda",
+        "cnpj": 47419669000186,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
         "identifier": "47436973000131-Cabrobó-PE-Anderson Luiz Santos Ferreira-Pessoa Física",
         "cidade": "Cabrobó",
         "uf": "PE",
@@ -20677,6 +21815,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 48
+            }
+        ]
+    },
+    {
+        "identifier": "47639191000108-Taquaritinga do Norte-PE-Taquaranet Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Taquaritinga do Norte",
+        "uf": "PE",
+        "latitude": -7.894457,
+        "longitude": -36.042265,
+        "empresa": "Taquaranet Telecomunicacoes Ltda",
+        "cnpj": 47639191000108,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 28
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
             }
         ]
     },
@@ -20860,6 +22023,50 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 47
+            }
+        ]
+    },
+    {
+        "identifier": "49689651000120-Cabo de Santo Agostinho-PE-Brasil Redes Comunicacoes Isp Ltda-Pessoa Física",
+        "cidade": "Cabo de Santo Agostinho",
+        "uf": "PE",
+        "latitude": -8.28218,
+        "longitude": -35.025293,
+        "empresa": "Brasil Redes Comunicacoes Isp Ltda",
+        "cnpj": 49689651000120,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 90
+            }
+        ]
+    },
+    {
+        "identifier": "49689651000120-Jaboatão dos Guararapes-PE-Brasil Redes Comunicacoes Isp Ltda-Pessoa Física",
+        "cidade": "Jaboatão dos Guararapes",
+        "uf": "PE",
+        "latitude": -8.112982,
+        "longitude": -35.014959,
+        "empresa": "Brasil Redes Comunicacoes Isp Ltda",
+        "cnpj": 49689651000120,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 96
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 148
             }
         ]
     },
@@ -21066,6 +22273,31 @@
         ]
     },
     {
+        "identifier": "50829404000160-Orobó-PE-Network Telecom Ltda-Pessoa Física",
+        "cidade": "Orobó",
+        "uf": "PE",
+        "latitude": -7.745535,
+        "longitude": -35.595568,
+        "empresa": "Network Telecom Ltda",
+        "cnpj": 50829404000160,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 192
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 73
+            }
+        ]
+    },
+    {
         "identifier": "50829991000198-São Lourenço da Mata-PE-Soares & Lins Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "São Lourenço da Mata",
         "uf": "PE",
@@ -21219,6 +22451,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 169
+            }
+        ]
+    },
+    {
+        "identifier": "51549166000100-Olinda-PE-Dm Fibra Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Olinda",
+        "uf": "PE",
+        "latitude": -8.010166,
+        "longitude": -34.854504,
+        "empresa": "Dm Fibra Telecomunicacoes Ltda",
+        "cnpj": 51549166000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 396
             }
         ]
     },
@@ -22143,6 +23394,44 @@
         ]
     },
     {
+        "identifier": "56043373000102-Caruaru-PE-Bezerra e Fibra Telecom Ltda-Pessoa Física",
+        "cidade": "Caruaru",
+        "uf": "PE",
+        "latitude": -8.284547,
+        "longitude": -35.969863,
+        "empresa": "Bezerra e Fibra Telecom Ltda",
+        "cnpj": 56043373000102,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 144
+            }
+        ]
+    },
+    {
+        "identifier": "57430627000108-Cabo de Santo Agostinho-PE-Br Provedor Ltda-Pessoa Física",
+        "cidade": "Cabo de Santo Agostinho",
+        "uf": "PE",
+        "latitude": -8.28218,
+        "longitude": -35.025293,
+        "empresa": "Br Provedor Ltda",
+        "cnpj": 57430627000108,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "57696758000123-Afrânio-PE-Dl Center Prov Internet Ltda-Pessoa Física",
         "cidade": "Afrânio",
         "uf": "PE",
@@ -22158,6 +23447,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "58101561000167-Jaboatão dos Guararapes-PE-58.101.561 Ltda-Pessoa Física",
+        "cidade": "Jaboatão dos Guararapes",
+        "uf": "PE",
+        "latitude": -8.112982,
+        "longitude": -35.014959,
+        "empresa": "58.101.561 Ltda",
+        "cnpj": 58101561000167,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 36
             }
         ]
     },
@@ -22196,1234 +23510,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 120
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Abreu e Lima-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Abreu e Lima",
-        "uf": "PE",
-        "latitude": -7.900719,
-        "longitude": -34.898389,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Afogados da Ingazeira-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Afogados da Ingazeira",
-        "uf": "PE",
-        "latitude": -7.743121,
-        "longitude": -37.630991,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 5
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Agrestina-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Agrestina",
-        "uf": "PE",
-        "latitude": -8.459657,
-        "longitude": -35.944725,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Altinho-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Altinho",
-        "uf": "PE",
-        "latitude": -8.48482,
-        "longitude": -36.064408,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Barreiros-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Barreiros",
-        "uf": "PE",
-        "latitude": -8.816052,
-        "longitude": -35.183178,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 6
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Belo Jardim-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Belo Jardim",
-        "uf": "PE",
-        "latitude": -8.3313,
-        "longitude": -36.425822,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 6
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Bezerros-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Bezerros",
-        "uf": "PE",
-        "latitude": -8.232796,
-        "longitude": -35.795995,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Bom Conselho-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Bom Conselho",
-        "uf": "PE",
-        "latitude": -9.169191,
-        "longitude": -36.685683,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Bonito-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Bonito",
-        "uf": "PE",
-        "latitude": -8.471628,
-        "longitude": -35.729249,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Cabo de Santo Agostinho-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Cabo de Santo Agostinho",
-        "uf": "PE",
-        "latitude": -8.28218,
-        "longitude": -35.025293,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 188
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Cachoeirinha-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Cachoeirinha",
-        "uf": "PE",
-        "latitude": -8.486685,
-        "longitude": -36.240182,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Camaragibe-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Camaragibe",
-        "uf": "PE",
-        "latitude": -8.023505,
-        "longitude": -34.978152,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Capoeiras-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Capoeiras",
-        "uf": "PE",
-        "latitude": -8.734225,
-        "longitude": -36.630566,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Carpina-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Carpina",
-        "uf": "PE",
-        "latitude": -7.84566,
-        "longitude": -35.251397,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 5
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Caruaru-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Caruaru",
-        "uf": "PE",
-        "latitude": -8.284547,
-        "longitude": -35.969863,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 5412
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Cortês-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Cortês",
-        "uf": "PE",
-        "latitude": -8.474434,
-        "longitude": -35.546789,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Custódia-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Custódia",
-        "uf": "PE",
-        "latitude": -8.08546,
-        "longitude": -37.64428,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Escada-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Escada",
-        "uf": "PE",
-        "latitude": -8.356717,
-        "longitude": -35.224082,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Feira Nova-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Feira Nova",
-        "uf": "PE",
-        "latitude": -7.947042,
-        "longitude": -35.38013,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Glória do Goitá-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Glória do Goitá",
-        "uf": "PE",
-        "latitude": -8.005675,
-        "longitude": -35.29044,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Goiana-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Goiana",
-        "uf": "PE",
-        "latitude": -7.560603,
-        "longitude": -34.99591,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 297
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Gravatá-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Gravatá",
-        "uf": "PE",
-        "latitude": -8.211184,
-        "longitude": -35.567458,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Ibimirim-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Ibimirim",
-        "uf": "PE",
-        "latitude": -8.54026,
-        "longitude": -37.703214,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Iguaracy-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Iguaracy",
-        "uf": "PE",
-        "latitude": -7.832772,
-        "longitude": -37.509179,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Ilha de Itamaracá-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Ilha de Itamaracá",
-        "uf": "PE",
-        "latitude": -7.747664,
-        "longitude": -34.830319,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Ipojuca-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Ipojuca",
-        "uf": "PE",
-        "latitude": -8.393034,
-        "longitude": -35.060864,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 8
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Ipubi-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Ipubi",
-        "uf": "PE",
-        "latitude": -7.645048,
-        "longitude": -40.147571,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Itapissuma-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Itapissuma",
-        "uf": "PE",
-        "latitude": -7.767983,
-        "longitude": -34.897136,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Jaboatão dos Guararapes-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Jaboatão dos Guararapes",
-        "uf": "PE",
-        "latitude": -8.112982,
-        "longitude": -35.014959,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 203
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-João Alfredo-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "João Alfredo",
-        "uf": "PE",
-        "latitude": -7.865649,
-        "longitude": -35.578715,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Limoeiro-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Limoeiro",
-        "uf": "PE",
-        "latitude": -7.872599,
-        "longitude": -35.440154,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Nazaré da Mata-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Nazaré da Mata",
-        "uf": "PE",
-        "latitude": -7.741491,
-        "longitude": -35.219297,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Olinda-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Olinda",
-        "uf": "PE",
-        "latitude": -8.010166,
-        "longitude": -34.854504,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 12959
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Palmares-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Palmares",
-        "uf": "PE",
-        "latitude": -8.684226,
-        "longitude": -35.589032,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 10
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Panelas-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Panelas",
-        "uf": "PE",
-        "latitude": -8.661211,
-        "longitude": -36.012539,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Paulista-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Paulista",
-        "uf": "PE",
-        "latitude": -7.934007,
-        "longitude": -34.868407,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 295
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Pedra-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Pedra",
-        "uf": "PE",
-        "latitude": -8.496411,
-        "longitude": -36.939962,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Pesqueira-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Pesqueira",
-        "uf": "PE",
-        "latitude": -8.357974,
-        "longitude": -36.697783,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 9
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Petrolina-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Petrolina",
-        "uf": "PE",
-        "latitude": -9.388662,
-        "longitude": -40.502731,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 844
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Petrolândia-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Petrolândia",
-        "uf": "PE",
-        "latitude": -9.068627,
-        "longitude": -38.302664,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Recife-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Recife",
-        "uf": "PE",
-        "latitude": -8.046658,
-        "longitude": -34.877065,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 19724
-            },
-            {
-                "tecnologia": "HDSL",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Ribeirão-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Ribeirão",
-        "uf": "PE",
-        "latitude": -8.509568,
-        "longitude": -35.369824,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Sanharó-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Sanharó",
-        "uf": "PE",
-        "latitude": -8.360969,
-        "longitude": -36.569598,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Santa Cruz do Capibaribe-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Santa Cruz do Capibaribe",
-        "uf": "PE",
-        "latitude": -7.948019,
-        "longitude": -36.206092,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 9
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Santa Maria do Cambucá-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Santa Maria do Cambucá",
-        "uf": "PE",
-        "latitude": -7.83676,
-        "longitude": -35.894138,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Serra Talhada-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Serra Talhada",
-        "uf": "PE",
-        "latitude": -7.981778,
-        "longitude": -38.289034,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 10
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Serrita-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Serrita",
-        "uf": "PE",
-        "latitude": -7.940406,
-        "longitude": -39.295062,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Surubim-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Surubim",
-        "uf": "PE",
-        "latitude": -7.847456,
-        "longitude": -35.748102,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Bento do Una-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Bento do Una",
-        "uf": "PE",
-        "latitude": -8.52637,
-        "longitude": -36.446469,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Joaquim do Monte-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Joaquim do Monte",
-        "uf": "PE",
-        "latitude": -8.431962,
-        "longitude": -35.803498,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São José do Egito-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São José do Egito",
-        "uf": "PE",
-        "latitude": -7.469447,
-        "longitude": -37.273974,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São João-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São João",
-        "uf": "PE",
-        "latitude": -8.875762,
-        "longitude": -36.36532,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Lourenço da Mata-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Lourenço da Mata",
-        "uf": "PE",
-        "latitude": -8.00684,
-        "longitude": -35.012359,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Tabira-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Tabira",
-        "uf": "PE",
-        "latitude": -7.583661,
-        "longitude": -37.537735,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Tamandaré-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Tamandaré",
-        "uf": "PE",
-        "latitude": -8.756646,
-        "longitude": -35.103285,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Taquaritinga do Norte-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Taquaritinga do Norte",
-        "uf": "PE",
-        "latitude": -7.894457,
-        "longitude": -36.042265,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Venturosa-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Venturosa",
-        "uf": "PE",
-        "latitude": -8.578855,
-        "longitude": -36.874187,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Vitória de Santo Antão-PE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Vitória de Santo Antão",
-        "uf": "PE",
-        "latitude": -8.128191,
-        "longitude": -35.29762,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 8
             }
         ]
     }

@@ -6,8 +6,8 @@ import shutil
 from concurrent.futures import ThreadPoolExecutor
 from concurrent.futures import ProcessPoolExecutor
 
-anos = ["2021", "2022" , "2023", "2024"]
-meses = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]
+anos = ["2025"]
+meses = ["01","02"]
 
 def process_data(ano, mes):
     selecionar_data = ano + "-" + mes
@@ -41,6 +41,7 @@ def process_data(ano, mes):
     # Define empresas especiais e suas respectivas pastas
     special_companies = {
         'OI': 'dados-oi',
+        'Oi S.a. - em Recuperacao Judicial': 'dados-oi',
         'VIVO': 'dados-vivo',
         'CLARO': 'dados-claro',
         'TIM': 'dados-tim',

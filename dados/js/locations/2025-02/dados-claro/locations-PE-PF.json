@@ -1,0 +1,146 @@
+[
+    {
+        "identifier": "66970229000167-Caruaru-PE-CLARO-Pessoa Física",
+        "cidade": "Caruaru",
+        "uf": "PE",
+        "latitude": -8.284547,
+        "longitude": -35.969863,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2025-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1092
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 5435
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Jaboatão dos Guararapes-PE-CLARO-Pessoa Física",
+        "cidade": "Jaboatão dos Guararapes",
+        "uf": "PE",
+        "latitude": -8.112982,
+        "longitude": -35.014959,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2025-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1470
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 11497
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Olinda-PE-CLARO-Pessoa Física",
+        "cidade": "Olinda",
+        "uf": "PE",
+        "latitude": -8.010166,
+        "longitude": -34.854504,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2025-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 450
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 5200
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Paulista-PE-CLARO-Pessoa Física",
+        "cidade": "Paulista",
+        "uf": "PE",
+        "latitude": -7.934007,
+        "longitude": -34.868407,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2025-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 741
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 2259
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Petrolina-PE-CLARO-Pessoa Física",
+        "cidade": "Petrolina",
+        "uf": "PE",
+        "latitude": -9.388662,
+        "longitude": -40.502731,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2025-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3972
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Recife-PE-CLARO-Pessoa Física",
+        "cidade": "Recife",
+        "uf": "PE",
+        "latitude": -8.046658,
+        "longitude": -34.877065,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2025-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22006
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 58834
+            }
+        ]
+    }
+]

@@ -3115,12 +3115,12 @@
         ]
     },
     {
-        "identifier": "6115921000186-Abaiara-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "identifier": "6115921000186-Abaiara-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP-Pessoa Física",
         "cidade": "Abaiara",
         "uf": "CE",
         "latitude": -7.345879,
         "longitude": -39.04159,
-        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP",
         "cnpj": 6115921000186,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -3134,12 +3134,12 @@
         ]
     },
     {
-        "identifier": "6115921000186-Barbalha-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "identifier": "6115921000186-Barbalha-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP-Pessoa Física",
         "cidade": "Barbalha",
         "uf": "CE",
         "latitude": -7.298203,
         "longitude": -39.30208,
-        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP",
         "cnpj": 6115921000186,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -3153,12 +3153,12 @@
         ]
     },
     {
-        "identifier": "6115921000186-Brejo Santo-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "identifier": "6115921000186-Brejo Santo-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP-Pessoa Física",
         "cidade": "Brejo Santo",
         "uf": "CE",
         "latitude": -7.484686,
         "longitude": -38.979911,
-        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP",
         "cnpj": 6115921000186,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -3172,12 +3172,12 @@
         ]
     },
     {
-        "identifier": "6115921000186-Juazeiro do Norte-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "identifier": "6115921000186-Juazeiro do Norte-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP-Pessoa Física",
         "cidade": "Juazeiro do Norte",
         "uf": "CE",
         "latitude": -7.196207,
         "longitude": -39.307593,
-        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP",
         "cnpj": 6115921000186,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -3197,12 +3197,12 @@
         ]
     },
     {
-        "identifier": "6115921000186-Mauriti-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "identifier": "6115921000186-Mauriti-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP-Pessoa Física",
         "cidade": "Mauriti",
         "uf": "CE",
         "latitude": -7.385974,
         "longitude": -38.770786,
-        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP",
         "cnpj": 6115921000186,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -3216,12 +3216,12 @@
         ]
     },
     {
-        "identifier": "6115921000186-Milagres-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "identifier": "6115921000186-Milagres-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP-Pessoa Física",
         "cidade": "Milagres",
         "uf": "CE",
         "latitude": -7.297492,
         "longitude": -38.937829,
-        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP",
         "cnpj": 6115921000186,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -3241,12 +3241,12 @@
         ]
     },
     {
-        "identifier": "6115921000186-Penaforte-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-Pessoa Física",
+        "identifier": "6115921000186-Penaforte-CE-INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP-Pessoa Física",
         "cidade": "Penaforte",
         "uf": "CE",
         "latitude": -7.82163,
         "longitude": -39.070724,
-        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA",
+        "empresa": "INFOTECHNET INFORMÁTICA E ASSISTENCIA TÉCNICA LTDA-EPP",
         "cnpj": 6115921000186,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -4939,6 +4939,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 27
+            }
+        ]
+    },
+    {
+        "identifier": "8824091000191-Miraíma-CE-Glercieldo Paulo de Menezes-Pessoa Física",
+        "cidade": "Miraíma",
+        "uf": "CE",
+        "latitude": -3.568674,
+        "longitude": -39.966267,
+        "empresa": "Glercieldo Paulo de Menezes",
+        "cnpj": 8824091000191,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 108
             }
         ]
     },
@@ -7462,6 +7481,44 @@
         ]
     },
     {
+        "identifier": "12021435000100-Coreaú-CE-BRASILINK SERVICOS LTDA-Pessoa Física",
+        "cidade": "Coreaú",
+        "uf": "CE",
+        "latitude": -3.541496,
+        "longitude": -40.658656,
+        "empresa": "BRASILINK SERVICOS LTDA",
+        "cnpj": 12021435000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 135
+            }
+        ]
+    },
+    {
+        "identifier": "12021435000100-Tianguá-CE-BRASILINK SERVICOS LTDA-Pessoa Física",
+        "cidade": "Tianguá",
+        "uf": "CE",
+        "latitude": -3.729645,
+        "longitude": -40.992286,
+        "empresa": "BRASILINK SERVICOS LTDA",
+        "cnpj": 12021435000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1879
+            }
+        ]
+    },
+    {
         "identifier": "12137904000142-Fortaleza-CE-HORACIO MACHADO DE AQUINO-Pessoa Física",
         "cidade": "Fortaleza",
         "uf": "CE",
@@ -8926,6 +8983,25 @@
         ]
     },
     {
+        "identifier": "15210940000182-Viçosa do Ceará-CE-GAV TELECOM SERVICOS DE TELECOMUNICACAO LTDA-Pessoa Física",
+        "cidade": "Viçosa do Ceará",
+        "uf": "CE",
+        "latitude": -3.566703,
+        "longitude": -41.091554,
+        "empresa": "GAV TELECOM SERVICOS DE TELECOMUNICACAO LTDA",
+        "cnpj": 15210940000182,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 84
+            }
+        ]
+    },
+    {
         "identifier": "15224610000146-Fortaleza-CE-ANDRE LUIS SOARES DE LIMA - ME-Pessoa Física",
         "cidade": "Fortaleza",
         "uf": "CE",
@@ -9055,6 +9131,62 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "15305595000160-Fortaleza-CE-R&E TECNOLOGIA E SERVIÇOS LTDA - ME-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "R&E TECNOLOGIA E SERVIÇOS LTDA - ME",
+        "cnpj": 15305595000160,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 123
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "15305595000160-Maracanaú-CE-R&E TECNOLOGIA E SERVIÇOS LTDA - ME-Pessoa Física",
+        "cidade": "Maracanaú",
+        "uf": "CE",
+        "latitude": -3.86699,
+        "longitude": -38.625901,
+        "empresa": "R&E TECNOLOGIA E SERVIÇOS LTDA - ME",
+        "cnpj": 15305595000160,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1471
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 77
             }
         ]
     },
@@ -10246,6 +10378,31 @@
         ]
     },
     {
+        "identifier": "18990769000160-Russas-CE-NET INFOR TELECOM LTDA-Pessoa Física",
+        "cidade": "Russas",
+        "uf": "CE",
+        "latitude": -4.926727,
+        "longitude": -37.972086,
+        "empresa": "NET INFOR TELECOM LTDA",
+        "cnpj": 18990769000160,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 656
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 66
+            }
+        ]
+    },
+    {
         "identifier": "19299506000171-Fortaleza-CE-MILITÃO & MILITÃO SERVIÇOS DE TELECOM E SEGURANÇA LTDA - ME-Pessoa Física",
         "cidade": "Fortaleza",
         "uf": "CE",
@@ -10587,6 +10744,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1270
+            }
+        ]
+    },
+    {
+        "identifier": "20438202000127-Caucaia-CE-Francisco Jameson Sousa de Morais Scm-Pessoa Física",
+        "cidade": "Caucaia",
+        "uf": "CE",
+        "latitude": -3.727966,
+        "longitude": -38.661931,
+        "empresa": "Francisco Jameson Sousa de Morais Scm",
+        "cnpj": 20438202000127,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 994
             }
         ]
     },
@@ -11310,6 +11486,25 @@
         ]
     },
     {
+        "identifier": "22490503000125-Sobral-CE-C MESQUITA SOUSA-Pessoa Física",
+        "cidade": "Sobral",
+        "uf": "CE",
+        "latitude": -3.689133,
+        "longitude": -40.34821,
+        "empresa": "C MESQUITA SOUSA",
+        "cnpj": 22490503000125,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 292
+            }
+        ]
+    },
+    {
         "identifier": "22634625000148-Maracanaú-CE-BIXNET, SERVIÇOS DE REDES DE COMUNICAÇÃO VIRTUAL LTDA-Pessoa Física",
         "cidade": "Maracanaú",
         "uf": "CE",
@@ -11501,6 +11696,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 287
+            }
+        ]
+    },
+    {
+        "identifier": "23707800000142-Quixeramobim-CE-Vivalink Provedor de Internet Ltda-Pessoa Física",
+        "cidade": "Quixeramobim",
+        "uf": "CE",
+        "latitude": -5.190672,
+        "longitude": -39.288947,
+        "empresa": "Vivalink Provedor de Internet Ltda",
+        "cnpj": 23707800000142,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 64
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 961
             }
         ]
     },
@@ -12092,6 +12312,44 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 606
+            }
+        ]
+    },
+    {
+        "identifier": "25047700000324-Massapê-CE-N M F de Moura Internet Ltda-Pessoa Física",
+        "cidade": "Massapê",
+        "uf": "CE",
+        "latitude": -3.523645,
+        "longitude": -40.342271,
+        "empresa": "N M F de Moura Internet Ltda",
+        "cnpj": 25047700000324,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "25047700000324-Santana do Acaraú-CE-N M F de Moura Internet Ltda-Pessoa Física",
+        "cidade": "Santana do Acaraú",
+        "uf": "CE",
+        "latitude": -3.461435,
+        "longitude": -40.211827,
+        "empresa": "N M F de Moura Internet Ltda",
+        "cnpj": 25047700000324,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -13112,6 +13370,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 908
+            }
+        ]
+    },
+    {
+        "identifier": "26734351000110-Fortaleza-CE-SAPICOM SERVICOS DE TELECOMUNICACOES LTDA - ME-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "SAPICOM SERVICOS DE TELECOMUNICACOES LTDA - ME",
+        "cnpj": 26734351000110,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 37
             }
         ]
     },
@@ -14529,6 +14806,31 @@
         ]
     },
     {
+        "identifier": "27945539000170-Fortaleza-CE-JAIR SIMOES DO NASCIMENTO TELECOM-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "JAIR SIMOES DO NASCIMENTO TELECOM",
+        "cnpj": 27945539000170,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 128
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 135
+            }
+        ]
+    },
+    {
         "identifier": "28260878000185-Cariús-CE-Luciano dos Santos Oliveira-Pessoa Física",
         "cidade": "Cariús",
         "uf": "CE",
@@ -14757,6 +15059,56 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 137
+            }
+        ]
+    },
+    {
+        "identifier": "29346132000151-Caucaia-CE-Jf Telecom Ltda-Pessoa Física",
+        "cidade": "Caucaia",
+        "uf": "CE",
+        "latitude": -3.727966,
+        "longitude": -38.661931,
+        "empresa": "Jf Telecom Ltda",
+        "cnpj": 29346132000151,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 25
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 4
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 145
+            }
+        ]
+    },
+    {
+        "identifier": "29346132000151-Fortaleza-CE-Jf Telecom Ltda-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "Jf Telecom Ltda",
+        "cnpj": 29346132000151,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 138
             }
         ]
     },
@@ -15171,6 +15523,75 @@
         ]
     },
     {
+        "identifier": "30371527000193-Caucaia-CE-R T DE LIMA MULTIMIDIA-Pessoa Física",
+        "cidade": "Caucaia",
+        "uf": "CE",
+        "latitude": -3.727966,
+        "longitude": -38.661931,
+        "empresa": "R T DE LIMA MULTIMIDIA",
+        "cnpj": 30371527000193,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "30371527000193-Fortaleza-CE-R T DE LIMA MULTIMIDIA-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "R T DE LIMA MULTIMIDIA",
+        "cnpj": 30371527000193,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2178
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 335
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "30371527000193-Maracanaú-CE-R T DE LIMA MULTIMIDIA-Pessoa Física",
+        "cidade": "Maracanaú",
+        "uf": "CE",
+        "latitude": -3.86699,
+        "longitude": -38.625901,
+        "empresa": "R T DE LIMA MULTIMIDIA",
+        "cnpj": 30371527000193,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
         "identifier": "30799717000106-Caucaia-CE-NMULTIFIBRA TELECOMUNICACAO LTDA-Pessoa Física",
         "cidade": "Caucaia",
         "uf": "CE",
@@ -15205,6 +15626,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 851
+            }
+        ]
+    },
+    {
+        "identifier": "30900000000109-Barroquinha-CE-Maria P. Fontenele Souza-Pessoa Física",
+        "cidade": "Barroquinha",
+        "uf": "CE",
+        "latitude": -3.020514,
+        "longitude": -41.13585,
+        "empresa": "Maria P. Fontenele Souza",
+        "cnpj": 30900000000109,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTB",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1212
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 100
             }
         ]
     },
@@ -15268,6 +15714,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1107
+            }
+        ]
+    },
+    {
+        "identifier": "31380530000136-Caucaia-CE-VAGNET PROVEDOR DE INTERNET LTDA-Pessoa Física",
+        "cidade": "Caucaia",
+        "uf": "CE",
+        "latitude": -3.727966,
+        "longitude": -38.661931,
+        "empresa": "VAGNET PROVEDOR DE INTERNET LTDA",
+        "cnpj": 31380530000136,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 414
             }
         ]
     },
@@ -16578,6 +17043,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 290
+            }
+        ]
+    },
+    {
+        "identifier": "34649907000106-Horizonte-CE-V. A. DE ARAUJO-Pessoa Física",
+        "cidade": "Horizonte",
+        "uf": "CE",
+        "latitude": -4.120896,
+        "longitude": -38.470674,
+        "empresa": "V. A. DE ARAUJO",
+        "cnpj": 34649907000106,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 164
             }
         ]
     },
@@ -18036,6 +18520,25 @@
         ]
     },
     {
+        "identifier": "40948565000110-Choró-CE-Fibra Flex Net Internet Ltda-Pessoa Física",
+        "cidade": "Choró",
+        "uf": "CE",
+        "latitude": -4.839062,
+        "longitude": -39.134397,
+        "empresa": "Fibra Flex Net Internet Ltda",
+        "cnpj": 40948565000110,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 27
+            }
+        ]
+    },
+    {
         "identifier": "41055920000194-Arneiroz-CE-Ip2 Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Arneiroz",
         "uf": "CE",
@@ -18310,6 +18813,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 98
+            }
+        ]
+    },
+    {
+        "identifier": "41617845000108-Eusébio-CE-Rafael Uchoa Lopes-Pessoa Física",
+        "cidade": "Eusébio",
+        "uf": "CE",
+        "latitude": -3.892501,
+        "longitude": -38.455875,
+        "empresa": "Rafael Uchoa Lopes",
+        "cnpj": 41617845000108,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 274
             }
         ]
     },
@@ -19849,6 +20371,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1441
+            }
+        ]
+    },
+    {
+        "identifier": "41771660000153-Cascavel-CE-Jws da Costa Internet Ltda-Pessoa Física",
+        "cidade": "Cascavel",
+        "uf": "CE",
+        "latitude": -4.129666,
+        "longitude": -38.241178,
+        "empresa": "Jws da Costa Internet Ltda",
+        "cnpj": 41771660000153,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 349
             }
         ]
     },
@@ -21945,6 +22486,31 @@
         ]
     },
     {
+        "identifier": "48252312000119-Tauá-CE-Sousa Meganet Telecom Ltda-Pessoa Física",
+        "cidade": "Tauá",
+        "uf": "CE",
+        "latitude": -5.985853,
+        "longitude": -40.296802,
+        "empresa": "Sousa Meganet Telecom Ltda",
+        "cnpj": 48252312000119,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 36
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
         "identifier": "48557444000159-Forquilha-CE-Lokal Fibra Ltda-Pessoa Física",
         "cidade": "Forquilha",
         "uf": "CE",
@@ -21979,6 +22545,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 356
+            }
+        ]
+    },
+    {
+        "identifier": "48680228000104-Caucaia-CE-Ox Telecom Ltda-Pessoa Física",
+        "cidade": "Caucaia",
+        "uf": "CE",
+        "latitude": -3.727966,
+        "longitude": -38.661931,
+        "empresa": "Ox Telecom Ltda",
+        "cnpj": 48680228000104,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 70
             }
         ]
     },
@@ -22250,6 +22835,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 36
+            }
+        ]
+    },
+    {
+        "identifier": "50618471000136-Viçosa do Ceará-CE-Cm Servicos de Comunicacao Ltda-Pessoa Física",
+        "cidade": "Viçosa do Ceará",
+        "uf": "CE",
+        "latitude": -3.566703,
+        "longitude": -41.091554,
+        "empresa": "Cm Servicos de Comunicacao Ltda",
+        "cnpj": 50618471000136,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 190
             }
         ]
     },
@@ -22878,6 +23482,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 34
+            }
+        ]
+    },
+    {
+        "identifier": "54353137000159-Caucaia-CE-New Web Fibra Caucaia Ltda-Pessoa Física",
+        "cidade": "Caucaia",
+        "uf": "CE",
+        "latitude": -3.727966,
+        "longitude": -38.661931,
+        "empresa": "New Web Fibra Caucaia Ltda",
+        "cnpj": 54353137000159,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 252
             }
         ]
     },
@@ -24166,898 +24789,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 116
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Aracati-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Aracati",
-        "uf": "CE",
-        "latitude": -4.558259,
-        "longitude": -37.767894,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Barbalha-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Barbalha",
-        "uf": "CE",
-        "latitude": -7.298203,
-        "longitude": -39.30208,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Barreira-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Barreira",
-        "uf": "CE",
-        "latitude": -4.289206,
-        "longitude": -38.64291,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Baturité-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Baturité",
-        "uf": "CE",
-        "latitude": -4.325983,
-        "longitude": -38.881206,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Beberibe-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Beberibe",
-        "uf": "CE",
-        "latitude": -4.177415,
-        "longitude": -38.127075,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Boa Viagem-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Boa Viagem",
-        "uf": "CE",
-        "latitude": -5.112583,
-        "longitude": -39.733652,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FWA",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Canindé-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Canindé",
-        "uf": "CE",
-        "latitude": -4.351618,
-        "longitude": -39.315505,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Caucaia-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Caucaia",
-        "uf": "CE",
-        "latitude": -3.727966,
-        "longitude": -38.661931,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 24
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Crateús-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Crateús",
-        "uf": "CE",
-        "latitude": -5.167683,
-        "longitude": -40.653635,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Fortaleza-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Fortaleza",
-        "uf": "CE",
-        "latitude": -3.716638,
-        "longitude": -38.542298,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 57380
-            },
-            {
-                "tecnologia": "FWA",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 7
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Fortim-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Fortim",
-        "uf": "CE",
-        "latitude": -4.451256,
-        "longitude": -37.798056,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Granja-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Granja",
-        "uf": "CE",
-        "latitude": -3.127879,
-        "longitude": -40.837205,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Guaraciaba do Norte-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Guaraciaba do Norte",
-        "uf": "CE",
-        "latitude": -4.158136,
-        "longitude": -40.747588,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Icó-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Icó",
-        "uf": "CE",
-        "latitude": -6.396271,
-        "longitude": -38.855352,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Iguatu-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Iguatu",
-        "uf": "CE",
-        "latitude": -6.362806,
-        "longitude": -39.28915,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 146
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Itaitinga-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Itaitinga",
-        "uf": "CE",
-        "latitude": -3.965768,
-        "longitude": -38.529763,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Itapajé-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Itapajé",
-        "uf": "CE",
-        "latitude": -3.683137,
-        "longitude": -39.585531,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Itapipoca-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Itapipoca",
-        "uf": "CE",
-        "latitude": -3.499329,
-        "longitude": -39.583571,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Jaguaribe-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Jaguaribe",
-        "uf": "CE",
-        "latitude": -5.902134,
-        "longitude": -38.622653,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Juazeiro do Norte-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Juazeiro do Norte",
-        "uf": "CE",
-        "latitude": -7.196207,
-        "longitude": -39.307593,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2091
-            },
-            {
-                "tecnologia": "FWA",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Limoeiro do Norte-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Limoeiro do Norte",
-        "uf": "CE",
-        "latitude": -5.143921,
-        "longitude": -38.084693,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Maracanaú-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Maracanaú",
-        "uf": "CE",
-        "latitude": -3.86699,
-        "longitude": -38.625901,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 328
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Maranguape-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Maranguape",
-        "uf": "CE",
-        "latitude": -3.891432,
-        "longitude": -38.682911,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FWA",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Mauriti-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Mauriti",
-        "uf": "CE",
-        "latitude": -7.385974,
-        "longitude": -38.770786,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Missão Velha-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Missão Velha",
-        "uf": "CE",
-        "latitude": -7.235219,
-        "longitude": -39.143046,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Morada Nova-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Morada Nova",
-        "uf": "CE",
-        "latitude": -5.09736,
-        "longitude": -38.370158,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Novo Oriente-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Novo Oriente",
-        "uf": "CE",
-        "latitude": -5.525519,
-        "longitude": -40.771296,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Pacajus-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Pacajus",
-        "uf": "CE",
-        "latitude": -4.171073,
-        "longitude": -38.464988,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Paracuru-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Paracuru",
-        "uf": "CE",
-        "latitude": -3.41436,
-        "longitude": -39.030028,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 5
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Parambu-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Parambu",
-        "uf": "CE",
-        "latitude": -6.207681,
-        "longitude": -40.690524,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Quixadá-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Quixadá",
-        "uf": "CE",
-        "latitude": -4.966301,
-        "longitude": -39.015474,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Quixeramobim-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Quixeramobim",
-        "uf": "CE",
-        "latitude": -5.190672,
-        "longitude": -39.288947,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Redenção-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Redenção",
-        "uf": "CE",
-        "latitude": -4.215873,
-        "longitude": -38.727719,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Sobral-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Sobral",
-        "uf": "CE",
-        "latitude": -3.689133,
-        "longitude": -40.34821,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 131
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Solonópole-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Solonópole",
-        "uf": "CE",
-        "latitude": -5.718936,
-        "longitude": -39.01072,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Benedito-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Benedito",
-        "uf": "CE",
-        "latitude": -4.047131,
-        "longitude": -40.859572,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Tabuleiro do Norte-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Tabuleiro do Norte",
-        "uf": "CE",
-        "latitude": -5.243527,
-        "longitude": -38.128175,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Tauá-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Tauá",
-        "uf": "CE",
-        "latitude": -5.985853,
-        "longitude": -40.296802,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Tianguá-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Tianguá",
-        "uf": "CE",
-        "latitude": -3.729645,
-        "longitude": -40.992286,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Várzea Alegre-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Várzea Alegre",
-        "uf": "CE",
-        "latitude": -6.782642,
-        "longitude": -39.294155,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
             }
         ]
     },
