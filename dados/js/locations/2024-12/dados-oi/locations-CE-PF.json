@@ -1,0 +1,969 @@
+[
+    {
+        "identifier": "76535764000143-Aracati-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Aracati",
+        "uf": "CE",
+        "latitude": -4.558259,
+        "longitude": -37.767894,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Barbalha-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Barbalha",
+        "uf": "CE",
+        "latitude": -7.298203,
+        "longitude": -39.30208,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Barreira-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Barreira",
+        "uf": "CE",
+        "latitude": -4.289206,
+        "longitude": -38.64291,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Baturité-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Baturité",
+        "uf": "CE",
+        "latitude": -4.325983,
+        "longitude": -38.881206,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Beberibe-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Beberibe",
+        "uf": "CE",
+        "latitude": -4.177415,
+        "longitude": -38.127075,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Boa Viagem-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Boa Viagem",
+        "uf": "CE",
+        "latitude": -5.112583,
+        "longitude": -39.733652,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Canindé-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Canindé",
+        "uf": "CE",
+        "latitude": -4.351618,
+        "longitude": -39.315505,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Caucaia-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Caucaia",
+        "uf": "CE",
+        "latitude": -3.727966,
+        "longitude": -38.661931,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 24
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Crateús-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Crateús",
+        "uf": "CE",
+        "latitude": -5.167683,
+        "longitude": -40.653635,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Fortaleza-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "latitude": -3.716638,
+        "longitude": -38.542298,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 58238
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Fortim-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Fortim",
+        "uf": "CE",
+        "latitude": -4.451256,
+        "longitude": -37.798056,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Granja-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Granja",
+        "uf": "CE",
+        "latitude": -3.127879,
+        "longitude": -40.837205,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Guaraciaba do Norte-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Guaraciaba do Norte",
+        "uf": "CE",
+        "latitude": -4.158136,
+        "longitude": -40.747588,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Icó-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Icó",
+        "uf": "CE",
+        "latitude": -6.396271,
+        "longitude": -38.855352,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Iguatu-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Iguatu",
+        "uf": "CE",
+        "latitude": -6.362806,
+        "longitude": -39.28915,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 146
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Itaitinga-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Itaitinga",
+        "uf": "CE",
+        "latitude": -3.965768,
+        "longitude": -38.529763,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Itapajé-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Itapajé",
+        "uf": "CE",
+        "latitude": -3.683137,
+        "longitude": -39.585531,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Itapipoca-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Itapipoca",
+        "uf": "CE",
+        "latitude": -3.499329,
+        "longitude": -39.583571,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Jaguaribe-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Jaguaribe",
+        "uf": "CE",
+        "latitude": -5.902134,
+        "longitude": -38.622653,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Juazeiro do Norte-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Juazeiro do Norte",
+        "uf": "CE",
+        "latitude": -7.196207,
+        "longitude": -39.307593,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2152
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Limoeiro do Norte-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Limoeiro do Norte",
+        "uf": "CE",
+        "latitude": -5.143921,
+        "longitude": -38.084693,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Maracanaú-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Maracanaú",
+        "uf": "CE",
+        "latitude": -3.86699,
+        "longitude": -38.625901,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 333
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Maranguape-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Maranguape",
+        "uf": "CE",
+        "latitude": -3.891432,
+        "longitude": -38.682911,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Mauriti-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Mauriti",
+        "uf": "CE",
+        "latitude": -7.385974,
+        "longitude": -38.770786,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Missão Velha-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Missão Velha",
+        "uf": "CE",
+        "latitude": -7.235219,
+        "longitude": -39.143046,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Morada Nova-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Morada Nova",
+        "uf": "CE",
+        "latitude": -5.09736,
+        "longitude": -38.370158,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Mucambo-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Mucambo",
+        "uf": "CE",
+        "latitude": -3.902714,
+        "longitude": -40.745222,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Novo Oriente-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Novo Oriente",
+        "uf": "CE",
+        "latitude": -5.525519,
+        "longitude": -40.771296,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Pacajus-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Pacajus",
+        "uf": "CE",
+        "latitude": -4.171073,
+        "longitude": -38.464988,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Paracuru-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Paracuru",
+        "uf": "CE",
+        "latitude": -3.41436,
+        "longitude": -39.030028,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Parambu-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Parambu",
+        "uf": "CE",
+        "latitude": -6.207681,
+        "longitude": -40.690524,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Quixadá-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Quixadá",
+        "uf": "CE",
+        "latitude": -4.966301,
+        "longitude": -39.015474,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Quixeramobim-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Quixeramobim",
+        "uf": "CE",
+        "latitude": -5.190672,
+        "longitude": -39.288947,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Redenção-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Redenção",
+        "uf": "CE",
+        "latitude": -4.215873,
+        "longitude": -38.727719,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Sobral-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Sobral",
+        "uf": "CE",
+        "latitude": -3.689133,
+        "longitude": -40.34821,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 135
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Solonópole-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Solonópole",
+        "uf": "CE",
+        "latitude": -5.718936,
+        "longitude": -39.01072,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-São Benedito-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "São Benedito",
+        "uf": "CE",
+        "latitude": -4.047131,
+        "longitude": -40.859572,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-São Gonçalo do Amarante-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "São Gonçalo do Amarante",
+        "uf": "CE",
+        "latitude": -3.605149,
+        "longitude": -38.972646,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Tabuleiro do Norte-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Tabuleiro do Norte",
+        "uf": "CE",
+        "latitude": -5.243527,
+        "longitude": -38.128175,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Tauá-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Tauá",
+        "uf": "CE",
+        "latitude": -5.985853,
+        "longitude": -40.296802,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Tianguá-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Tianguá",
+        "uf": "CE",
+        "latitude": -3.729645,
+        "longitude": -40.992286,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Trairi-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Trairi",
+        "uf": "CE",
+        "latitude": -3.269323,
+        "longitude": -39.268126,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Várzea Alegre-CE-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Várzea Alegre",
+        "uf": "CE",
+        "latitude": -6.782642,
+        "longitude": -39.294155,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2024-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

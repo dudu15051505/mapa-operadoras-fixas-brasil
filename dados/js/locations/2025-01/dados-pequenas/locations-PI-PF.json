@@ -4210,12 +4210,12 @@
         ]
     },
     {
-        "identifier": "11879656000142-Bela Vista do Piauí-PI-VIRTUAL NET TELECOMUNICAÇOES LTDA-Pessoa Física",
+        "identifier": "11879656000142-Bela Vista do Piauí-PI-Virtual Net Telecom Ltda-Pessoa Física",
         "cidade": "Bela Vista do Piauí",
         "uf": "PI",
         "latitude": -7.988091,
         "longitude": -41.867522,
-        "empresa": "VIRTUAL NET TELECOMUNICAÇOES LTDA",
+        "empresa": "Virtual Net Telecom Ltda",
         "cnpj": 11879656000142,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -4235,12 +4235,12 @@
         ]
     },
     {
-        "identifier": "11879656000142-Campinas do Piauí-PI-VIRTUAL NET TELECOMUNICAÇOES LTDA-Pessoa Física",
+        "identifier": "11879656000142-Campinas do Piauí-PI-Virtual Net Telecom Ltda-Pessoa Física",
         "cidade": "Campinas do Piauí",
         "uf": "PI",
         "latitude": -7.659299,
         "longitude": -41.877487,
-        "empresa": "VIRTUAL NET TELECOMUNICAÇOES LTDA",
+        "empresa": "Virtual Net Telecom Ltda",
         "cnpj": 11879656000142,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -4254,12 +4254,12 @@
         ]
     },
     {
-        "identifier": "11879656000142-Conceição do Canindé-PI-VIRTUAL NET TELECOMUNICAÇOES LTDA-Pessoa Física",
+        "identifier": "11879656000142-Conceição do Canindé-PI-Virtual Net Telecom Ltda-Pessoa Física",
         "cidade": "Conceição do Canindé",
         "uf": "PI",
         "latitude": -7.876378,
         "longitude": -41.594193,
-        "empresa": "VIRTUAL NET TELECOMUNICAÇOES LTDA",
+        "empresa": "Virtual Net Telecom Ltda",
         "cnpj": 11879656000142,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -4279,12 +4279,12 @@
         ]
     },
     {
-        "identifier": "11879656000142-Isaías Coelho-PI-VIRTUAL NET TELECOMUNICAÇOES LTDA-Pessoa Física",
+        "identifier": "11879656000142-Isaías Coelho-PI-Virtual Net Telecom Ltda-Pessoa Física",
         "cidade": "Isaías Coelho",
         "uf": "PI",
         "latitude": -7.735968,
         "longitude": -41.673495,
-        "empresa": "VIRTUAL NET TELECOMUNICAÇOES LTDA",
+        "empresa": "Virtual Net Telecom Ltda",
         "cnpj": 11879656000142,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -4298,12 +4298,12 @@
         ]
     },
     {
-        "identifier": "11879656000142-Nova Santa Rita-PI-VIRTUAL NET TELECOMUNICAÇOES LTDA-Pessoa Física",
+        "identifier": "11879656000142-Nova Santa Rita-PI-Virtual Net Telecom Ltda-Pessoa Física",
         "cidade": "Nova Santa Rita",
         "uf": "PI",
         "latitude": -8.097073,
         "longitude": -42.047127,
-        "empresa": "VIRTUAL NET TELECOMUNICAÇOES LTDA",
+        "empresa": "Virtual Net Telecom Ltda",
         "cnpj": 11879656000142,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -4323,12 +4323,12 @@
         ]
     },
     {
-        "identifier": "11879656000142-Paes Landim-PI-VIRTUAL NET TELECOMUNICAÇOES LTDA-Pessoa Física",
+        "identifier": "11879656000142-Paes Landim-PI-Virtual Net Telecom Ltda-Pessoa Física",
         "cidade": "Paes Landim",
         "uf": "PI",
         "latitude": -7.773745,
         "longitude": -42.247444,
-        "empresa": "VIRTUAL NET TELECOMUNICAÇOES LTDA",
+        "empresa": "Virtual Net Telecom Ltda",
         "cnpj": 11879656000142,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -4348,12 +4348,12 @@
         ]
     },
     {
-        "identifier": "11879656000142-Simplício Mendes-PI-VIRTUAL NET TELECOMUNICAÇOES LTDA-Pessoa Física",
+        "identifier": "11879656000142-Simplício Mendes-PI-Virtual Net Telecom Ltda-Pessoa Física",
         "cidade": "Simplício Mendes",
         "uf": "PI",
         "latitude": -7.852944,
         "longitude": -41.907533,
-        "empresa": "VIRTUAL NET TELECOMUNICAÇOES LTDA",
+        "empresa": "Virtual Net Telecom Ltda",
         "cnpj": 11879656000142,
         "data-dados": "2025-01",
         "pf-ou-pj": "Pessoa Física",
@@ -4444,6 +4444,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "12613047000100-Teresina-PI-MORFEU TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "MORFEU TELECOMUNICACOES LTDA",
+        "cnpj": 12613047000100,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 959
             }
         ]
     },
@@ -5646,6 +5665,63 @@
         ]
     },
     {
+        "identifier": "15210940000182-Cocal-PI-GAV TELECOM SERVICOS DE TELECOMUNICACAO LTDA-Pessoa Física",
+        "cidade": "Cocal",
+        "uf": "PI",
+        "latitude": -3.472792,
+        "longitude": -41.554623,
+        "empresa": "GAV TELECOM SERVICOS DE TELECOMUNICACAO LTDA",
+        "cnpj": 15210940000182,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 607
+            }
+        ]
+    },
+    {
+        "identifier": "15210940000182-Cocal dos Alves-PI-GAV TELECOM SERVICOS DE TELECOMUNICACAO LTDA-Pessoa Física",
+        "cidade": "Cocal dos Alves",
+        "uf": "PI",
+        "latitude": -3.620471,
+        "longitude": -41.440197,
+        "empresa": "GAV TELECOM SERVICOS DE TELECOMUNICACAO LTDA",
+        "cnpj": 15210940000182,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 395
+            }
+        ]
+    },
+    {
+        "identifier": "15210940000182-Piracuruca-PI-GAV TELECOM SERVICOS DE TELECOMUNICACAO LTDA-Pessoa Física",
+        "cidade": "Piracuruca",
+        "uf": "PI",
+        "latitude": -3.93335,
+        "longitude": -41.708779,
+        "empresa": "GAV TELECOM SERVICOS DE TELECOMUNICACAO LTDA",
+        "cnpj": 15210940000182,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 109
+            }
+        ]
+    },
+    {
         "identifier": "15666248000163-Buriti dos Lopes-PI-NETWORK SOLUCOES INTERNET LTDA-Pessoa Física",
         "cidade": "Buriti dos Lopes",
         "uf": "PI",
@@ -6642,6 +6718,63 @@
         ]
     },
     {
+        "identifier": "19544937000156-Inhuma-PI-WYNMAX TELECOM LTDA.-Pessoa Física",
+        "cidade": "Inhuma",
+        "uf": "PI",
+        "latitude": -6.665001,
+        "longitude": -41.704127,
+        "empresa": "WYNMAX TELECOM LTDA.",
+        "cnpj": 19544937000156,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 447
+            }
+        ]
+    },
+    {
+        "identifier": "19544937000156-Ipiranga do Piauí-PI-WYNMAX TELECOM LTDA.-Pessoa Física",
+        "cidade": "Ipiranga do Piauí",
+        "uf": "PI",
+        "latitude": -6.824215,
+        "longitude": -41.738086,
+        "empresa": "WYNMAX TELECOM LTDA.",
+        "cnpj": 19544937000156,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 52
+            }
+        ]
+    },
+    {
+        "identifier": "19544937000156-Novo Oriente do Piauí-PI-WYNMAX TELECOM LTDA.-Pessoa Física",
+        "cidade": "Novo Oriente do Piauí",
+        "uf": "PI",
+        "latitude": -6.44901,
+        "longitude": -41.926124,
+        "empresa": "WYNMAX TELECOM LTDA.",
+        "cnpj": 19544937000156,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 75
+            }
+        ]
+    },
+    {
         "identifier": "19725586000180-Anísio de Abreu-PI-OXENTE NET TELECOM LTDA-Pessoa Física",
         "cidade": "Anísio de Abreu",
         "uf": "PI",
@@ -7342,6 +7475,25 @@
         ]
     },
     {
+        "identifier": "20379501000138-Batalha-PI-F J R W ASSOCIADOS LTDA - ME-Pessoa Física",
+        "cidade": "Batalha",
+        "uf": "PI",
+        "latitude": -4.0223,
+        "longitude": -42.07868,
+        "empresa": "F J R W ASSOCIADOS LTDA - ME",
+        "cnpj": 20379501000138,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 207
+            }
+        ]
+    },
+    {
         "identifier": "20657697000185-Ilha Grande-PI-REDE ULTRACONECTA NET LTDA ME-Pessoa Física",
         "cidade": "Ilha Grande",
         "uf": "PI",
@@ -7782,6 +7934,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 16
+            }
+        ]
+    },
+    {
+        "identifier": "21548629000140-Lagoa do Sítio-PI-M. C. DE CARVALHO E SILVA-Pessoa Física",
+        "cidade": "Lagoa do Sítio",
+        "uf": "PI",
+        "latitude": -6.507664,
+        "longitude": -41.565304,
+        "empresa": "M. C. DE CARVALHO E SILVA",
+        "cnpj": 21548629000140,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 50
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 110
             }
         ]
     },
@@ -8724,6 +8901,75 @@
         ]
     },
     {
+        "identifier": "25047700000324-Buriti dos Lopes-PI-N M F de Moura Internet Ltda-Pessoa Física",
+        "cidade": "Buriti dos Lopes",
+        "uf": "PI",
+        "latitude": -3.182592,
+        "longitude": -41.869481,
+        "empresa": "N M F de Moura Internet Ltda",
+        "cnpj": 25047700000324,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 145
+            }
+        ]
+    },
+    {
+        "identifier": "25047700000324-Cocal-PI-N M F de Moura Internet Ltda-Pessoa Física",
+        "cidade": "Cocal",
+        "uf": "PI",
+        "latitude": -3.472792,
+        "longitude": -41.554623,
+        "empresa": "N M F de Moura Internet Ltda",
+        "cnpj": 25047700000324,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 76
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "25047700000324-Parnaíba-PI-N M F de Moura Internet Ltda-Pessoa Física",
+        "cidade": "Parnaíba",
+        "uf": "PI",
+        "latitude": -2.905847,
+        "longitude": -41.775388,
+        "empresa": "N M F de Moura Internet Ltda",
+        "cnpj": 25047700000324,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 355
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
         "identifier": "25099762000118-Brasileira-PI-A DE OLIVEIRA SOBRINHO EIRELI-Pessoa Física",
         "cidade": "Brasileira",
         "uf": "PI",
@@ -8794,14 +9040,14 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 3
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
             },
             {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 158
+                "quantidade-acesso": 159
             }
         ]
     },
@@ -8842,10 +9088,16 @@
         "pf-ou-pj": "Pessoa Física",
         "info-tecnologia": [
             {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 24
+            },
+            {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 292
+                "quantidade-acesso": 248
             }
         ]
     },
@@ -8863,20 +9115,14 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 5
+                "quantidade-acesso": 7
             },
             {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 277
+                "quantidade-acesso": 265
             }
         ]
     },
@@ -8913,20 +9159,14 @@
             {
                 "tecnologia": "ETHERNET",
                 "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 9
-            },
-            {
-                "tecnologia": "ETHERNET",
-                "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
-                "quantidade-acesso": 1
+                "quantidade-acesso": 12
             },
             {
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 126
+                "quantidade-acesso": 115
             }
         ]
     },
@@ -9064,6 +9304,125 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 5541
+            }
+        ]
+    },
+    {
+        "identifier": "26734351000110-Buriti dos Lopes-PI-SAPICOM SERVICOS DE TELECOMUNICACOES LTDA - ME-Pessoa Física",
+        "cidade": "Buriti dos Lopes",
+        "uf": "PI",
+        "latitude": -3.182592,
+        "longitude": -41.869481,
+        "empresa": "SAPICOM SERVICOS DE TELECOMUNICACOES LTDA - ME",
+        "cnpj": 26734351000110,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "26734351000110-Joaquim Pires-PI-SAPICOM SERVICOS DE TELECOMUNICACOES LTDA - ME-Pessoa Física",
+        "cidade": "Joaquim Pires",
+        "uf": "PI",
+        "latitude": -3.501636,
+        "longitude": -42.186462,
+        "empresa": "SAPICOM SERVICOS DE TELECOMUNICACOES LTDA - ME",
+        "cnpj": 26734351000110,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 19
+            }
+        ]
+    },
+    {
+        "identifier": "26734351000110-Joca Marques-PI-SAPICOM SERVICOS DE TELECOMUNICACOES LTDA - ME-Pessoa Física",
+        "cidade": "Joca Marques",
+        "uf": "PI",
+        "latitude": -3.480399,
+        "longitude": -42.425517,
+        "empresa": "SAPICOM SERVICOS DE TELECOMUNICACOES LTDA - ME",
+        "cnpj": 26734351000110,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "26734351000110-Luzilândia-PI-SAPICOM SERVICOS DE TELECOMUNICACOES LTDA - ME-Pessoa Física",
+        "cidade": "Luzilândia",
+        "uf": "PI",
+        "latitude": -3.468296,
+        "longitude": -42.371757,
+        "empresa": "SAPICOM SERVICOS DE TELECOMUNICACOES LTDA - ME",
+        "cnpj": 26734351000110,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 56
+            }
+        ]
+    },
+    {
+        "identifier": "26734351000110-Morro do Chapéu do Piauí-PI-SAPICOM SERVICOS DE TELECOMUNICACOES LTDA - ME-Pessoa Física",
+        "cidade": "Morro do Chapéu do Piauí",
+        "uf": "PI",
+        "latitude": -3.733374,
+        "longitude": -42.302442,
+        "empresa": "SAPICOM SERVICOS DE TELECOMUNICACOES LTDA - ME",
+        "cnpj": 26734351000110,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 24
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
             }
         ]
     },
@@ -12517,6 +12876,31 @@
         ]
     },
     {
+        "identifier": "36245113000102-Assunção do Piauí-PI-W G Vale Servicos de Comunicacao Multimidia-Pessoa Física",
+        "cidade": "Assunção do Piauí",
+        "uf": "PI",
+        "latitude": -5.864996,
+        "longitude": -41.038851,
+        "empresa": "W G Vale Servicos de Comunicacao Multimidia",
+        "cnpj": 36245113000102,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 118
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 13
+            }
+        ]
+    },
+    {
         "identifier": "36363567000170-Dom Expedito Lopes-PI-INACIO A PEDROSA JUNIOR-Pessoa Física",
         "cidade": "Dom Expedito Lopes",
         "uf": "PI",
@@ -13491,7 +13875,7 @@
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 14
+                "quantidade-acesso": 18
             }
         ]
     },
@@ -14141,6 +14525,25 @@
         ]
     },
     {
+        "identifier": "47738070000105-Esperantina-PI-Moises P da Silva-Pessoa Física",
+        "cidade": "Esperantina",
+        "uf": "PI",
+        "latitude": -3.888631,
+        "longitude": -42.232422,
+        "empresa": "Moises P da Silva",
+        "cnpj": 47738070000105,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "WIMAX",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 29
+            }
+        ]
+    },
+    {
         "identifier": "48131899000108-Teresina-PI-Nma Servicos de Telecomunicacoes Ltda-Pessoa Física",
         "cidade": "Teresina",
         "uf": "PI",
@@ -14257,6 +14660,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 35
+            }
+        ]
+    },
+    {
+        "identifier": "50618471000136-Cocal-PI-Cm Servicos de Comunicacao Ltda-Pessoa Física",
+        "cidade": "Cocal",
+        "uf": "PI",
+        "latitude": -3.472792,
+        "longitude": -41.554623,
+        "empresa": "Cm Servicos de Comunicacao Ltda",
+        "cnpj": 50618471000136,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1196
             }
         ]
     },
@@ -15303,6 +15725,75 @@
         ]
     },
     {
+        "identifier": "58092687000112-Coronel José Dias-PI-Leo Telecom Ltda-Pessoa Física",
+        "cidade": "Coronel José Dias",
+        "uf": "PI",
+        "latitude": -8.813971,
+        "longitude": -42.523195,
+        "empresa": "Leo Telecom Ltda",
+        "cnpj": 58092687000112,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 38
+            }
+        ]
+    },
+    {
+        "identifier": "58092687000112-Dirceu Arcoverde-PI-Leo Telecom Ltda-Pessoa Física",
+        "cidade": "Dirceu Arcoverde",
+        "uf": "PI",
+        "latitude": -9.339386,
+        "longitude": -42.434792,
+        "empresa": "Leo Telecom Ltda",
+        "cnpj": 58092687000112,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 27
+            }
+        ]
+    },
+    {
+        "identifier": "58092687000112-São Lourenço do Piauí-PI-Leo Telecom Ltda-Pessoa Física",
+        "cidade": "São Lourenço do Piauí",
+        "uf": "PI",
+        "latitude": -9.164633,
+        "longitude": -42.549552,
+        "empresa": "Leo Telecom Ltda",
+        "cnpj": 58092687000112,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "Wi-Fi",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
         "identifier": "69610129000118-Miguel Alves-PI-MARCELINO CARDOSO DA SILVA-Pessoa Física",
         "cidade": "Miguel Alves",
         "uf": "PI",
@@ -15337,491 +15828,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 583
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Barras-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Barras",
-        "uf": "PI",
-        "latitude": -4.244675,
-        "longitude": -42.292161,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Batalha-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Batalha",
-        "uf": "PI",
-        "latitude": -4.0223,
-        "longitude": -42.07868,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Beneditinos-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Beneditinos",
-        "uf": "PI",
-        "latitude": -5.456758,
-        "longitude": -42.36382,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Campo Maior-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Campo Maior",
-        "uf": "PI",
-        "latitude": -4.821697,
-        "longitude": -42.164124,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Caracol-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Caracol",
-        "uf": "PI",
-        "latitude": -9.279333,
-        "longitude": -43.328998,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Elesbão Veloso-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Elesbão Veloso",
-        "uf": "PI",
-        "latitude": -6.199475,
-        "longitude": -42.135458,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Floriano-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Floriano",
-        "uf": "PI",
-        "latitude": -6.771821,
-        "longitude": -43.024136,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 409
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Inhuma-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Inhuma",
-        "uf": "PI",
-        "latitude": -6.665001,
-        "longitude": -41.704127,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Luzilândia-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Luzilândia",
-        "uf": "PI",
-        "latitude": -3.468296,
-        "longitude": -42.371757,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Luís Correia-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Luís Correia",
-        "uf": "PI",
-        "latitude": -2.88438,
-        "longitude": -41.664142,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Oeiras-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Oeiras",
-        "uf": "PI",
-        "latitude": -7.019153,
-        "longitude": -42.128298,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Palmeirais-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Palmeirais",
-        "uf": "PI",
-        "latitude": -5.970864,
-        "longitude": -43.056021,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Parnaíba-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Parnaíba",
-        "uf": "PI",
-        "latitude": -2.905847,
-        "longitude": -41.775388,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 4484
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Paulistana-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Paulistana",
-        "uf": "PI",
-        "latitude": -8.134357,
-        "longitude": -41.143072,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Pedro II-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Pedro II",
-        "uf": "PI",
-        "latitude": -4.425845,
-        "longitude": -41.448184,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Picos-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Picos",
-        "uf": "PI",
-        "latitude": -7.077213,
-        "longitude": -41.467003,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Piracuruca-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Piracuruca",
-        "uf": "PI",
-        "latitude": -3.93335,
-        "longitude": -41.708779,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Piripiri-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Piripiri",
-        "uf": "PI",
-        "latitude": -4.271574,
-        "longitude": -41.771569,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 88
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Regeneração-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Regeneração",
-        "uf": "PI",
-        "latitude": -6.23115,
-        "longitude": -42.684193,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Raimundo Nonato-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Raimundo Nonato",
-        "uf": "PI",
-        "latitude": -9.012412,
-        "longitude": -42.698659,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Teresina-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Teresina",
-        "uf": "PI",
-        "latitude": -5.091944,
-        "longitude": -42.803364,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 19984
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Valença do Piauí-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Valença do Piauí",
-        "uf": "PI",
-        "latitude": -6.403013,
-        "longitude": -41.737498,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 5
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Água Branca-PI-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Água Branca",
-        "uf": "PI",
-        "latitude": -5.888564,
-        "longitude": -42.636961,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
             }
         ]
     }

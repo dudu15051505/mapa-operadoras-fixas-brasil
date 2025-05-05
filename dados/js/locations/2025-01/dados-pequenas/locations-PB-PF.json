@@ -456,6 +456,25 @@
         ]
     },
     {
+        "identifier": "5557175000118-Desterro-PB-Jair Barbosa de Almeida-Pessoa Física",
+        "cidade": "Desterro",
+        "uf": "PB",
+        "latitude": -7.286996,
+        "longitude": -37.092525,
+        "empresa": "Jair Barbosa de Almeida",
+        "cnpj": 5557175000118,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 102
+            }
+        ]
+    },
+    {
         "identifier": "5591321000121-Alagoa Grande-PB-DIANA A. DE OLIVEIRA - EPP-Pessoa Física",
         "cidade": "Alagoa Grande",
         "uf": "PB",
@@ -2045,6 +2064,118 @@
         ]
     },
     {
+        "identifier": "8661972000139-Dona Inês-PB-ANDRE ALVES DA CRUZ-Pessoa Física",
+        "cidade": "Dona Inês",
+        "uf": "PB",
+        "latitude": -6.615656,
+        "longitude": -35.620479,
+        "empresa": "ANDRE ALVES DA CRUZ",
+        "cnpj": 8661972000139,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 10
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 43
+            }
+        ]
+    },
+    {
+        "identifier": "8661972000139-Jacaraú-PB-ANDRE ALVES DA CRUZ-Pessoa Física",
+        "cidade": "Jacaraú",
+        "uf": "PB",
+        "latitude": -6.614526,
+        "longitude": -35.289032,
+        "empresa": "ANDRE ALVES DA CRUZ",
+        "cnpj": 8661972000139,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 104
+            }
+        ]
+    },
+    {
+        "identifier": "8661972000139-Logradouro-PB-ANDRE ALVES DA CRUZ-Pessoa Física",
+        "cidade": "Logradouro",
+        "uf": "PB",
+        "latitude": -6.611912,
+        "longitude": -35.438351,
+        "empresa": "ANDRE ALVES DA CRUZ",
+        "cnpj": 8661972000139,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    },
+    {
+        "identifier": "8661972000139-Tacima-PB-ANDRE ALVES DA CRUZ-Pessoa Física",
+        "cidade": "Tacima",
+        "uf": "PB",
+        "latitude": -6.487431,
+        "longitude": -35.634719,
+        "empresa": "ANDRE ALVES DA CRUZ",
+        "cnpj": 8661972000139,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 20
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 41
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 226
+            }
+        ]
+    },
+    {
         "identifier": "8693157000151-João Pessoa-PB-UPLINK INTERNET LTDA-Pessoa Física",
         "cidade": "João Pessoa",
         "uf": "PB",
@@ -2060,6 +2191,113 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8720054000133-Bayeux-PB-INORPEL INDUSTRIA NORDESTINA DE PRODUTOS ELETRICOS LTDA-Pessoa Física",
+        "cidade": "Bayeux",
+        "uf": "PB",
+        "latitude": -7.123797,
+        "longitude": -34.929336,
+        "empresa": "INORPEL INDUSTRIA NORDESTINA DE PRODUTOS ELETRICOS LTDA",
+        "cnpj": 8720054000133,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "8720054000133-Cabedelo-PB-INORPEL INDUSTRIA NORDESTINA DE PRODUTOS ELETRICOS LTDA-Pessoa Física",
+        "cidade": "Cabedelo",
+        "uf": "PB",
+        "latitude": -6.987314,
+        "longitude": -34.828409,
+        "empresa": "INORPEL INDUSTRIA NORDESTINA DE PRODUTOS ELETRICOS LTDA",
+        "cnpj": 8720054000133,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1845
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "8720054000133-João Pessoa-PB-INORPEL INDUSTRIA NORDESTINA DE PRODUTOS ELETRICOS LTDA-Pessoa Física",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "INORPEL INDUSTRIA NORDESTINA DE PRODUTOS ELETRICOS LTDA",
+        "cnpj": 8720054000133,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 213
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8720054000133-Poço Dantas-PB-INORPEL INDUSTRIA NORDESTINA DE PRODUTOS ELETRICOS LTDA-Pessoa Física",
+        "cidade": "Poço Dantas",
+        "uf": "PB",
+        "latitude": -6.398763,
+        "longitude": -38.490908,
+        "empresa": "INORPEL INDUSTRIA NORDESTINA DE PRODUTOS ELETRICOS LTDA",
+        "cnpj": 8720054000133,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "8720054000133-Santa Rita-PB-INORPEL INDUSTRIA NORDESTINA DE PRODUTOS ELETRICOS LTDA-Pessoa Física",
+        "cidade": "Santa Rita",
+        "uf": "PB",
+        "latitude": -7.117242,
+        "longitude": -34.975295,
+        "empresa": "INORPEL INDUSTRIA NORDESTINA DE PRODUTOS ELETRICOS LTDA",
+        "cnpj": 8720054000133,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
             }
         ]
     },
@@ -4183,6 +4421,31 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "12456439000102-João Pessoa-PB-GM TELECOM INTERNET LTDA-Pessoa Física",
+        "cidade": "João Pessoa",
+        "uf": "PB",
+        "latitude": -7.11509,
+        "longitude": -34.864121,
+        "empresa": "GM TELECOM INTERNET LTDA",
+        "cnpj": 12456439000102,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 135
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 23
             }
         ]
     },
@@ -7868,6 +8131,50 @@
         ]
     },
     {
+        "identifier": "23542617000134-Campina Grande-PB-AGILITY TELECOM LTDA-Pessoa Física",
+        "cidade": "Campina Grande",
+        "uf": "PB",
+        "latitude": -7.221958,
+        "longitude": -35.873144,
+        "empresa": "AGILITY TELECOM LTDA",
+        "cnpj": 23542617000134,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "23542617000134-Queimadas-PB-AGILITY TELECOM LTDA-Pessoa Física",
+        "cidade": "Queimadas",
+        "uf": "PB",
+        "latitude": -7.350288,
+        "longitude": -35.903136,
+        "empresa": "AGILITY TELECOM LTDA",
+        "cnpj": 23542617000134,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 444
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 16
+            }
+        ]
+    },
+    {
         "identifier": "23918245000106-Santa Rita-PB-JOSIEL LUCIANO DE OLIVEIRA - ME-Pessoa Física",
         "cidade": "Santa Rita",
         "uf": "PB",
@@ -7946,6 +8253,37 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 622
+            }
+        ]
+    },
+    {
+        "identifier": "24269647000181-Lagoa-PB-FRANCISCO JUNIOR DOS SANTOS-Pessoa Física",
+        "cidade": "Lagoa",
+        "uf": "PB",
+        "latitude": -6.585723,
+        "longitude": -37.912745,
+        "empresa": "FRANCISCO JUNIOR DOS SANTOS",
+        "cnpj": 24269647000181,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
             }
         ]
     },
@@ -8727,6 +9065,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 193
+            }
+        ]
+    },
+    {
+        "identifier": "26992152000101-Caraúbas-PB-Rede Clicknet Telecom Ltda-Pessoa Física",
+        "cidade": "Caraúbas",
+        "uf": "PB",
+        "latitude": -7.720487,
+        "longitude": -36.492046,
+        "empresa": "Rede Clicknet Telecom Ltda",
+        "cnpj": 26992152000101,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5
             }
         ]
     },
@@ -9686,6 +10043,25 @@
         ]
     },
     {
+        "identifier": "27379961000105-Sapé-PB-WN NET SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Sapé",
+        "uf": "PB",
+        "latitude": -7.093591,
+        "longitude": -35.227975,
+        "empresa": "WN NET SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 27379961000105,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 130
+            }
+        ]
+    },
+    {
         "identifier": "27762620000114-João Pessoa-PB-JKS TELECOM INTERNET BANDA LARGA EIRELI-Pessoa Física",
         "cidade": "João Pessoa",
         "uf": "PB",
@@ -10585,6 +10961,44 @@
         ]
     },
     {
+        "identifier": "31325568000106-Campina Grande-PB-LINAX SERVICOS DE TELECOMUNICACOES LTDA-Pessoa Física",
+        "cidade": "Campina Grande",
+        "uf": "PB",
+        "latitude": -7.221958,
+        "longitude": -35.873144,
+        "empresa": "LINAX SERVICOS DE TELECOMUNICACOES LTDA",
+        "cnpj": 31325568000106,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 50
+            }
+        ]
+    },
+    {
+        "identifier": "31526818000176-Camalaú-PB-EDSON & BETY SERVICOS DE COMUNICACAO MULTIMIDIA LTDA-Pessoa Física",
+        "cidade": "Camalaú",
+        "uf": "PB",
+        "latitude": -7.885031,
+        "longitude": -36.824191,
+        "empresa": "EDSON & BETY SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
+        "cnpj": 31526818000176,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 341
+            }
+        ]
+    },
+    {
         "identifier": "31553353000142-Duas Estradas-PB-JAP TELECOMUNICACOES E INFORMATICA LTDA-Pessoa Física",
         "cidade": "Duas Estradas",
         "uf": "PB",
@@ -10600,6 +11014,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "31685802000106-Jacaraú-PB-Leonardo Sidney Barreto Florencio-Pessoa Física",
+        "cidade": "Jacaraú",
+        "uf": "PB",
+        "latitude": -6.614526,
+        "longitude": -35.289032,
+        "empresa": "Leonardo Sidney Barreto Florencio",
+        "cnpj": 31685802000106,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 47
             }
         ]
     },
@@ -13956,6 +14389,25 @@
         ]
     },
     {
+        "identifier": "42303521000168-Santa Rita-PB-Aly Fibra Tecnologia e Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Santa Rita",
+        "uf": "PB",
+        "latitude": -7.117242,
+        "longitude": -34.975295,
+        "empresa": "Aly Fibra Tecnologia e Telecomunicacoes Ltda",
+        "cnpj": 42303521000168,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 635
+            }
+        ]
+    },
+    {
         "identifier": "42354248000109-Caaporã-PB-Smart Telecom Eireli-Pessoa Física",
         "cidade": "Caaporã",
         "uf": "PB",
@@ -14374,6 +14826,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "47092981000108-Santa Rita-PB-Fibra Net Telecomunicacoes Ltda-Pessoa Física",
+        "cidade": "Santa Rita",
+        "uf": "PB",
+        "latitude": -7.117242,
+        "longitude": -34.975295,
+        "empresa": "Fibra Net Telecomunicacoes Ltda",
+        "cnpj": 47092981000108,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 275
             }
         ]
     },
@@ -15129,566 +15600,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Alagoa Grande-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Alagoa Grande",
-        "uf": "PB",
-        "latitude": -7.039432,
-        "longitude": -35.620609,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Alagoa Nova-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Alagoa Nova",
-        "uf": "PB",
-        "latitude": -7.053772,
-        "longitude": -35.759065,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Arara-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Arara",
-        "uf": "PB",
-        "latitude": -6.828126,
-        "longitude": -35.75521,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Bananeiras-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Bananeiras",
-        "uf": "PB",
-        "latitude": -6.747749,
-        "longitude": -35.624573,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Bayeux-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Bayeux",
-        "uf": "PB",
-        "latitude": -7.123797,
-        "longitude": -34.929336,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Boa Vista-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Boa Vista",
-        "uf": "PB",
-        "latitude": -7.263653,
-        "longitude": -36.235706,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Boqueirão-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Boqueirão",
-        "uf": "PB",
-        "latitude": -7.487004,
-        "longitude": -36.130887,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Cabedelo-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Cabedelo",
-        "uf": "PB",
-        "latitude": -6.987314,
-        "longitude": -34.828409,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Cajazeiras-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Cajazeiras",
-        "uf": "PB",
-        "latitude": -6.880044,
-        "longitude": -38.557722,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Campina Grande-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Campina Grande",
-        "uf": "PB",
-        "latitude": -7.221958,
-        "longitude": -35.873144,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 4
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 1234
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Esperança-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Esperança",
-        "uf": "PB",
-        "latitude": -7.022783,
-        "longitude": -35.859719,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Guarabira-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Guarabira",
-        "uf": "PB",
-        "latitude": -6.850636,
-        "longitude": -35.484986,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 6
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Ingá-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Ingá",
-        "uf": "PB",
-        "latitude": -7.281444,
-        "longitude": -35.605,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Itapororoca-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Itapororoca",
-        "uf": "PB",
-        "latitude": -6.823738,
-        "longitude": -35.240635,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Jacaraú-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Jacaraú",
-        "uf": "PB",
-        "latitude": -6.614526,
-        "longitude": -35.289032,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-João Pessoa-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "João Pessoa",
-        "uf": "PB",
-        "latitude": -7.11509,
-        "longitude": -34.864121,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 3664
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Mamanguape-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Mamanguape",
-        "uf": "PB",
-        "latitude": -6.833698,
-        "longitude": -35.121316,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 6
-            },
-            {
-                "tecnologia": "FWA",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Picuí-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Picuí",
-        "uf": "PB",
-        "latitude": -6.508451,
-        "longitude": -36.349704,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Princesa Isabel-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Princesa Isabel",
-        "uf": "PB",
-        "latitude": -7.731747,
-        "longitude": -37.988647,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Queimadas-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Queimadas",
-        "uf": "PB",
-        "latitude": -7.350288,
-        "longitude": -35.903136,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Santa Luzia-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Santa Luzia",
-        "uf": "PB",
-        "latitude": -6.860922,
-        "longitude": -36.917792,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 9
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Sapé-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Sapé",
-        "uf": "PB",
-        "latitude": -7.093591,
-        "longitude": -35.227975,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Solânea-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Solânea",
-        "uf": "PB",
-        "latitude": -6.751606,
-        "longitude": -35.663568,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Sousa-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Sousa",
-        "uf": "PB",
-        "latitude": -6.751484,
-        "longitude": -38.231059,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Bento-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Bento",
-        "uf": "PB",
-        "latitude": -6.485286,
-        "longitude": -37.448835,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Sebastião de Lagoa de Roça-PB-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Sebastião de Lagoa de Roça",
-        "uf": "PB",
-        "latitude": -7.11034,
-        "longitude": -35.867807,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
             }
         ]
     },

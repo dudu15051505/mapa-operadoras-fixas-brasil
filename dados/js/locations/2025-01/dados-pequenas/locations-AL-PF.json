@@ -1463,7 +1463,7 @@
                 "tecnologia": "FTTH",
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 224
+                "quantidade-acesso": 264
             }
         ]
     },
@@ -2176,6 +2176,31 @@
         ]
     },
     {
+        "identifier": "12898470000101-Maceió-AL-OKEY NET LTDA - ME-Pessoa Física",
+        "cidade": "Maceió",
+        "uf": "AL",
+        "latitude": -9.665985,
+        "longitude": -35.73496,
+        "empresa": "OKEY NET LTDA - ME",
+        "cnpj": 12898470000101,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 116
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 254
+            }
+        ]
+    },
+    {
         "identifier": "13095994000119-Anadia-AL-LUUP TELECOMUNICACOES LTDA - ME-Pessoa Física",
         "cidade": "Anadia",
         "uf": "AL",
@@ -2447,6 +2472,25 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "13827747000160-Rio Largo-AL-SQUID NET TELECOMUNICAÇÕES EIRELI-Pessoa Física",
+        "cidade": "Rio Largo",
+        "uf": "AL",
+        "latitude": -9.477829,
+        "longitude": -35.839435,
+        "empresa": "SQUID NET TELECOMUNICAÇÕES EIRELI",
+        "cnpj": 13827747000160,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1456
             }
         ]
     },
@@ -3473,6 +3517,88 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Rádio",
                 "quantidade-acesso": 8
+            }
+        ]
+    },
+    {
+        "identifier": "17321711000160-Delmiro Gouveia-AL-George Rodrigues Nobre-Pessoa Física",
+        "cidade": "Delmiro Gouveia",
+        "uf": "AL",
+        "latitude": -9.385336,
+        "longitude": -37.998676,
+        "empresa": "George Rodrigues Nobre",
+        "cnpj": 17321711000160,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1202
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "17321711000160-Inhapi-AL-George Rodrigues Nobre-Pessoa Física",
+        "cidade": "Inhapi",
+        "uf": "AL",
+        "latitude": -9.225936,
+        "longitude": -37.750871,
+        "empresa": "George Rodrigues Nobre",
+        "cnpj": 17321711000160,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 10
+            }
+        ]
+    },
+    {
+        "identifier": "17321711000160-Pariconha-AL-George Rodrigues Nobre-Pessoa Física",
+        "cidade": "Pariconha",
+        "uf": "AL",
+        "latitude": -9.256342,
+        "longitude": -37.998751,
+        "empresa": "George Rodrigues Nobre",
+        "cnpj": 17321711000160,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 53
+            }
+        ]
+    },
+    {
+        "identifier": "17321711000160-Água Branca-AL-George Rodrigues Nobre-Pessoa Física",
+        "cidade": "Água Branca",
+        "uf": "AL",
+        "latitude": -9.261996,
+        "longitude": -37.937988,
+        "empresa": "George Rodrigues Nobre",
+        "cnpj": 17321711000160,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 6
             }
         ]
     },
@@ -7281,6 +7407,25 @@
         ]
     },
     {
+        "identifier": "39457184000159-Santa Luzia do Norte-AL-Itelx S.A.-Pessoa Física",
+        "cidade": "Santa Luzia do Norte",
+        "uf": "AL",
+        "latitude": -9.6037,
+        "longitude": -35.823196,
+        "empresa": "Itelx S.A.",
+        "cnpj": 39457184000159,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 204
+            }
+        ]
+    },
+    {
         "identifier": "39547846000181-União dos Palmares-AL-Chame Telecom Ltda-Pessoa Física",
         "cidade": "União dos Palmares",
         "uf": "AL",
@@ -9922,479 +10067,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 23
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Arapiraca-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Arapiraca",
-        "uf": "AL",
-        "latitude": -9.754866,
-        "longitude": -36.661471,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 724
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Batalha-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Batalha",
-        "uf": "AL",
-        "latitude": -9.674195,
-        "longitude": -37.133014,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Boca da Mata-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Boca da Mata",
-        "uf": "AL",
-        "latitude": -9.643082,
-        "longitude": -36.212498,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Coruripe-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Coruripe",
-        "uf": "AL",
-        "latitude": -10.127632,
-        "longitude": -36.171724,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Delmiro Gouveia-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Delmiro Gouveia",
-        "uf": "AL",
-        "latitude": -9.385336,
-        "longitude": -37.998676,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Igaci-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Igaci",
-        "uf": "AL",
-        "latitude": -9.537678,
-        "longitude": -36.637191,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Igreja Nova-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Igreja Nova",
-        "uf": "AL",
-        "latitude": -10.123463,
-        "longitude": -36.659705,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Maceió-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Maceió",
-        "uf": "AL",
-        "latitude": -9.665985,
-        "longitude": -35.73496,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 4890
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Maragogi-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Maragogi",
-        "uf": "AL",
-        "latitude": -9.007443,
-        "longitude": -35.226692,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Marechal Deodoro-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Marechal Deodoro",
-        "uf": "AL",
-        "latitude": -9.709715,
-        "longitude": -35.896731,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 3
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 180
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Mata Grande-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Mata Grande",
-        "uf": "AL",
-        "latitude": -9.118243,
-        "longitude": -37.732298,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Murici-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Murici",
-        "uf": "AL",
-        "latitude": -9.306823,
-        "longitude": -35.942798,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Palmeira dos Índios-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Palmeira dos Índios",
-        "uf": "AL",
-        "latitude": -9.405681,
-        "longitude": -36.632812,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 11
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Penedo-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Penedo",
-        "uf": "AL",
-        "latitude": -10.287422,
-        "longitude": -36.581905,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 7
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Pilar-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Pilar",
-        "uf": "AL",
-        "latitude": -9.601348,
-        "longitude": -35.954294,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Santana do Ipanema-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Santana do Ipanema",
-        "uf": "AL",
-        "latitude": -9.369989,
-        "longitude": -37.248018,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Satuba-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Satuba",
-        "uf": "AL",
-        "latitude": -9.569113,
-        "longitude": -35.822697,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 2
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São José da Laje-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São José da Laje",
-        "uf": "AL",
-        "latitude": -9.012779,
-        "longitude": -36.051489,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Luís do Quitunde-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Luís do Quitunde",
-        "uf": "AL",
-        "latitude": -9.31816,
-        "longitude": -35.560553,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Miguel dos Campos-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Miguel dos Campos",
-        "uf": "AL",
-        "latitude": -9.78301,
-        "longitude": -36.097142,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 5
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-São Sebastião-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "São Sebastião",
-        "uf": "AL",
-        "latitude": -9.930434,
-        "longitude": -36.558967,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-União dos Palmares-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "União dos Palmares",
-        "uf": "AL",
-        "latitude": -9.15921,
-        "longitude": -36.02227,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Viçosa-AL-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Viçosa",
-        "uf": "AL",
-        "latitude": -9.367631,
-        "longitude": -36.243107,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
             }
         ]
     },

@@ -1,0 +1,58 @@
+[
+    {
+        "identifier": "76535764000143-Manaus-AM-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "latitude": -3.118662,
+        "longitude": -60.02123,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 119901
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Presidente Figueiredo-AM-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
+        "cidade": "Presidente Figueiredo",
+        "uf": "AM",
+        "latitude": -2.029813,
+        "longitude": -60.02338,
+        "empresa": "Oi S.a. - em Recuperacao Judicial",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 5
+            }
+        ]
+    }
+]

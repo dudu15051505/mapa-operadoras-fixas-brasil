@@ -690,6 +690,56 @@
         ]
     },
     {
+        "identifier": "19151627000171-Macapá-AP-R & B SERVIÇOS DE TELECOMUNICAÇÕES LTDA - ME-Pessoa Física",
+        "cidade": "Macapá",
+        "uf": "AP",
+        "latitude": 0.034934,
+        "longitude": -51.069395,
+        "empresa": "R & B SERVIÇOS DE TELECOMUNICAÇÕES LTDA - ME",
+        "cnpj": 19151627000171,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 26
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1070
+            }
+        ]
+    },
+    {
+        "identifier": "19151627000171-Porto Grande-AP-R & B SERVIÇOS DE TELECOMUNICAÇÕES LTDA - ME-Pessoa Física",
+        "cidade": "Porto Grande",
+        "uf": "AP",
+        "latitude": 0.71243,
+        "longitude": -51.415499,
+        "empresa": "R & B SERVIÇOS DE TELECOMUNICAÇÕES LTDA - ME",
+        "cnpj": 19151627000171,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 226
+            }
+        ]
+    },
+    {
         "identifier": "20412054000171-Ferreira Gomes-AP-ARAGUARY CELTA CONECT LTDA-ME - ME-Pessoa Física",
         "cidade": "Ferreira Gomes",
         "uf": "AP",
@@ -924,6 +974,25 @@
         ]
     },
     {
+        "identifier": "28074533000137-Oiapoque-AP-NORTE TELECOM LTDA - ME-Pessoa Física",
+        "cidade": "Oiapoque",
+        "uf": "AP",
+        "latitude": 3.84074,
+        "longitude": -51.833123,
+        "empresa": "NORTE TELECOM LTDA - ME",
+        "cnpj": 28074533000137,
+        "data-dados": "2025-01",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1738
+            }
+        ]
+    },
+    {
         "identifier": "33772693000190-Oiapoque-AP-OIAMAPA.COM LTDA-Pessoa Física",
         "cidade": "Oiapoque",
         "uf": "AP",
@@ -977,75 +1046,6 @@
                 "tipo-de-Produto": "INTERNET",
                 "meio-de-acesso": "Fibra",
                 "quantidade-acesso": 173
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Macapá-AP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Macapá",
-        "uf": "AP",
-        "latitude": 0.034934,
-        "longitude": -51.069395,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "FTTH",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Fibra",
-                "quantidade-acesso": 29466
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Oiapoque-AP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Oiapoque",
-        "uf": "AP",
-        "latitude": 3.84074,
-        "longitude": -51.833123,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "ADSL1",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
-            },
-            {
-                "tecnologia": "ADSL2",
-                "tipo-de-Produto": "INTERNET",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 16
-            }
-        ]
-    },
-    {
-        "identifier": "76535764000143-Santana-AP-Oi S.a. - em Recuperacao Judicial-Pessoa Física",
-        "cidade": "Santana",
-        "uf": "AP",
-        "latitude": -0.045434,
-        "longitude": -51.172924,
-        "empresa": "Oi S.a. - em Recuperacao Judicial",
-        "cnpj": 76535764000143,
-        "data-dados": "2025-01",
-        "pf-ou-pj": "Pessoa Física",
-        "info-tecnologia": [
-            {
-                "tecnologia": "FWA",
-                "tipo-de-Produto": "LINHA_DEDICADA",
-                "meio-de-acesso": "Cabo Metálico",
-                "quantidade-acesso": 1
             }
         ]
     }
