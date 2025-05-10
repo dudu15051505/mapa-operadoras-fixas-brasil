@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "2421421000111-Cuiabá-MT-TIM-Pessoa Física",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "latitude": -15.600979,
+        "longitude": -56.097397,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 231
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Rondonópolis-MT-TIM-Pessoa Física",
+        "cidade": "Rondonópolis",
+        "uf": "MT",
+        "latitude": -16.467251,
+        "longitude": -54.637173,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 128
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Várzea Grande-MT-TIM-Pessoa Física",
+        "cidade": "Várzea Grande",
+        "uf": "MT",
+        "latitude": -15.645816,
+        "longitude": -56.132218,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 92
+            }
+        ]
+    }
+]
