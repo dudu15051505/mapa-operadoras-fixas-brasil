@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "497373000110-Cacoal-RO-SKY/AT&T-Pessoa Física",
+        "cidade": "Cacoal",
+        "uf": "RO",
+        "latitude": -11.434271,
+        "longitude": -61.456167,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2025-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "497373000110-Porto Velho-RO-SKY/AT&T-Pessoa Física",
+        "cidade": "Porto Velho",
+        "uf": "RO",
+        "latitude": -8.760772,
+        "longitude": -63.899902,
+        "empresa": "SKY/AT&T",
+        "cnpj": 497373000110,
+        "data-dados": "2025-03",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 54
+            }
+        ]
+    }
+]
