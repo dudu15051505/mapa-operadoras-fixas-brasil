@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "2421421000111-Gurupi-TO-TIM-Pessoa Física",
+        "cidade": "Gurupi",
+        "uf": "TO",
+        "latitude": -11.72794,
+        "longitude": -49.068046,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 42
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Paraíso do Tocantins-TO-TIM-Pessoa Física",
+        "cidade": "Paraíso do Tocantins",
+        "uf": "TO",
+        "latitude": -10.174998,
+        "longitude": -48.882269,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 22
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Porto Nacional-TO-TIM-Pessoa Física",
+        "cidade": "Porto Nacional",
+        "uf": "TO",
+        "latitude": -10.702705,
+        "longitude": -48.408008,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-04",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 68
+            }
+        ]
+    }
+]
