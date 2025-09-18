@@ -1,0 +1,109 @@
+[
+    {
+        "identifier": "2421421000111-Balsas-MA-TIM-Pessoa Jurídica",
+        "cidade": "Balsas",
+        "uf": "MA",
+        "latitude": -7.53214,
+        "longitude": -46.037163,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Governador Newton Bello-MA-TIM-Pessoa Jurídica",
+        "cidade": "Governador Newton Bello",
+        "uf": "MA",
+        "latitude": -3.432447,
+        "longitude": -45.661939,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Imperatriz-MA-TIM-Pessoa Jurídica",
+        "cidade": "Imperatriz",
+        "uf": "MA",
+        "latitude": -5.518471,
+        "longitude": -47.477726,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São Luís-MA-TIM-Pessoa Jurídica",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "latitude": -2.538742,
+        "longitude": -44.282513,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São Raimundo das Mangabeiras-MA-TIM-Pessoa Jurídica",
+        "cidade": "São Raimundo das Mangabeiras",
+        "uf": "MA",
+        "latitude": -7.021834,
+        "longitude": -45.48088,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

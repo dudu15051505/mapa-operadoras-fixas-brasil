@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "31748174000160-Goiana-PE-VERO-Pessoa Jurídica",
+        "cidade": "Goiana",
+        "uf": "PE",
+        "latitude": -7.560603,
+        "longitude": -34.99591,
+        "empresa": "VERO",
+        "cnpj": 31748174000160,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "31748174000160-Recife-PE-VERO-Pessoa Jurídica",
+        "cidade": "Recife",
+        "uf": "PE",
+        "latitude": -8.046658,
+        "longitude": -34.877065,
+        "empresa": "VERO",
+        "cnpj": 31748174000160,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 7
+            }
+        ]
+    },
+    {
+        "identifier": "31748174000160-Vitória de Santo Antão-PE-VERO-Pessoa Jurídica",
+        "cidade": "Vitória de Santo Antão",
+        "uf": "PE",
+        "latitude": -8.128191,
+        "longitude": -35.29762,
+        "empresa": "VERO",
+        "cnpj": 31748174000160,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

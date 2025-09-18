@@ -1,0 +1,90 @@
+[
+    {
+        "identifier": "71208516000174-Colinas do Tocantins-TO-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Colinas do Tocantins",
+        "uf": "TO",
+        "latitude": -8.05764,
+        "longitude": -48.475728,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "71208516000174-Gurupi-TO-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Gurupi",
+        "uf": "TO",
+        "latitude": -11.72794,
+        "longitude": -49.068046,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "71208516000174-Palmas-TO-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Palmas",
+        "uf": "TO",
+        "latitude": -10.239973,
+        "longitude": -48.355751,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "71208516000174-Paraíso do Tocantins-TO-ALGAR (CTBC TELECOM)-Pessoa Jurídica",
+        "cidade": "Paraíso do Tocantins",
+        "uf": "TO",
+        "latitude": -10.174998,
+        "longitude": -48.882269,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

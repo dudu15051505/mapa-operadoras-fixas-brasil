@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "53420564000140-Boa Vista-RR-OI-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 51301
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Boa Vista-RR-OI-Pessoa Física",
+        "cidade": "Boa Vista",
+        "uf": "RR",
+        "latitude": 2.823842,
+        "longitude": -60.675328,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Iracema-RR-OI-Pessoa Física",
+        "cidade": "Iracema",
+        "uf": "RR",
+        "latitude": 2.183046,
+        "longitude": -61.041546,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Rorainópolis-RR-OI-Pessoa Física",
+        "cidade": "Rorainópolis",
+        "uf": "RR",
+        "latitude": 0.939956,
+        "longitude": -60.438923,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            }
+        ]
+    }
+]

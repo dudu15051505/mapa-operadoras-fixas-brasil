@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "2558157000162-Araguaína-TO-VIVO-Pessoa Física",
+        "cidade": "Araguaína",
+        "uf": "TO",
+        "latitude": -7.192375,
+        "longitude": -48.204402,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2025-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 280
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Palmas-TO-VIVO-Pessoa Física",
+        "cidade": "Palmas",
+        "uf": "TO",
+        "latitude": -10.239973,
+        "longitude": -48.355751,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2025-07",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8086
+            }
+        ]
+    }
+]
