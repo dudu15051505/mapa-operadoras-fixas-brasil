@@ -1,0 +1,235 @@
+[
+    {
+        "identifier": "53420564000140-Aracaju-SE-OI-Pessoa Física",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11514
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Itabaiana-SE-OI-Pessoa Física",
+        "cidade": "Itabaiana",
+        "uf": "SE",
+        "latitude": -10.682555,
+        "longitude": -37.427287,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 219
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Aracaju-SE-OI-Pessoa Física",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Canindé de São Francisco-SE-OI-Pessoa Física",
+        "cidade": "Canindé de São Francisco",
+        "uf": "SE",
+        "latitude": -9.648823,
+        "longitude": -37.792294,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Estância-SE-OI-Pessoa Física",
+        "cidade": "Estância",
+        "uf": "SE",
+        "latitude": -11.265922,
+        "longitude": -37.448381,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Itabaiana-SE-OI-Pessoa Física",
+        "cidade": "Itabaiana",
+        "uf": "SE",
+        "latitude": -10.682555,
+        "longitude": -37.427287,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Lagarto-SE-OI-Pessoa Física",
+        "cidade": "Lagarto",
+        "uf": "SE",
+        "latitude": -10.913628,
+        "longitude": -37.668948,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 4
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Neópolis-SE-OI-Pessoa Física",
+        "cidade": "Neópolis",
+        "uf": "SE",
+        "latitude": -10.321503,
+        "longitude": -36.584952,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Propriá-SE-OI-Pessoa Física",
+        "cidade": "Propriá",
+        "uf": "SE",
+        "latitude": -10.213773,
+        "longitude": -36.844153,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Ribeirópolis-SE-OI-Pessoa Física",
+        "cidade": "Ribeirópolis",
+        "uf": "SE",
+        "latitude": -10.535669,
+        "longitude": -37.438035,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-São Cristóvão-SE-OI-Pessoa Física",
+        "cidade": "São Cristóvão",
+        "uf": "SE",
+        "latitude": -11.008443,
+        "longitude": -37.20436,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-06",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

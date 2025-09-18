@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "2421421000111-Ananindeua-PA-TIM-Pessoa Física",
+        "cidade": "Ananindeua",
+        "uf": "PA",
+        "latitude": -1.363914,
+        "longitude": -48.374298,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 313
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Marabá-PA-TIM-Pessoa Física",
+        "cidade": "Marabá",
+        "uf": "PA",
+        "latitude": -5.38075,
+        "longitude": -49.132672,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 6
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "2421421000111-Campo Grande-MS-TIM-Pessoa Física",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "latitude": -20.448589,
+        "longitude": -54.629463,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1110
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Corumbá-MS-TIM-Pessoa Física",
+        "cidade": "Corumbá",
+        "uf": "MS",
+        "latitude": -19.007727,
+        "longitude": -57.651036,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 78
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Dourados-MS-TIM-Pessoa Física",
+        "cidade": "Dourados",
+        "uf": "MS",
+        "latitude": -22.223099,
+        "longitude": -54.812043,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-05",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 277
+            }
+        ]
+    }
+]
