@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "4601397000128-Timon-MA-BRISANET-Pessoa Física",
+        "cidade": "Timon",
+        "uf": "MA",
+        "latitude": -5.097692,
+        "longitude": -42.83292,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 8193
+            },
+            {
+                "tecnologia": "FWA",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 17
+            }
+        ]
+    }
+]

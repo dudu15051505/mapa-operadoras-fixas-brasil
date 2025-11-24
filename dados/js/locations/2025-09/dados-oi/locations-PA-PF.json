@@ -1,0 +1,147 @@
+[
+    {
+        "identifier": "53420564000140-Ananindeua-PA-OI-Pessoa Física",
+        "cidade": "Ananindeua",
+        "uf": "PA",
+        "latitude": -1.363914,
+        "longitude": -48.374298,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 32218
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Belém-PA-OI-Pessoa Física",
+        "cidade": "Belém",
+        "uf": "PA",
+        "latitude": -1.455396,
+        "longitude": -48.489756,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 81696
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Castanhal-PA-OI-Pessoa Física",
+        "cidade": "Castanhal",
+        "uf": "PA",
+        "latitude": -1.297971,
+        "longitude": -47.916742,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 627
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Marabá-PA-OI-Pessoa Física",
+        "cidade": "Marabá",
+        "uf": "PA",
+        "latitude": -5.38075,
+        "longitude": -49.132672,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 5090
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Belém-PA-OI-Pessoa Física",
+        "cidade": "Belém",
+        "uf": "PA",
+        "latitude": -1.455396,
+        "longitude": -48.489756,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Marabá-PA-OI-Pessoa Física",
+        "cidade": "Marabá",
+        "uf": "PA",
+        "latitude": -5.38075,
+        "longitude": -49.132672,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Santarém-PA-OI-Pessoa Física",
+        "cidade": "Santarém",
+        "uf": "PA",
+        "latitude": -2.438489,
+        "longitude": -54.699611,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 2
+            },
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

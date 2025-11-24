@@ -1,0 +1,135 @@
+[
+    {
+        "identifier": "53420564000140-Beneditinos-PI-OI-Pessoa Física",
+        "cidade": "Beneditinos",
+        "uf": "PI",
+        "latitude": -5.456758,
+        "longitude": -42.36382,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Floriano-PI-OI-Pessoa Física",
+        "cidade": "Floriano",
+        "uf": "PI",
+        "latitude": -6.771821,
+        "longitude": -43.024136,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 351
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Parnaíba-PI-OI-Pessoa Física",
+        "cidade": "Parnaíba",
+        "uf": "PI",
+        "latitude": -2.905847,
+        "longitude": -41.775388,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4026
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Piripiri-PI-OI-Pessoa Física",
+        "cidade": "Piripiri",
+        "uf": "PI",
+        "latitude": -4.271574,
+        "longitude": -41.771569,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 80
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Teresina-PI-OI-Pessoa Física",
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 18384
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Caracol-PI-OI-Pessoa Física",
+        "cidade": "Caracol",
+        "uf": "PI",
+        "latitude": -9.279333,
+        "longitude": -43.328998,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL1",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Pedro II-PI-OI-Pessoa Física",
+        "cidade": "Pedro II",
+        "uf": "PI",
+        "latitude": -4.425845,
+        "longitude": -41.448184,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

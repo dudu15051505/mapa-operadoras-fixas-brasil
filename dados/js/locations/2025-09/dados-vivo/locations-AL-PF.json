@@ -1,0 +1,46 @@
+[
+    {
+        "identifier": "2558157000162-Arapiraca-AL-VIVO-Pessoa Física",
+        "cidade": "Arapiraca",
+        "uf": "AL",
+        "latitude": -9.754866,
+        "longitude": -36.661471,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 795
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Maceió-AL-VIVO-Pessoa Física",
+        "cidade": "Maceió",
+        "uf": "AL",
+        "latitude": -9.665985,
+        "longitude": -35.73496,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 186
+            },
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 14287
+            }
+        ]
+    }
+]

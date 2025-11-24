@@ -1,0 +1,65 @@
+[
+    {
+        "identifier": "53420564000140-Aracaju-SE-OI-Pessoa Física",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 11204
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Itabaiana-SE-OI-Pessoa Física",
+        "cidade": "Itabaiana",
+        "uf": "SE",
+        "latitude": -10.682555,
+        "longitude": -37.427287,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 212
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Aracaju-SE-OI-Pessoa Física",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-08",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "LINHA_DEDICADA",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]

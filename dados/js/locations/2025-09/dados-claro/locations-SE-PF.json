@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": "66970229000167-Aracaju-SE-CLARO-Pessoa Física",
+        "cidade": "Aracaju",
+        "uf": "SE",
+        "latitude": -10.909133,
+        "longitude": -37.06766,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9224
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 33559
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "identifier": "4601397000128-Mauá-SP-BRISANET-Pessoa Jurídica",
+        "cidade": "Mauá",
+        "uf": "SP",
+        "latitude": -23.66767,
+        "longitude": -46.461263,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2025-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "4601397000128-Sorocaba-SP-BRISANET-Pessoa Jurídica",
+        "cidade": "Sorocaba",
+        "uf": "SP",
+        "latitude": -23.496886,
+        "longitude": -47.445073,
+        "empresa": "BRISANET",
+        "cnpj": 4601397000128,
+        "data-dados": "2025-08",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Rádio",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]
