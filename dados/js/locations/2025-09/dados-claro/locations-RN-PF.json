@@ -1,0 +1,71 @@
+[
+    {
+        "identifier": "66970229000167-Mossoró-RN-CLARO-Pessoa Física",
+        "cidade": "Mossoró",
+        "uf": "RN",
+        "latitude": -5.183737,
+        "longitude": -37.347446,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4540
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Natal-RN-CLARO-Pessoa Física",
+        "cidade": "Natal",
+        "uf": "RN",
+        "latitude": -5.793567,
+        "longitude": -35.198604,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 584
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 51250
+            }
+        ]
+    },
+    {
+        "identifier": "66970229000167-Parnamirim-RN-CLARO-Pessoa Física",
+        "cidade": "Parnamirim",
+        "uf": "RN",
+        "latitude": -5.911156,
+        "longitude": -35.271,
+        "empresa": "CLARO",
+        "cnpj": 66970229000167,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 373
+            },
+            {
+                "tecnologia": "HFC",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Coaxial",
+                "quantidade-acesso": 10090
+            }
+        ]
+    }
+]

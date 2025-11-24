@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "53420564000140-Rio Branco-AC-OI-Pessoa Física",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 37041
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Brasiléia-AC-OI-Pessoa Física",
+        "cidade": "Brasiléia",
+        "uf": "AC",
+        "latitude": -10.994994,
+        "longitude": -68.749696,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Rio Branco-AC-OI-Pessoa Física",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2025-09",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]
