@@ -1,0 +1,173 @@
+[
+    {
+        "identifier": "53420564000140-Cabo de Santo Agostinho-PE-OI-Pessoa Física",
+        "cidade": "Cabo de Santo Agostinho",
+        "uf": "PE",
+        "latitude": -8.28218,
+        "longitude": -35.025293,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 133
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Caruaru-PE-OI-Pessoa Física",
+        "cidade": "Caruaru",
+        "uf": "PE",
+        "latitude": -8.284547,
+        "longitude": -35.969863,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4200
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Goiana-PE-OI-Pessoa Física",
+        "cidade": "Goiana",
+        "uf": "PE",
+        "latitude": -7.560603,
+        "longitude": -34.99591,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 195
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Olinda-PE-OI-Pessoa Física",
+        "cidade": "Olinda",
+        "uf": "PE",
+        "latitude": -8.010166,
+        "longitude": -34.854504,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 9572
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Paulista-PE-OI-Pessoa Física",
+        "cidade": "Paulista",
+        "uf": "PE",
+        "latitude": -7.934007,
+        "longitude": -34.868407,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Petrolina-PE-OI-Pessoa Física",
+        "cidade": "Petrolina",
+        "uf": "PE",
+        "latitude": -9.388662,
+        "longitude": -40.502731,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 544
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Recife-PE-OI-Pessoa Física",
+        "cidade": "Recife",
+        "uf": "PE",
+        "latitude": -8.046658,
+        "longitude": -34.877065,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 15657
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Petrolina-PE-OI-Pessoa Física",
+        "cidade": "Petrolina",
+        "uf": "PE",
+        "latitude": -9.388662,
+        "longitude": -40.502731,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "76535764000143-Recife-PE-OI-Pessoa Física",
+        "cidade": "Recife",
+        "uf": "PE",
+        "latitude": -8.046658,
+        "longitude": -34.877065,
+        "empresa": "OI",
+        "cnpj": 76535764000143,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ADSL2",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]
