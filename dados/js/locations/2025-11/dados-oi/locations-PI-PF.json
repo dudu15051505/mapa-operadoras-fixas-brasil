@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "53420564000140-Floriano-PI-OI-Pessoa Física",
+        "cidade": "Floriano",
+        "uf": "PI",
+        "latitude": -6.771821,
+        "longitude": -43.024136,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 333
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Parnaíba-PI-OI-Pessoa Física",
+        "cidade": "Parnaíba",
+        "uf": "PI",
+        "latitude": -2.905847,
+        "longitude": -41.775388,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 3776
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Piripiri-PI-OI-Pessoa Física",
+        "cidade": "Piripiri",
+        "uf": "PI",
+        "latitude": -4.271574,
+        "longitude": -41.771569,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 73
+            }
+        ]
+    },
+    {
+        "identifier": "53420564000140-Teresina-PI-OI-Pessoa Física",
+        "cidade": "Teresina",
+        "uf": "PI",
+        "latitude": -5.091944,
+        "longitude": -42.803364,
+        "empresa": "OI",
+        "cnpj": 53420564000140,
+        "data-dados": "2025-11",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 17445
+            }
+        ]
+    }
+]

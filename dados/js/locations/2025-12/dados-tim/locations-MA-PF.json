@@ -1,0 +1,78 @@
+[
+    {
+        "identifier": "2421421000111-Imperatriz-MA-TIM-Pessoa Física",
+        "cidade": "Imperatriz",
+        "uf": "MA",
+        "latitude": -5.518471,
+        "longitude": -47.477726,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 23
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Santa Inês-MA-TIM-Pessoa Física",
+        "cidade": "Santa Inês",
+        "uf": "MA",
+        "latitude": -3.651118,
+        "longitude": -45.37745,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-São Luís-MA-TIM-Pessoa Física",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "latitude": -2.538742,
+        "longitude": -44.282513,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 506
+            }
+        ]
+    },
+    {
+        "identifier": "2421421000111-Timon-MA-TIM-Pessoa Física",
+        "cidade": "Timon",
+        "uf": "MA",
+        "latitude": -5.097692,
+        "longitude": -42.83292,
+        "empresa": "TIM",
+        "cnpj": 2421421000111,
+        "data-dados": "2025-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    }
+]

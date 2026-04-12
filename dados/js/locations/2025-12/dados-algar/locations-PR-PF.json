@@ -1,0 +1,59 @@
+[
+    {
+        "identifier": "71208516000174-Curitiba-PR-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Curitiba",
+        "uf": "PR",
+        "latitude": -25.419547,
+        "longitude": -49.264622,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2025-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 34
+            }
+        ]
+    },
+    {
+        "identifier": "71208516000174-Pinhais-PR-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "Pinhais",
+        "uf": "PR",
+        "latitude": -25.442949,
+        "longitude": -49.19267,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2025-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 2
+            }
+        ]
+    },
+    {
+        "identifier": "71208516000174-São José dos Pinhais-PR-ALGAR (CTBC TELECOM)-Pessoa Física",
+        "cidade": "São José dos Pinhais",
+        "uf": "PR",
+        "latitude": -25.531343,
+        "longitude": -49.203097,
+        "empresa": "ALGAR (CTBC TELECOM)",
+        "cnpj": 71208516000174,
+        "data-dados": "2025-12",
+        "pf-ou-pj": "Pessoa Física",
+        "info-tecnologia": [
+            {
+                "tecnologia": "FTTH",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Fibra",
+                "quantidade-acesso": 4
+            }
+        ]
+    }
+]

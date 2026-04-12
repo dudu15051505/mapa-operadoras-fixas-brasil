@@ -1,0 +1,103 @@
+[
+    {
+        "identifier": "2558157000162-Acrelândia-AC-VIVO-Pessoa Jurídica",
+        "cidade": "Acrelândia",
+        "uf": "AC",
+        "latitude": -9.825808,
+        "longitude": -66.897166,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Cruzeiro do Sul-AC-VIVO-Pessoa Jurídica",
+        "cidade": "Cruzeiro do Sul",
+        "uf": "AC",
+        "latitude": -7.627625,
+        "longitude": -72.675582,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Plácido de Castro-AC-VIVO-Pessoa Jurídica",
+        "cidade": "Plácido de Castro",
+        "uf": "AC",
+        "latitude": -10.28064,
+        "longitude": -67.137133,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Rio Branco-AC-VIVO-Pessoa Jurídica",
+        "cidade": "Rio Branco",
+        "uf": "AC",
+        "latitude": -9.97499,
+        "longitude": -67.824348,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "ETHERNET",
+                "tipo-de-Produto": "OUTROS",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 3
+            },
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 32
+            }
+        ]
+    },
+    {
+        "identifier": "2558157000162-Sena Madureira-AC-VIVO-Pessoa Jurídica",
+        "cidade": "Sena Madureira",
+        "uf": "AC",
+        "latitude": -9.063499,
+        "longitude": -68.671278,
+        "empresa": "VIVO",
+        "cnpj": 2558157000162,
+        "data-dados": "2026-02",
+        "pf-ou-pj": "Pessoa Jurídica",
+        "info-tecnologia": [
+            {
+                "tecnologia": "HDSL",
+                "tipo-de-Produto": "INTERNET",
+                "meio-de-acesso": "Cabo Metálico",
+                "quantidade-acesso": 1
+            }
+        ]
+    }
+]
